@@ -1,0 +1,217 @@
+{
+  "subject": "Neurophysiologie – Psychomotricité",
+  "tag": "Ch10 – Nociception",
+  "description": "30 questions de niveau expert sur la nociception : définition de la douleur, types, nocicepteurs, genèse du message, voies, contrôle et traitement. Préparation aux partiels.",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Selon la définition de l'IASP 2020, la douleur est :",
+      "explanation": "La définition 2020 de l'IASP définit la douleur comme 'une expérience sensorielle et émotionnelle désagréable associée ou ressemblant à celle associée à une lésion tissulaire réelle ou potentielle'. Elle intègre donc une composante sensorielle ET émotionnelle, et reconnaît qu'une lésion réelle n'est pas obligatoire.",
+      "correct": ["Une expérience sensorielle et émotionnelle désagréable associée à une lésion tissulaire réelle ou potentielle"],
+      "wrong": ["Uniquement une sensation physique liée à une lésion tissulaire réelle", "Une réponse réflexe médullaire à un stimulus nociceptif", "Synonyme de nociception", "Une sensation exclusivement subjective sans substrat neurobiologique", "Un signal d'alarme uniquement présent en cas de lésion réelle", "Une expérience purement sensorielle sans composante émotionnelle", "Une sensation identique d'un individu à l'autre pour un même stimulus"]
+    },
+    {
+      "id": 2,
+      "text": "La distinction entre douleur et nociception repose sur :",
+      "explanation": "La nociception est le processus neurophysiologique (traitement nerveux du stimulus nociceptif). La douleur est la composante émotionnelle et subjective qui peut avoir ou non un substrat organique. La douleur inclut les dimensions affective, cognitive et comportementale en plus de la composante sensorielle.",
+      "correct": ["La nociception est neurophysiologique, la douleur inclut la composante émotionnelle subjective"],
+      "wrong": ["La nociception inclut la souffrance psychologique, la douleur est purement sensorielle", "Les deux termes sont rigoureusement synonymes en neurophysiologie", "La nociception se rapporte aux douleurs chroniques, la douleur aux aiguës", "La douleur est objective et mesurable, la nociception est subjective", "La nociception concerne la face, la douleur concerne le corps", "La nociception n'implique pas de système nerveux", "La douleur est uniquement somatique, la nociception est psychique"]
+    },
+    {
+      "id": 3,
+      "text": "La douleur aiguë se caractérise par :",
+      "explanation": "La douleur aiguë est le symptôme d'un traumatisme ou d'une pathologie. Elle joue un rôle de signal d'alarme et de protection. Elle est vive et rapide. Elle correspond à la douleur par excès de nociception sur un système nerveux intact. Exemples : brûlure, abcès.",
+      "correct": ["Un rôle de signal d'alarme et de protection", "Elle est le symptôme d'un traumatisme ou d'une pathologie"],
+      "wrong": ["Une durée supérieure à trois mois", "L'absence de fonction biologique", "Elle est considérée comme une maladie en soi", "Elle altère la personnalité sur le long terme", "Elle est toujours associée à une lésion du tissu nerveux", "Elle ne répond pas aux antalgiques de palier 1"]
+    },
+    {
+      "id": 4,
+      "text": "La douleur chronique est définie par :",
+      "explanation": "La douleur chronique dure au-delà de trois mois. Elle n'a pas de fonction biologique. Elle peut altérer la personnalité et est parfois considérée comme une maladie en soi. Elle est multifactorielle (facteurs biologiques, psychologiques et sociaux). Les 'centres anti-douleur' sont une réponse récente à ce problème.",
+      "correct": ["Une durée supérieure à trois mois", "L'absence de fonction biologique"],
+      "wrong": ["Une durée supérieure à une semaine", "Un rôle de signal d'alarme protecteur", "Elle correspond exclusivement à une lésion nerveuse", "Elle est toujours secondaire à une pathologie identifiée", "Elle ne peut pas être considérée comme une maladie en soi", "Elle est uniquement traitée par des antalgiques de palier 1"]
+    },
+    {
+      "id": 5,
+      "text": "La douleur neuropathique (neurogène) se distingue des autres types chroniques par :",
+      "explanation": "La douleur neuropathique est due à des lésions du tissu nerveux (compression persistante ou désafférentation). Elle peut être spontanée (sans stimulus), permanente ou paroxystique. Elle peut résulter d'un stimulus non douloureux perçu de façon exagérée. Elle est invalidante et souvent associée à anxiété et fond dépressif. Elle résiste aux analgésiques classiques y compris la morphine.",
+      "correct": ["Elle est due à une lésion du tissu nerveux lui-même", "Elle peut survenir spontanément sans stimulus", "Elle résiste aux analgésiques classiques dont la morphine"],
+      "wrong": ["Elle résulte toujours de lésions tissulaires périphériques avec SN intact", "Elle est toujours intermittente et jamais permanente", "Elle répond bien aux antalgiques de palier 1 (aspirine, paracétamol)", "Elle est uniquement d'origine centrale", "Elle ne s'accompagne jamais d'anxiété"]
+    },
+    {
+      "id": 6,
+      "text": "La douleur nociplastique se caractérise par :",
+      "explanation": "La douleur nociplastique (douleur mixte ou dysfonctionnelle) est liée à des altérations des systèmes de contrôle et de modulation de la nociception, sans qu'aucune lésion tissulaire ni nerveuse ne soit retrouvée. Elle pourrait reposer sur des modifications des systèmes de contrôle. Exemples : fibromyalgie, troubles fonctionnels intestinaux, certaines céphalées chroniques.",
+      "correct": ["L'absence de lésion retrouvée, avec altération des systèmes de contrôle de la nociception"],
+      "wrong": ["Une lésion nerveuse identifiée à l'origine", "Un excès de stimulation nociceptive avec SN intact", "Une inflammation tissulaire périphérique documentée", "Elle est synonyme de douleur neuropathique", "Elle répond toujours bien aux AINS", "Elle est uniquement d'origine psychogène", "Elle ne peut pas être chronique"]
+    },
+    {
+      "id": 7,
+      "text": "La douleur projetée et la douleur de référence partagent :",
+      "explanation": "La douleur projetée (ex : coup dans le creux du coude ressenti dans la main) et la douleur de référence (ex : douleur bras gauche d'origine péricardique) correspondent toutes deux à un codage spatial peu précis. La douleur de référence s'explique par la convergence entre entrées extéroceptives et intéroceptives sur un même neurone médullaire.",
+      "correct": ["Un codage spatial peu précis", "Une origine dans la convergence d'entrées sur un même neurone médullaire"],
+      "wrong": ["Elles sont exclusivement d'origine neuropathique", "Elles n'impliquent aucune convergence neuronale", "Elles sont toujours perçues à l'endroit exact de la lésion", "Elles sont uniquement associées aux douleurs viscérales", "Elles sont absentes en cas de douleur aiguë", "Elles impliquent une lésion du cortex somesthésique primaire", "Elles sont synonymes d'allodynie"]
+    },
+    {
+      "id": 8,
+      "text": "Parmi les échelles d'évaluation de la douleur, lesquelles mesurent uniquement l'intensité ?",
+      "explanation": "L'EVS (échelle verbale simple, qualificatifs hiérarchisés), l'EVA (échelle visuelle analogique, réglette de douleur) et l'échelle numérique (0 à 10) mesurent uniquement l'intensité de la douleur. Pour les douleurs chroniques, des échelles plus complexes prenant en compte les aspects cognitifs, sensoriels et affectifs sont nécessaires (questionnaires descriptifs qualitatifs).",
+      "correct": ["L'EVS (échelle verbale simple)", "L'EVA (échelle visuelle analogique)", "L'échelle numérique (0 à 10)"],
+      "wrong": ["Le questionnaire descriptif qualitatif", "L'échelle de visages (pour les enfants)", "L'échelle comportementale Doloplus-20", "Le questionnaire de McGill", "L'échelle CHEOPS (Children's Hospital of Eastern Ontario Pain Scale)"]
+    },
+    {
+      "id": 9,
+      "text": "Trois caractéristiques communes à tous les nocicepteurs sont :",
+      "explanation": "Les trois caractéristiques communes des nocicepteurs sont : (1) un seuil d'activation élevé (stimulation intense nécessaire), (2) une capacité à coder l'intensité du stimulus (réponse proportionnelle à l'intensité), et (3) une capacité de sensibilisation (répétition des stimulations abaisse le seuil de déclenchement du PA, augmentant l'activité des nocicepteurs).",
+      "correct": ["Un seuil d'activation élevé", "La capacité à coder l'intensité du stimulus", "La capacité de sensibilisation (abaissement du seuil par répétition)"],
+      "wrong": ["Un seuil d'activation bas comme les mécanorécepteurs Aβ", "Une absence d'adaptation (contrairement aux thermorécepteurs)", "Une localisation exclusive dans la peau", "Une spécificité absolue pour un seul type de stimulus", "Une transmission uniquement par fibres myélinisées Aβ"]
+    },
+    {
+      "id": 10,
+      "text": "Les nocicepteurs articulaires et musculaires partagent :",
+      "explanation": "Les nocicepteurs articulaires (silencieux à l'état normal, activés dans l'inflammation) et musculaires (sensibles à la pression et aux substances libérées par le muscle) utilisent tous les deux des fibres fines de type III et IV, et assurent tous deux une mécano-chémo-nociception.",
+      "correct": ["Des fibres fines de type III et IV", "Une mécano-chémo-nociception"],
+      "wrong": ["Les nocicepteurs articulaires sont actifs à l'état basal (non silencieux)", "Des fibres myélinisées de type Aβ", "Une localisation dans le derme superficiel", "Une sensibilité exclusivement thermique", "Une activation uniquement par stimuli chimiques", "Des fibres de type Ia (proprioception)"]
+    },
+    {
+      "id": 11,
+      "text": "Les nocicepteurs cutanés comprennent deux catégories, lesquelles ?",
+      "explanation": "Les nocicepteurs cutanés comprennent : (1) les mécano-nocicepteurs à terminaison myélinisée (type 1 et 2), permettant de localiser une douleur rapide de type piqûre, et (2) les nocicepteurs polymodaux à terminaison amyélinique C, répondant aux stimuli mécanique, thermique et chimique, intervenant dans la douleur tardive diffuse de type brûlure.",
+      "correct": ["Les mécano-nocicepteurs à terminaison myélinisée (douleur rapide type piqûre)", "Les nocicepteurs polymodaux à terminaison amyélinique C (douleur tardive type brûlure)"],
+      "wrong": ["Les thermorécepteurs spécifiques au chaud uniquement", "Les récepteurs WDR à large champ récepteur en périphérie", "Les corpuscules de Pacini adaptés à la nociception", "Les fibres Aβ à bas seuil d'activation pour le toucher léger", "Les cellules de Merkel reconverties en nocicepteurs", "Les mécanorécepteurs à adaptation lente"]
+    },
+    {
+      "id": 12,
+      "text": "Dans la 'soupe hyperalgique périphérique', les ions H+ et K+ ont pour rôle :",
+      "explanation": "Lors d'une lésion tissulaire, la rupture de l'homéostasie entraîne la libération d'ions H+ et K+ qui provoquent directement une dépolarisation des fibres nociceptives, à l'origine du potentiel d'action nociceptif. Ces ions sont les premiers responsables de la genèse du PA.",
+      "correct": ["Provoquer directement une dépolarisation des fibres nociceptives"],
+      "wrong": ["Abaisser le seuil de sensibilité d'émission des PA (comme les prostaglandines)", "Potentialiser l'activité des récepteurs membranaires (comme la bradykinine)", "Libérer de la substance P par réflexe d'axone", "Activer les mastocytes et les plaquettes directement", "Recruter le système sympathique pour amplifier la douleur", "Fermer les canaux sodiques pour hyperpolariser la fibre", "Synthétiser le NGF (nerve growth factor)"]
+    },
+    {
+      "id": 13,
+      "text": "Les prostaglandines jouent quel rôle dans la genèse du message nociceptif ?",
+      "explanation": "Les prostaglandines (grande famille de molécules) abaissent le seuil de sensibilité d'émission des PA des nocicepteurs. Elles ne provoquent pas directement un PA mais sensibilisent les nocicepteurs. C'est le mécanisme d'action de l'aspirine et des AINS : en inhibant la synthèse des prostaglandines, ils remontent ce seuil et réduisent la douleur.",
+      "correct": ["Abaisser le seuil de sensibilité d'émission des PA des nocicepteurs"],
+      "wrong": ["Provoquer directement une dépolarisation des fibres comme les ions H+", "Potentialiser les récepteurs membranaires comme la bradykinine", "Libérer de la substance P au niveau médullaire", "Activer les fibres Aβ pour inhiber la douleur (Gate control)", "Recruter les enképhalines pour fermer la porte", "Augmenter la sécrétion de sérotonine par le raphé", "Synthétiser le CGRP (calcitonin gene-related peptide)"]
+    },
+    {
+      "id": 14,
+      "text": "La bradykinine est un peptide de combien d'acides aminés et quel est son rôle dans la nociception ?",
+      "explanation": "La bradykinine est un petit peptide de 9 acides aminés libéré à partir de protéines plasmatiques. Son rôle est de potentialiser l'activité des récepteurs membranaires des nocicepteurs (comme le NGF libéré par les fibroblastes). Elle facilite la genèse du PA sans en être l'initiateur direct.",
+      "correct": ["9 acides aminés, potentialise l'activité des récepteurs membranaires des nocicepteurs"],
+      "wrong": ["9 acides aminés, abaisse directement le seuil de déclenchement du PA", "9 acides aminés, provoque directement la dépolarisation comme H+", "12 acides aminés, inhibe les nocicepteurs", "9 acides aminés, est libérée par les fibroblastes (comme le NGF)", "5 acides aminés, active les mastocytes uniquement", "9 acides aminés, inhibe la libération de substance P", "20 acides aminés, active les récepteurs opioïdes"]
+    },
+    {
+      "id": 15,
+      "text": "L'hyperalgie périphérique (réflexe d'axone) implique la libération de :",
+      "explanation": "L'hyperalgie périphérique est maintenue par un réflexe d'axone avec libération de substance P et CGRP (calcitonin gene-related peptide). Ces molécules atteignent les capillaires, les mastocytes et les plaquettes, maintenant la libération de bradykinine, de sérotonine et d'histamine. La diffusion locale de ces substances entraîne une irradiation de la douleur par recrutement de fibres voisines initialement non stimulées.",
+      "correct": ["Substance P et CGRP", "Bradykinine, sérotonine et histamine (maintenues par ce réflexe)"],
+      "wrong": ["Enképhalines uniquement", "Dopamine et noradrénaline", "GABA et glycine (inhibiteurs)", "Prostaglandines uniquement", "Glutamate et GABA", "Adrénaline et cortisol"]
+    },
+    {
+      "id": 16,
+      "text": "Le soma du neurone afférent primaire nociceptif est situé dans :",
+      "explanation": "Le soma du neurone afférent primaire nociceptif (protoneurone) est situé dans le ganglion rachidien (spinal) pour le corps, et dans le ganglion de Gasser pour la face. Les fibres forment le faisceau de Lissauer avant de se terminer dans la corne dorsale médullaire.",
+      "correct": ["Le ganglion rachidien (pour le corps) et le ganglion de Gasser (pour la face)"],
+      "wrong": ["La corne dorsale de la moelle épinière", "Le noyau VPL du thalamus", "La substance grise périaqueducale", "Le ganglion géniculé", "Le noyau du raphé", "Le cortex somesthésique primaire", "Les couches de Rexed I et II directement"]
+    },
+    {
+      "id": 17,
+      "text": "Les fibres fines du faisceau de Lissauer se terminent principalement dans quelles couches de Rexed ?",
+      "explanation": "Les fibres fines (nociceptives) en position latérale se terminent dans les couches I, II et V de Rexed. Les fibres plus grosses, en position médiane, ont des collatérales sur les couches III, IV et V. Les couches I, II et V contiennent les neurones spinothalamiques (NST) du second ordre.",
+      "correct": ["Les couches I, II et V de Rexed (fibres fines latérales)"],
+      "wrong": ["Les couches VI, VII et VIII", "Les couches III et IV uniquement", "La couche X (commissure grise)", "Les couches I à X de façon indifférenciée", "Les couches ventrales (III, IV) exclusivement", "La couche IX (motoneurones)", "Les couches I et X uniquement"]
+    },
+    {
+      "id": 18,
+      "text": "L'allodynie correspond à :",
+      "explanation": "L'allodynie est le phénomène par lequel une simple stimulation tactile (normalement non douloureuse) entraîne une sensation douloureuse. Elle s'explique par le fait que les fibres nociceptives peuvent stimuler les cellules WDR (wide dynamic range), mais aussi que les fibres mécaniques peuvent activer ces mêmes WDR. Ce phénomène est une forme d'hyperalgésie.",
+      "correct": ["Une douleur déclenchée par un stimulus normalement non douloureux (tactile)"],
+      "wrong": ["Une douleur amplifiée par un stimulus nociceptif répété (sommation temporelle)", "Une douleur projetée à distance du site lésionnel", "Une douleur spontanée sans stimulus (douleur neuropathique)", "La capacité de sensibilisation des nocicepteurs par répétition", "Un déficit de perception douloureuse (hypoalgie)", "La libération de substance P au niveau médullaire", "La fermeture de la porte par les enképhalines (Gate control)"]
+    },
+    {
+      "id": 19,
+      "text": "Il existe deux types de neurones spinothalamiques (NST) de second ordre, lesquels ?",
+      "explanation": "Il existe deux types de NST : les cellules nociceptives spécifiques (répondent uniquement aux stimuli nociceptifs) et les cellules WDR (Wide Dynamic Range) ou neurones à convergence (répondent à une large gamme d'intensités de stimuli, nociceptifs et non nociceptifs). Ce sont les WDR qui sont impliqués dans l'allodynie.",
+      "correct": ["Les cellules nociceptives spécifiques et les cellules WDR (neurones à convergence)"],
+      "wrong": ["Les cellules mitrales et les cellules à panache", "Les cellules de type I et de type III (comme dans les bourgeons gustatifs)", "Les fibres Aβ et les fibres C", "Les neurones mécanosensibles et thermosensibes spécifiques", "Les cellules inhibitrices et excitatrices du raphé", "Les neurones du faisceau gracile et du faisceau cunéiforme", "Les cellules pyramidales et les cellules de Purkinje"]
+    },
+    {
+      "id": 20,
+      "text": "Le faisceau spinothalamique latéral se distingue du faisceau spinothalamique ventral par :",
+      "explanation": "Le faisceau spinothalamique latéral projette sur le VPL via le lemnisque médian et représente la composante discriminative (localisation précise) de la douleur et de la thermique. Le faisceau spinothalamique ventral (extralemniscal) projette sur les structures réticulaires du tronc, puis diffuse à tout le cerveau : c'est la composante de l'éveil généralisé et de l'activation végétative (lien douleur-vigilance).",
+      "correct": ["Le faisceau latéral projette sur le VPL (composante discriminative)", "Le faisceau ventral projette sur les structures réticulaires (éveil et vigilance)"],
+      "wrong": ["Le faisceau latéral assure l'éveil généralisé du cerveau", "Le faisceau ventral projette directement sur le cortex SI", "Les deux faisceaux projettent sur le VPL du thalamus", "Le faisceau latéral est extralemniscal", "Le faisceau ventral représente la composante discriminative de la douleur", "Les deux faisceaux ont des fonctions identiques"]
+    },
+    {
+      "id": 21,
+      "text": "Le faisceau spino-mésencéphalique joue quel rôle ?",
+      "explanation": "Le faisceau spino-mésencéphalique projette sur la substance grise périaqueducale (SGPA) du mésencéphale. Il intervient dans le contrôle analgésique endogène. La SGPA est le point de départ des systèmes modulateurs descendants de la douleur.",
+      "correct": ["Il projette sur la SGPA et intervient dans le contrôle analgésique endogène"],
+      "wrong": ["Il projette sur le VPL et assure la composante discriminative", "Il projette sur l'amygdale pour la composante émotionnelle", "Il projette sur le cortex frontal pour l'identification de la douleur", "Il projette sur l'hypothalamus pour la composante végétative", "Il assure l'éveil généralisé du cerveau", "Il relie directement la moelle au cortex cingulaire", "Il transmet les informations proprioceptives vers le cervelet"]
+    },
+    {
+      "id": 22,
+      "text": "La composante affective et émotionnelle de la douleur (réaction de fuite, peur, défense) est véhiculée par :",
+      "explanation": "Le faisceau spino-parabrachio-amygdalien projette sur le noyau amygdalien du système limbique. Il intervient dans la composante affective et émotionnelle de la douleur (réactions de fuite, de peur, de défense). Le faisceau spino-parabrachio-hypothalamique, lui, gère la composante végétative et endocrinienne.",
+      "correct": ["Le faisceau spino-parabrachio-amygdalien (via l'amygdale)"],
+      "wrong": ["Le faisceau spinothalamique latéral via le VPL", "Le faisceau spinothalamique ventral (éveil)", "Le faisceau spino-mésencéphalique (SGPA)", "Le faisceau spino-parabrachio-hypothalamique (végétatif)", "Le lemnisque médian via le VPM", "La voie des colonnes dorsales", "Le faisceau gracile via les noyaux bulbaires"]
+    },
+    {
+      "id": 23,
+      "text": "Au niveau thalamique, la différence entre le VPL/VPM et la formation réticulée est :",
+      "explanation": "Le VPL/VPM traite des informations discriminatives précises avec des projections précises sur SI, une organisation somatotopique et des champs récepteurs de taille limitée. La formation réticulée du thalamus, en revanche, est caractérisée par l'absence de somatotopie, des informations de douleur diffuse et des projections diffuses sur le cortex et les noyaux gris de la base.",
+      "correct": ["Le VPL/VPM est somatotopique et discriminatif, la formation réticulée est diffuse et non somatotopique"],
+      "wrong": ["Le VPL/VPM est non somatotopique, la formation réticulée est somatotopique", "Les deux structures ont une organisation somatotopique identique", "La formation réticulée projette précisément sur SI", "Le VPL/VPM projette diffusément sur les noyaux gris de la base", "La formation réticulée gère uniquement la composante discriminative", "Les deux projettent sur le cortex cingulaire uniquement"]
+    },
+    {
+      "id": 24,
+      "text": "Dans le traitement cortical de l'information nociceptive, quelles structures assurent respectivement la localisation, l'identification et la dimension de souffrance ?",
+      "explanation": "La localisation de la région douloureuse est faite au niveau du cortex pariétal (CPA/SI) avec l'Homonculus sensitif. L'identification de la sensation comme étant une douleur fait intervenir le cortex frontal. La dimension de souffrance et le côté émotionnel impliquent le système limbique (cortex cingulaire, système amygdalien).",
+      "correct": ["Localisation : cortex pariétal (SI/CPA), Identification : cortex frontal, Souffrance : système limbique (cingulaire, amygdale)"],
+      "wrong": ["Localisation : cortex frontal, Identification : système limbique, Souffrance : cortex pariétal", "Localisation : amygdale, Identification : hippocampe, Souffrance : cortex cingulaire", "Localisation : thalamus VPL, Identification : SGPA, Souffrance : cortex frontal", "Localisation : cortex cingulaire, Identification : cortex pariétal, Souffrance : cortex frontal", "Localisation : cortex insulaire, Identification : cortex pariétal, Souffrance : SGPA", "Localisation : SGPA, Identification : cortex frontal, Souffrance : amygdale", "Les trois fonctions sont assurées par le cortex SI exclusivement"]
+    },
+    {
+      "id": 25,
+      "text": "Le Gate Control (Melzack et Wall, 1965) repose sur quel mécanisme ?",
+      "explanation": "Le Gate control : les fibres rapides (Aβ, tactiles) activent en premier un interneurone à enképhalines qui ferme la porte aux influx nociceptifs des fibres lentes (C), d'où une hypoalgie initiale. Dans un second temps, une collatérale de la fibre nociceptive inhibe cet interneurone, ouvrant la porte à l'information douloureuse.",
+      "correct": ["Les fibres rapides (Aβ) activent un interneurone à enképhalines qui inhibe les fibres lentes (C) nociceptives"],
+      "wrong": ["Les fibres lentes (C) inhibent directement les fibres rapides (Aβ)", "Les enképhalines activent les fibres nociceptives pour amplifier la douleur", "La SGPA est directement impliquée dans le Gate control segmentaire", "Les fibres Aβ inhibent directement le neurone de second ordre sans interneurone", "Le Gate control est un contrôle supra-spinal uniquement", "Les enképhalines ouvrent la porte aux influx nociceptifs", "Le Gate control implique la sérotonine du raphé comme médiateur principal"]
+    },
+    {
+      "id": 26,
+      "text": "Le contrôle supra-spinal descendant de la douleur implique :",
+      "explanation": "Le contrôle supra-spinal (modulateurs descendants) part du cortex somesthésique puis de la SGPA du mésencéphale. Les neurones de la SGPA activent les neurones sérotoninergiques du noyau de raphé et les neurones noradrénergiques du locus coeruleus. De nombreux interneurones utilisent des peptides opioïdes endogènes créant des hyperpolarisations et limitant la libération de substance P.",
+      "correct": ["La SGPA du mésencéphale", "Les neurones sérotoninergiques du raphé et noradrénergiques du locus coeruleus", "Des peptides opioïdes endogènes limitant la libération de substance P"],
+      "wrong": ["Le noyau du tractus solitaire uniquement", "Les fibres Aβ du Gate control", "La libération d'histamine et de sérotonine périphérique", "Le faisceau spinothalamique latéral", "Les prostaglandines centrales", "Les nocicepteurs articulaires silencieux", "Le ganglion de Gasser"]
+    },
+    {
+      "id": 27,
+      "text": "Les nocicepteurs sont présents dans :",
+      "explanation": "Les nocicepteurs correspondent à des arborisations nerveuses présentes dans la peau, les os, les muscles, les vaisseaux sanguins, le cœur, la plupart des organes internes et les méninges. Ils sont absents de l'encéphale lui-même (le cerveau ne se fait pas mal), ce qui permet les interventions neurochirurgicales sur sujet éveillé.",
+      "correct": ["La peau, les os, les muscles", "Les méninges et les vaisseaux sanguins"],
+      "wrong": ["L'encéphale (parenchyme cérébral)", "La cornée (dépourvue de nocicepteurs)", "Les cartilages articulaires (avasculaires et aneures)", "Le liquide céphalo-rachidien", "La pulpe dentaire (uniquement des fibres thermiques)", "Les glomérules olfactifs"]
+    },
+    {
+      "id": 28,
+      "text": "Le système sympathique intervient dans l'hyperalgie périphérique en :",
+      "explanation": "En circuit réflexe, le système sympathique recrute des neurones non excités directement par le stimulus initial, amplifiant l'excitation du neurone central et donc la sensation douloureuse. En périphérie, le réflexe sympathique augmente aussi la vasodilatation, augmentant la libération de substances algogènes.",
+      "correct": ["Recrutant des neurones non excités par le stimulus initial", "Augmentant la vasodilatation et la libération de substances algogènes"],
+      "wrong": ["Inhibant la libération de bradykinine et de sérotonine", "Activant les enképhalines pour fermer la porte (Gate control)", "Diminuant la vasodilatation locale", "Activant directement le noyau de raphé", "Recrutant les fibres Aβ pour inhiber la douleur", "Libérant de la substance P au niveau médullaire uniquement"]
+    },
+    {
+      "id": 29,
+      "text": "La classification OMS des antalgiques en paliers associe :",
+      "explanation": "Palier 1 (douleur légère à modérée) : aspirine/AINS et paracétamol (analgésique de référence OMS). Palier 2 (douleur modérée à sévère) : codéine (transformée en morphine dans le foie), certains corticoïdes. Palier 3 (douleur intense et chronique) : morphine. Les douleurs neuropathiques résistent aux analgésiques classiques et peuvent nécessiter des antidépresseurs.",
+      "correct": ["Palier 1 : aspirine/AINS et paracétamol", "Palier 2 : codéine et certains corticoïdes", "Palier 3 : morphine"],
+      "wrong": ["Palier 1 : codéine", "Palier 2 : morphine", "Palier 3 : paracétamol", "Palier 1 : morphine pour les douleurs légères", "Palier 2 : paracétamol associé à un AINS", "Palier 3 : aspirine seule"]
+    },
+    {
+      "id": 30,
+      "text": "Concernant l'évaluation de la douleur chez l'enfant, laquelle de ces affirmations est exacte ?",
+      "explanation": "Chez le très jeune enfant sans langage, la douleur se lit dans les attitudes corporelles (positions défensives), les comportements (atonie psychomotrice, tristesse, résignation) et les mimiques faciales. Pour les plus âgés, des échelles de visages sont disponibles. À partir de 10 ans, l'enfant peut répondre à des questionnaires de vocabulaire. Avant 5 ans, la douleur aiguë est difficile à distinguer d'autres états de détresse. Aucune échelle n'est adaptée pour la douleur prolongée entre 3 mois et 2 ans.",
+      "correct": ["À partir de 10 ans, l'enfant peut répondre à des questionnaires de vocabulaire", "Aucune échelle n'est adaptée à la douleur prolongée entre 3 mois et 2 ans"],
+      "wrong": ["L'EVA est utilisable dès 3 ans sans adaptation", "Avant 5 ans, la douleur aiguë est facile à distinguer de l'anxiété", "L'évaluation de la douleur est identique chez l'enfant et l'adulte", "Les échelles comportementales couvrent toutes les tranches d'âge pédiatriques", "L'enfant de 2 ans peut utiliser l'échelle numérique de 0 à 10", "Les mimiques faciales ne sont pas fiables pour évaluer la douleur du nourrisson"]
+    }
+  ]
+}

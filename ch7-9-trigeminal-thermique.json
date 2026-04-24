@@ -1,0 +1,217 @@
+{
+  "subject": "Neurophysiologie – Psychomotricité",
+  "tag": "Ch7 – Sensibilité Trigéminale & Ch9 – Sensibilité Thermique",
+  "description": "30 questions de niveau expert combinant la sensibilité trigéminale (Ch7) et la sensibilité thermique (Ch9). Préparation aux partiels.",
+  "questions": [
+    {
+      "id": 1,
+      "text": "La sensibilité trigéminale se caractérise par :",
+      "explanation": "La sensibilité trigéminale est une sensibilité diffuse, chimique, non associée à un organe sensoriel différencié. Elle est véhiculée par le nerf trijumeau (V), nerf crânien très polyvalent qui innerve toutes les muqueuses de la face. Elle répond à des stimuli chimiques présentés à forte concentration.",
+      "correct": ["Une sensibilité diffuse sans organe sensoriel différencié", "Une innervation par le nerf trijumeau (V) de toutes les muqueuses de la face"],
+      "wrong": ["Une association à un organe sensoriel spécialisé comme les papilles", "Une transmission uniquement par le nerf facial (VII)", "Une sensibilité exclusive aux molécules odorantes", "Une projection corticale primaire sur le lobe occipital", "Une innervation limitée à la muqueuse nasale", "Une sensibilité uniquement mécanique sans composante chimique"]
+    },
+    {
+      "id": 2,
+      "text": "Parmi les sensations suivantes, lesquelles relèvent de la sensibilité trigéminale ?",
+      "explanation": "La sensibilité trigéminale correspond notamment au piquant du poivre, au brûlant du piment et du gingembre, à la sensation de l'alcool, au rafraîchissant du menthol, et à l'astringence des vins rouges tanniques. Elle répond aussi à une majorité de molécules odorantes et sapides à forte concentration.",
+      "correct": ["Le piquant du poivre", "Le rafraîchissant du menthol", "L'astringence des vins rouges tanniques"],
+      "wrong": ["La saveur sucrée du glucose", "La saveur umami du glutamate", "La sensation de chaud (36-47°C) via les thermorécepteurs cutanés", "La saveur salée du NaCl à faible concentration (0,1 M)", "La perception du son"]
+    },
+    {
+      "id": 3,
+      "text": "Le NaCl à 1 M est perçu comme :",
+      "explanation": "Le NaCl à 0,1 M est détecté comme salé (via les récepteurs gustatifs). En revanche, à 1 M, il devient irritant et active la sensibilité trigéminale. Cela illustre la propriété de la voie trigéminale de répondre aux molécules sapides et odorantes présentées à forte concentration.",
+      "correct": ["Irritant, relevant de la sensibilité trigéminale"],
+      "wrong": ["Salé, relevant uniquement de la gustation", "Amer, relevant de la gustation", "Indétectable (au-dessus du seuil de détection)", "Doux, car la haute concentration sature les récepteurs", "Acide, car il libère des ions H+ en solution", "Sucré par effet d'inhibition des récepteurs à l'amer", "Identique à la perception du NaCl à 0,1 M"]
+    },
+    {
+      "id": 4,
+      "text": "Les réponses physiologiques protectrices déclenchées par la sensibilité trigéminale sont :",
+      "explanation": "Les réponses physiologiques de protection déclenchées par la sensibilité trigéminale sont le pleur (larmoiement), la salivation et la sueur (sudation). Ces réponses réflexes visent à diluer, éliminer ou protéger les muqueuses face aux stimuli irritants.",
+      "correct": ["Le pleur (larmoiement)", "La salivation", "La sudation (sueur)"],
+      "wrong": ["La bronchodilatation", "L'accélération du transit intestinal", "La vasoconstriction périphérique systémique", "La mydriase (dilatation pupillaire)", "L'augmentation du rythme cardiaque"]
+    },
+    {
+      "id": 5,
+      "text": "Le complexe sensitif du trijumeau comprend :",
+      "explanation": "Le complexe sensitif du trijumeau comprend deux composantes principales : le noyau principal (noyau sensitif principal) qui traite les stimulations mécaniques tactiles, et le noyau spinal (avec ses trois sous-noyaux : oral, interpolaire et caudal) qui traite les stimulations nociceptives et thermiques.",
+      "correct": ["Un noyau principal pour les stimulations mécaniques", "Un noyau spinal pour les stimulations nociceptives et thermiques"],
+      "wrong": ["Un noyau auditif pour les stimulations acoustiques", "Un noyau gustatif pour les saveurs", "Un noyau olfactif pour les molécules odorantes", "Un noyau vestibulaire pour l'équilibre", "Un noyau visuel pour les informations rétiniennes", "Un noyau unique sans subdivision fonctionnelle"]
+    },
+    {
+      "id": 6,
+      "text": "La voie trigéminale pour la sensibilité mécanique de la face projette vers quel noyau thalamique ?",
+      "explanation": "La voie trigéminale (mécanique et thermique/nociceptive de la face) projette vers le noyau ventropostéromédian (VPM) du thalamus (groupe postérieur). De là, le neurone de 3e ordre projette vers le cortex somesthésique primaire, le cortex insulaire et le cortex cingulaire.",
+      "correct": ["Le noyau ventropostéromédian (VPM) du thalamus"],
+      "wrong": ["Le noyau ventropostérolatéral (VPL) du thalamus", "Le corps genouillé latéral (CGL)", "Le corps genouillé médian (CGM)", "Le noyau médio-dorsal du thalamus", "Le noyau antérieur du thalamus", "Le noyau pulvinar", "Le noyau centromédian du thalamus"]
+    },
+    {
+      "id": 7,
+      "text": "Les projections corticales de la voie trigéminale incluent :",
+      "explanation": "Les projections corticales de la voie trigéminale depuis le VPM du thalamus incluent le cortex somatosensoriel (SI), le cortex insulaire et le cortex cingulaire. Ces projections multiples reflètent les dimensions discriminative, émotionnelle et végétative de la sensibilité trigéminale.",
+      "correct": ["Le cortex somatosensoriel", "Le cortex insulaire", "Le cortex cingulaire"],
+      "wrong": ["Le cortex visuel primaire (V1)", "Le cortex auditif primaire (A1)", "Le bulbe olfactif", "Le cortex moteur primaire exclusivement", "Le cervelet directement"]
+    },
+    {
+      "id": 8,
+      "text": "La sensibilité trigéminale diffère de la gustation et de l'olfaction car :",
+      "explanation": "Contrairement à la gustation (papilles) et à l'olfaction (muqueuse olfactive spécialisée), la sensibilité trigéminale n'est pas associée à un organe sensoriel différencié. Elle répond aux mêmes molécules odorantes et sapides mais à forte concentration, agissant comme un système d'alerte en complément des sens chimiques classiques.",
+      "correct": ["Elle n'est pas associée à un organe sensoriel différencié", "Elle répond aux molécules sapides et odorantes à forte concentration (pas à faible)"],
+      "wrong": ["Elle est plus précise spatialement que l'olfaction", "Elle ne projette pas vers le cortex", "Elle n'a pas de réponse réflexe de protection", "Elle est spécifique à une seule classe de molécules chimiques", "Elle emprunte la même voie que la gustation jusqu'au cortex", "Elle est uniquement mécanique et non chimique"]
+    },
+    {
+      "id": 9,
+      "text": "Les trois branches périphériques du nerf trijumeau sont :",
+      "explanation": "Le nerf trijumeau (V) se divise en trois branches : V1 (ophtalmique), V2 (maxillaire) et V3 (mandibulaire). Leurs corps cellulaires sont dans le ganglion de Gasser. Ces branches innervent respectivement la partie supérieure, médiane et inférieure de la face.",
+      "correct": ["V1 (ophtalmique), V2 (maxillaire), V3 (mandibulaire)"],
+      "wrong": ["V1 (facial), V2 (maxillaire), V3 (mandibulaire)", "V1 (ophtalmique), V2 (glossopharyngien), V3 (mandibulaire)", "V1 (auriculaire), V2 (nasal), V3 (buccal)", "V1 (frontal), V2 (temporal), V3 (cervical)", "V1 (ophtalmique), V2 (nasal), V3 (linguale)", "V1 (ciliaire), V2 (palatin), V3 (alvéolaire)", "V1 (ophtalmique), V2 (zygomatique), V3 (mentonnier)"]
+    },
+    {
+      "id": 10,
+      "text": "Le noyau spinal du trijumeau est subdivisé en :",
+      "explanation": "Le noyau spinal du trijumeau comprend trois sous-noyaux de haut en bas : le sous-noyau oral (rostralement), le sous-noyau interpolaire et le sous-noyau caudal (le plus caudal, parfois comparé à la corne dorsale médullaire). Ce noyau traite les informations nociceptives et thermiques de la face.",
+      "correct": ["Sous-noyau oral, sous-noyau interpolaire, sous-noyau caudal"],
+      "wrong": ["Sous-noyau dorsal, sous-noyau médian, sous-noyau ventral", "Sous-noyau rostral, sous-noyau intermédiaire, sous-noyau spinal", "Noyau principal, noyau accessoire, noyau terminal", "Sous-noyau mésencéphalique, sous-noyau pontique, sous-noyau bulbaire", "Sous-noyau oral et sous-noyau caudal uniquement", "Sous-noyau sensitif et sous-noyau moteur uniquement", "Noyau gracile, noyau cunéiforme, noyau spinal"]
+    },
+    {
+      "id": 11,
+      "text": "La sensibilité trigéminale décusse et projette vers le thalamus via :",
+      "explanation": "Après relais dans le noyau principal (mécanique) ou spinal (thermique/nociceptive) du trijumeau, le deutoneurone décusse et projette dans le noyau ventropostéromédian (VPM) du thalamus. La racine descendante du V rejoint le noyau spinal pour les afférences nociceptives et thermiques.",
+      "correct": ["Une décussation vers le noyau VPM du thalamus"],
+      "wrong": ["Une montée ipsilatérale sans décussation vers le VPM", "Une décussation vers le noyau VPL du thalamus", "Une projection directe vers le cortex sans relais thalamique", "Une décussation au niveau cortical uniquement", "Une projection vers le corps genouillé médian (CGM)", "Une décussation vers le noyau médio-dorsal du thalamus", "Une montée ipsilatérale vers le noyau VPL"]
+    },
+    {
+      "id": 12,
+      "text": "La sensibilité trigéminale diffère-t-elle entre molécules sapides à faible et à forte concentration ?",
+      "explanation": "Oui, la concentration est déterminante. À faible concentration, une molécule sapide comme NaCl (0,1 M) est détectée comme salée par les voies gustatives classiques. À forte concentration (1 M), la même molécule devient irritante et active la voie trigéminale. Il en va de même pour de nombreuses molécules odorantes à haute dose.",
+      "correct": ["Oui, la voie trigéminale s'active préférentiellement à forte concentration"],
+      "wrong": ["Non, la même voie est activée quelle que soit la concentration", "La voie trigéminale ne répond qu'aux molécules à faible concentration", "La concentration n'a aucun effet sur la modalité sensorielle recrutée", "Seules les molécules odorantes peuvent activer la voie trigéminale, pas les sapides", "La voie trigéminale est insensible au NaCl quelle que soit la concentration", "La voie trigéminale ne s'active que pour les substances gazeuses", "La concentration agit uniquement sur la durée de la sensation, pas la qualité"]
+    },
+    {
+      "id": 13,
+      "text": "La notion de sensibilité thermique est définie comme :",
+      "explanation": "La sensation thermique est relative : elle dépend de la température cutanée initiale, de la vitesse de changement de température et de la surface stimulée. La neutralité thermique (absence de réponse) se situe entre 32° et 35°C, où il y a adaptation complète.",
+      "correct": ["Une sensation relative dépendant de la température initiale et de la vitesse de changement"],
+      "wrong": ["Une sensation absolue et constante indépendante du contexte", "Une sensation exclusivement nociceptive", "Une sensation identique pour tous les individus quel que soit leur état", "Une sensation uniquement médiée par des fibres de type Aβ", "Une sensation codée uniquement par la fréquence des PA sans adaptation", "Une sensation traitée uniquement dans le cortex insulaire", "Une sensation dont le seuil est fixe et identique dans toutes les régions corporelles"]
+    },
+    {
+      "id": 14,
+      "text": "Les thermorécepteurs se trouvent dans :",
+      "explanation": "Les thermorécepteurs sont situés principalement dans la peau. On en trouve également dans le premier tiers de l'œsophage, où leur activation représente une réponse de protection contre l'ingestion de substances trop chaudes ou trop froides.",
+      "correct": ["La peau", "Le premier tiers de l'œsophage (réponse de protection)"],
+      "wrong": ["L'encéphale (qui en est dépourvu comme pour la nociception)", "Le tiers inférieur de l'œsophage", "Les muscles striés squelettiques", "Le foie", "Les poumons exclusivement", "Les articulations uniquement"]
+    },
+    {
+      "id": 15,
+      "text": "Les corpuscules de Krause sont associés à :",
+      "explanation": "Les corpuscules de Krause interviennent pour des températures entre 15°C et 35°C et on leur attribue la sensation du froid. Les corpuscules de Ruffini, en revanche, interviennent pour des températures entre 30°C et 45°C et sont associés à la sensation de chaud.",
+      "correct": ["La sensation de froid (15°C à 35°C)"],
+      "wrong": ["La sensation de chaud (30°C à 45°C)", "La détection des vibrations à haute fréquence", "La perception du toucher léger", "La détection des pressions profondes", "La sensation de douleur uniquement", "La détection de l'étirement cutané", "La sensation de froid en dessous de 0°C uniquement"]
+    },
+    {
+      "id": 16,
+      "text": "Les corpuscules de Ruffini dans le contexte thermique interviennent pour :",
+      "explanation": "Dans le contexte de la sensibilité thermique, les corpuscules de Ruffini interviennent pour des températures entre 30°C et 45°C et on leur attribue la sensation de chaud. À noter que les corpuscules de Ruffini ont aussi un rôle dans la sensibilité mécanique (étirement cutané).",
+      "correct": ["La sensation de chaud (30°C à 45°C)"],
+      "wrong": ["La sensation de froid (15°C à 35°C)", "La détection du froid douloureux en dessous de 17°C", "La détection du chaud douloureux au-dessus de 44°C", "Uniquement la détection de l'étirement cutané sans rôle thermique", "La sensation vibratoire à haute fréquence", "La neutralité thermique entre 32° et 35°C", "La sensation de brûlure exclusive"]
+    },
+    {
+      "id": 17,
+      "text": "En dessous de 17°C et au-dessus de 44°C, les sensations thermiques sont prises en charge par :",
+      "explanation": "En dehors des gammes d'activation des thermorécepteurs proprement dits, ce sont des nocicepteurs qui captent les informations de froid extrême (< 17°C) ou de chaud extrême (> 44°C), ce qui correspond à une sensation douloureuse. La frontière entre thermoception et nociception thermique est donc à ces températures.",
+      "correct": ["Des nocicepteurs (sensation douloureuse)"],
+      "wrong": ["Les corpuscules de Krause pour le froid extrême", "Les corpuscules de Ruffini pour le chaud extrême", "Les corpuscules de Meissner", "Des mécanorécepteurs à adaptation rapide", "Des fibres Aβ myélinisées à bas seuil", "Les cellules de Merkel", "Les corpuscules de Pacini"]
+    },
+    {
+      "id": 18,
+      "text": "La zone de neutralité thermique (adaptation complète) se situe entre :",
+      "explanation": "Entre 32°C et 35°C, il y a neutralité thermique : les sensations de chaud et de froid disparaissent complètement. Dans cet intervalle, il y a adaptation complète des thermorécepteurs. En dessous de 32°C on ressent le froid, au-dessus de 35°C on ressent le chaud.",
+      "correct": ["32°C et 35°C"],
+      "wrong": ["17°C et 36°C", "36°C et 44°C", "28°C et 32°C", "15°C et 30°C", "30°C et 40°C", "20°C et 25°C", "35°C et 40°C"]
+    },
+    {
+      "id": 19,
+      "text": "Le rapport de densité entre les thermorécepteurs au froid et ceux au chaud est de :",
+      "explanation": "Les thermorécepteurs au froid sont plus nombreux que ceux au chaud dans un rapport de 10 pour 1. Par ailleurs, la densité des récepteurs varie selon les régions corporelles, le visage en exprimant beaucoup. Le champ récepteur de ces thermorécepteurs est petit.",
+      "correct": ["10 pour 1 (plus de récepteurs au froid qu'au chaud)"],
+      "wrong": ["1 pour 1 (proportions égales)", "1 pour 10 (plus de récepteurs au chaud)", "2 pour 1 (légèrement plus de récepteurs au froid)", "5 pour 1 (5 fois plus de récepteurs au froid)", "10 pour 1 (plus de récepteurs au chaud)", "3 pour 1 (plus de récepteurs au chaud)", "20 pour 1 (plus de récepteurs au froid)"]
+    },
+    {
+      "id": 20,
+      "text": "Les canaux TRP (transient receptor potential) impliqués dans la thermoception sont :",
+      "explanation": "Les thermorécepteurs sont de 6 types différents suivant le type de canaux TRP (canaux tétramériques calciques) sensibles à des températures différentes. Chacun n'exprime qu'un type de canal, sauf les TRPV1 qui sont sensibles au froid ET aux températures supérieures à 43°C (chaud douloureux).",
+      "correct": ["Des canaux tétramériques calciques sensibles à des températures différentes", "Les TRPV1 sont sensibles au froid et aux températures supérieures à 43°C"],
+      "wrong": ["Des canaux sodiques voltage-dépendants", "Des canaux Panx1 comme dans les cellules gustatives de type II", "Des GPCR couplés à l'adénylyl cyclase", "Des canaux chlorure activés par la température", "Des canaux potassiques uniquement", "Des récepteurs ionotropes AMPA thermosensibles", "Des canaux sodiques ENaC comme pour le goût salé"]
+    },
+    {
+      "id": 21,
+      "text": "La gamme d'activation des fibres afférentes thermiques est :",
+      "explanation": "La gamme d'activation des fibres afférentes thermiques est : 30°C à 45°C pour le chaud, et 15°C à 35°C pour le froid. En dessous des valeurs minimales, on éprouve une douleur vive (froid extrême) ; au-dessus des valeurs maximales, une douleur sourde (chaud extrême).",
+      "correct": ["30°C à 45°C pour le chaud et 15°C à 35°C pour le froid"],
+      "wrong": ["36°C à 47°C pour le chaud et 17°C à 36°C pour le froid", "15°C à 45°C pour le chaud et 0°C à 35°C pour le froid", "30°C à 50°C pour le chaud et 10°C à 30°C pour le froid", "20°C à 40°C pour le chaud et 5°C à 25°C pour le froid", "32°C à 45°C pour le chaud et 17°C à 32°C pour le froid", "25°C à 42°C pour les deux sans distinction", "30°C à 37°C pour le chaud et 20°C à 30°C pour le froid"]
+    },
+    {
+      "id": 22,
+      "text": "La réponse phasique des fibres afférentes thermiques est proportionnelle à :",
+      "explanation": "Les fibres afférentes thermiques présentent deux types de réponse : une réponse phasique proportionnelle à la différence de température imposée (vitesse du changement), et une réponse tonique proportionnelle à la température cutanée absolue.",
+      "correct": ["La différence de température imposée (variation)"],
+      "wrong": ["La température cutanée absolue", "L'amplitude totale de la stimulation uniquement", "La surface cutanée stimulée", "La durée de l'exposition thermique", "La fréquence de répétition du stimulus", "La profondeur de pénétration du stimulus thermique", "La vitesse de conduction des fibres nerveuses"]
+    },
+    {
+      "id": 23,
+      "text": "La vitesse minimale de changement de température pour déclencher une sensation thermique est d'environ :",
+      "explanation": "La sensation de froid ou de chaud apparaît à condition que la variation de température soit d'au moins 6°C par minute. Si la variation est trop lente, l'écart thermique peut devenir important avant que le sujet ressente le changement. C'est pourquoi les personnes déjà acclimatées ne ressentent pas la chaleur d'une pièce fermée.",
+      "correct": ["6°C par minute"],
+      "wrong": ["1°C par minute", "0,5°C par minute", "10°C par minute", "2°C par minute", "15°C par minute", "3°C par minute", "0,2°C par minute"]
+    },
+    {
+      "id": 24,
+      "text": "Concernant le seuil de sensation thermique selon la température cutanée initiale :",
+      "explanation": "Pour une température cutanée basse (28°C), le seuil de sensation au chaud est élevé (+1°C) et celui au froid est bas (-0,2°C). Lorsque la température cutanée augmente (38°C), le seuil au chaud diminue et celui au froid augmente (-0,8°C/+0,2°C). Cela illustre le caractère relatif de la sensation thermique.",
+      "correct": ["À basse température cutanée (28°C), le seuil au chaud est élevé et celui au froid est bas"],
+      "wrong": ["Le seuil de sensation est constant quelle que soit la température initiale", "À haute température cutanée, le seuil au chaud augmente également", "La température cutanée initiale n'influence pas les seuils thermiques", "À basse température cutanée, le seuil au froid est élevé et celui au chaud est bas", "Le seuil au chaud est toujours supérieur au seuil au froid", "Les seuils thermiques sont identiques pour le chaud et le froid", "À 32°C de température cutanée, le seuil au chaud est nul (adaptation)"]
+    },
+    {
+      "id": 25,
+      "text": "Les fibres afférentes véhiculant les informations thermiques sont de type :",
+      "explanation": "Les informations thermiques sont véhiculées par des fibres de type III (Aδ, myélinisées) pour le froid, et de type IV (C, amyéliniques) pour le chaud. Le chaud utilise des fibres amyéliniques lentes, ce qui explique la perception différée de certaines brûlures. C'est l'inverse de ce qu'on pourrait intuiter.",
+      "correct": ["Fibres de type III (Aδ myélinisées) pour le froid et type IV (C amyéliniques) pour le chaud"],
+      "wrong": ["Fibres de type Aβ pour les deux modalités", "Fibres de type I (Ia) pour le chaud et type II pour le froid", "Fibres de type C pour le froid et Aδ pour le chaud", "Fibres de type Aβ pour le chaud et type C pour le froid", "Fibres de type Aα pour le chaud et Aδ pour le froid", "Fibres de type II uniquement pour les deux modalités", "Fibres de type Aβ pour le froid et type C pour le chaud"]
+    },
+    {
+      "id": 26,
+      "text": "La voie thermique pour le corps emprunte :",
+      "explanation": "Pour la sensibilité thermique du corps, la voie est spinothalamique (comme pour la nociception) : neurone du ganglion spinal → synapse dans la corne dorsale médullaire → décussation médullaire → VPL thalamique → cortex somesthésique primaire (SI). C'est la même voie que pour la douleur du corps.",
+      "correct": ["La voie spinothalamique avec décussation médullaire vers le VPL"],
+      "wrong": ["La voie des colonnes dorsales (lemnisque médian) vers le VPL", "La voie des colonnes dorsales vers le VPM", "La voie spinothalamique vers le VPM", "La voie spinothalamique sans décussation (montée ipsilatérale)", "La voie trigéminale pour le corps entier", "Une voie directe sans relais thalamique", "La voie spinocérébelleuse"]
+    },
+    {
+      "id": 27,
+      "text": "Pour la sensibilité thermique de la face, la voie empruntée implique :",
+      "explanation": "Pour la sensibilité thermique de la face, c'est le système trigéminal qui est impliqué : neurone du ganglion de Gasser → tronc cérébral dans le noyau spinal du trijumeau → décussation → VPM du thalamus → cortex somesthésique primaire. Le noyau spinal (et non le noyau principal) est responsable de la thermique et de la nociception de la face.",
+      "correct": ["Le noyau spinal du trijumeau (et non le noyau principal)", "Une projection vers le VPM du thalamus"],
+      "wrong": ["Le noyau principal du trijumeau", "Une projection vers le VPL du thalamus", "Le ganglion géniculé comme premier relais", "Le noyau du tractus solitaire", "Une décussation au niveau du bulbe comme pour la sensibilité mécanique", "Une montée ipsilatérale sans croisement vers le VPM", "Le noyau cochléaire"]
+    },
+    {
+      "id": 28,
+      "text": "La sensibilité thermique augmente avec :",
+      "explanation": "Parmi les facteurs modulant la sensibilité thermique, la surface cutanée stimulée est déterminante : la sensibilité augmente avec la surface stimulée. Le champ récepteur des thermorécepteurs est petit, mais la sommation spatiale amplifie la perception.",
+      "correct": ["L'augmentation de la surface cutanée stimulée"],
+      "wrong": ["La diminution de la surface cutanée stimulée", "La réduction de la vitesse de changement de température", "L'uniformisation de la température cutanée", "La distance par rapport au cœur du corps", "La profondeur des récepteurs dans la peau", "L'âge du sujet de façon linéaire", "La réduction de la densité de récepteurs"]
+    },
+    {
+      "id": 29,
+      "text": "Les TRPV1 sont particuliers parmi les canaux TRP thermosensibles car :",
+      "explanation": "Les TRPV1 sont les seuls canaux TRP à exprimer deux sensibilités distinctes : ils sont sensibles au froid ET aux températures corporelles supérieures à 43°C (chaud douloureux). Tous les autres types de canaux TRP n'expriment qu'un seul type de sensibilité thermique.",
+      "correct": ["Ils sont sensibles à la fois au froid et aux températures supérieures à 43°C"],
+      "wrong": ["Ils sont uniquement sensibles au chaud modéré (36-45°C)", "Ils n'expriment qu'un seul type de sensibilité comme tous les autres TRP", "Ils sont insensibles à la température et répondent uniquement aux stimuli chimiques", "Ils correspondent aux récepteurs du menthol (froid)", "Ils correspondent exclusivement aux récepteurs de la capsaïcine (piment)", "Ils sont sensibles uniquement au froid entre 15°C et 35°C", "Ils sont le seul type de canal TRP présent dans la peau humaine"]
+    },
+    {
+      "id": 30,
+      "text": "La comparaison des voies thermique et mécanique du corps met en évidence que :",
+      "explanation": "La sensibilité thermique et nociceptive emprunte la voie spinothalamique avec synapse dans la corne dorsale médullaire et décussation médullaire → VPL. La sensibilité mécanique discriminative emprunte la voie des colonnes dorsales sans synapse médullaire, monte ipsilatéralement jusqu'au bulbe où elle décusse → VPL. Les deux aboutissent au cortex SI mais via des trajets différents.",
+      "correct": ["La voie thermique synapse dans la moelle et décusse immédiatement (spinothalamique)", "La voie mécanique monte sans relais médullaire ipsilatéralement jusqu'au bulbe (lemniscale)"],
+      "wrong": ["Les deux voies décussent au niveau du bulbe", "Les deux voies synapsent dans la corne dorsale médullaire", "La voie thermique monte ipsilatéralement sans décussation médullaire", "La voie mécanique discriminative utilise la voie spinothalamique", "Les deux voies se projettent sur le noyau VPM du thalamus", "La voie thermique projette sur le VPM et la voie mécanique sur le VPL pour le corps", "Les deux voies atteignent le cortex sans relais thalamique"]
+    }
+  ]
+}

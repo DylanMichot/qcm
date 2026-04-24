@@ -11,6 +11,24 @@
       "subject": "Neurophysiologie – Olfaction",
       "tag": "Ch6 – Olfaction",
       "description": "30 questions de niveau expert sur l'olfaction"
+    },
+    {
+      "file": "ch7-9-trigeminal-thermique.json",
+      "subject": "Neurophysiologie – Sensibilités Trigéminale & Thermique",
+      "tag": "Ch7&9 – Sensibilités Trigéminale & Thermique",
+      "description": "30 questions de niveau expert sur les sensibilités trigéminale et thermique"
+    },
+    {
+      "file": "ch8-exteroception-mecanique.json",
+      "subject": "Neurophysiologie – Extéroception Mécanique",
+      "tag": "Ch8 – Extéroception Mécanique",
+      "description": "30 questions de niveau expert sur l'extéroception mécanique"
+    },
+    {
+      "file": "ch10-nociception.json",
+      "subject": "Neurophysiologie – Nociception",
+      "tag": "Ch10 – Nociception",
+      "description": "30 questions de niveau expert sur la nociception"
     }
   ]
 }

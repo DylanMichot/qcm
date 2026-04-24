@@ -1,0 +1,217 @@
+{
+  "subject": "Neurophysiologie – Psychomotricité",
+  "tag": "Ch8 – Sensibilité Extéroceptive Mécanique",
+  "description": "30 questions de niveau expert sur la sensibilité extéroceptive mécanique : mécanorécepteurs cutanés, voies lemniscales, cortex somesthésique. Préparation aux partiels.",
+  "questions": [
+    {
+      "id": 1,
+      "text": "La peau en tant qu'organe sensoriel se caractérise par :",
+      "explanation": "La peau est l'organe sensoriel le plus développé. Sa surface moyenne est de 1,8 m² pour un poids de 5 kg. Elle possède une propriété de viscoélasticité et un assortiment de récepteurs situés sur toute sa surface et dans ses différentes couches.",
+      "correct": ["Une surface moyenne de 1,8 m²", "Un poids d'environ 5 kg", "Une propriété de viscoélasticité"],
+      "wrong": ["Une surface moyenne de 0,5 m²", "Un poids d'environ 2 kg", "Une absence de récepteurs dans les couches profondes", "Une rigidité structurelle sans propriété élastique", "Un poids identique pour tous les individus adultes"]
+    },
+    {
+      "id": 2,
+      "text": "L'organe de Merkel est situé à quel niveau de la peau et quelle est sa fonction principale ?",
+      "explanation": "L'organe de Merkel (disque + cellule de Merkel) est situé à la jonction épiderme/derme. Il permet une perception tactile à haute résolution de formes, de bords et de textures rugueuses. C'est un récepteur de type 2 : sans la cellule de Merkel, le neurone ne fonctionne pas.",
+      "correct": ["À la jonction épiderme/derme", "Perception tactile à haute résolution des formes et bords"],
+      "wrong": ["Dans le derme profond", "Dans l'hypoderme", "Perception vibratoire à haute fréquence", "Détection de l'étirement de la peau", "Détection des variations thermiques", "Perception vibratoire de basse fréquence uniquement"]
+    },
+    {
+      "id": 3,
+      "text": "Concernant les cellules de Merkel, laquelle (lesquelles) de ces affirmations est (sont) exacte(s) ?",
+      "explanation": "Les cellules de Merkel représentent environ 25% des récepteurs de la main (concentrées sur la pulpe). Elles servent à la haute discrimination tactile (Braille, toucher fin et précis). On les trouve dans les doigts, les lèvres. Ce sont des récepteurs de type 2 : le neurone ne fonctionne pas sans la cellule. Ce sont des récepteurs à adaptation lente (statiques/toniques).",
+      "correct": ["Elles représentent environ 25% des récepteurs de la main", "Elles servent à la haute discrimination (toucher précis, Braille)", "Ce sont des récepteurs de type 2 (le neurone dépend de la cellule)"],
+      "wrong": ["Elles représentent environ 5% des récepteurs de la main", "Elles sont localisées exclusivement dans le derme profond", "Ce sont des récepteurs à adaptation rapide (phasiques)", "Elles détectent préférentiellement les vibrations à haute fréquence", "Elles sont absentes des lèvres"]
+    },
+    {
+      "id": 4,
+      "text": "Les corpuscules de Ruffini sont caractérisés par :",
+      "explanation": "Les corpuscules de Ruffini sont des récepteurs encapsulés formés par une fibre nerveuse ramifiée dans un tissu de collagène. Leur axe est orienté parallèlement à la surface de la peau, ce qui les rend sensibles à l'étirement cutané. Ils sont aussi présents dans les ligaments et tendons. Ce sont des récepteurs à adaptation lente (statiques/toniques), à grand champ récepteur aux limites floues.",
+      "correct": ["Une fibre nerveuse ramifiée dans du tissu de collagène", "Une orientation parallèle à la surface de la peau", "Une sensibilité à l'étirement de la peau"],
+      "wrong": ["Une fibre cheminant entre des cellules de Schwann en pile", "Une localisation exclusive à la jonction épiderme-derme", "Une sensibilité aux vibrations à haute fréquence", "Un petit champ récepteur aux limites précises", "Une localisation uniquement dans la peau glabre"]
+    },
+    {
+      "id": 5,
+      "text": "Les corpuscules de Meissner sont :",
+      "explanation": "Les corpuscules de Meissner sont des récepteurs encapsulés caractérisés par une fibre nerveuse zigzaguant entre des cellules de Schwann disposées en pile. On les retrouve à la jonction derme-épiderme de la peau glabre (doigts, paumes, soles plantaires dans les papilles dermiques). Ils sont sensibles au toucher léger vibratoire de basse fréquence (30-40 Hz) et participent à la manipulation d'objets. Ce sont des récepteurs à adaptation rapide (phasiques), à petit champ récepteur aux limites précises.",
+      "correct": ["Situés à la jonction derme-épiderme de la peau glabre", "Sensibles au toucher léger vibratoire de basse fréquence (30-40 Hz)"],
+      "wrong": ["Situés dans le derme profond", "Constitués d'une fibre entourée de lamelles membraneuses concentriques", "Sensibles aux vibrations à haute fréquence (60-400 Hz)", "À grand champ récepteur aux limites floues", "Présents dans les tendons et articulations", "Des récepteurs à adaptation lente (toniques)"]
+    },
+    {
+      "id": 6,
+      "text": "Les corpuscules de Pacini se distinguent structurellement par :",
+      "explanation": "Les corpuscules de Pacini sont constitués d'une fibre entourée d'une série de lamelles membraneuses concentriques (aspect en oignon), le tout dans une capsule. Cette capsule agit comme un filtre ne laissant passer que les vibrations à haute fréquence et les pressions profondes. On les retrouve aussi dans les tendons, articulations et périostes. Ce sont des récepteurs à adaptation rapide, à grand champ récepteur aux limites floues.",
+      "correct": ["Des lamelles membraneuses concentriques autour de la fibre (aspect en oignon)", "Une action de filtre pour les vibrations à haute fréquence et pressions profondes"],
+      "wrong": ["Une fibre ramifiée dans un tissu de collagène", "Une sensibilité au toucher léger de basse fréquence", "Une localisation exclusive à la jonction derme-épiderme", "Un petit champ récepteur aux limites précises", "Une adaptation lente (récepteur tonique)", "Une localisation uniquement dans la peau glabre des mains"]
+    },
+    {
+      "id": 7,
+      "text": "Les corpuscules de Golgi-Lazzoni se distinguent des corpuscules de Pacini par :",
+      "explanation": "Les corpuscules de Golgi-Lazzoni sont des récepteurs encapsulés voisins des Pacini mais plus petits. Ils sont sensibles à la pression et localisés dans le derme profond. Ils sont aussi associés au sens vibratoire à haute fréquence. La différence principale avec Pacini est leur taille plus réduite.",
+      "correct": ["Une taille plus petite que les Pacini", "Une localisation dans le derme profond"],
+      "wrong": ["Une sensibilité aux basses fréquences contrairement aux Pacini", "Une structure sans capsule", "Une localisation à la jonction épiderme-derme", "Une adaptation lente contrairement aux Pacini", "Une fibre nerveuse ramifiée dans du collagène", "Une localisation uniquement dans les ligaments"]
+    },
+    {
+      "id": 8,
+      "text": "Les terminaisons libres des follicules pileux et les fibres C-tactiles partagent quelle(s) caractéristique(s) ?",
+      "explanation": "Les terminaisons libres des follicules pileux sont situées sous les glandes sébacées et répondent à la déviation des poils (détecteurs de vitesse). Les fibres C-tactiles sont associées aux poils et sont stimulées pour de faibles déplacements, donnant une sensation de caresse agréable (préférentiellement à 1-3 cm/s et ~32°C). Ces deux types sont distincts.",
+      "correct": ["Toutes deux sont associées aux poils"],
+      "wrong": ["Elles sont toutes deux situées au-dessus des glandes sébacées", "Elles répondent toutes deux aux mêmes gammes de fréquences vibratoires", "Les fibres C-tactiles sont identiques aux terminaisons libres des follicules", "Elles sont présentes uniquement sur la peau glabre", "Elles sont toutes deux des récepteurs encapsulés", "Elles donnent toutes deux une sensation douloureuse", "Elles sont absentes du dos et des épaules"]
+    },
+    {
+      "id": 9,
+      "text": "Parmi les récepteurs cutanés suivants, lesquels sont classés comme récepteurs à adaptation rapide (phasiques) ?",
+      "explanation": "Les récepteurs à adaptation rapide (phasiques) informent sur les propriétés dynamiques du stimulus. Ce sont les corpuscules de Meissner, de Pacini et les récepteurs des follicules pileux. Les récepteurs à adaptation lente (statiques/toniques) sont les disques de Merkel et les corpuscules de Ruffini.",
+      "correct": ["Les corpuscules de Meissner", "Les corpuscules de Pacini", "Les récepteurs des follicules pileux"],
+      "wrong": ["Les disques de Merkel", "Les corpuscules de Ruffini", "Les corpuscules de Golgi-Lazzoni", "Les cellules de Merkel", "Les fibres C-tactiles"]
+    },
+    {
+      "id": 10,
+      "text": "Concernant les champs récepteurs des mécanorécepteurs cutanés :",
+      "explanation": "Les corpuscules de Meissner et les disques de Merkel ont de petits champs récepteurs aux limites précises, permettant une exploration fine (1-2 mm au niveau de la pulpe). Les corpuscules de Pacini et les terminaisons de Ruffini ont de grands champs récepteurs aux limites floues (5-10 mm au niveau de la paume).",
+      "correct": ["Meissner et Merkel ont de petits champs récepteurs aux limites précises", "Pacini et Ruffini ont de grands champs récepteurs aux limites floues"],
+      "wrong": ["Ruffini a un petit champ récepteur aux limites précises", "Pacini a un petit champ récepteur aux limites précises", "Meissner a un grand champ récepteur aux limites floues", "Tous les récepteurs cutanés ont des champs récepteurs de taille identique", "Les champs récepteurs ne varient pas selon la localisation corporelle", "Merkel a un grand champ récepteur aux limites floues"]
+    },
+    {
+      "id": 11,
+      "text": "Le seuil de discrimination spatiale tactile correspond à :",
+      "explanation": "Le seuil de discrimination spatiale est le plus petit écart entre deux points que l'on peut apprécier. Il est mesuré par le test du compas. Il dépend de la densité de récepteurs (haute densité = petit champ récepteur = haute résolution) et varie selon les régions corporelles (très bas au bout des doigts, élevé dans le dos). Il dépend aussi de l'entraînement, de la fatigue et du stress.",
+      "correct": ["Le plus petit écart entre deux points perceptibles simultanément"],
+      "wrong": ["Le délai minimal entre deux stimulations pour les distinguer dans le temps", "L'amplitude minimale d'une vibration pour être détectée", "La fréquence minimale d'une vibration perceptible", "La pression minimale nécessaire pour activer un mécanorécepteur", "La vitesse minimale de déplacement détectable sur la peau", "La température minimale de changement perceptible", "La surface minimale de contact cutané nécessaire à la détection"]
+    },
+    {
+      "id": 12,
+      "text": "L'acuité temporelle du toucher se définit comme :",
+      "explanation": "L'acuité temporelle du toucher est le délai nécessaire pour que deux stimulations rapprochées soient perçues comme distinctes. Au même point du bout des doigts, il faut 5,5 ms d'écart pour les percevoir comme différentes. À deux endroits espacés, il faut 20 ms pour déterminer leur ordre chronologique.",
+      "correct": ["Le délai nécessaire pour que deux stimulations rapprochées soient perçues comme distinctes"],
+      "wrong": ["Le plus petit écart spatial entre deux points que l'on peut différencier", "L'amplitude minimale d'une vibration détectable", "La durée maximale d'activation d'un récepteur phasique", "La vitesse de conduction des fibres Aβ vers le cortex", "La fréquence optimale de réponse des corpuscules de Pacini", "Le délai de latence entre le stimulus et la perception corticale", "La durée minimale d'un stimulus pour être perçu"]
+    },
+    {
+      "id": 13,
+      "text": "Pour deux stimulations appliquées au même point du bout des doigts, quel est l'intervalle minimal pour les percevoir comme distinctes ?",
+      "explanation": "Deux stimulations appliquées au même point du bout des doigts doivent être espacées de 5,5 ms pour être perçues comme deux excitations distinctes. En revanche, pour des stimulations à deux endroits différents, il faut 20 ms pour pouvoir déterminer leur ordre chronologique.",
+      "correct": ["5,5 ms"],
+      "wrong": ["20 ms", "1 ms", "10 ms", "50 ms", "100 ms", "2 ms", "30 ms"]
+    },
+    {
+      "id": 14,
+      "text": "La qualité perceptive d'un récepteur tactile dépend de :",
+      "explanation": "La qualité perceptive d'un récepteur est déterminée par ses propriétés propres ET par la localisation de ses projections centrales. L'aspect quantitatif (intensité du stimulus) est exprimé par la fréquence des PA générés au niveau du récepteur.",
+      "correct": ["Ses propriétés intrinsèques", "La localisation de ses projections centrales"],
+      "wrong": ["Uniquement de sa localisation anatomique dans la peau", "Uniquement de la nature chimique du stimulus", "De la taille de la fibre nerveuse associée uniquement", "De la présence obligatoire d'une capsule conjonctive", "Du niveau d'oxygénation tissulaire local", "De la température locale de la peau uniquement"]
+    },
+    {
+      "id": 15,
+      "text": "La voie des colonnes dorsales (voie lemniscale) véhicule :",
+      "explanation": "La voie des colonnes dorsales (lemnisque médian) transporte les informations discriminatives (épicritiques) : toucher précis, pression, vibration et proprioception consciente. Ces informations sont issues des mécanorécepteurs tactiles et véhiculées par les grosses fibres myélinisées de type Aβ à seuil d'activation bas. La douleur et la thermique empruntent la voie spinothalamique.",
+      "correct": ["Les informations tactiles discriminatives (épicritiques)", "Les informations proprioceptives conscientes"],
+      "wrong": ["Les informations nociceptives", "Les informations thermiques", "Le toucher protopathique (grossier)", "Les informations gustatives", "Les informations provenant uniquement de la face", "Les informations vestibulaires"]
+    },
+    {
+      "id": 16,
+      "text": "Dans la voie des colonnes dorsales, le protoneurone (neurone de 1er ordre) :",
+      "explanation": "Le protoneurone de la voie des colonnes dorsales est une grosse fibre myélinisée de type Aβ. Il n'effectue pas de relais dans la moelle et remonte ipsilatéralement (homolatéralement) directement vers le tronc cérébral. Il émet des collatérales vers plusieurs segments spinaux pour les réflexes segmentaires. Son corps cellulaire est dans le ganglion spinal.",
+      "correct": ["Ne fait pas de relais dans la moelle", "Monte ipsilatéralement vers le tronc cérébral"],
+      "wrong": ["Décusse immédiatement dans la moelle", "Monte controlatéralement vers le tronc", "Fait une synapse dans les cornes ventrales de la moelle", "Est de type amyélinique (fibre C)", "Est de type Aδ à seuil élevé", "A son corps cellulaire dans le ganglion géniculé"]
+    },
+    {
+      "id": 17,
+      "text": "Les faisceaux gracile et cunéiforme de la voie lemniscale présentent une organisation somatotopique :",
+      "explanation": "Le faisceau gracile (en position médiane) transporte les informations de la partie inférieure du corps (en dessous de T6). Le faisceau cunéiforme (en position latérale) transporte les informations de la partie supérieure du corps (au-dessus de T6). Cette organisation somatotopique est maintenue tout au long de la voie.",
+      "correct": ["Le faisceau gracile transporte les informations sous T6 (partie inférieure)", "Le faisceau cunéiforme transporte les informations au-dessus de T6 (partie supérieure)"],
+      "wrong": ["Le faisceau gracile est en position latérale", "Le faisceau cunéiforme est en position médiane", "Le faisceau gracile transporte les informations de la face", "Le faisceau cunéiforme transporte les informations en dessous de T6", "Les deux faisceaux transportent des informations indifférenciées sans somatotopie", "Le faisceau gracile transporte les informations proprioceptives uniquement"]
+    },
+    {
+      "id": 18,
+      "text": "La décussation (croisement) dans la voie des colonnes dorsales a lieu :",
+      "explanation": "Dans la voie lemniscale, la décussation se fait au niveau de la région inférieure du bulbe rachidien, au niveau des noyaux gracile et cunéiforme où se trouve le neurone de 2e ordre (deutoneurone). L'axone du deutoneurone décusse et forme le lemnisque médian qui se projette sur le noyau VPL du thalamus.",
+      "correct": ["Au niveau du bulbe rachidien (noyaux gracile et cunéiforme)"],
+      "wrong": ["Au niveau de la moelle épinière (comme la voie spinothalamique)", "Au niveau du pont (protubérance)", "Au niveau du mésencéphale", "Au niveau du thalamus", "Au niveau du cortex somesthésique primaire", "Il n'y a pas de décussation dans cette voie", "Au niveau de la corne dorsale médullaire"]
+    },
+    {
+      "id": 19,
+      "text": "Le relais thalamique de la sensibilité tactile discriminative du corps est localisé au niveau du :",
+      "explanation": "La voie lemniscale se projette dans le noyau VPL (ventro-postéro-latéral) du thalamus après sa décussation au niveau du bulbe. Le noyau VPM (ventro-postéro-médian) reçoit les informations de la face via le système trigéminal. Le neurone de 3e ordre (thalamo-cortical) rejoint ensuite le cortex somesthésique primaire (SI) situé dans le gyrus post-central.",
+      "correct": ["Noyau VPL du thalamus"],
+      "wrong": ["Noyau VPM du thalamus", "Noyau médio-dorsal du thalamus", "Corps genouillé latéral (CGL)", "Corps genouillé médian (CGM)", "Noyau antérieur du thalamus", "Noyau pulvinar", "Noyau centromédian du thalamus"]
+    },
+    {
+      "id": 20,
+      "text": "Pour les informations tactiles de la face, le relais thalamique est :",
+      "explanation": "Les informations tactiles de la face transitent par le système trigéminal (V). Le noyau principal du trijumeau traite les stimulations mécaniques, le noyau spinal traite les stimulations nociceptives et thermiques. Le deutoneurone décusse et projette dans le noyau VPM (ventro-postéro-médian) du thalamus, puis le 3e neurone rejoint le cortex somesthésique primaire.",
+      "correct": ["Le noyau VPM (ventro-postéro-médian) du thalamus"],
+      "wrong": ["Le noyau VPL du thalamus", "Le corps genouillé latéral", "Le noyau médio-dorsal du thalamus", "Le noyau antérieur du thalamus", "Le colliculus inférieur", "Le noyau parabrachial", "Le corps genouillé médian"]
+    },
+    {
+      "id": 21,
+      "text": "Les corps cellulaires des mécanorécepteurs de la face (neurones de 1er ordre du système trigéminal) sont situés dans :",
+      "explanation": "Les corps cellulaires des mécanorécepteurs de la face (protoneurones du système trigéminal) forment le ganglion de Gasser (ganglion semi-lunaire ou trigéminal). Leurs prolongements périphériques constituent les branches ophtalmique (V1), maxillaire (V2) et mandibulaire (V3) du trijumeau.",
+      "correct": ["Le ganglion de Gasser"],
+      "wrong": ["Le ganglion géniculé", "Le ganglion de Scarpa", "Le ganglion spiral de Corti", "Le ganglion d'Andersch", "Le ganglion plexiforme", "Le ganglion nodeux", "Le ganglion spinal"]
+    },
+    {
+      "id": 22,
+      "text": "Le noyau sensitif principal du trijumeau se distingue du noyau spinal par :",
+      "explanation": "Le complexe sensitif trigéminal a deux composantes principales : le noyau principal (ou noyau sensitif principal) qui prend en charge les stimulations mécaniques (tactiles), et le noyau spinal qui s'occupe des stimulations nociceptives et thermiques. C'est la même logique que colonnes dorsales (mécanique) vs spinothalamique (douleur/thermique) pour le corps.",
+      "correct": ["Il prend en charge les stimulations mécaniques (tactiles) de la face"],
+      "wrong": ["Il prend en charge les stimulations nociceptives de la face", "Il traite les informations thermiques de la face", "Il projette vers le noyau VPL du thalamus", "Il est situé dans la moelle épinière cervicale", "Il constitue le seul noyau sensitif du trijumeau", "Il prend en charge les informations gustatives", "Il traite les informations proprioceptives de la langue"]
+    },
+    {
+      "id": 23,
+      "text": "Il faut combien de neurones pour transmettre une information tactile de la peau jusqu'au cortex ?",
+      "explanation": "La voie somesthésique lemniscale comprend 3 neurones : le protoneurone (1er ordre, corps cellulaire dans le ganglion spinal), le deutoneurone (2e ordre, décusse au niveau du bulbe et forme le lemnisque médian), et le neurone thalamo-cortical (3e ordre, du VPL/VPM vers le cortex somesthésique primaire).",
+      "correct": ["3 neurones (protoneurone, deutoneurone, neurone thalamo-cortical)"],
+      "wrong": ["2 neurones", "4 neurones", "5 neurones", "1 neurone direct", "6 neurones", "3 neurones mais avec décussation dès la moelle", "2 neurones avec relais unique au thalamus"]
+    },
+    {
+      "id": 24,
+      "text": "Le cortex somesthésique primaire (SI) est localisé dans :",
+      "explanation": "Le cortex somesthésique primaire (SI) est localisé dans le gyrus post-central (en arrière du sillon central). Il est organisé en quatre aires (1, 2, 3a, 3b) et présente une somatotopie représentée par l'Homonculus de Penfield. Il est organisé en colonnes corticales.",
+      "correct": ["Le gyrus post-central (en arrière du sillon central)"],
+      "wrong": ["Le gyrus pré-central (en avant du sillon central)", "Le lobe temporal supérieur", "Le gyrus cingulaire", "Le cortex insulaire", "Le lobe occipital", "L'opercule pariétal", "Le lobe frontal inférieur"]
+    },
+    {
+      "id": 25,
+      "text": "L'organisation fonctionnelle des aires du cortex somesthésique primaire (SI) est telle que :",
+      "explanation": "Le SI comprend 4 aires : 3b et 1 traitent les informations cutanées, 3a traite la proprioception, et l'aire 2 traite les deux types. Une lésion de l'aire 3b entraîne un déficit de discrimination de textures et formes pour les doigts, une lésion de l'aire 2 entraîne des troubles de la coordination des doigts.",
+      "correct": ["Les aires 3b et 1 traitent les informations cutanées", "L'aire 3a traite la proprioception", "L'aire 2 traite à la fois les informations cutanées et proprioceptives"],
+      "wrong": ["L'aire 3a traite les informations cutanées uniquement", "L'aire 1 traite exclusivement la proprioception", "L'aire 2 traite uniquement la nociception", "Les 4 aires ont des fonctions identiques", "L'aire 3b traite les informations de la face exclusivement"]
+    },
+    {
+      "id": 26,
+      "text": "L'organisation en colonnes corticales du cortex somesthésique primaire implique que :",
+      "explanation": "Dans le cortex SI, les neurones d'une même colonne sont activés par un même type de récepteur sensoriel. Les cellules répondant au même type de stimulation forment des colonnes traversant l'ensemble des couches corticales. Cette organisation est similaire à celle observée dans d'autres cortex primaires.",
+      "correct": ["Les neurones d'une colonne répondent à un même type de récepteur"],
+      "wrong": ["Les neurones d'une colonne répondent à toutes les modalités tactiles", "Les colonnes organisent l'information selon la fréquence vibratoire uniquement", "Il n'existe pas d'organisation en colonnes dans le cortex somesthésique", "Chaque colonne correspond à un dermatome entier", "Les colonnes sont organisées selon la température du stimulus", "Chaque colonne reçoit exclusivement des informations du côté droit du corps"]
+    },
+    {
+      "id": 27,
+      "text": "L'Homonculus de Penfield représente :",
+      "explanation": "L'Homonculus de Penfield est une représentation de la somatotopie du cortex somesthésique primaire (SI). La taille de chaque région corporelle dans l'Homonculus est proportionnelle à la densité de récepteurs tactiles et à la surface corticale qui lui est dédiée (doigts, lèvres et langue y sont disproportionnellement grands).",
+      "correct": ["La somatotopie du cortex somesthésique primaire (SI)"],
+      "wrong": ["La carte motrice du cortex moteur primaire uniquement", "La représentation des champs récepteurs dans le thalamus", "La distribution anatomique des dermatomes sur le corps", "La carte des projections olfactives corticales", "La représentation des voies proprioceptives dans la moelle", "La cartographie des mécanorécepteurs cutanés en périphérie", "La topographie des noyaux du tronc cérébral"]
+    },
+    {
+      "id": 28,
+      "text": "Le cortex somesthésique primaire (SI) projette vers :",
+      "explanation": "SI projette vers l'aire somesthésique secondaire (SII) adjacente, vers les aires motrices du lobe frontal (qui projettent en retour sur SI), vers les structures limbiques (amygdale, hippocampe) pour l'apprentissage et la mémoire tactile, et vers le thalamus, le tronc et la moelle pour la modulation des informations ascendantes.",
+      "correct": ["L'aire somesthésique secondaire (SII)", "Les structures limbiques (amygdale, hippocampe)", "Les aires motrices du lobe frontal"],
+      "wrong": ["Le cervelet directement", "Le bulbe olfactif", "Le cortex visuel primaire (V1) directement", "Le noyau cochléaire", "Le cortex piriforme"]
+    },
+    {
+      "id": 29,
+      "text": "La voie spinothalamique (voie antérolatérale) pour le toucher protopathique se distingue de la voie des colonnes dorsales par :",
+      "explanation": "La voie spinothalamique intéresse le toucher protopathique (grossier), associé aux voies de la douleur et de la température. Le deutoneurone fait une synapse dans les cornes dorsales de la moelle, décusse dans la moelle (et non au bulbe), puis remonte vers le thalamus. Il se projette sur les noyaux intralaminaires et le VPL du thalamus.",
+      "correct": ["La synapse du deutoneurone dans les cornes dorsales de la moelle", "La décussation se fait dans la moelle (et non au bulbe)"],
+      "wrong": ["Elle ne fait aucune synapse médullaire", "Elle monte ipsilatéralement sans croisement", "Elle transporte exclusivement des informations proprioceptives", "Elle se projette dans le noyau VPM du thalamus uniquement", "Elle est composée de grosses fibres myélinisées Aβ comme la voie lemniscale", "Elle n'a pas de relais thalamique"]
+    },
+    {
+      "id": 30,
+      "text": "La plasticité du cortex somesthésique primaire signifie que :",
+      "explanation": "Les aires corticales somesthésiques sont dynamiques et dépendent des informations reçues. Des modifications d'entrées (ex : amputation d'un doigt) amènent à des changements dans la topographie des cartes corticales. Cette plasticité a été démontrée par de nombreuses expériences, notamment chez le singe après amputation de doigt.",
+      "correct": ["Les modifications d'entrées sensorielles entraînent des changements de topographie corticale", "La carte somatotopique peut se réorganiser suite à une perte d'afférences"],
+      "wrong": ["La carte corticale somesthésique est rigide et invariable tout au long de la vie", "La plasticité ne concerne que le cortex moteur primaire", "Les modifications d'entrées n'affectent que les relais périphériques", "La plasticité est uniquement observée chez le nouveau-né", "La réorganisation corticale est impossible après l'âge de 5 ans", "La plasticité n'a été démontrée que chez l'espèce humaine"]
+    }
+  ]
+}
