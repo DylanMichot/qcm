@@ -956,21 +956,10 @@ function buildCard(q, qIdx) {
     submitWrap.appendChild(btn);
   } else {
     const isPerf = s.score === 1;
-    const pct = Math.round(s.score * 100);
-
-    const wrongSelected = q.options.filter((o, i) => !o.correct && s.selected.has(i)).length;
-    const missedCorrect = q.options.filter((o, i) => o.correct && !s.selected.has(i)).length;
 
     const msg = document.createElement('div');
     msg.className = `result-msg ${isPerf ? 'ok' : 'ko'}`;
-    if (isPerf) {
-      msg.textContent = '✓ Parfait !';
-    } else {
-      const parts = [];
-      if (wrongSelected > 0) parts.push(`${wrongSelected} mauvaise${wrongSelected > 1 ? 's' : ''} sélection${wrongSelected > 1 ? 's' : ''}`);
-      if (missedCorrect > 0) parts.push(`${missedCorrect} omission${missedCorrect > 1 ? 's' : ''}`);
-      msg.textContent = `${pct} %` + (parts.length ? ' — ' + parts.join(' · ') : '');
-    }
+    msg.textContent = isPerf ? '✓ Parfait !' : parseFloat(s.score.toFixed(2)).toString();
     submitWrap.appendChild(msg);
 
     if (q.explanation) {
@@ -1051,14 +1040,18 @@ function showSummary() {
   summary.classList.add('visible');
 
   const total     = activeQuestions.length;
-  const pct       = Math.round(totalScore / total * 100);
+  const score20   = parseFloat((totalScore / total * 20).toFixed(2));
   const perfCount = activeQuestions.filter((_, i) => questionStates[i].score === 1).length;
 
-  document.getElementById('finalScore').textContent = `${pct}%`;
+  document.getElementById('finalScore').textContent = score20.toString();
   document.getElementById('finalSub').textContent =
-    `${perfCount} / ${total} questions parfaites`;
+    `/ 20 — ${perfCount} question${perfCount > 1 ? 's' : ''} parfaite${perfCount > 1 ? 's' : ''}`;
 
-  const mention = pct >= 85 ? 'Excellent !' : pct >= 70 ? 'Bien joué' : pct >= 55 ? 'Passable' : 'À retravailler';
+  const mention = score20 >= 16 ? 'Très bien'
+                : score20 >= 14 ? 'Bien'
+                : score20 >= 12 ? 'Assez bien'
+                : score20 >= 10 ? 'Passable'
+                : 'Nul';
 
   document.getElementById('scoreBreakdown').innerHTML = `
     <div class="stat-grid">
@@ -1088,8 +1081,8 @@ function updateProgress() {
   document.getElementById('progressText').textContent = `${answered} / ${total}`;
 
   if (answered > 0) {
-    const pctSoFar = Math.round(totalScore / answered * 100);
-    document.getElementById('scoreBadge').textContent = `Score : ${pctSoFar}%`;
+    const scoreSoFar = parseFloat((totalScore / answered * 20).toFixed(1));
+    document.getElementById('scoreBadge').textContent = `Score : ${scoreSoFar} / 20`;
   } else {
     document.getElementById('scoreBadge').textContent = 'Score : —';
   }
