@@ -4,7 +4,13 @@
       "file": "ch5-gustation.json",
       "subject": "Neurophysiologie – Psychomotricité",
       "tag": "Ch5 – Gustation",
-      "description": "30 questions de niveau expert sur la gustation : anatomie linguale, bourgeons gustatifs, transduction, voies nerveuses. Préparation aux partiels."
+      "description": "30 questions de niveau expert sur la gustation"
+    },
+    {
+      "file": "ch6-olfaction.json",
+      "subject": "Neurophysiologie – Psychomotricité",
+      "tag": "Ch6 – Olfaction",
+      "description": "30 questions de niveau expert sur l'olfaction"
     }
   ]
 }
