@@ -1,0 +1,867 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>QCM – Troubles Sensoriels & TSA</title>
+<link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=DM+Mono:wght@400;500&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #0f0e17;
+    --surface: #1a1828;
+    --surface2: #231f35;
+    --border: #2e2a45;
+    --accent: #c8b6ff;
+    --accent2: #ff6b9d;
+    --gold: #f4c542;
+    --green: #6ee7b7;
+    --red: #ff6b6b;
+    --text: #e8e4f0;
+    --muted: #7b7490;
+    --radius: 12px;
+  }
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 300;
+    min-height: 100vh;
+    padding: 0 0 80px;
+  }
+
+  /* Background texture */
+  body::before {
+    content: '';
+    position: fixed;
+    inset: 0;
+    background:
+      radial-gradient(ellipse 80% 60% at 20% 10%, rgba(200,182,255,0.07) 0%, transparent 60%),
+      radial-gradient(ellipse 60% 80% at 80% 90%, rgba(255,107,157,0.05) 0%, transparent 60%);
+    pointer-events: none;
+    z-index: 0;
+  }
+
+  header {
+    position: relative;
+    z-index: 1;
+    padding: 56px 24px 40px;
+    text-align: center;
+    border-bottom: 1px solid var(--border);
+    background: linear-gradient(180deg, rgba(200,182,255,0.04) 0%, transparent 100%);
+  }
+
+  .header-tag {
+    display: inline-block;
+    font-family: 'DM Mono', monospace;
+    font-size: 11px;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    color: var(--accent);
+    background: rgba(200,182,255,0.1);
+    border: 1px solid rgba(200,182,255,0.25);
+    padding: 5px 14px;
+    border-radius: 100px;
+    margin-bottom: 20px;
+  }
+
+  h1 {
+    font-family: 'DM Serif Display', serif;
+    font-size: clamp(28px, 5vw, 48px);
+    font-weight: 400;
+    line-height: 1.15;
+    color: var(--text);
+    margin-bottom: 10px;
+  }
+
+  h1 em {
+    font-style: italic;
+    color: var(--accent);
+  }
+
+  .subtitle {
+    color: var(--muted);
+    font-size: 15px;
+    margin-top: 8px;
+  }
+
+  /* Progress bar */
+  .progress-wrap {
+    position: sticky;
+    top: 0;
+    z-index: 10;
+    background: rgba(15,14,23,0.9);
+    backdrop-filter: blur(12px);
+    border-bottom: 1px solid var(--border);
+    padding: 10px 24px;
+    display: flex;
+    align-items: center;
+    gap: 14px;
+  }
+
+  .progress-bar {
+    flex: 1;
+    height: 4px;
+    background: var(--border);
+    border-radius: 100px;
+    overflow: hidden;
+  }
+
+  .progress-fill {
+    height: 100%;
+    background: linear-gradient(90deg, var(--accent), var(--accent2));
+    border-radius: 100px;
+    transition: width 0.4s ease;
+    width: 0%;
+  }
+
+  .progress-text {
+    font-family: 'DM Mono', monospace;
+    font-size: 12px;
+    color: var(--muted);
+    white-space: nowrap;
+  }
+
+  .score-badge {
+    font-family: 'DM Mono', monospace;
+    font-size: 12px;
+    color: var(--gold);
+    background: rgba(244,197,66,0.1);
+    border: 1px solid rgba(244,197,66,0.25);
+    padding: 3px 10px;
+    border-radius: 100px;
+    white-space: nowrap;
+  }
+
+  /* Main content */
+  main {
+    position: relative;
+    z-index: 1;
+    max-width: 760px;
+    margin: 0 auto;
+    padding: 40px 24px 0;
+    display: flex;
+    flex-direction: column;
+    gap: 28px;
+  }
+
+  /* Question card */
+  .question-card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    overflow: hidden;
+    transition: border-color 0.3s;
+  }
+
+  .question-card.answered {
+    border-color: rgba(200,182,255,0.3);
+  }
+
+  .question-card.correct-all {
+    border-color: rgba(110,231,183,0.4);
+  }
+
+  .question-card.wrong {
+    border-color: rgba(255,107,107,0.3);
+  }
+
+  .question-header {
+    display: flex;
+    align-items: flex-start;
+    gap: 14px;
+    padding: 20px 22px;
+    background: var(--surface2);
+    border-bottom: 1px solid var(--border);
+  }
+
+  .q-number {
+    font-family: 'DM Mono', monospace;
+    font-size: 11px;
+    color: var(--accent);
+    background: rgba(200,182,255,0.12);
+    border: 1px solid rgba(200,182,255,0.2);
+    padding: 4px 10px;
+    border-radius: 100px;
+    white-space: nowrap;
+    margin-top: 2px;
+  }
+
+  .q-text {
+    font-size: 15px;
+    line-height: 1.55;
+    color: var(--text);
+  }
+
+  .q-hint {
+    font-family: 'DM Mono', monospace;
+    font-size: 11px;
+    color: var(--muted);
+    margin-top: 5px;
+  }
+
+  .options-list {
+    padding: 14px 16px;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+  }
+
+  .option-btn {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    width: 100%;
+    background: transparent;
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 12px 16px;
+    cursor: pointer;
+    text-align: left;
+    transition: all 0.2s;
+    color: var(--text);
+    font-family: 'DM Sans', sans-serif;
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 1.4;
+  }
+
+  .option-btn:hover:not(:disabled) {
+    background: rgba(200,182,255,0.06);
+    border-color: rgba(200,182,255,0.35);
+    transform: translateX(3px);
+  }
+
+  .option-btn:disabled {
+    cursor: default;
+  }
+
+  .option-letter {
+    font-family: 'DM Mono', monospace;
+    font-size: 12px;
+    font-weight: 500;
+    color: var(--muted);
+    min-width: 22px;
+    height: 22px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid var(--border);
+    border-radius: 5px;
+    transition: all 0.2s;
+    flex-shrink: 0;
+  }
+
+  .option-btn.selected .option-letter {
+    background: var(--accent);
+    color: var(--bg);
+    border-color: var(--accent);
+  }
+
+  .option-btn.selected {
+    background: rgba(200,182,255,0.08);
+    border-color: rgba(200,182,255,0.5);
+  }
+
+  /* After submit */
+  .option-btn.reveal-correct {
+    background: rgba(110,231,183,0.08);
+    border-color: rgba(110,231,183,0.5);
+    color: var(--green);
+  }
+
+  .option-btn.reveal-correct .option-letter {
+    background: var(--green);
+    color: var(--bg);
+    border-color: var(--green);
+  }
+
+  .option-btn.reveal-wrong {
+    background: rgba(255,107,107,0.08);
+    border-color: rgba(255,107,107,0.4);
+    color: var(--red);
+  }
+
+  .option-btn.reveal-wrong .option-letter {
+    background: var(--red);
+    color: #fff;
+    border-color: var(--red);
+  }
+
+  .option-btn.reveal-missed {
+    background: rgba(244,197,66,0.07);
+    border-color: rgba(244,197,66,0.4);
+    color: var(--gold);
+  }
+
+  .option-btn.reveal-missed .option-letter {
+    background: var(--gold);
+    color: var(--bg);
+    border-color: var(--gold);
+  }
+
+  .option-icon {
+    margin-left: auto;
+    font-size: 15px;
+    flex-shrink: 0;
+  }
+
+  /* Submit button */
+  .submit-wrap {
+    padding: 6px 16px 16px;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+  }
+
+  .submit-btn {
+    background: var(--accent);
+    color: var(--bg);
+    border: none;
+    border-radius: 8px;
+    padding: 10px 22px;
+    font-family: 'DM Sans', sans-serif;
+    font-size: 13px;
+    font-weight: 500;
+    cursor: pointer;
+    transition: all 0.2s;
+  }
+
+  .submit-btn:hover:not(:disabled) {
+    background: #d9caff;
+    transform: translateY(-1px);
+  }
+
+  .submit-btn:disabled {
+    opacity: 0.4;
+    cursor: default;
+    transform: none;
+  }
+
+  .result-msg {
+    font-family: 'DM Mono', monospace;
+    font-size: 12px;
+    padding: 6px 12px;
+    border-radius: 6px;
+  }
+
+  .result-msg.ok {
+    color: var(--green);
+    background: rgba(110,231,183,0.1);
+    border: 1px solid rgba(110,231,183,0.25);
+  }
+
+  .result-msg.ko {
+    color: var(--red);
+    background: rgba(255,107,107,0.1);
+    border: 1px solid rgba(255,107,107,0.25);
+  }
+
+  /* Final summary */
+  #summary {
+    display: none;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    padding: 36px 28px;
+    text-align: center;
+  }
+
+  #summary.visible { display: block; }
+
+  #summary h2 {
+    font-family: 'DM Serif Display', serif;
+    font-size: 30px;
+    font-weight: 400;
+    margin-bottom: 8px;
+  }
+
+  #summary .big-score {
+    font-family: 'DM Mono', monospace;
+    font-size: 56px;
+    color: var(--accent);
+    margin: 16px 0 8px;
+    line-height: 1;
+  }
+
+  #summary .score-sub {
+    color: var(--muted);
+    font-size: 14px;
+    margin-bottom: 28px;
+  }
+
+  .restart-btn {
+    background: transparent;
+    border: 1px solid var(--accent);
+    color: var(--accent);
+    border-radius: 8px;
+    padding: 10px 28px;
+    font-family: 'DM Sans', sans-serif;
+    font-size: 14px;
+    cursor: pointer;
+    transition: all 0.2s;
+  }
+
+  .restart-btn:hover {
+    background: rgba(200,182,255,0.1);
+    transform: translateY(-1px);
+  }
+
+  @media (max-width: 480px) {
+    .question-header { flex-direction: column; gap: 8px; }
+    .q-number { align-self: flex-start; }
+    .option-btn { padding: 10px 12px; font-size: 13px; }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="header-tag">Orthophonie · Évaluation sensorielle</div>
+  <h1>Troubles Sensoriels<br>& <em>TSA</em></h1>
+  <p class="subtitle">20 questions à choix multiples — cochez toutes les bonnes réponses</p>
+</header>
+
+<div class="progress-wrap">
+  <div class="progress-bar"><div class="progress-fill" id="progressFill"></div></div>
+  <span class="progress-text" id="progressText">0 / 20</span>
+  <span class="score-badge" id="scoreBadge">Score : 0</span>
+</div>
+
+<main id="quizContainer"></main>
+
+<script>
+const questions = [
+  {
+    id: 1,
+    text: "Concernant la relation entre troubles sensoriels et TSA :",
+    n: 2,
+    options: [
+      { letter: "A", text: "Les troubles sensoriels diminuent avec l'âge", correct: false },
+      { letter: "B", text: "Leur fréquence reste élevée quel que soit l'âge", correct: true },
+      { letter: "C", text: "Ils sont indépendants de la sévérité du trouble", correct: false },
+      { letter: "D", text: "Ils participent à la sévérité du tableau clinique", correct: true },
+    ]
+  },
+  {
+    id: 2,
+    text: "Concernant le profil sensoriel de Dunn :",
+    n: 3,
+    options: [
+      { letter: "A", text: "Il permet d'objectiver des comportements observés dans le quotidien", correct: true },
+      { letter: "B", text: "Il repose uniquement sur des observations en cabinet", correct: false },
+      { letter: "C", text: "Il intègre une dimension écologique de l'évaluation", correct: true },
+      { letter: "D", text: "Il peut orienter des adaptations environnementales", correct: true },
+    ]
+  },
+  {
+    id: 3,
+    text: "Une limite importante du profil sensoriel est :",
+    n: 2,
+    options: [
+      { letter: "A", text: "Son absence de standardisation", correct: false },
+      { letter: "B", text: "Sa subjectivité liée aux répondants", correct: true },
+      { letter: "C", text: "Son impossibilité d'être utilisé chez l'enfant", correct: false },
+      { letter: "D", text: "Sa dépendance à l'observation indirecte", correct: true },
+    ]
+  },
+  {
+    id: 4,
+    text: "Concernant l'intégration sensorielle selon Ayres :",
+    n: 3,
+    options: [
+      { letter: "A", text: "Elle permet de transformer une information brute en réponse adaptée", correct: true },
+      { letter: "B", text: "Elle concerne uniquement les sens externes", correct: false },
+      { letter: "C", text: "Elle participe à l'organisation du comportement", correct: true },
+      { letter: "D", text: "Elle repose sur un traitement neurologique des stimuli", correct: true },
+    ]
+  },
+  {
+    id: 5,
+    text: "Une mauvaise intégration sensorielle peut entraîner :",
+    n: 2,
+    options: [
+      { letter: "A", text: "Des réponses comportementales inadaptées", correct: true },
+      { letter: "B", text: "Une amélioration de l'autorégulation", correct: false },
+      { letter: "C", text: "Des difficultés dans la vie quotidienne", correct: true },
+      { letter: "D", text: "Une suppression des stimuli", correct: false },
+    ]
+  },
+  {
+    id: 6,
+    text: "Dans une logique clinique, une indifférence à la douleur peut traduire :",
+    n: 3,
+    options: [
+      { letter: "A", text: "Une hyposensibilité", correct: true },
+      { letter: "B", text: "Une hypersensibilité", correct: false },
+      { letter: "C", text: "Un seuil neurologique élevé", correct: true },
+      { letter: "D", text: "Une difficulté d'intégration sensorielle", correct: true },
+    ]
+  },
+  {
+    id: 7,
+    text: "Concernant les seuils sensoriels :",
+    n: 2,
+    options: [
+      { letter: "A", text: "Ils déterminent la quantité de stimulation nécessaire pour réagir", correct: true },
+      { letter: "B", text: "Ils sont indépendants des stratégies comportementales", correct: false },
+      { letter: "C", text: "Ils interagissent avec les réponses comportementales", correct: true },
+      { letter: "D", text: "Ils sont identiques pour tous les sens", correct: false },
+    ]
+  },
+  {
+    id: 8,
+    text: "Une personne hypersensible peut :",
+    n: 3,
+    options: [
+      { letter: "A", text: "Éviter certaines situations sensorielles", correct: true },
+      { letter: "B", text: "Être rapidement submergée par les stimuli", correct: true },
+      { letter: "C", text: "Rechercher fortement les stimulations", correct: false },
+      { letter: "D", text: "Présenter des réactions émotionnelles intenses", correct: true },
+    ]
+  },
+  {
+    id: 9,
+    text: "Une personne hyposensible peut :",
+    n: 3,
+    options: [
+      { letter: "A", text: "Rechercher des sensations fortes", correct: true },
+      { letter: "B", text: "Avoir un seuil de détection élevé", correct: true },
+      { letter: "C", text: "Être en sous-stimulation", correct: false },
+      { letter: "D", text: "Manquer certaines informations sensorielles", correct: true },
+    ]
+  },
+  {
+    id: 10,
+    text: "La modulation sensorielle efficace permet :",
+    n: 3,
+    options: [
+      { letter: "A", text: "D'ignorer les stimuli non pertinents", correct: true },
+      { letter: "B", text: "De répondre de manière adaptée à l'environnement", correct: true },
+      { letter: "C", text: "De percevoir tous les stimuli de manière égale", correct: false },
+      { letter: "D", text: "D'ajuster les réponses grâce à l'excitation/inhibition", correct: true },
+    ]
+  },
+  {
+    id: 11,
+    text: "Une mauvaise modulation peut entraîner :",
+    n: 2,
+    options: [
+      { letter: "A", text: "Une désorganisation comportementale", correct: true },
+      { letter: "B", text: "Une adaptation optimale", correct: false },
+      { letter: "C", text: "Une hypersélectivité sensorielle possible", correct: true },
+      { letter: "D", text: "Une neutralité émotionnelle", correct: false },
+    ]
+  },
+  {
+    id: 12,
+    text: "L'autorégulation implique :",
+    n: 3,
+    options: [
+      { letter: "A", text: "Des processus conscients et inconscients", correct: true },
+      { letter: "B", text: "Une adaptation au niveau d'éveil nécessaire à la tâche", correct: true },
+      { letter: "C", text: "Une suppression des besoins sensoriels", correct: false },
+      { letter: "D", text: "Une organisation des comportements attentionnels, moteurs et émotionnels", correct: true },
+    ]
+  },
+  {
+    id: 13,
+    text: "Concernant les profils de Dunn :",
+    n: 3,
+    options: [
+      { letter: "A", text: "Ils combinent seuils sensoriels et stratégies d'autorégulation", correct: true },
+      { letter: "B", text: "Ils permettent une lecture fonctionnelle des comportements", correct: true },
+      { letter: "C", text: "Ils sont figés dans le temps", correct: false },
+      { letter: "D", text: "Ils distinguent des stratégies actives et passives", correct: true },
+    ]
+  },
+  {
+    id: 14,
+    text: "Le système vestibulaire est impliqué dans :",
+    n: 2,
+    options: [
+      { letter: "A", text: "L'équilibre", correct: true },
+      { letter: "B", text: "La perception du mouvement", correct: true },
+      { letter: "C", text: "La vision", correct: false },
+      { letter: "D", text: "L'audition", correct: false },
+    ]
+  },
+  {
+    id: 15,
+    text: "L'intéroception comprend :",
+    n: 3,
+    options: [
+      { letter: "A", text: "La perception de la faim", correct: true },
+      { letter: "B", text: "La perception de la température externe", correct: false },
+      { letter: "C", text: "Les signaux internes physiologiques", correct: true },
+      { letter: "D", text: "Les sensations viscérales", correct: true },
+    ]
+  },
+  {
+    id: 16,
+    text: "Dans l'analyse des stéréotypies, il est pertinent de considérer :",
+    n: 3,
+    options: [
+      { letter: "A", text: "Leur fonction potentielle", correct: true },
+      { letter: "B", text: "Leur fréquence et intensité", correct: true },
+      { letter: "C", text: "Leur suppression systématique", correct: false },
+      { letter: "D", text: "Les facteurs environnementaux et somatiques", correct: true },
+    ]
+  },
+  {
+    id: 17,
+    text: "Une stéréotypie peut être considérée comme « organisante » si :",
+    n: 2,
+    options: [
+      { letter: "A", text: "Elle aide à réguler l'état interne", correct: true },
+      { letter: "B", text: "Elle améliore l'adaptation à l'environnement", correct: true },
+      { letter: "C", text: "Elle est visible socialement", correct: false },
+      { letter: "D", text: "Elle est répétitive", correct: false },
+    ]
+  },
+  {
+    id: 18,
+    text: "Dans un profil d'évitement sensoriel, l'intervention doit :",
+    n: 3,
+    options: [
+      { letter: "A", text: "Respecter le seuil de tolérance", correct: true },
+      { letter: "B", text: "Introduire progressivement les stimuli", correct: true },
+      { letter: "C", text: "Forcer l'exposition pour habituer", correct: false },
+      { letter: "D", text: "Favoriser une habituation progressive", correct: true },
+    ]
+  },
+  {
+    id: 19,
+    text: "Dans un profil de recherche de sensations :",
+    n: 3,
+    options: [
+      { letter: "A", text: "L'enfant peut interrompre ses activités pour se stimuler", correct: true },
+      { letter: "B", text: "Il faut enrichir l'environnement sensoriel", correct: true },
+      { letter: "C", text: "Il faut réduire les stimulations", correct: false },
+      { letter: "D", text: "Cela vise à augmenter le niveau d'éveil", correct: true },
+    ]
+  },
+  {
+    id: 20,
+    text: "Une intervention sensorielle complète comprend :",
+    n: 3,
+    options: [
+      { letter: "A", text: "Une évaluation initiale", correct: true },
+      { letter: "B", text: "Une adaptation individualisée", correct: true },
+      { letter: "C", text: "Une réponse standardisée pour tous", correct: false },
+      { letter: "D", text: "Une réévaluation régulière", correct: true },
+    ]
+  }
+];
+
+// State
+const state = {};
+questions.forEach(q => { state[q.id] = { selected: new Set(), submitted: false }; });
+
+let totalScore = 0;
+let answeredCount = 0;
+
+function render() {
+  const container = document.getElementById('quizContainer');
+  container.innerHTML = '';
+
+  questions.forEach(q => {
+    const card = document.createElement('div');
+    card.className = 'question-card';
+    card.id = `card-${q.id}`;
+
+    // Header
+    const header = document.createElement('div');
+    header.className = 'question-header';
+    header.innerHTML = `
+      <span class="q-number">Q${String(q.id).padStart(2,'0')}</span>
+      <div>
+        <div class="q-text">${q.text}</div>
+        <div class="q-hint">${q.n} bonne${q.n > 1 ? 's' : ''} réponse${q.n > 1 ? 's' : ''}</div>
+      </div>
+    `;
+    card.appendChild(header);
+
+    // Options
+    const list = document.createElement('div');
+    list.className = 'options-list';
+
+    q.options.forEach((opt, i) => {
+      const btn = document.createElement('button');
+      btn.className = 'option-btn';
+      btn.dataset.qid = q.id;
+      btn.dataset.idx = i;
+      btn.disabled = state[q.id].submitted;
+
+      const s = state[q.id];
+
+      if (s.submitted) {
+        const wasSelected = s.selected.has(i);
+        if (opt.correct && wasSelected) btn.classList.add('reveal-correct');
+        else if (!opt.correct && wasSelected) btn.classList.add('reveal-wrong');
+        else if (opt.correct && !wasSelected) btn.classList.add('reveal-missed');
+      } else {
+        if (s.selected.has(i)) btn.classList.add('selected');
+      }
+
+      let icon = '';
+      if (s.submitted) {
+        const wasSelected = s.selected.has(i);
+        if (opt.correct && wasSelected) icon = '✓';
+        else if (!opt.correct && wasSelected) icon = '✗';
+        else if (opt.correct && !wasSelected) icon = '○';
+      }
+
+      btn.innerHTML = `
+        <span class="option-letter">${opt.letter}</span>
+        <span>${opt.text}</span>
+        ${icon ? `<span class="option-icon">${icon}</span>` : ''}
+      `;
+
+      if (!s.submitted) {
+        btn.addEventListener('click', () => toggleOption(q.id, i));
+      }
+
+      list.appendChild(btn);
+    });
+
+    card.appendChild(list);
+
+    // Submit row
+    const submitWrap = document.createElement('div');
+    submitWrap.className = 'submit-wrap';
+
+    if (!state[q.id].submitted) {
+      const submitBtn = document.createElement('button');
+      submitBtn.className = 'submit-btn';
+      submitBtn.textContent = 'Valider';
+      submitBtn.disabled = state[q.id].selected.size === 0;
+      submitBtn.addEventListener('click', () => submitQuestion(q.id));
+      submitWrap.appendChild(submitBtn);
+    } else {
+      // Show result message
+      const correctSelected = q.options.filter((o, i) => o.correct && state[q.id].selected.has(i)).length;
+      const wrongSelected = q.options.filter((o, i) => !o.correct && state[q.id].selected.has(i)).length;
+      const isFullCorrect = correctSelected === q.n && wrongSelected === 0;
+
+      const msg = document.createElement('div');
+      msg.className = `result-msg ${isFullCorrect ? 'ok' : 'ko'}`;
+      msg.textContent = isFullCorrect ? '✓ Parfait !' : `${correctSelected}/${q.n} correcte${correctSelected > 1 ? 's' : ''}${wrongSelected > 0 ? ` · ${wrongSelected} erreur${wrongSelected > 1 ? 's' : ''}` : ''}`;
+      submitWrap.appendChild(msg);
+    }
+
+    card.appendChild(submitWrap);
+    container.appendChild(card);
+  });
+
+  // Summary
+  const summary = document.createElement('div');
+  summary.id = 'summary';
+  summary.innerHTML = `
+    <h2>Résultat final</h2>
+    <div class="big-score" id="finalScore">—</div>
+    <div class="score-sub" id="finalSub">répondez à toutes les questions</div>
+    <button class="restart-btn" onclick="restart()">Recommencer</button>
+  `;
+  container.appendChild(summary);
+
+  updateProgress();
+}
+
+function toggleOption(qid, idx) {
+  const s = state[qid];
+  if (s.submitted) return;
+  if (s.selected.has(idx)) {
+    s.selected.delete(idx);
+  } else {
+    s.selected.add(idx);
+  }
+  // Re-render just this card
+  renderCard(qid);
+  updateProgress();
+}
+
+function renderCard(qid) {
+  const q = questions.find(x => x.id === qid);
+  const s = state[qid];
+  const card = document.getElementById(`card-${qid}`);
+  if (!card) return;
+
+  // Update option buttons
+  const btns = card.querySelectorAll('.option-btn');
+  btns.forEach((btn, i) => {
+    btn.className = 'option-btn';
+    if (s.submitted) btn.disabled = true;
+    if (!s.submitted && s.selected.has(i)) btn.classList.add('selected');
+  });
+
+  // Update submit button state
+  const submitBtn = card.querySelector('.submit-btn');
+  if (submitBtn) {
+    submitBtn.disabled = s.selected.size === 0;
+  }
+}
+
+function submitQuestion(qid) {
+  const q = questions.find(x => x.id === qid);
+  const s = state[qid];
+  if (s.submitted || s.selected.size === 0) return;
+
+  s.submitted = true;
+  answeredCount++;
+
+  // Calculate score for this question
+  const correctSelected = q.options.filter((o, i) => o.correct && s.selected.has(i)).length;
+  const wrongSelected = q.options.filter((o, i) => !o.correct && s.selected.has(i)).length;
+  const isFullCorrect = correctSelected === q.n && wrongSelected === 0;
+  if (isFullCorrect) totalScore++;
+
+  // Full re-render of card (simplest)
+  render();
+
+  // Scroll to next unanswered or summary
+  setTimeout(() => {
+    const nextQ = questions.find(x => !state[x.id].submitted);
+    if (nextQ) {
+      const el = document.getElementById(`card-${nextQ.id}`);
+      if (el) el.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    } else {
+      // All done
+      showSummary();
+    }
+  }, 200);
+}
+
+function showSummary() {
+  const summary = document.getElementById('summary');
+  if (!summary) return;
+  summary.classList.add('visible');
+  document.getElementById('finalScore').textContent = `${totalScore} / 20`;
+  const pct = Math.round(totalScore / 20 * 100);
+  let mention = pct >= 80 ? '🎯 Excellent !' : pct >= 60 ? '👍 Bien joué' : '📚 À retravailler';
+  document.getElementById('finalSub').textContent = `${pct}% de réussite — ${mention}`;
+  summary.scrollIntoView({ behavior: 'smooth', block: 'center' });
+}
+
+function updateProgress() {
+  const answered = questions.filter(q => state[q.id].submitted).length;
+  const pct = (answered / 20) * 100;
+  document.getElementById('progressFill').style.width = pct + '%';
+  document.getElementById('progressText').textContent = `${answered} / 20`;
+  document.getElementById('scoreBadge').textContent = `Score : ${totalScore}`;
+}
+
+function restart() {
+  questions.forEach(q => { state[q.id] = { selected: new Set(), submitted: false }; });
+  totalScore = 0;
+  answeredCount = 0;
+  render();
+  window.scrollTo({ top: 0, behavior: 'smooth' });
+}
+
+render();
+</script>
+</body>
+</html>

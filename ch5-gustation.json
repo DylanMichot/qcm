@@ -1,0 +1,217 @@
+{
+  "subject": "Neurophysiologie – Psychomotricité",
+  "tag": "Ch5 – Gustation",
+  "description": "30 questions de niveau expert sur la gustation : anatomie linguale, bourgeons gustatifs, transduction, voies nerveuses. Préparation aux partiels.",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Parmi les affirmations suivantes concernant les molécules sapides, laquelle (lesquelles) est (sont) exacte(s) ?",
+      "explanation": "Les molécules sapides doivent obligatoirement être dissoutes dans la salive pour activer les récepteurs gustatifs. La gustation fonctionne exclusivement en milieu liquide. La sensibilité absolue est faible : 10^16 molécules/ml de salive sont nécessaires.",
+      "correct": ["Elles doivent être dissoutes par la salive", "Elles sont détectées au niveau des microvillosités"],
+      "wrong": ["Elles agissent directement sur des neurones sensoriels", "Elles sont détectées dans un milieu gazeux", "Leur détection ne nécessite pas de protéine membranaire", "Elles sont appelées molécules olfactives", "Leur seuil de détection est très bas (quelques molécules suffisent)", "Elles sont absorbées par les cellules de type III exclusivement"]
+    },
+    {
+      "id": 2,
+      "text": "Les cinq saveurs élémentaires reconnues en neurophysiologie sont :",
+      "explanation": "Les cinq saveurs élémentaires sont : sucré, salé, acide, amer et umami (= délicieux, correspondant au glutamate de sodium). L'épicé n'est pas une saveur gustative au sens strict mais une sensation douloureuse.",
+      "correct": ["Sucré, salé, acide, amer, umami"],
+      "wrong": ["Sucré, salé, acide, amer, épicé", "Sucré, salé, acide, amer, astringent", "Sucré, salé, amer, umami, métallique", "Sucré, acide, amer, umami, piquant", "Sucré, salé, acide, umami, gras", "Sucré, salé, acide, amer, olfactif", "Sucré, salé, amer, acide, thermique"]
+    },
+    {
+      "id": 3,
+      "text": "Concernant la carte de sensibilité gustative de la langue, quelle affirmation est correcte ?",
+      "explanation": "La carte classique est fausse d'un point de vue qualitatif (il n'existe pas de zones exclusives pour chaque goût) mais vraie quantitativement : il existe des variations de sensibilité seuil selon les régions. La mise en cause date de 2000 avec l'étude des récepteurs à l'amer présents sur toutes les papilles gustatives.",
+      "correct": ["Elle est fausse qualitativement mais vraie quantitativement"],
+      "wrong": ["Elle est entièrement correcte depuis 2006", "Elle montre des zones exclusives pour chaque saveur", "Les récepteurs à l'amer sont absents des papilles fongiformes", "Elle a été confirmée par Adler et al. en 2000 sans remise en cause", "Le sucré est détecté exclusivement à la pointe de la langue", "L'amer est perçu uniquement au niveau du V lingual", "La carte est fausse à la fois qualitativement et quantitativement"]
+    },
+    {
+      "id": 4,
+      "text": "L'innervation sensorielle (gustative) de la langue fait intervenir :",
+      "explanation": "L'innervation sensorielle gustative implique le nerf VII (facial) pour les 2/3 antérieurs via la corde du tympan, le nerf IX (glosso-pharyngien) pour le V lingual (papilles caliciformes et foliées), et le nerf X (vague) pour les bourgeons extra-linguaux (larynx, pharynx).",
+      "correct": ["Le nerf VII", "Le nerf IX", "Le nerf X"],
+      "wrong": ["Le nerf V", "Le nerf XII", "Le nerf III", "Le nerf VIII", "Le nerf XI"]
+    },
+    {
+      "id": 5,
+      "text": "Les papilles gustatives de la langue sont au nombre de combien de types, et lesquels ?",
+      "explanation": "Il existe 3 types de papilles gustatives : les caliciformes (9 à 12, en V lingual), les fongiformes (2/3 antérieurs) et les foliées (région postéro-latérale). Les papilles filiformes et corolliformes sont des papilles tactiles et ne participent pas à la gustation.",
+      "correct": ["3 types : caliciformes, fongiformes, foliées"],
+      "wrong": ["2 types : fongiformes et caliciformes", "4 types : caliciformes, fongiformes, foliées, filiformes", "3 types : filiformes, fongiformes, caliciformes", "2 types : foliées et filiformes", "3 types : caliciformes, filiformes, corolliformes", "4 types : fongiformes, foliées, caliciformes, corolliformes", "2 types : fongiformes et foliées"]
+    },
+    {
+      "id": 6,
+      "text": "Les papilles caliciformes sont caractérisées par :",
+      "explanation": "Les papilles caliciformes sont au nombre de 9 à 12, disposées en V lingual (sulcus terminalis) à la jonction entre les 2/3 antérieurs et le 1/3 postérieur. Elles sont innervées par le nerf IX. Ce sont les plus volumineuses.",
+      "correct": ["Un nombre de 9 à 12", "Une disposition en V lingual"],
+      "wrong": ["Une localisation sur les 2/3 antérieurs de la langue", "Une innervation par le nerf VII", "Une innervation par le nerf X", "Un nombre supérieur à 50", "Une localisation latérale dans la région postérieure", "Une absence de bourgeons gustatifs"]
+    },
+    {
+      "id": 7,
+      "text": "Concernant les bourgeons gustatifs, quelle(s) affirmation(s) est (sont) exacte(s) ?",
+      "explanation": "L'Homme possède environ 10 000 bourgeons gustatifs. Ils se trouvent à 75% dans les papilles, mais aussi sur le voile du palais, l'épiglotte, l'épithélium laryngé et pharyngé, la face interne des joues et le tiers supérieur de l'œsophage. Leur différenciation débute entre le 5e et le 7e mois de gestation.",
+      "correct": ["Ils sont présents sur le voile du palais", "L'Homme en possède environ 10 000", "Leur différenciation se fait entre le 5e et le 7e mois de gestation"],
+      "wrong": ["Ils sont exclusivement situés dans les papilles linguales", "Ils se différencient dès le 2e mois de gestation", "Ils sont absents de l'épithélium pharyngé", "L'Homme en possède environ 1 000", "Ils sont présents dans le tiers inférieur de l'œsophage"]
+    },
+    {
+      "id": 8,
+      "text": "La durée de vie des cellules sensorielles gustatives est de :",
+      "explanation": "Les cellules sensorielles gustatives ont une durée de vie d'environ 10 jours. Elles sont renouvelées en permanence à partir des cellules basales régénératrices. Ce ne sont pas des neurones bien qu'elles libèrent des neurotransmetteurs.",
+      "correct": ["10 jours environ"],
+      "wrong": ["24 heures", "1 mois", "6 mois", "Toute la vie (pas de renouvellement)", "3 jours", "30 jours", "7 semaines"]
+    },
+    {
+      "id": 9,
+      "text": "Les cellules de type I des bourgeons gustatifs :",
+      "explanation": "Les cellules de type I ont un rôle de type glial. Elles détecteraient le goût salé. Elles régulent la concentration extracellulaire en K+ (libéré par les cellules de type II et III lors de la dépolarisation) et peuvent réabsorber des transmetteurs comme la sérotonine.",
+      "correct": ["Seraient capables de détecter le goût salé", "Auraient un rôle modulateur de l'activité des autres cellules"],
+      "wrong": ["Sont les seules à former des synapses avec les fibres afférentes", "Détectent le goût sucré et umami", "Libèrent de la sérotonine lors de leur dépolarisation", "Sont dites présynaptiques", "Augmentent la concentration extracellulaire en K+", "Détectent le goût amer"]
+    },
+    {
+      "id": 10,
+      "text": "Les cellules de type II des bourgeons gustatifs sont capables de détecter :",
+      "explanation": "Les cellules de type II (cellules réceptrices) détectent le sucré, l'umami et l'amer via des récepteurs couplés aux protéines G. Leur activation provoque une augmentation du calcium intracellulaire et la libération d'ATP via des canaux Panx1.",
+      "correct": ["Le goût sucré", "Le goût umami", "Le goût amer"],
+      "wrong": ["Le goût salé", "Le goût acide", "La douleur thermique", "Les sensations tactiles", "Le goût gras"]
+    },
+    {
+      "id": 11,
+      "text": "Parmi les caractéristiques des cellules de type III, laquelle (lesquelles) est (sont) exacte(s) ?",
+      "explanation": "Les cellules de type III sont dites présynaptiques. Elles sont les seules à être en contact physique (synapse vraie en microscopie électronique) avec les fibres nerveuses gustatives. Elles libèrent de la sérotonine et détectent le goût acide.",
+      "correct": ["Elles sont les seules en contact synaptique direct avec les fibres afférentes", "Elles libèrent de la sérotonine", "Elles détectent le goût acide"],
+      "wrong": ["Elles détectent le goût salé", "Elles libèrent de l'ATP via des canaux Panx1", "Elles sont de type glial", "Elles détectent le sucré", "Elles n'ont pas de contact avec les fibres nerveuses"]
+    },
+    {
+      "id": 12,
+      "text": "Dans la transduction du goût sucré, umami et amer, le mécanisme cellulaire implique :",
+      "explanation": "Pour le sucré, l'umami et l'amer, la transduction passe par des récepteurs couplés aux protéines G (GPCR). L'activation induit une cascade intracellulaire conduisant à la production d'un second messager, la libération de calcium intracellulaire, puis la libération de neurotransmetteurs.",
+      "correct": ["Des récepteurs couplés aux protéines G (GPCR)", "La production d'un second messager"],
+      "wrong": ["Des canaux Na+ directement", "Le blocage des canaux K+", "Une dépolarisation directe par entrée d'H+", "Des canaux Cl- activés par ligand", "Une hyperpolarisation initiale", "Des récepteurs ionotropes AMPA"]
+    },
+    {
+      "id": 13,
+      "text": "La transduction du goût salé implique principalement :",
+      "explanation": "Le goût salé est médié par des canaux Na+ (canaux ioniques directs). L'entrée de Na+ dans la cellule gustative provoque une dépolarisation directe, sans passage par des récepteurs couplés aux protéines G.",
+      "correct": ["Des canaux Na+ directs provoquant une dépolarisation"],
+      "wrong": ["Des récepteurs couplés aux protéines G", "La libération de calcium par le réticulum endoplasmique", "Des canaux Cl-", "Un second messager (AMPc ou IP3)", "Des canaux Panx1", "La libération de sérotonine en premier lieu", "Des canaux K+ activés"]
+    },
+    {
+      "id": 14,
+      "text": "La transduction du goût acide (H+) fait intervenir :",
+      "explanation": "Le goût acide est détecté par les cellules de type III via une entrée directe d'H+ ou un blocage des canaux K+, provoquant une dépolarisation. Ce mécanisme utilise des canaux ioniques et non des GPCR.",
+      "correct": ["Une entrée directe d'H+ ou un blocage des canaux K+"],
+      "wrong": ["Des récepteurs GPCR spécifiques aux acides", "La libération d'ATP via Panx1", "Des canaux Na+ voltage-dépendants", "Une hyperpolarisation membranaire", "Des récepteurs métabotropes couplés à l'adénylyl cyclase", "Des canaux TRPV1", "La libération de glutamate"]
+    },
+    {
+      "id": 15,
+      "text": "Le potentiel de récepteur gustatif se caractérise par :",
+      "explanation": "Le potentiel de récepteur est un potentiel local, gradué en intensité (proportionnel à la concentration de la molécule sapide) et non propageable. Il est créé au niveau du site transducteur et se déplace localement vers le site générateur.",
+      "correct": ["Un caractère gradué en intensité", "Un caractère non propageable (local)"],
+      "wrong": ["Un caractère tout-ou-rien", "Une propagation le long de l'axone", "Une amplitude fixe quelle que soit la concentration", "Il correspond directement à un potentiel d'action", "Il est généré au niveau du ganglion", "Il est inhibiteur dans tous les cas"]
+    },
+    {
+      "id": 16,
+      "text": "Le ganglion géniculé est associé à l'innervation gustative de :",
+      "explanation": "Le ganglion géniculé contient les corps cellulaires des neurones pseudo-unipolaires du nerf VII bis (intermédiaire de Wrisberg), qui innervent les 2/3 antérieurs de la langue via la corde du tympan.",
+      "correct": ["Les 2/3 antérieurs de la langue (nerf VII)"],
+      "wrong": ["Le V lingual (nerf IX)", "Le larynx et le pharynx (nerf X)", "Les papilles caliciformes", "Les papilles foliées postérieures", "Le tiers supérieur de l'œsophage", "La face interne des joues", "L'épiglotte"]
+    },
+    {
+      "id": 17,
+      "text": "Le noyau du tractus solitaire (NTS) dans la voie gustative :",
+      "explanation": "Le NTS est situé dans le bulbe rachidien. Il représente le premier relais central des voies gustatives, contenant les deutoneurones du VII, IX et X. Sa partie postérieure reçoit des afférences végétatives. Il projette également sur l'hypothalamus et l'amygdale (satiété, appétit).",
+      "correct": ["Représente les deutoneurones du VII, IX et X", "Projette sur l'hypothalamus et l'amygdale"],
+      "wrong": ["Est situé dans le pont", "Est le dernier relais avant le cortex", "Ne reçoit que des afférences du nerf VII", "Projette directement sur le cortex insulaire", "Contient les protoneurones gustatifs", "Est situé dans le mésencéphale"]
+    },
+    {
+      "id": 18,
+      "text": "La voie gustative ascendante suit le trajet suivant :",
+      "explanation": "Les informations gustatives remontent via : NTS (bulbe) → noyau parabrachial (pont) → noyau ventro-postéro-médian (VPM) du thalamus → cortex insulaire antérieur (cortex gustatif primaire). Des projections secondaires atteignent le cortex orbitofrontal.",
+      "correct": ["NTS → noyau parabrachial → VPM du thalamus → insula"],
+      "wrong": ["NTS → VPL du thalamus → cortex pariétal", "NTS → colliculus inférieur → VPM → insula", "Ganglion géniculé → NTS → VPL → cortex moteur", "NTS → noyau parabrachial → CGM → cortex temporal", "NTS → hypothalamus → VPM → cortex frontal", "NTS → amygdale → thalamus → cortex occipital", "NTS → noyau parabrachial → VPL → cortex somesthésique"]
+    },
+    {
+      "id": 19,
+      "text": "Le cortex orbitofrontal dans le traitement gustatif est caractérisé par :",
+      "explanation": "Le cortex orbitofrontal reçoit des projections gustatives secondaires et contient des neurones multimodaux répondant à plusieurs stimuli simultanément : gustatif, olfactif, visuel et somesthésique. Il est impliqué dans l'intégration de la perception complexe du goût.",
+      "correct": ["Des neurones répondant à plusieurs modalités (visuel, olfactif, gustatif, somesthésique)"],
+      "wrong": ["Il constitue le cortex gustatif primaire", "Il reçoit des projections directes du NTS", "Ses neurones répondent exclusivement aux stimuli gustatifs", "Il est le siège du premier relais thalamique", "Il est situé dans le lobe temporal", "Ses neurones sont uniquement olfactifs", "Il projette directement sur le NTS"]
+    },
+    {
+      "id": 20,
+      "text": "Concernant le squelette et la musculature de la langue :",
+      "explanation": "La langue possède un squelette osseux et fibreux comprenant l'os hyoïde, la membrane hyo-glossienne et le septum lingual. Sa musculature comprend 17 muscles striés extrinsèques et intrinsèques. Les muscles propres sont les longitudinaux supérieur et inférieur, le transverse et le vertical.",
+      "correct": ["Elle comprend 17 muscles striés extrinsèques et intrinsèques", "Son squelette inclut l'os hyoïde"],
+      "wrong": ["Son squelette est exclusivement cartilagineux", "Elle ne possède que des muscles intrinsèques", "Elle est dépourvue de septum lingual", "Elle possède 12 muscles striés", "Son innervation motrice est assurée par le nerf IX", "Sa vascularisation principale est artérielle via l'artère carotide externe directement"]
+    },
+    {
+      "id": 21,
+      "text": "L'innervation motrice de la langue est assurée par :",
+      "explanation": "L'innervation motrice de la langue est assurée par le nerf XII (nerf hypoglosse). L'innervation sensitive est assurée par le nerf lingual (branche du V), IX et X. L'innervation sensorielle (gustative) est assurée par VII, IX et X.",
+      "correct": ["Le nerf XII (hypoglosse)"],
+      "wrong": ["Le nerf VII (facial)", "Le nerf IX (glosso-pharyngien)", "Le nerf X (vague)", "Le nerf V (trijumeau)", "Le nerf XI (accessoire)", "Le nerf III (oculomoteur)", "Le nerf VI (abducens)"]
+    },
+    {
+      "id": 22,
+      "text": "Parmi les facteurs influençant la perception gustative, lesquels sont reconnus dans le cours ?",
+      "explanation": "La sensibilité gustative diminue avec l'âge, est affaiblie par le tabac, les mets épicés, les médicaments et les drogues. Elle varie selon le contexte hormonal (différence hommes/femmes), la variabilité génétique, la température de l'aliment et la vision (couleur des aliments).",
+      "correct": ["La diminution avec l'âge", "Le contexte hormonal", "La variabilité génétique"],
+      "wrong": ["L'activité physique intense augmente les seuils gustatifs de façon durable", "La latéralité (droitier/gaucher)", "Le groupe sanguin", "Le niveau d'oxygénation sanguine", "La pression artérielle"]
+    },
+    {
+      "id": 23,
+      "text": "Le ganglion d'Andersch est le ganglion associé à quel nerf et quelle région ?",
+      "explanation": "Le ganglion d'Andersch (ganglion inférieur du IX) contient les corps cellulaires des protoneurones du nerf IX. Il innerve le V lingual, c'est-à-dire le tiers postérieur de la langue, qui comprend notamment les papilles caliciformes.",
+      "correct": ["Le nerf IX pour le V lingual (tiers postérieur de la langue)"],
+      "wrong": ["Le nerf VII pour les 2/3 antérieurs de la langue", "Le nerf X pour le larynx", "Le nerf IX pour les 2/3 antérieurs de la langue", "Le nerf VII pour le voile du palais", "Le nerf X pour les papilles fongiformes", "Le nerf V pour la langue entière", "Le nerf XII pour les papilles caliciformes"]
+    },
+    {
+      "id": 24,
+      "text": "L'ATP libéré par les cellules gustatives de type II :",
+      "explanation": "L'ATP sort via des canaux Panx1. Il active les récepteurs P2Y situés sur les cellules de type II et III (communication paracrine), et les récepteurs P2X situés sur les fibres afférentes (transduction vers la fibre nerveuse). C'est le principal médiateur de la transmission pour les goûts sucré, amer et umami.",
+      "correct": ["Active des récepteurs P2X sur les fibres afférentes", "Sort via des canaux Panx1"],
+      "wrong": ["Est libéré par exocytose vésiculaire classique", "Active des récepteurs AMPA", "Inhibe la dépolarisation des cellules de type III", "Sort via des canaux TRPV1", "Active uniquement des récepteurs P2Y sur les cellules de type I", "Est dégradé immédiatement sans rôle de signalisation"]
+    },
+    {
+      "id": 25,
+      "text": "Les protoneurones gustatifs ont leurs corps cellulaires situés dans :",
+      "explanation": "Les corps cellulaires des protoneurones gustatifs (neurones pseudo-unipolaires) sont situés dans les ganglions des nerfs crâniens respectifs : ganglion géniculé (VII), ganglion d'Andersch (IX), ganglion plexiforme (X). Ils reçoivent des informations de 4 à 5 bourgeons gustatifs.",
+      "correct": ["Les ganglions des nerfs crâniens VII, IX et X"],
+      "wrong": ["Le noyau du tractus solitaire", "La moelle épinière dorsale", "Le ganglion de Gasser", "Le thalamus VPM", "Le cortex insulaire", "Le ganglion ciliaire", "Le ganglion stellaire"]
+    },
+    {
+      "id": 26,
+      "text": "Le bourgeon gustatif présente une structure ovoïde avec :",
+      "explanation": "Le bourgeon gustatif est ovoïde, repose sur une membrane basale, et son pôle supérieur communique avec la cavité buccale via le pore gustatif. Il contient des cellules de soutien, des cellules basales régénératrices et des cellules sensorielles dont les microvillosités apicales atteignent le pore.",
+      "correct": ["Un pore gustatif au pôle supérieur", "Des cellules basales régénératrices", "Des cellules sensorielles à microvillosités apicales"],
+      "wrong": ["Une membrane apicale directement en contact avec le sang", "Des axones myélinisés propres", "Des photorécepteurs associés", "Un pore basal communiquant avec le chorion", "Une absence de membrane basale"]
+    },
+    {
+      "id": 27,
+      "text": "Le stimulus gustatif est recueilli au niveau :",
+      "explanation": "Le stimulus gustatif (molécules sapides dissoutes dans la salive puis dans le glycolemme) est recueilli au niveau des microvillosités apicales des cellules sensorielles. Les molécules se dissolvent d'abord dans la salive puis interagissent avec les protéines membranaires des microvillosités.",
+      "correct": ["Des microvillosités des cellules sensorielles"],
+      "wrong": ["Des corps cellulaires des neurones du ganglion géniculé", "De la membrane basale du bourgeon", "Des cellules de soutien du bourgeon", "De la muqueuse du voile du palais uniquement", "Des cellules de type I exclusivement", "Du pore gustatif lui-même (avant les cellules)", "Des synapses des cellules de type III"]
+    },
+    {
+      "id": 28,
+      "text": "Parmi les éléments suivants, lequel (lesquels) caractérise(nt) le codage gustatif ?",
+      "explanation": "Le codage gustatif désigne la manière dont la nature, la concentration et le caractère hédonique des substances sont codés par les trains de potentiels d'action. Les cellules ont une sensibilité préférentielle sans être strictement spécifiques. La représentation précise dans les relais centraux n'est pas encore entièrement élucidée.",
+      "correct": ["Il code l'intensité (concentration) de la saveur", "Il implique une sensibilité préférentielle des cellules réceptrices"],
+      "wrong": ["Il repose sur une spécificité absolue de chaque cellule pour une saveur", "Il est entièrement élucidé dans tous les relais centraux", "Il ne code pas le caractère hédonique des substances", "Il est identique pour toutes les espèces de mammifères", "Il n'implique pas de trains de potentiels d'action", "Il repose exclusivement sur des canaux ioniques"]
+    },
+    {
+      "id": 29,
+      "text": "Les projections du noyau du tractus solitaire (NTS) impliquées dans l'appétit et la satiété se font vers :",
+      "explanation": "Le NTS projette sur le noyau parabrachial (pour la voie ascendante consciente), mais aussi sur l'hypothalamus et l'amygdale. Ces projections vers le système limbique interviendraient dans la régulation de l'appétit et de la satiété.",
+      "correct": ["L'hypothalamus", "L'amygdale"],
+      "wrong": ["Le cervelet", "Le cortex moteur primaire", "Le noyau rouge", "La substance noire", "Le cortex visuel primaire", "Le nucleus accumbens directement"]
+    },
+    {
+      "id": 30,
+      "text": "Concernant l'apprentissage gustatif et les préférences alimentaires, quelle(s) affirmation(s) du cours est (sont) exacte(s) ?",
+      "explanation": "L'appréciation de certains goûts s'apprend progressivement. Les nourrissons ont une appétence naturelle pour le sucré (lait maternel sucré). Les goûts amers et acides s'apprennent avec le temps. Certains goûts peuvent être dangereux : le sel est exhausteur de goût mais dangereux en excès ; le sucre peut devenir addictif.",
+      "correct": ["Les nourrissons ont une appétence naturelle pour le sucré", "L'appréciation des goûts amers s'éduque progressivement", "Le sucre peut devenir addictif"],
+      "wrong": ["Les préférences gustatives sont uniquement innées et non modifiables", "Le sel n'a aucun effet sur la santé en quantité modérée", "L'amer est la saveur préférée des nourrissons", "Les préférences gustatives sont identiques chez l'homme et la femme", "La gustation est indépendante de tout contexte émotionnel ou hormonal"]
+    }
+  ]
+}
