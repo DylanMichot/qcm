@@ -2,13 +2,13 @@
   "subjects": [
     {
       "file": "ch5-gustation.json",
-      "subject": "Neurophysiologie – Psychomotricité",
+      "subject": "Neurophysiologie – Gustation",
       "tag": "Ch5 – Gustation",
       "description": "30 questions de niveau expert sur la gustation"
     },
     {
       "file": "ch6-olfaction.json",
-      "subject": "Neurophysiologie – Psychomotricité",
+      "subject": "Neurophysiologie – Olfaction",
       "tag": "Ch6 – Olfaction",
       "description": "30 questions de niveau expert sur l'olfaction"
     }
