@@ -1,0 +1,217 @@
+{
+  "subject": "Neurophysiologie – Psychomotricité",
+  "tag": "Ch6 – Olfaction",
+  "description": "30 questions de niveau expert sur l'olfaction : muqueuse olfactive, bulbe olfactif, transduction, voies nerveuses. Préparation aux partiels.",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Parmi les affirmations suivantes sur les fonctions de l'olfaction, laquelle (lesquelles) est (sont) exacte(s) ?",
+      "explanation": "L'olfaction sert au guidage vers la nourriture, la détection du danger, le guidage vers le partenaire sexuel, la mémoire et les émotions, et le masquage des odeurs. Elle est influencée par les hormones (ex : hyperthyroïdie améliore les performances). D'un point de vue évolutif, c'est le sens chimique le plus ancien.",
+      "correct": ["Elle intervient dans la mémoire et les émotions", "Elle est influencée par le contexte hormonal", "Elle est évolutivement le sens chimique le plus ancien"],
+      "wrong": ["Elle est le sens chimique le plus récemment acquis", "Elle est totalement indépendante des facteurs cognitifs et affectifs", "Elle n'a aucune fonction dans le comportement sexuel chez l'Homme", "L'hypothyroïdie améliore les performances olfactives", "Elle fonctionne exclusivement par voie orthonasale"]
+    },
+    {
+      "id": 2,
+      "text": "La muqueuse olfactive (tache jaune) est située :",
+      "explanation": "La muqueuse olfactive est située sur la partie supérieure de la muqueuse nasale, sur la face ventrale de l'ethmoïde, au niveau du cornet supérieur. Elle apparaît dès la 4e semaine de gestation sous forme d'une placode olfactive.",
+      "correct": ["Sur la face ventrale de l'ethmoïde, au niveau du cornet supérieur"],
+      "wrong": ["Sur la face dorsale de l'ethmoïde", "Au niveau du cornet inférieur", "Sur la cloison nasale inférieure", "Dans la partie inférieure de la muqueuse nasale", "Au niveau de la trompe d'Eustache", "Sur le voile du palais", "Au niveau du cornet moyen exclusivement"]
+    },
+    {
+      "id": 3,
+      "text": "Les caractéristiques morphologiques de la muqueuse olfactive sont :",
+      "explanation": "La muqueuse olfactive est de couleur jaune brunâtre, d'une surface de 2,5 cm² (soit 200 mm²) par fosse nasale. Elle est composée d'un épithélium reposant sur une membrane basale elle-même posée sur un chorion de tissu conjonctif.",
+      "correct": ["Une couleur jaune brunâtre", "Une surface de 2,5 cm² par fosse nasale"],
+      "wrong": ["Une couleur rosée comme le reste de la muqueuse nasale", "Une surface de 2,5 cm² pour les deux fosses nasales réunies", "Une surface de l'ordre du mm²", "Une absence de membrane basale", "Une structure sans chorion conjonctif", "Une surface de 25 cm² par fosse nasale", "Elle est dépourvue d'épithélium"]
+    },
+    {
+      "id": 4,
+      "text": "Concernant l'apparition de la muqueuse olfactive au cours du développement :",
+      "explanation": "La muqueuse olfactive apparaît très tôt, dès la 4e semaine de gestation, sous la forme d'une placode olfactive. Les cellules épithéliales des placodes droite et gauche se différencient ensuite en cellules de soutien et en cellules nerveuses sensorielles.",
+      "correct": ["Elle apparaît à la 4e semaine de gestation sous forme de placode olfactive"],
+      "wrong": ["Elle apparaît à la 4e semaine sous forme de bourgeon gustatif", "Elle apparaît entre le 5e et le 7e mois de gestation", "Elle apparaît au 3e trimestre de gestation", "Elle se différencie à partir de cellules mésenchymateuses", "Elle n'est fonctionnelle qu'après la naissance", "Elle apparaît à la 12e semaine de gestation", "Les placodes olfactives sont uniques (impaires)"]
+    },
+    {
+      "id": 5,
+      "text": "Les molécules odorantes atteignent la muqueuse olfactive par :",
+      "explanation": "Les molécules odorantes parviennent à la muqueuse par deux voies : la voie orthonasale (directe, via les narines) et la voie rétronasale (via la cavité buccale, notamment lors de la mastication/gustation). La voie rétronasale participe à la qualité perçue lors de la dégustation.",
+      "correct": ["La voie orthonasale (narines)", "La voie rétronasale (cavité buccale)"],
+      "wrong": ["La voie tympanique", "La voie sous-linguale", "La voie lymphatique nasale uniquement", "Uniquement par voie sanguine", "La voie otique", "Uniquement par voie orthonasale, la voie rétronasale n'existant pas"]
+    },
+    {
+      "id": 6,
+      "text": "L'épithélium olfactif est composé de combien de types cellulaires, et lesquels ?",
+      "explanation": "L'épithélium olfactif comprend trois types cellulaires reposant sur une membrane basale : les cellules de soutien, les cellules neurosensorielles olfactives (neurones bipolaires) et les cellules basales (régénératrices). L'ensemble épithélium + chorion forme la muqueuse olfactive.",
+      "correct": ["3 types : cellules de soutien, neurosensorielles et basales"],
+      "wrong": ["2 types : cellules de soutien et neurosensorielles", "4 types : cellules de soutien, neurosensorielles, basales et mitrales", "3 types : cellules basales, mitrales et granulaires", "2 types : cellules basales et cellules de Bowman", "3 types : cellules de soutien, basales et périglomérulaires", "4 types : cellules basales, de soutien, mitrales et à panache", "2 types : cellules neurosensorielles et cellules basales uniquement"]
+    },
+    {
+      "id": 7,
+      "text": "Les cellules de soutien de l'épithélium olfactif présentent :",
+      "explanation": "Les cellules de soutien ont leur pôle apical recouvert de microvillosités. Leur pôle basal renferme du glycogène et des pigments de lipofuscine, responsables de la teinte jaune brunâtre de la muqueuse. Elles maintiennent et structurent les cellules olfactives.",
+      "correct": ["Des microvillosités à leur pôle apical", "Du glycogène et des pigments de lipofuscine à leur pôle basal"],
+      "wrong": ["Des cils olfactifs immobiles à leur pôle apical", "Une vésicule olfactive à leur pôle dendritique", "Un axone traversant la lame criblée de l'ethmoïde", "Une localisation entre les cellules basales", "Des chémorécepteurs membranaires", "Un rôle de régénération des neurones olfactifs"]
+    },
+    {
+      "id": 8,
+      "text": "Le neurone olfactif (cellule neurosensorielle olfactive) est caractérisé par :",
+      "explanation": "Le neurone olfactif est une cellule bipolaire. Son pôle dendritique porte en surface une vésicule olfactive à partir de laquelle partent une dizaine de cils olfactifs immobiles baignant dans le mucus. Ses axones amyéliniques traversent la lame criblée de l'ethmoïde pour rejoindre le bulbe olfactif.",
+      "correct": ["Un type bipolaire", "Des cils olfactifs immobiles baignant dans le mucus", "Des axones amyéliniques traversant la lame criblée de l'ethmoïde"],
+      "wrong": ["Un type pseudo-unipolaire", "Des cils mobiles permettant le déplacement des molécules", "Des axones myélinisés à conduction rapide", "Un pôle dendritique sans vésicule olfactive", "Une durée de vie identique à celle des neurones centraux", "Une localisation dans la couche des cellules mitrales"]
+    },
+    {
+      "id": 9,
+      "text": "La durée de vie des cellules neurosensorielles olfactives est de :",
+      "explanation": "Les récepteurs olfactifs (cellules neurosensorielles) ont une durée de vie courte, d'environ 5 à 7 semaines. Ils sont renouvelés en permanence par les cellules basales, ce qui constitue un des rares cas de neurogenèse chez l'adulte.",
+      "correct": ["5 à 7 semaines environ"],
+      "wrong": ["10 jours comme les cellules gustatives", "6 mois", "Toute la vie (pas de renouvellement)", "1 à 2 jours", "3 mois", "1 an", "2 à 3 semaines"]
+    },
+    {
+      "id": 10,
+      "text": "Les cellules basales de l'épithélium olfactif :",
+      "explanation": "Les cellules basales sont situées à la base de l'épithélium olfactif. Ce sont des cellules de remplacement capables de régénérer les cellules de soutien et les cellules neurosensorielles olfactives. Elles possèdent des extensions cytoplasmiques pouvant entourer les axones. C'est un exemple rare de neurogenèse locale.",
+      "correct": ["Sont capables de régénérer les neurones olfactifs", "Possèdent des extensions cytoplasmiques pouvant entourer les axones"],
+      "wrong": ["Sécrètent le mucus recouvrant l'épithélium", "Portent les chémorécepteurs olfactifs", "Sont situées à la surface de l'épithélium", "Sont des cellules mitrales immatures", "Ne se renouvellent pas", "Sont situées dans le chorion olfactif"]
+    },
+    {
+      "id": 11,
+      "text": "Le chorion de la muqueuse olfactive contient :",
+      "explanation": "Le chorion contient les glandes de Bowman (qui sécrètent le mucus et une protéine de fixation des odorants), une vascularisation riche (réchauffement de la muqueuse), les fibres nerveuses des cellules olfactives, et les fibres myélinisées du nerf nasal interne (branche du trijumeau V) pour la sensibilité tactile.",
+      "correct": ["Les glandes de Bowman", "Les fibres myélinisées du nerf nasal interne (trijumeau)"],
+      "wrong": ["Les corps cellulaires des cellules mitrales", "Les glomérules olfactifs", "Les cellules basales régénératrices", "Les cellules périglomérulaires", "Le tractus olfactif", "Les dendrites des neurones de second ordre"]
+    },
+    {
+      "id": 12,
+      "text": "Les glandes de Bowman ont pour rôle :",
+      "explanation": "Les glandes de Bowman sécrètent le mucus qui recouvre l'épithélium olfactif. Ce mucus contient des OBP (odorant binding proteins) qui permettent de piéger et fixer les molécules volatiles peu solubles dans l'eau, les conduisant jusqu'aux récepteurs. La sécrétion seule ne serait pas suffisante sans ces protéines de fixation.",
+      "correct": ["Sécréter le mucus recouvrant l'épithélium", "Contenir des protéines de fixation des odorants (OBP)"],
+      "wrong": ["Produire des neurotransmetteurs pour les synapses olfactives", "Régénérer les cellules neurosensorielles", "Conduire les influx nerveux vers le bulbe", "Sécréter le liquide céphalo-rachidien local", "Myéliniser les axones olfactifs", "Contrôler le flux sanguin dans le chorion"]
+    },
+    {
+      "id": 13,
+      "text": "Le nerf olfactif (nerf I) est formé par :",
+      "explanation": "Le nerf olfactif (1ère paire crânienne) n'est pas un tronc nerveux individualisé. Il est constitué de l'ensemble des faisceaux de fibres amyéliniques des neurones olfactifs traversant la lame criblée de l'ethmoïde pour rejoindre le bulbe olfactif.",
+      "correct": ["L'ensemble des faisceaux de fibres amyéliniques traversant la lame criblée de l'ethmoïde"],
+      "wrong": ["Un tronc nerveux individualisé et myélinisé", "Les axones myélinisés des cellules mitrales", "Les fibres du nerf nasal interne (trijumeau)", "Les dendrites des cellules neurosensorielles", "Les axones des cellules à panache uniquement", "Un seul faisceau nerveux épais et myélinisé", "Les fibres centrifuges de rétrocontrôle"]
+    },
+    {
+      "id": 14,
+      "text": "Le bulbe olfactif est :",
+      "explanation": "Le bulbe olfactif est la 1ère structure olfactive du système nerveux central (SNC), et non du SNP. Il est peu développé chez l'Homme et possède une organisation stratifiée (de la superficie vers la profondeur). Il est organisé en 6 couches distinctes.",
+      "correct": ["La première structure olfactive du SNC", "Organisé en couches de la superficie vers la profondeur"],
+      "wrong": ["Une structure du système nerveux périphérique (SNP)", "Très développé chez l'Homme par rapport aux autres espèces", "Dépourvu d'organisation laminaire", "Le dernier relais avant le cortex olfactif primaire", "Situé dans le lobe temporal", "Une structure diencéphalique"]
+    },
+    {
+      "id": 15,
+      "text": "La couche fibrillaire du bulbe olfactif est constituée de :",
+      "explanation": "La couche fibrillaire, la plus superficielle du bulbe olfactif, est constituée des axones amyéliniques des neurones olfactifs (protoneurones). Ces axones ne sont pas myélinisés car la distance à parcourir est très courte et la myélinisation n'apporterait pas de gain de vitesse significatif.",
+      "correct": ["Les axones amyéliniques des neurones olfactifs (protoneurones)"],
+      "wrong": ["Les axones myélinisés des cellules mitrales", "Les dendrites des cellules à panache", "Les corps cellulaires des cellules granulaires", "Les dendrites des cellules périglomérulaires", "Les fibres centrifuges de rétrocontrôle", "Les axones des cellules granulaires", "Les dendrites apicales des cellules mitrales"]
+    },
+    {
+      "id": 16,
+      "text": "Les glomérules olfactifs du bulbe sont caractérisés par :",
+      "explanation": "Les glomérules olfactifs sont des zones ovoïdes de connexion synaptique, au nombre de 1000 à 2000 par bulbe. Chaque glomérule reçoit des milliers d'axones de cellules olfactives ainsi que les dendrites de quelques cellules mitrales et cellules à panache. On y trouve aussi des cellules périglomérulaires.",
+      "correct": ["Un nombre de 1000 à 2000 par bulbe", "La réception de milliers d'axones de cellules olfactives", "La présence de cellules périglomérulaires"],
+      "wrong": ["Un nombre de 50 à 100 par bulbe", "La réception uniquement des dendrites des cellules granulaires", "Une forme sphérique parfaitement régulière et myélinisée", "L'absence de cellules périglomérulaires", "Leur localisation dans la couche mitrale", "Une connexion directe avec le tractus olfactif"]
+    },
+    {
+      "id": 17,
+      "text": "La couche plexiforme externe du bulbe olfactif contient :",
+      "explanation": "La couche plexiforme externe contient les dendrites latérales des cellules mitrales ainsi que les corps cellulaires et dendrites des cellules à panache. C'est là que se trouvent les corps cellulaires des cellules à panache, distincte de la couche mitrale.",
+      "correct": ["Les dendrites latérales des cellules mitrales", "Les corps cellulaires des cellules à panache"],
+      "wrong": ["Les corps cellulaires des cellules mitrales", "Les somas des cellules granulaires", "Les axones des protoneurones olfactifs", "Les cellules périglomérulaires uniquement", "Les fibres centrifuges de rétrocontrôle", "Le tractus olfactif"]
+    },
+    {
+      "id": 18,
+      "text": "Les cellules mitrales du bulbe olfactif se caractérisent par :",
+      "explanation": "Les cellules mitrales sont de grandes cellules dont la dendrite principale rejoint le glomérule et dont l'axone se projette vers les centres olfactifs. Leurs corps cellulaires forment la couche mitrale. Leurs dendrites latérales se trouvent dans la couche plexiforme externe.",
+      "correct": ["Une dendrite principale rejoignant le glomérule", "Un axone se projetant vers les centres olfactifs supérieurs"],
+      "wrong": ["Un axone se terminant dans le bulbe controlatéral uniquement", "Un corps cellulaire dans la couche plexiforme externe", "L'absence de projection vers le cortex", "Une nature de cellules d'association locales comme les cellules granulaires", "Un rôle exclusivement inhibiteur via le GABA", "Des axones amyéliniques courts"]
+    },
+    {
+      "id": 19,
+      "text": "Les cellules granulaires du bulbe olfactif :",
+      "explanation": "Les cellules granulaires constituent la couche la plus profonde du bulbe. Ce sont des cellules d'association qui relient les cellules mitrales entre elles. Il en existe deux types fonctionnels : activatrices (à glutamate) et inhibitrices (à GABA). Elles font partie des cellules constamment renouvelées (neurogenèse).",
+      "correct": ["Relient les cellules mitrales entre elles", "Comprennent des cellules activatrices à glutamate et inhibitrices à GABA"],
+      "wrong": ["Relient les cellules olfactives aux cellules mitrales directement", "Forment la couche la plus superficielle du bulbe", "Ont leurs axones qui forment le tractus olfactif", "Sont des neurones de second ordre comme les cellules mitrales", "Sont exclusivement inhibitrices via la sérotonine", "Ne sont pas renouvelées au cours de la vie"]
+    },
+    {
+      "id": 20,
+      "text": "La convergence cellulaire dans le bulbe olfactif (environ 1000 pour 1) a pour effet :",
+      "explanation": "La convergence de ~1000 cellules sensorielles vers 1 cellule mitrale entraîne un effet de sommation du signal, abaissant le seuil de détection et augmentant la quantité d'information disponible. Les cellules périglomérulaires permettent en parallèle d'augmenter la discrimination des signaux en inhibant les glomérules voisins.",
+      "correct": ["Un abaissement du seuil de détection par sommation", "Une augmentation de la discrimination des signaux par inhibition latérale"],
+      "wrong": ["Une diminution de la sensibilité olfactive", "Une amplification sélective d'une seule odeur à la fois", "Une élimination totale du bruit de fond", "Un codage purement en fréquence sans sommation", "Une ségrégation des informations par type de récepteur dès la périphérie", "L'absence de tout phénomène d'inhibition"]
+    },
+    {
+      "id": 21,
+      "text": "Chaque glomérule olfactif reçoit des informations :",
+      "explanation": "Chaque glomérule reçoit des informations d'un même type de récepteur olfactif situé sur les cellules sensorielles. Il existe une ségrégation spatiale de l'expression des récepteurs olfactifs. Cela contribue au codage combinatoire permettant la discrimination d'un grand nombre d'odeurs.",
+      "correct": ["D'un même type de récepteur olfactif (ségrégation spatiale)"],
+      "wrong": ["De tous les types de récepteurs olfactifs indistinctement", "Uniquement des cellules de type III comme dans les bourgeons gustatifs", "De deux types de récepteurs différents en alternance", "Exclusivement des fibres centrifuges corticales", "Des cellules mitrales uniquement", "D'un seul neurone olfactif à la fois", "Des cellules granulaires et périglomérulaires uniquement"]
+    },
+    {
+      "id": 22,
+      "text": "Les OBP (odorant binding proteins) ont pour rôle :",
+      "explanation": "Les substances odorantes sont peu solubles dans l'eau. Les OBP présentes dans le mucus permettent aux molécules odorantes de traverser le mucus aqueux pour atteindre les récepteurs olfactifs situés sur les cils. La sécrétion de mucus seule par les glandes de Bowman ne serait pas suffisante.",
+      "correct": ["Permettre aux molécules odorantes peu solubles de traverser le mucus pour atteindre les récepteurs"],
+      "wrong": ["Amplifier le signal électrique dans le nerf olfactif", "Myéliniser les axones des neurones olfactifs", "Inhiber les récepteurs olfactifs non spécifiques", "Régénérer les cellules basales de l'épithélium", "Synthétiser les neurotransmetteurs des synapses glomérulaires", "Piéger les molécules odorantes dans le sang", "Transporter les molécules odorantes vers le bulbe controlatéral"]
+    },
+    {
+      "id": 23,
+      "text": "Concernant les récepteurs olfactifs membranaires :",
+      "explanation": "Le récepteur olfactif est une protéine transmembranaire à 7 domaines (GPCR) située sur la membrane des cils olfactifs. Environ 347 gènes codent autant de récepteurs, représentant ~1% du génome humain. Il n'existe pas de spécificité absolue : une molécule peut activer plusieurs récepteurs (codage combinatoire).",
+      "correct": ["Ce sont des protéines transmembranaires couplées à des protéines G", "Environ 347 gènes codent pour ces récepteurs", "Il n'existe pas de spécificité absolue pour une molécule donnée"],
+      "wrong": ["Ce sont des canaux ioniques ligand-dépendants directs", "Ils sont situés sur la membrane du corps cellulaire du neurone olfactif", "Chaque récepteur ne reconnaît qu'une seule et unique molécule", "Ils représentent environ 10% du génome humain", "Ils sont localisés dans le mucus, pas sur les cils"]
+    },
+    {
+      "id": 24,
+      "text": "Le codage combinatoire en olfaction signifie que :",
+      "explanation": "Le codage combinatoire désigne le fait qu'une molécule odorante peut activer simultanément plusieurs récepteurs, et qu'un même récepteur peut reconnaître plusieurs molécules de classes différentes. C'est cette combinaison de récepteurs activés qui permet la perception d'un très grand nombre d'odeurs différentes.",
+      "correct": ["Une molécule odorante peut activer plusieurs récepteurs simultanément", "Un même récepteur peut reconnaître des molécules de classes différentes"],
+      "wrong": ["Chaque odeur correspond à l'activation d'un seul récepteur spécifique", "Le codage est identique à celui des saveurs gustatives", "Chaque glomérule intègre toutes les odeurs sans distinction", "Le codage se fait uniquement par modulation de fréquence des PA", "Chaque molécule odorante n'active qu'un seul récepteur unique", "Les récepteurs olfactifs sont mutuellement exclusifs dans leur reconnaissance"]
+    },
+    {
+      "id": 25,
+      "text": "La séquence complète de la transduction olfactive est :",
+      "explanation": "La transduction olfactive suit : fixation réversible de l'odorant sur le GPCR → activation de la protéine G → production d'AMPc (second messager) → ouverture des canaux Na+ et Ca2+ → activation des canaux Cl- (courant sortant) → dépolarisation → potentiel de récepteur → PA dans le nerf olfactif.",
+      "correct": ["Fixation sur GPCR → AMPc → ouverture canaux Na+/Ca2+ → activation canaux Cl- → dépolarisation"],
+      "wrong": ["Fixation sur canal ionique direct → entrée Na+ → dépolarisation sans second messager", "Fixation sur GPCR → IP3 → libération Ca2+ → fermeture canaux K+ → hyperpolarisation", "Fixation sur GPCR → GMPc → ouverture canaux K+ → hyperpolarisation", "Fixation sur GPCR → AMPc → fermeture canaux Na+ → hyperpolarisation", "Fixation sur récepteur ionotrope → entrée Cl- → dépolarisation", "Fixation sur GPCR → DAG → ouverture canaux Ca2+ uniquement → dépolarisation", "Même mécanisme que le goût salé : canaux Na+ directs"]
+    },
+    {
+      "id": 26,
+      "text": "Le second messager impliqué dans la transduction olfactive est :",
+      "explanation": "Dans la transduction olfactive, la fixation de l'odorant sur le GPCR active l'adénylyl cyclase via la protéine G, conduisant à la formation d'AMPc (adénosine monophosphate cyclique). Cet AMPc est le second messager qui déclenche l'ouverture des canaux Na+ et Ca2+.",
+      "correct": ["L'AMPc (adénosine monophosphate cyclique)"],
+      "wrong": ["L'IP3 (inositol triphosphate)", "Le GMPc", "Le DAG (diacylglycérol)", "L'ATP extracellulaire", "La sérotonine", "Le calcium seul, sans second messager intermédiaire", "Le GMPc comme dans les photorécepteurs rétiniens"]
+    },
+    {
+      "id": 27,
+      "text": "La voie olfactive se distingue des autres voies sensorielles par :",
+      "explanation": "L'olfaction est évolutivement la plus ancienne des voies sensorielles et se distingue par l'absence de relais diencéphalique (thalamique) dans sa voie primaire. La voie primaire projette directement du bulbe vers le cortex piriforme (archéocortex). Le cortex orbito-frontal est atteint via le thalamus mais uniquement pour la voie secondaire.",
+      "correct": ["L'absence de relais diencéphalique (thalamique) dans la voie primaire", "Son fort aspect émotionnel lié à l'organisation de ses centres"],
+      "wrong": ["La présence d'un relais thalamique obligatoire pour toutes ses projections", "L'absence de projection vers l'amygdale", "Une projection ipsilatérale exclusive sans croisement possible", "L'absence de toute projection vers le cortex orbito-frontal", "Sa projection directe sur le cortex somesthésique primaire", "Son organisation identique aux autres voies sensorielles"]
+    },
+    {
+      "id": 28,
+      "text": "Le cortex olfactif primaire est représenté par :",
+      "explanation": "Le cortex olfactif primaire est représenté principalement par le cortex piriforme (archéocortex). C'est là que s'effectue la perception consciente initiale des odeurs. Le cortex orbito-frontal (COF) constitue le cortex secondaire, atteint via un relais au niveau du thalamus dorsomédian.",
+      "correct": ["Le cortex piriforme (archéocortex)"],
+      "wrong": ["Le cortex orbito-frontal", "Le cortex entorhinal", "L'insula antérieure comme pour la gustation", "Le gyrus cingulaire", "Le cortex pariétal associatif", "Le cortex temporal supérieur", "L'hippocampe"]
+    },
+    {
+      "id": 29,
+      "text": "Parmi les projections des axones des cellules mitrales (tractus olfactif), lesquelles sont citées dans le cours ?",
+      "explanation": "Les axones des cellules mitrales et à panache forment le tractus olfactif qui se divise en 3 racines à l'encéphale et projette vers de nombreuses structures : cortex piriforme, noyau olfactif antérieur, cortex péri-amygdalien, amygdale, cortex entorhinal, bulbe controlatéral, cortex insulaire, COF (via thalamus dorsomédian), hippocampe, hypothalamus.",
+      "correct": ["L'amygdale", "Le cortex entorhinal", "L'hippocampe"],
+      "wrong": ["Le cervelet", "La substance noire", "Le noyau caudé directement", "Le cortex visuel primaire (V1)", "La moelle épinière"]
+    },
+    {
+      "id": 30,
+      "text": "Dans le traitement des informations olfactives, quelle structure est principalement associée à la composante émotionnelle et mnésique ?",
+      "explanation": "La composante émotionnelle et mnésique de l'olfaction implique le cortex entorhinal (voie d'entrée vers l'hippocampe), l'amygdale (émotions), le cortex péri-amygdalien et l'hippocampe (mémoire). Le COF et le cortex piriforme participent plutôt à la perception consciente. Les projections hypothalamiques régulent la prise de nourriture.",
+      "correct": ["L'amygdale", "Le cortex entorhinal et l'hippocampe"],
+      "wrong": ["Le cortex piriforme (perception consciente uniquement)", "Le cortex orbito-frontal gauche principalement", "Le colliculus inférieur", "Le thalamus ventro-postérieur médian (VPM)", "La couche des cellules mitrales du bulbe", "Le cortex somesthésique primaire"]
+    }
+  ]
+}
