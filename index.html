@@ -1,0 +1,1127 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>QCM – Révisions</title>
+<link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=DM+Mono:wght@400;500&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #0f0e17;
+    --surface: #1a1828;
+    --surface2: #231f35;
+    --border: #2e2a45;
+    --accent: #c8b6ff;
+    --accent2: #ff6b9d;
+    --gold: #f4c542;
+    --green: #6ee7b7;
+    --red: #ff6b6b;
+    --text: #e8e4f0;
+    --muted: #7b7490;
+    --radius: 12px;
+  }
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 300;
+    min-height: 100vh;
+    padding: 0 0 80px;
+  }
+
+  body::before {
+    content: '';
+    position: fixed;
+    inset: 0;
+    background:
+      radial-gradient(ellipse 80% 60% at 20% 10%, rgba(200,182,255,0.07) 0%, transparent 60%),
+      radial-gradient(ellipse 60% 80% at 80% 90%, rgba(255,107,157,0.05) 0%, transparent 60%);
+    pointer-events: none;
+    z-index: 0;
+  }
+
+  header {
+    position: relative;
+    z-index: 1;
+    padding: 56px 24px 40px;
+    text-align: center;
+    border-bottom: 1px solid var(--border);
+    background: linear-gradient(180deg, rgba(200,182,255,0.04) 0%, transparent 100%);
+  }
+
+  .header-tag {
+    display: inline-block;
+    font-family: 'DM Mono', monospace;
+    font-size: 11px;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    color: var(--accent);
+    background: rgba(200,182,255,0.1);
+    border: 1px solid rgba(200,182,255,0.25);
+    padding: 5px 14px;
+    border-radius: 100px;
+    margin-bottom: 20px;
+  }
+
+  h1 {
+    font-family: 'DM Serif Display', serif;
+    font-size: clamp(28px, 5vw, 48px);
+    font-weight: 400;
+    line-height: 1.15;
+    color: var(--text);
+    margin-bottom: 10px;
+  }
+
+  h1 em { font-style: italic; color: var(--accent); }
+  .subtitle { color: var(--muted); font-size: 15px; margin-top: 8px; }
+
+  /* ── Progress bar ─────────────────────────────── */
+  .progress-wrap {
+    position: sticky;
+    top: 0;
+    z-index: 10;
+    background: rgba(15,14,23,0.92);
+    backdrop-filter: blur(12px);
+    border-bottom: 1px solid var(--border);
+    padding: 10px 24px;
+    display: flex;
+    align-items: center;
+    gap: 14px;
+  }
+
+  .progress-bar { flex: 1; height: 4px; background: var(--border); border-radius: 100px; overflow: hidden; }
+  .progress-fill {
+    height: 100%;
+    background: linear-gradient(90deg, var(--accent), var(--accent2));
+    border-radius: 100px;
+    transition: width 0.4s ease;
+    width: 0%;
+  }
+  .progress-text { font-family: 'DM Mono', monospace; font-size: 12px; color: var(--muted); white-space: nowrap; }
+  .score-badge {
+    font-family: 'DM Mono', monospace;
+    font-size: 12px;
+    color: var(--gold);
+    background: rgba(244,197,66,0.1);
+    border: 1px solid rgba(244,197,66,0.25);
+    padding: 3px 10px;
+    border-radius: 100px;
+    white-space: nowrap;
+  }
+
+  /* ── Main container ──────────────────────────── */
+  #mainContent { position: relative; z-index: 1; }
+
+  /* ── Selection screen ───────────────────────── */
+  .selection-container {
+    max-width: 640px;
+    margin: 0 auto;
+    padding: 40px 24px;
+    display: flex;
+    flex-direction: column;
+    gap: 0;
+  }
+
+  .selection-card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    overflow: hidden;
+  }
+
+  .section-header {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 16px 22px;
+    background: var(--surface2);
+    border-bottom: 1px solid var(--border);
+  }
+
+  .section-icon { font-size: 14px; color: var(--accent); }
+  .section-title {
+    font-family: 'DM Mono', monospace;
+    font-size: 11px;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--muted);
+  }
+
+  .subject-list { padding: 8px 12px 12px; }
+
+  .loading-hint {
+    padding: 22px 12px;
+    text-align: center;
+    font-size: 13px;
+    color: var(--muted);
+    font-style: italic;
+  }
+
+  .subject-item {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    padding: 14px 16px;
+    background: transparent;
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    margin: 6px 0;
+    cursor: pointer;
+    text-align: left;
+    color: var(--text);
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 300;
+    transition: all 0.2s;
+  }
+
+  .subject-item:hover {
+    background: rgba(200,182,255,0.06);
+    border-color: rgba(200,182,255,0.35);
+    transform: translateX(3px);
+  }
+
+  .subject-tag {
+    font-family: 'DM Mono', monospace;
+    font-size: 10px;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--muted);
+    margin-bottom: 4px;
+  }
+
+  .subject-name { font-size: 15px; color: var(--text); margin-bottom: 3px; }
+  .subject-desc { font-size: 12px; color: var(--muted); line-height: 1.4; }
+  .subject-arrow { color: var(--accent); font-size: 18px; flex-shrink: 0; margin-left: 14px; }
+
+  .divider-or {
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    padding: 18px 0;
+    color: var(--muted);
+    font-family: 'DM Mono', monospace;
+    font-size: 11px;
+    letter-spacing: 0.1em;
+  }
+  .divider-or::before, .divider-or::after { content: ''; flex: 1; height: 1px; background: var(--border); }
+
+  .file-drop-zone {
+    margin: 14px;
+    padding: 32px 24px;
+    text-align: center;
+    border: 2px dashed var(--border);
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all 0.2s;
+  }
+  .file-drop-zone:hover, .file-drop-zone.drag-over {
+    border-color: var(--accent);
+    background: rgba(200,182,255,0.04);
+  }
+
+  .drop-icon { font-size: 26px; margin-bottom: 10px; color: var(--accent); }
+  .drop-text { font-size: 14px; color: var(--text); margin-bottom: 6px; }
+  .drop-hint { font-size: 12px; color: var(--muted); margin-bottom: 18px; }
+
+  .file-select-btn {
+    background: transparent;
+    border: 1px solid var(--accent);
+    color: var(--accent);
+    border-radius: 8px;
+    padding: 8px 22px;
+    font-family: 'DM Sans', sans-serif;
+    font-size: 13px;
+    cursor: pointer;
+    transition: all 0.2s;
+  }
+  .file-select-btn:hover { background: rgba(200,182,255,0.1); transform: translateY(-1px); }
+
+  .error-msg {
+    margin: 10px 12px 4px;
+    padding: 10px 14px;
+    background: rgba(255,107,107,0.08);
+    border: 1px solid rgba(255,107,107,0.3);
+    border-radius: 8px;
+    font-size: 13px;
+    color: var(--red);
+  }
+
+  /* ── Quiz screen ─────────────────────────────── */
+  .quiz-container {
+    max-width: 760px;
+    margin: 0 auto;
+    padding: 40px 24px 0;
+    display: flex;
+    flex-direction: column;
+    gap: 28px;
+  }
+
+  .question-card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    overflow: hidden;
+    transition: border-color 0.3s;
+  }
+  .question-card.answered { border-color: rgba(200,182,255,0.3); }
+  .question-card.correct-all { border-color: rgba(110,231,183,0.4); }
+  .question-card.wrong { border-color: rgba(255,107,107,0.3); }
+
+  .question-header {
+    display: flex;
+    align-items: flex-start;
+    gap: 14px;
+    padding: 20px 22px;
+    background: var(--surface2);
+    border-bottom: 1px solid var(--border);
+  }
+
+  .q-number {
+    font-family: 'DM Mono', monospace;
+    font-size: 11px;
+    color: var(--accent);
+    background: rgba(200,182,255,0.12);
+    border: 1px solid rgba(200,182,255,0.2);
+    padding: 4px 10px;
+    border-radius: 100px;
+    white-space: nowrap;
+    margin-top: 2px;
+    flex-shrink: 0;
+  }
+
+  .q-text { font-size: 15px; line-height: 1.55; color: var(--text); }
+
+  .options-list { padding: 14px 16px; display: flex; flex-direction: column; gap: 8px; }
+
+  .option-btn {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    width: 100%;
+    background: transparent;
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 12px 16px;
+    cursor: pointer;
+    text-align: left;
+    transition: all 0.2s;
+    color: var(--text);
+    font-family: 'DM Sans', sans-serif;
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 1.4;
+  }
+  .option-btn:hover:not(:disabled) {
+    background: rgba(200,182,255,0.06);
+    border-color: rgba(200,182,255,0.35);
+    transform: translateX(3px);
+  }
+  .option-btn:disabled { cursor: default; }
+
+  .option-letter {
+    font-family: 'DM Mono', monospace;
+    font-size: 12px;
+    font-weight: 500;
+    color: var(--muted);
+    min-width: 22px;
+    height: 22px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid var(--border);
+    border-radius: 5px;
+    transition: all 0.2s;
+    flex-shrink: 0;
+  }
+
+  .option-text { flex: 1; }
+  .option-icon { margin-left: auto; font-size: 15px; flex-shrink: 0; }
+
+  .option-btn.selected {
+    background: rgba(200,182,255,0.08);
+    border-color: rgba(200,182,255,0.5);
+  }
+  .option-btn.selected .option-letter {
+    background: var(--accent);
+    color: var(--bg);
+    border-color: var(--accent);
+  }
+  .option-btn.reveal-correct {
+    background: rgba(110,231,183,0.08);
+    border-color: rgba(110,231,183,0.5);
+    color: var(--green);
+  }
+  .option-btn.reveal-correct .option-letter {
+    background: var(--green);
+    color: var(--bg);
+    border-color: var(--green);
+  }
+  .option-btn.reveal-wrong {
+    background: rgba(255,107,107,0.08);
+    border-color: rgba(255,107,107,0.4);
+    color: var(--red);
+  }
+  .option-btn.reveal-wrong .option-letter {
+    background: var(--red);
+    color: #fff;
+    border-color: var(--red);
+  }
+  .option-btn.reveal-missed {
+    background: rgba(244,197,66,0.07);
+    border-color: rgba(244,197,66,0.4);
+    color: var(--gold);
+  }
+  .option-btn.reveal-missed .option-letter {
+    background: var(--gold);
+    color: var(--bg);
+    border-color: var(--gold);
+  }
+
+  .submit-wrap {
+    padding: 8px 16px 16px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  .submit-btn {
+    align-self: flex-start;
+    background: var(--accent);
+    color: var(--bg);
+    border: none;
+    border-radius: 8px;
+    padding: 10px 22px;
+    font-family: 'DM Sans', sans-serif;
+    font-size: 13px;
+    font-weight: 500;
+    cursor: pointer;
+    transition: all 0.2s;
+  }
+  .submit-btn:hover:not(:disabled) { background: #d9caff; transform: translateY(-1px); }
+  .submit-btn:disabled { opacity: 0.4; cursor: default; transform: none; }
+
+  .result-msg {
+    font-family: 'DM Mono', monospace;
+    font-size: 12px;
+    padding: 6px 12px;
+    border-radius: 6px;
+    align-self: flex-start;
+  }
+  .result-msg.ok {
+    color: var(--green);
+    background: rgba(110,231,183,0.1);
+    border: 1px solid rgba(110,231,183,0.25);
+  }
+  .result-msg.ko {
+    color: var(--red);
+    background: rgba(255,107,107,0.1);
+    border: 1px solid rgba(255,107,107,0.25);
+  }
+
+  .explanation-box {
+    display: flex;
+    gap: 12px;
+    padding: 12px 14px;
+    background: rgba(200,182,255,0.05);
+    border: 1px solid rgba(200,182,255,0.15);
+    border-radius: 8px;
+    font-size: 13px;
+    line-height: 1.55;
+  }
+  .expl-label {
+    font-family: 'DM Mono', monospace;
+    font-size: 10px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--accent);
+    white-space: nowrap;
+    padding-top: 2px;
+    flex-shrink: 0;
+  }
+  .expl-text { color: var(--muted); }
+
+  /* ── Summary ─────────────────────────────────── */
+  #summary {
+    display: none;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+  }
+  #summary.visible { display: block; }
+
+  .summary-inner { padding: 36px 28px; text-align: center; }
+
+  #summary h2 {
+    font-family: 'DM Serif Display', serif;
+    font-size: 30px;
+    font-weight: 400;
+    margin-bottom: 8px;
+  }
+
+  .big-score {
+    font-family: 'DM Mono', monospace;
+    font-size: 64px;
+    color: var(--accent);
+    margin: 16px 0 4px;
+    line-height: 1;
+  }
+
+  .score-sub { color: var(--muted); font-size: 14px; margin-bottom: 24px; }
+
+  .stat-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 10px;
+    margin: 0 auto 20px;
+    max-width: 480px;
+  }
+
+  .stat-item {
+    padding: 14px 8px;
+    border-radius: 8px;
+    border: 1px solid var(--border);
+  }
+
+  .stat-value {
+    font-family: 'DM Mono', monospace;
+    font-size: 26px;
+    font-weight: 500;
+    margin-bottom: 4px;
+  }
+
+  .stat-label { font-size: 11px; color: var(--muted); line-height: 1.3; }
+
+  .stat-item.tp { border-color: rgba(110,231,183,0.3); background: rgba(110,231,183,0.05); }
+  .stat-item.tp .stat-value { color: var(--green); }
+  .stat-item.tn { border-color: rgba(200,182,255,0.3); background: rgba(200,182,255,0.05); }
+  .stat-item.tn .stat-value { color: var(--accent); }
+  .stat-item.fp { border-color: rgba(255,107,107,0.3); background: rgba(255,107,107,0.05); }
+  .stat-item.fp .stat-value { color: var(--red); }
+  .stat-item.fn { border-color: rgba(244,197,66,0.3); background: rgba(244,197,66,0.05); }
+  .stat-item.fn .stat-value { color: var(--gold); }
+
+  .mention-badge {
+    font-family: 'DM Mono', monospace;
+    font-size: 13px;
+    color: var(--accent);
+    background: rgba(200,182,255,0.1);
+    border: 1px solid rgba(200,182,255,0.25);
+    padding: 6px 18px;
+    border-radius: 100px;
+    display: inline-block;
+    margin-bottom: 28px;
+  }
+
+  .summary-actions { display: flex; gap: 12px; justify-content: center; flex-wrap: wrap; }
+
+  .restart-btn {
+    background: transparent;
+    border: 1px solid var(--accent);
+    color: var(--accent);
+    border-radius: 8px;
+    padding: 10px 28px;
+    font-family: 'DM Sans', sans-serif;
+    font-size: 14px;
+    cursor: pointer;
+    transition: all 0.2s;
+  }
+  .restart-btn:hover { background: rgba(200,182,255,0.1); transform: translateY(-1px); }
+  .restart-btn.secondary { border-color: var(--border); color: var(--muted); }
+  .restart-btn.secondary:hover { background: rgba(255,255,255,0.04); color: var(--text); }
+
+  @media (max-width: 480px) {
+    .question-header { flex-direction: column; gap: 8px; }
+    .q-number { align-self: flex-start; }
+    .option-btn { padding: 10px 12px; font-size: 13px; }
+    .stat-grid { grid-template-columns: repeat(2, 1fr); }
+    .big-score { font-size: 48px; }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="header-tag" id="headerTag">QCM · Révisions</div>
+  <h1 id="headerTitle">Révisions<br><em>Interactives</em></h1>
+  <p class="subtitle" id="headerSubtitle">Sélectionnez une matière pour commencer</p>
+</header>
+
+<div class="progress-wrap" id="progressWrap" style="display:none">
+  <div class="progress-bar"><div class="progress-fill" id="progressFill"></div></div>
+  <span class="progress-text" id="progressText">0 / 20</span>
+  <span class="score-badge" id="scoreBadge">Score : —</span>
+</div>
+
+<div id="mainContent"></div>
+
+<script>
+/*
+ * ═══════════════════════════════════════════════════════════
+ *  FORMAT JSON — À LIRE PAR L'AGENT CRÉATEUR DE CONTENU
+ * ═══════════════════════════════════════════════════════════
+ *
+ *  FICHIER MANIFEST  (manifest.json, même dossier que qcm.html)
+ *  ─────────────────────────────────────────────────────────
+ *  {
+ *    "subjects": [
+ *      {
+ *        "file": "qcm_neurologie.json",
+ *        "subject": "Neurologie Clinique",
+ *        "tag": "Médecine · Neurologie",
+ *        "description": "Bases anatomo-cliniques et syndromes neurologiques."
+ *      }
+ *    ]
+ *  }
+ *
+ *  FICHIER DE QUESTIONS  (ex: qcm_neurologie.json)
+ *  ─────────────────────────────────────────────────────────
+ *  {
+ *    "subject": "Neurologie Clinique",
+ *    "tag": "Médecine · Neurologie",
+ *    "description": "Bases anatomo-cliniques et syndromes neurologiques.",
+ *    "questions": [
+ *      {
+ *        "id": 1,
+ *        "text": "Concernant l'accident vasculaire cérébral ischémique :",
+ *        "explanation": "L'AVC ischémique résulte d'une occlusion artérielle. Le délai thérapeutique est critique : la thrombolyse IV est possible jusqu'à 4h30 après le début des symptômes.",
+ *        "correct": [
+ *          "Il représente environ 80% des AVC",
+ *          "La thrombolyse IV est possible dans les 4h30"
+ *        ],
+ *        "wrong": [
+ *          "Il est toujours hémorragique",
+ *          "La thrombectomie est contre-indiquée",
+ *          "Il n'y a pas de traitement en phase aiguë",
+ *          "Le scanner est inutile en urgence",
+ *          "L'aspirine est contre-indiquée en phase aiguë"
+ *        ]
+ *      }
+ *    ]
+ *  }
+ *
+ *  CONTRAINTES STRICTES :
+ *  - correct   : tableau, 1 à 3 éléments (string)
+ *  - wrong     : tableau, idéalement 8 - correct.length éléments
+ *                (ex: 2 bonnes → 6 mauvaises, pour 8 options au total)
+ *  - explanation : toujours présent, 1 à 3 phrases concises
+ *  - Minimum 20 questions par fichier (recommandé)
+ *  - text      : se termine par ':' ou '?' — pas de mention du nb de bonnes réponses
+ *
+ *  WORKFLOW AGENT :
+ *  1. Créer le fichier JSON de questions (ex: qcm_neurologie.json)
+ *  2. Ajouter l'entrée correspondante dans manifest.json
+ * ═══════════════════════════════════════════════════════════
+ */
+
+// ── Utilitaires ────────────────────────────────────────────
+
+function shuffle(arr) {
+  const a = [...arr];
+  for (let i = a.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [a[i], a[j]] = [a[j], a[i]];
+  }
+  return a;
+}
+
+function randInt(min, max) {
+  return Math.floor(Math.random() * (max - min + 1)) + min;
+}
+
+function pickN(arr, n) {
+  return shuffle([...arr]).slice(0, n);
+}
+
+function formatTitle(subject) {
+  if (subject.includes(' & ')) {
+    const idx = subject.indexOf(' & ');
+    return subject.slice(0, idx) + ' &<br><em>' + subject.slice(idx + 3) + '</em>';
+  }
+  if (subject.includes(' – ')) {
+    const idx = subject.indexOf(' – ');
+    return subject.slice(0, idx) + '<br><em>' + subject.slice(idx + 3) + '</em>';
+  }
+  if (subject.includes(' - ')) {
+    const idx = subject.indexOf(' - ');
+    return subject.slice(0, idx) + '<br><em>' + subject.slice(idx + 3) + '</em>';
+  }
+  return subject;
+}
+
+// ── État global ────────────────────────────────────────────
+
+let activeQuestions = [];
+let questionStates  = {};
+let totals = { tp: 0, tn: 0, fp: 0, fn: 0 };
+let answeredCount = 0;
+let currentData = null;
+
+// ── Initialisation ─────────────────────────────────────────
+
+async function init() {
+  showSelectionScreen();
+  try {
+    const resp = await fetch('manifest.json');
+    if (!resp.ok) throw new Error('not found');
+    const manifest = await resp.json();
+    if (Array.isArray(manifest.subjects) && manifest.subjects.length > 0) {
+      renderSubjectCards(manifest.subjects);
+    } else {
+      setSubjectListContent('<div class="loading-hint">manifest.json ne contient aucune matière.</div>');
+    }
+  } catch {
+    setSubjectListContent(
+      '<div class="loading-hint">Aucune matière auto-détectée.<br>Utilisez le chargement manuel ci-dessous,<br>ou ouvrez la page via un serveur local.</div>'
+    );
+  }
+}
+
+// ── Écran de sélection ─────────────────────────────────────
+
+function showSelectionScreen() {
+  document.getElementById('progressWrap').style.display = 'none';
+  document.getElementById('headerTag').textContent = 'QCM · Révisions';
+  document.getElementById('headerTitle').innerHTML = 'Révisions<br><em>Interactives</em>';
+  document.getElementById('headerSubtitle').textContent = 'Sélectionnez une matière pour commencer';
+
+  const main = document.getElementById('mainContent');
+  main.innerHTML = `
+    <div class="selection-container">
+      <div class="selection-card">
+        <div class="section-header">
+          <span class="section-icon">◈</span>
+          <span class="section-title">Matières disponibles</span>
+        </div>
+        <div class="subject-list" id="subjectList">
+          <div class="loading-hint">Recherche des matières…</div>
+        </div>
+      </div>
+
+      <div class="divider-or">ou</div>
+
+      <div class="selection-card">
+        <div class="section-header">
+          <span class="section-icon">⊕</span>
+          <span class="section-title">Charger un fichier JSON</span>
+        </div>
+        <div class="file-drop-zone" id="dropZone">
+          <input type="file" id="fileInput" accept=".json" style="display:none">
+          <div class="drop-icon">↑</div>
+          <div class="drop-text">Glissez un fichier <code>.json</code> ici</div>
+          <div class="drop-hint">Format compatible : fichier de questions QCM</div>
+          <button class="file-select-btn" onclick="document.getElementById('fileInput').click()">Parcourir…</button>
+        </div>
+      </div>
+    </div>
+  `;
+
+  document.getElementById('fileInput').addEventListener('change', async e => {
+    const file = e.target.files[0];
+    if (!file) return;
+    await readFileAndStart(file);
+    e.target.value = '';
+  });
+
+  const dropZone = document.getElementById('dropZone');
+  dropZone.addEventListener('dragover', e => { e.preventDefault(); dropZone.classList.add('drag-over'); });
+  dropZone.addEventListener('dragleave', () => dropZone.classList.remove('drag-over'));
+  dropZone.addEventListener('drop', async e => {
+    e.preventDefault();
+    dropZone.classList.remove('drag-over');
+    const file = e.dataTransfer.files[0];
+    if (file) await readFileAndStart(file);
+  });
+}
+
+function setSubjectListContent(html) {
+  const el = document.getElementById('subjectList');
+  if (el) el.innerHTML = html;
+}
+
+function renderSubjectCards(subjects) {
+  const list = document.getElementById('subjectList');
+  if (!list) return;
+  list.innerHTML = '';
+  subjects.forEach(s => {
+    const btn = document.createElement('button');
+    btn.className = 'subject-item';
+    btn.innerHTML = `
+      <div>
+        <div class="subject-tag">${s.tag || ''}</div>
+        <div class="subject-name">${s.subject}</div>
+        ${s.description ? `<div class="subject-desc">${s.description}</div>` : ''}
+      </div>
+      <span class="subject-arrow">→</span>
+    `;
+    btn.addEventListener('click', () => loadSubjectFile(s.file));
+    list.appendChild(btn);
+  });
+}
+
+async function loadSubjectFile(filename) {
+  try {
+    const resp = await fetch(filename);
+    if (!resp.ok) throw new Error('not found');
+    const data = await resp.json();
+    validateAndStart(data);
+  } catch {
+    showSelectionError(`Impossible de charger « ${filename} ». Essayez le chargement manuel.`);
+  }
+}
+
+async function readFileAndStart(file) {
+  try {
+    const text = await file.text();
+    const data = JSON.parse(text);
+    validateAndStart(data);
+  } catch {
+    showSelectionError('Fichier JSON invalide ou mal formaté.');
+  }
+}
+
+function validateAndStart(data) {
+  if (!data || !Array.isArray(data.questions) || data.questions.length === 0) {
+    showSelectionError('Le fichier ne contient pas de questions valides (champ "questions" manquant ou vide).');
+    return;
+  }
+  startQuiz(data);
+}
+
+function showSelectionError(msg) {
+  const list = document.getElementById('subjectList');
+  const existing = list ? list.querySelector('.error-msg') : null;
+  if (existing) existing.remove();
+  const err = document.createElement('div');
+  err.className = 'error-msg';
+  err.textContent = msg;
+  if (list) list.prepend(err);
+  else {
+    const main = document.getElementById('mainContent');
+    main.prepend(err);
+  }
+}
+
+// ── Démarrage du quiz ──────────────────────────────────────
+
+function startQuiz(data) {
+  currentData = data;
+  totals = { tp: 0, tn: 0, fp: 0, fn: 0 };
+  answeredCount = 0;
+  questionStates = {};
+
+  const n = Math.min(20, data.questions.length);
+  const picked = shuffle(data.questions).slice(0, n);
+  activeQuestions = picked.map(q => prepareQuestion(q));
+  activeQuestions.forEach((_, i) => {
+    questionStates[i] = { selected: new Set(), submitted: false, score: null };
+  });
+
+  document.getElementById('headerTag').textContent = data.tag || 'QCM · Révisions';
+  document.getElementById('headerTitle').innerHTML = formatTitle(data.subject || 'Révisions');
+  document.getElementById('headerSubtitle').textContent =
+    `${n} questions à choix multiples — sélectionnez les bonnes réponses`;
+
+  document.getElementById('progressWrap').style.display = 'flex';
+  updateProgress();
+  renderQuiz();
+}
+
+function prepareQuestion(q) {
+  const nCorrectAvail = Math.max(1, Math.min(q.correct.length, 3));
+  const nWrongAvail   = q.wrong.length;
+
+  let nC = randInt(1, nCorrectAvail);
+  let nW = 4 - nC;
+
+  // Ajustement si pas assez de mauvaises réponses
+  if (nW > nWrongAvail) {
+    nW = nWrongAvail;
+    nC = Math.max(1, 4 - nW);
+  }
+
+  const letters = ['A', 'B', 'C', 'D'];
+  const options = shuffle([
+    ...pickN(q.correct, nC).map(t => ({ text: t, correct: true })),
+    ...pickN(q.wrong, nW).map(t => ({ text: t, correct: false })),
+  ]).map((o, i) => ({ ...o, letter: letters[i] }));
+
+  return { ...q, options };
+}
+
+// ── Rendu du quiz ──────────────────────────────────────────
+
+function renderQuiz() {
+  const main = document.getElementById('mainContent');
+  main.innerHTML = '';
+
+  const container = document.createElement('div');
+  container.className = 'quiz-container';
+
+  activeQuestions.forEach((q, i) => container.appendChild(buildCard(q, i)));
+
+  const summary = document.createElement('div');
+  summary.id = 'summary';
+  summary.innerHTML = `
+    <div class="summary-inner">
+      <h2>Résultat final</h2>
+      <div class="big-score" id="finalScore">—</div>
+      <div class="score-sub" id="finalSub"></div>
+      <div id="scoreBreakdown"></div>
+      <div class="summary-actions">
+        <button class="restart-btn" onclick="restartSame()">Recommencer</button>
+        <button class="restart-btn secondary" onclick="backToSelection()">Changer de matière</button>
+      </div>
+    </div>
+  `;
+  container.appendChild(summary);
+  main.appendChild(container);
+}
+
+function buildCard(q, qIdx) {
+  const s = questionStates[qIdx];
+  const card = document.createElement('div');
+  card.className = 'question-card';
+  card.id = `card-${qIdx}`;
+
+  if (s.submitted) {
+    card.classList.add('answered');
+    card.classList.add(s.score.fp === 0 && s.score.fn === 0 ? 'correct-all' : 'wrong');
+  }
+
+  // En-tête
+  const header = document.createElement('div');
+  header.className = 'question-header';
+  header.innerHTML = `
+    <span class="q-number">Q${String(qIdx + 1).padStart(2, '0')}</span>
+    <div class="q-text">${q.text}</div>
+  `;
+  card.appendChild(header);
+
+  // Options
+  const list = document.createElement('div');
+  list.className = 'options-list';
+
+  q.options.forEach((opt, optIdx) => {
+    const btn = document.createElement('button');
+    btn.className = 'option-btn';
+    btn.disabled = s.submitted;
+
+    if (s.submitted) {
+      const sel = s.selected.has(optIdx);
+      if (opt.correct && sel)   btn.classList.add('reveal-correct');
+      else if (!opt.correct && sel) btn.classList.add('reveal-wrong');
+      else if (opt.correct && !sel) btn.classList.add('reveal-missed');
+    } else {
+      if (s.selected.has(optIdx)) btn.classList.add('selected');
+    }
+
+    let icon = '';
+    if (s.submitted) {
+      const sel = s.selected.has(optIdx);
+      if (opt.correct && sel)   icon = '✓';
+      else if (!opt.correct && sel) icon = '✗';
+      else if (opt.correct && !sel) icon = '◯';
+    }
+
+    btn.innerHTML = `
+      <span class="option-letter">${opt.letter}</span>
+      <span class="option-text">${opt.text}</span>
+      ${icon ? `<span class="option-icon">${icon}</span>` : ''}
+    `;
+
+    if (!s.submitted) {
+      btn.addEventListener('click', () => toggleOption(qIdx, optIdx, card));
+    }
+
+    list.appendChild(btn);
+  });
+
+  card.appendChild(list);
+
+  // Zone de validation / résultat
+  const submitWrap = document.createElement('div');
+  submitWrap.className = 'submit-wrap';
+
+  if (!s.submitted) {
+    const btn = document.createElement('button');
+    btn.className = 'submit-btn';
+    btn.id = `submit-${qIdx}`;
+    btn.textContent = 'Valider';
+    btn.disabled = s.selected.size === 0;
+    btn.addEventListener('click', () => submitQuestion(qIdx));
+    submitWrap.appendChild(btn);
+  } else {
+    const sc = s.score;
+    const pts = sc.tp + sc.tn;
+    const isPerf = sc.fp === 0 && sc.fn === 0;
+
+    const msg = document.createElement('div');
+    msg.className = `result-msg ${isPerf ? 'ok' : 'ko'}`;
+    let detail = `${pts}/4`;
+    if (!isPerf) {
+      const parts = [];
+      if (sc.tp > 0) parts.push(`${sc.tp} correct${sc.tp > 1 ? 's' : ''}`);
+      if (sc.fp > 0) parts.push(`${sc.fp} faux positif${sc.fp > 1 ? 's' : ''}`);
+      if (sc.fn > 0) parts.push(`${sc.fn} omission${sc.fn > 1 ? 's' : ''}`);
+      if (sc.tn > 0) parts.push(`${sc.tn} rejet${sc.tn > 1 ? 's' : ''} correct${sc.tn > 1 ? 's' : ''}`);
+      detail += ' — ' + parts.join(' · ');
+    }
+    msg.textContent = isPerf ? `✓ Parfait ! ${detail}` : detail;
+    submitWrap.appendChild(msg);
+
+    if (q.explanation) {
+      const expl = document.createElement('div');
+      expl.className = 'explanation-box';
+      expl.innerHTML = `<span class="expl-label">Explication</span><span class="expl-text">${q.explanation}</span>`;
+      submitWrap.appendChild(expl);
+    }
+  }
+
+  card.appendChild(submitWrap);
+  return card;
+}
+
+// ── Interactions ───────────────────────────────────────────
+
+function toggleOption(qIdx, optIdx, card) {
+  const s = questionStates[qIdx];
+  if (s.submitted) return;
+
+  if (s.selected.has(optIdx)) s.selected.delete(optIdx);
+  else s.selected.add(optIdx);
+
+  card.querySelectorAll('.option-btn').forEach((btn, i) => {
+    btn.className = 'option-btn';
+    if (s.selected.has(i)) btn.classList.add('selected');
+  });
+
+  const submitBtn = document.getElementById(`submit-${qIdx}`);
+  if (submitBtn) submitBtn.disabled = s.selected.size === 0;
+}
+
+function submitQuestion(qIdx) {
+  const s = questionStates[qIdx];
+  if (s.submitted || s.selected.size === 0) return;
+
+  const q = activeQuestions[qIdx];
+  let tp = 0, fp = 0, fn = 0, tn = 0;
+  q.options.forEach((opt, i) => {
+    const sel = s.selected.has(i);
+    if (opt.correct && sel)       tp++;
+    else if (!opt.correct && sel) fp++;
+    else if (opt.correct && !sel) fn++;
+    else                          tn++;
+  });
+
+  s.submitted = true;
+  s.score = { tp, fp, fn, tn };
+  answeredCount++;
+
+  totals.tp += tp;
+  totals.fp += fp;
+  totals.fn += fn;
+  totals.tn += tn;
+
+  const old = document.getElementById(`card-${qIdx}`);
+  old.replaceWith(buildCard(q, qIdx));
+  updateProgress();
+
+  setTimeout(() => {
+    const nextIdx = activeQuestions.findIndex((_, i) => i > qIdx && !questionStates[i].submitted);
+    if (nextIdx !== -1) {
+      const el = document.getElementById(`card-${nextIdx}`);
+      if (el) el.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    } else if (answeredCount === activeQuestions.length) {
+      showSummary();
+    }
+  }, 250);
+}
+
+// ── Résumé final ───────────────────────────────────────────
+
+function showSummary() {
+  const summary = document.getElementById('summary');
+  if (!summary) return;
+  summary.classList.add('visible');
+
+  const total   = activeQuestions.length;
+  const maxPts  = total * 4;
+  const earned  = totals.tp + totals.tn;
+  const pct     = Math.round(earned / maxPts * 100);
+
+  const perfCount = activeQuestions.filter((_, i) =>
+    questionStates[i].submitted &&
+    questionStates[i].score.fp === 0 &&
+    questionStates[i].score.fn === 0
+  ).length;
+
+  document.getElementById('finalScore').textContent = `${pct}%`;
+  document.getElementById('finalSub').textContent =
+    `${earned} / ${maxPts} décisions correctes · ${perfCount} / ${total} questions parfaites`;
+
+  const mention = pct >= 85 ? 'Excellent !' : pct >= 70 ? 'Bien joué' : pct >= 55 ? 'Passable' : 'À retravailler';
+
+  document.getElementById('scoreBreakdown').innerHTML = `
+    <div class="stat-grid">
+      <div class="stat-item tp">
+        <div class="stat-value">${totals.tp}</div>
+        <div class="stat-label">Vrais<br>positifs</div>
+      </div>
+      <div class="stat-item tn">
+        <div class="stat-value">${totals.tn}</div>
+        <div class="stat-label">Rejets<br>corrects</div>
+      </div>
+      <div class="stat-item fp">
+        <div class="stat-value">${totals.fp}</div>
+        <div class="stat-label">Faux<br>positifs</div>
+      </div>
+      <div class="stat-item fn">
+        <div class="stat-value">${totals.fn}</div>
+        <div class="stat-label">Omissions</div>
+      </div>
+    </div>
+    <div class="mention-badge">${mention}</div>
+  `;
+
+  summary.scrollIntoView({ behavior: 'smooth', block: 'center' });
+}
+
+// ── Barre de progression ───────────────────────────────────
+
+function updateProgress() {
+  const total    = activeQuestions.length;
+  const answered = Object.values(questionStates).filter(s => s.submitted).length;
+  const pct      = total > 0 ? (answered / total) * 100 : 0;
+
+  document.getElementById('progressFill').style.width = pct + '%';
+  document.getElementById('progressText').textContent = `${answered} / ${total}`;
+
+  if (answered > 0) {
+    const earned    = totals.tp + totals.tn;
+    const pctSoFar  = Math.round(earned / (answered * 4) * 100);
+    document.getElementById('scoreBadge').textContent = `Score : ${pctSoFar}%`;
+  } else {
+    document.getElementById('scoreBadge').textContent = 'Score : —';
+  }
+}
+
+// ── Navigation ─────────────────────────────────────────────
+
+function restartSame() {
+  if (currentData) startQuiz(currentData);
+}
+
+function backToSelection() {
+  showSelectionScreen();
+  init();
+}
+
+// ── Démarrage ──────────────────────────────────────────────
+init();
+</script>
+</body>
+</html>
