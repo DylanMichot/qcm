@@ -1,1031 +1,856 @@
 {
   "subject": "Tests sur le jeune enfant – Psychomotricité",
-  "tag": "ISRP 2A – Cours Séverine Bekier 2025-2026",
-  "description": "QCM de niveau expert couvrant l'ensemble des outils d'évaluation du développement du jeune enfant : Gesell, Brazelton (NBAS/NBO), Bayley-4, Amiel-Tison (ENTAT/ENAT), Denver, Brunet-Lézine Révisé, DF-MOT et évaluation du prématuré.",
+  "tag": "ISRP – Style annale – 2025-2026",
+  "description": "50 questions de style annale, ciblées sur les âges de passation, l'utilité, les critères d'arrêt, les spécificités de passation, les buts et les avantages/inconvénients des tests. Inclut des questions approfondies sur la NBAS, la Vaivre-Douret néonatale, le BLR et les comparaisons croisées.",
   "questions": [
     {
       "id": 1,
-      "text": "Parmi les propositions suivantes, lesquelles correspondent à des définitions exactes issues du vocabulaire de la psychométrie développementale ?",
-      "explanation": "Une batterie est un ensemble de tests évaluant plusieurs composantes d'un comportement ; un item est la plus petite unité d'un test ; le bilan est le résultat concret de l'utilisation d'une batterie. Une épreuve est une activité caractéristique d'un âge donné, et le profil est la reproduction graphique des résultats.",
+      "text": "Pour évaluer un enfant de 36 mois, je peux utiliser :",
+      "explanation": "Le BLR couvre 2 à 30 mois, le DF-MOT couvre 0 à 48 mois, le DDST couvre 0 à 6 ans. La Bayley-4 s'arrête à 42 mois et couvre donc 36 mois. L'ENAT d'Amiel-Tison couvre 0 à 6 ans. Un enfant de 36 mois dépasse la limite du BLR (30 mois).",
       "correct": [
-        "Un item est la plus petite unité d'un test ou d'une épreuve",
-        "Une batterie est un ensemble de tests regroupés pour évaluer plusieurs composantes d'un comportement",
-        "Le bilan est le résultat concret de l'utilisation d'une batterie"
+        "Le DDST",
+        "Le DF-MOT",
+        "L'évaluation d'Amiel-Tison"
       ],
       "wrong": [
-        "Une épreuve est un ensemble de tests permettant d'évaluer un quotient de développement global",
-        "Le profil est le score brut total obtenu à une batterie standardisée",
-        "Une batterie est synonyme d'item dans le vocabulaire psychométrique courant",
-        "Le bilan désigne la liste brute des items réussis avant conversion en âge de développement",
-        "Un item est un ensemble d'épreuves regroupées par domaine développemental"
+        "Le BLR",
+        "La NBAS de Brazelton",
+        "L'évaluation néonatale de Vaivre-Douret",
+        "L'ENTAT",
+        "Le NBO"
       ]
     },
     {
       "id": 2,
-      "text": "Concernant Arnold Gesell et ses travaux, quelles affirmations sont exactes ?",
-      "explanation": "Gesell, médecin américain à Yale, est le premier à avoir utilisé le support vidéo pour étudier le développement de 0 à 16 ans (1924). Il a mis en relation les comportements observés avec la maturation du SNC et décrit les lois céphalocaudales et proximodistales avec Amatruda. Son échelle comporte 4 sphères comportementales.",
+      "text": "Pour évaluer un nouveau-né à terme de 10 jours, je peux utiliser :",
+      "explanation": "La NBAS de Brazelton s'applique de 0 à 2 mois (période néonatale). Le NBO est utilisable de la naissance jusqu'au 3e mois. La Bayley-4 commence à 16 jours, donc un enfant de 10 jours n'y est pas encore éligible. Le BLR commence à 2 mois.",
       "correct": [
-        "Gesell est le premier à avoir étudié le développement de l'enfant avec le support vidéo",
-        "C'est à Gesell et Amatruda que l'on doit la description des lois céphalocaudales et proximodistales"
+        "La NBAS de Brazelton",
+        "Le NBO"
       ],
       "wrong": [
-        "Gesell a étudié le développement de la naissance à 6 ans uniquement",
-        "Gesell dirigeait la Clinique du Développement de l'Enfant à Harvard",
-        "L'échelle de Gesell (1934) comporte 6 sphères comportementales",
-        "Gesell a adapté ses travaux aux bébés français en collaboration avec Irène Lézine",
-        "Les lois céphalocaudales ont été décrites par Brazelton en réaction aux travaux de Gesell",
-        "L'originalité de Gesell était d'ignorer les différences interindividuelles pour établir des normes strictes"
+        "Le Bayley 4",
+        "Le BLR",
+        "Le DF-MOT",
+        "L'ENTAT d'Amiel-Tison",
+        "Le DDST",
+        "L'évaluation de Vaivre-Douret pour les prématurés"
       ]
     },
     {
       "id": 3,
-      "text": "L'adaptation française de l'échelle de Gesell pour évaluer un quotient de développement (baby test) a été réalisée par :",
-      "explanation": "Odette Brunet et Irène Lézine ont adapté l'échelle de Gesell aux bébés français, donnant naissance au baby test de Brunet-Lézine. André Thomas et Saint-Anne D'Argassies ont amélioré les échelles de Gesell, mais n'ont pas réalisé cette adaptation.",
+      "text": "Le test de Denver :",
+      "explanation": "Le DDST est un screening test généraliste de première intention (0 à 6 ans), très visuel, qui ne calcule pas de QD ni de niveau fonctionnel. Il comporte 105 items répartis en 4 secteurs. Son étalonnage n'est plus adapté, ce qui constitue sa principale limite.",
       "correct": [
-        "Odette Brunet et Irène Lézine"
+        "Est un screening test",
+        "Comprend des items de motricité globale",
+        "Ne permet pas l'attribution d'un quotient de développement"
       ],
       "wrong": [
-        "André Thomas et Saint-Anne D'Argassies",
-        "France Ilg et Louise Bate Ames",
-        "Claudine Amiel-Tison et Grenier",
-        "Laurence Vaivre-Douret et Papiernik",
-        "T. Berry Brazelton et Nugent",
-        "Denise Josse et Zazzo",
-        "Frankenburg et Dodds"
+        "Permet le calcul d'un niveau moteur fonctionnel",
+        "Comprend 150 items",
+        "Est un test de deuxième intention",
+        "A un étalonnage récent adapté à la population française",
+        "Commence à 2 mois"
       ]
     },
     {
       "id": 4,
-      "text": "La NBAS (Neonatal Behavioural Assessment Scale) de Brazelton se compose de trois parties. Quels éléments en font partie ?",
-      "explanation": "La NBAS comporte 28 items comportementaux (qualité du sommeil, auto-apaisement, réponses visuelles/auditives…), 8 réflexes traduisant l'état neurologique, et un groupe d'items supplémentaires évaluant le répertoire du nourrisson fragile et le soutien dont il a besoin de l'examinateur.",
+      "text": "Le Bayley 4 :",
+      "explanation": "La Bayley-4 commence à 16 jours (pas 2 mois), dispose d'un étalonnage français de 2022 sur 1100 enfants, et n'évalue pas le tonus. Elle ne prédit pas la réussite scolaire et ne doit pas être utilisée seule pour diagnostiquer un trouble spécifique.",
       "correct": [
-        "28 items comportementaux évaluant entre autres la qualité du sommeil et les réponses visuelles et auditives",
-        "8 réflexes qui traduisent l'état neurologique du bébé",
-        "Un groupe d'items visant à mieux saisir le répertoire du nourrisson fragile et l'aide dont il a besoin"
+        "A un étalonnage récent",
+        "Commence à 16 jours"
       ],
       "wrong": [
-        "18 observations neurocomportementales portant sur le tonus axial et périphérique",
-        "Un questionnaire parental de 30 questions sur les habitudes de sommeil et d'alimentation",
-        "Un subtest de motricité globale évaluant la marche automatique et le redressement",
-        "Un inventaire du comportement complété uniquement par l'examinateur après la passation",
-        "Une évaluation cognitive incluant des items de permanence de l'objet"
+        "Évalue le tonus",
+        "Commence à 2 mois",
+        "Permet de prédire la réussite scolaire",
+        "Peut être utilisé seul pour diagnostiquer un retard dans un domaine spécifique",
+        "Comprend des items de sociabilité cotés uniquement par le parent",
+        "Est réservé à un usage hospitalier"
       ]
     },
     {
       "id": 5,
-      "text": "Quelle est la tranche d'âge pour laquelle la NBAS de Brazelton est administrée ?",
-      "explanation": "La NBAS est une méthode d'observation du nouveau-né de 0 à 2 mois. Elle est administrée au cours de la période néonatale seulement, à partir de 37 SA pour les nouveau-nés à terme.",
+      "text": "Pour évaluer un bébé de 3 mois né prématuré à 32 SA, je peux utiliser :",
+      "explanation": "L'âge corrigé de ce bébé est environ 1 mois AC (3 mois AR - 2 mois de prématurité). La Bayley-4 commence à 16 jours (AC) et le DF-MOT démarre à 0 mois : tous deux sont applicables. Le BLR commence à 2 mois AC. L'ENTAT s'applique autour du terme (37-42 SA), pas à 1 mois AC.",
       "correct": [
-        "De 0 à 2 mois (période néonatale)"
+        "Le Bayley 4",
+        "Le DF-MOT"
       ],
       "wrong": [
-        "De la naissance à 3 mois de vie",
-        "De 28 SA à 42 SA (période périnatale)",
-        "De 0 à 6 mois, avec un focus sur le premier trimestre",
-        "De 37 SA à 6 mois de vie corrigé",
-        "De 0 à 1 mois exclusivement",
-        "De 0 à 4 mois, avec réévaluation trimestrielle possible",
-        "De 0 à 30 jours de vie postnatale"
+        "Le BLR",
+        "L'ENTAT d'Amiel-Tison",
+        "L'évaluation néonatale de Vaivre-Douret (28-41 SA)",
+        "Le DDST uniquement, en utilisant l'âge réel",
+        "Le test de Denver, en utilisant l'âge corrigé",
+        "Le BLR, en utilisant l'âge corrigé"
       ]
     },
     {
       "id": 6,
-      "text": "Le NBO (Newborn Behavioural Observation) se distingue de la NBAS sur plusieurs points. Lesquels sont exacts ?",
-      "explanation": "Le NBO comprend 18 observations neurocomportementales (contre 28 items + 8 réflexes + groupe supplémentaire pour la NBAS), est utilisable de la naissance jusqu'au 3e mois de vie, et est conçu comme outil clinique utilisable en PMI, CAMSP ou cabinet libéral. Son objectif est explicitement relationnel : soutenir la relation parent/enfant.",
+      "text": "L'ENTAT d'Amiel-Tison s'applique :",
+      "explanation": "L'ENTAT (Évaluation Neurologique À Terme d'Amiel-Tison) évalue l'enfant entre 37 et 42 SA, autour de la naissance ou pour l'ancien prématuré arrivé à terme. L'ENAT prend le relais du premier mois à 6 ans.",
       "correct": [
-        "Le NBO comprend 18 observations neurocomportementales",
-        "Le NBO est conçu pour être utilisé de la naissance jusqu'au troisième mois de vie"
+        "Entre 37 et 42 SA"
       ],
       "wrong": [
-        "Le NBO comprend 28 items comportementaux, comme la NBAS",
-        "Le NBO est réservé à un usage hospitalier exclusivement",
-        "Le NBO remplace intégralement la NBAS dans les pratiques cliniques actuelles",
-        "Le NBO peut être utilisé jusqu'à 6 mois de vie corrigée pour les prématurés",
-        "Le NBO inclut une évaluation standardisée du tonus axial avec cotation chiffrée",
-        "Le NBO a été créé avant la NBAS dont il est la version simplifiée initiale"
+        "De 28 à 41 SA",
+        "De 0 à 2 mois",
+        "De la naissance à 6 ans",
+        "Du premier mois à 6 ans",
+        "De 34 SA à la naissance",
+        "De 0 à 6 mois",
+        "De 37 SA à 6 mois de vie corrigée"
       ]
     },
     {
       "id": 7,
-      "text": "Les études sur le NBO ont montré des effets positifs sur plusieurs plans. Lesquels sont étayés par les données du cours ?",
-      "explanation": "Les études randomisées ont montré que le NBO est associé à un engagement accru mère-nourrisson, à une réduction des symptômes dépressifs post-partum chez les mères, et à une amélioration des fonctions cognitives et adaptatives des nourrissons à 6 mois. Il aide également les parents à être plus réactifs aux signaux de communication.",
+      "text": "Le test DF-MOT de Vaivre-Douret :",
+      "explanation": "Le DF-MOT explore deux rubriques : PML (Posturo-Moteur-Locomoteur) et PCVM (Préhension-Coordination Visuomanuelle). Il ne comprend pas de cotation sur le langage ni sur le cognitif, même si des items y font référence. Il ne calcule pas de QD mais des Niveaux Moteurs Fonctionnels (NMF).",
       "correct": [
-        "Une réduction des symptômes dépressifs post-partum et des symptômes d'anxiété chez les mères",
-        "Des progrès plus importants au niveau des fonctions cognitives et adaptatives à 6 mois chez les nourrissons bénéficiant de l'intervention"
+        "Comprend des items de posture",
+        "Comprend des items de préhension-coordination visuomanuelle"
       ],
       "wrong": [
-        "Une amélioration significative du quotient intellectuel mesuré à 2 ans",
-        "Une réduction du risque de prématurité lors des grossesses ultérieures",
-        "Une amélioration documentée de la qualité du sommeil du nourrisson à 3 mois",
-        "Une prévention prouvée des troubles du spectre autistique dans les familles à risque",
-        "Une réduction des hospitalisations en néonatologie de 30% dans les maternités utilisant le NBO",
-        "Une meilleure prise de poids des nourrissons dans les 6 premières semaines"
+        "Comprend des items de langage cotés",
+        "Comprend des items cognitifs cotés",
+        "Permet le calcul d'un quotient de développement",
+        "Comprend des items neuromoteurs avec cotation du tonus passif",
+        "Est applicable jusqu'à 6 ans",
+        "Comprend des items de socialisation"
       ]
     },
     {
       "id": 8,
-      "text": "Concernant le Bayley-4 (version française 2023), quelle est la tranche d'âge et la durée de passation ?",
-      "explanation": "Le Bayley-4 évalue les enfants de 16 jours à 42 mois. La passation dure entre 35 et 70 minutes en fonction de l'âge de l'enfant. L'étalonnage français a été réalisé sur 1100 enfants.",
+      "text": "Pour réaliser un DF-MOT chez un enfant de 18 mois à terme :",
+      "explanation": "Pour le DF-MOT, on commence les items correspondant à 2 mois avant l'âge de l'enfant (âge réel pour un enfant à terme, âge corrigé pour un ancien prématuré). On présente les items dans l'ordre en explorant les deux rubriques (PML et PCVM). On arrête après 2 échecs consécutifs.",
       "correct": [
-        "De 16 jours à 42 mois, avec une durée de passation de 35 à 70 minutes selon l'âge"
+        "Je commence aux items correspondant à 16 mois",
+        "J'arrête après 2 échecs consécutifs"
       ],
       "wrong": [
-        "De 1 mois à 42 mois, avec une durée de passation de 45 à 60 minutes",
-        "De 0 à 36 mois, avec une durée de passation de 30 à 50 minutes",
-        "De 16 jours à 48 mois, avec une durée de passation de 35 à 70 minutes selon l'âge",
-        "De 2 mois à 42 mois, avec une durée de passation de 30 à 60 minutes",
-        "De 16 jours à 42 mois, avec une durée de passation fixe de 45 minutes",
-        "De 1 à 42 mois, avec une durée de passation de 45 à 90 minutes selon la collaboration de l'enfant",
-        "De 16 jours à 36 mois, avec une durée de passation de 25 à 70 minutes"
+        "Je commence aux items correspondant à 18 mois",
+        "Je commence aux items correspondant à 15 mois",
+        "J'arrête après 3 échecs consécutifs",
+        "J'arrête après 5 échecs consécutifs",
+        "Je commence par les items PCVM avant les items PML",
+        "Je commence aux items correspondant à 20 mois pour explorer le niveau supérieur"
       ]
     },
     {
       "id": 9,
-      "text": "Le Bayley-4 est structuré en 3 échelles et 5 subtests. Quels subtests le composent ?",
-      "explanation": "La Bayley-4 comprend 5 subtests : Cognitif (CG), Communication réceptive (CR), Communication expressive (CE), Motricité fine (MF) et Motricité globale (MG). Ces 5 subtests donnent lieu à 5 notes brutes, regroupées en 3 échelles (Cognitive, Langage, Motricité).",
+      "text": "Le BLR (Brunet-Lézine Révisé) :",
+      "explanation": "Le BLR couvre 2 à 30 mois, comporte 150 items au total, répartis en 4 sous-échelles (P, C, L, S), et permet le calcul d'un Quotient de Développement (QD = AD/AR × 100). Aucun QD n'est calculé avant 4 mois. Ce n'est pas un screening test : c'est un outil complet alliant clinique et testing.",
       "correct": [
-        "Cognitif, Communication réceptive, Communication expressive, Motricité fine, Motricité globale"
+        "Comprend des items de socialisation",
+        "Comprend des items de langage",
+        "Permet le calcul d'un quotient de développement"
       ],
       "wrong": [
-        "Cognitif, Langage réceptif, Langage expressif, Motricité fine, Comportement adaptatif",
-        "Cognitif, Communication réceptive, Communication expressive, Motricité globale, Comportement socio-émotionnel",
-        "Sensorimoteur, Langage réceptif, Langage expressif, Motricité fine, Motricité globale",
-        "Cognitif, Communication réceptive, Communication expressive, Motricité fine, Tonus",
-        "Cognitif, Langage, Motricité fine, Motricité globale, Socialisation",
-        "Attention, Communication réceptive, Communication expressive, Motricité fine, Motricité globale",
-        "Cognitif, Mémoire, Communication expressive, Motricité fine, Motricité globale"
+        "Est applicable de 0 à 30 mois",
+        "Est un screening test",
+        "Comprend des items de tonus passif",
+        "Comprend uniquement des items moteurs",
+        "Ne nécessite pas la présence des parents"
       ]
     },
     {
       "id": 10,
-      "text": "Dans le système de notation de la Bayley-4, à combien de points correspond une réussite complète et systématique d'un item ?",
-      "explanation": "Dans la Bayley-4, la notation est : 2 points pour un item réussi complètement et toujours ou presque toujours ; 1 point pour un item réussi partiellement ou parfois ; 0 point pour un échec ou jamais réussi. Les points sont ensuite additionnés par subtest pour obtenir 5 notes brutes.",
+      "text": "Pour réaliser un BLR :",
+      "explanation": "Le BLR démarre à l'âge de l'enfant (âge réel si à terme, âge corrigé si prématuré), avec une progression dans les deux sens. La présence des parents est indispensable. Les épreuves n'ont pas de limite de temps. L'examinateur se place à gauche de l'enfant pour les épreuves de manipulation.",
       "correct": [
-        "2 points"
+        "Je démarre à l'âge de l'enfant avec une progression dans les deux sens",
+        "La présence des parents est indispensable",
+        "Les épreuves n'ont pas de limite de temps"
       ],
       "wrong": [
-        "1 point",
-        "3 points",
-        "4 points",
-        "0 point (la réussite ne donne pas de points, seul l'échec est coté)",
-        "1 ou 2 points selon que la réussite est spontanée ou provoquée",
-        "2 points pour les items moteurs, 1 point pour les items cognitifs et langagiers",
-        "Le score dépend de l'âge de l'enfant, sans valeur fixe par item"
+        "Je commence toujours 2 mois avant l'âge de l'enfant",
+        "Les parents ne doivent pas intervenir pendant la passation",
+        "Je commence toujours par les items posturaux",
+        "Je commence toujours à l'item 1 quelle que soit l'âge de l'enfant",
+        "Il n'est pas nécessaire d'utiliser l'âge corrigé pour les prématurés"
       ]
     },
     {
       "id": 11,
-      "text": "Quel est le critère d'arrêt de la passation dans la Bayley-4 ?",
-      "explanation": "Le critère d'arrêt est l'obtention de 0 point à 5 items consécutifs, soit 5 échecs de suite. Si l'enfant n'obtient pas 2 points aux 3 premiers items, il faut remonter à l'âge de départ précédent.",
+      "text": "Le quotient de développement dans le BLR :",
+      "explanation": "Le QD = AD / AR × 100. Le QD total n'est pas la moyenne des QD partiels mais s'obtient à partir de l'AD total. Aucun QD n'est calculé avant 4 mois (résultat trop élevé et non significatif). Les QD partiels concernent les 4 sous-échelles (P, C, L, S).",
       "correct": [
-        "Lorsque l'enfant obtient 0 point à 5 items consécutifs"
+        "Se calcule avec la formule QD = AD / AR × 100",
+        "N'est pas calculé avant 4 mois"
       ],
       "wrong": [
-        "Lorsque l'enfant obtient 0 point à 3 items consécutifs",
-        "Lorsque l'enfant échoue à 2 items consécutifs dans une même tranche d'âge",
-        "Lorsque l'enfant obtient 0 point à 4 items consécutifs",
-        "Après 60 minutes de passation, quelle que soit la performance de l'enfant",
-        "Lorsque l'enfant obtient 1 point ou moins à 5 items consécutifs",
-        "Après 10 items échoués au total, non nécessairement consécutifs",
-        "Lorsque l'enfant obtient 0 point à 5 items dans un même subtest, même non consécutifs"
+        "Est la moyenne des quatre quotients partiels",
+        "N'est pas calculé avant 2 mois",
+        "Se calcule avec la formule QD = AR / AD × 100",
+        "Peut servir seul à poser un diagnostic de retard",
+        "Est calculé à partir du score brut total divisé par le score maximum possible",
+        "N'est pas calculé avant 6 mois chez les prématurés"
       ]
     },
     {
       "id": 12,
-      "text": "La Bayley-4 fournit trois types de notes étalonnées. Lesquelles sont correctes ?",
-      "explanation": "La Bayley-4 fournit : 5 notes étalonnées de subtests (CG, CR, CE, MF, MG), 3 notes standard d'échelles (Cognitive, Langage, Motricité) dérivées des notes de subtests, et d'autres notes complémentaires (rangs percentiles, classifications descriptives, équivalents en âge de développement).",
+      "text": "Pour évaluer un enfant de 18 mois, je veux objectiver un retard de développement et obtenir un profil des différentes sphères. J'utilise :",
+      "explanation": "Le BLR (2-30 mois) permet d'obtenir des QD partiels par domaine (P, C, L, S) et un QD global, ce qui répond à l'objectif de profil développemental. La Bayley-4 aussi (16 jours - 42 mois) fournit des notes par échelles comparables. Le DDST donne un profil visuel mais pas de QD. Le DF-MOT ne couvre que la motricité.",
       "correct": [
-        "Cinq notes étalonnées de subtests situant l'enfant par rapport à ses pairs du même âge",
-        "Trois notes standard d'échelles dérivées des notes étalonnées de subtests",
-        "Des rangs percentiles et équivalents en âge de développement pour faciliter la restitution aux parents"
+        "Le BLR",
+        "Le Bayley 4"
       ],
       "wrong": [
-        "Un quotient de développement global calculé à partir de la somme des cinq subtests",
-        "Un score de maturation comparant l'enfant à son âge gestationnel corrigé",
-        "Un quotient intellectuel permettant de prédire la réussite scolaire future",
-        "Des notes z permettant une comparaison directe entre les différents outils d'évaluation standardisés",
-        "Un score de risque neurologique exprimé sur une échelle de 0 à 100"
+        "Le DDST uniquement",
+        "Le DF-MOT",
+        "L'évaluation d'Amiel-Tison",
+        "Le NBO",
+        "L'évaluation néonatale de Vaivre-Douret",
+        "La NBAS"
       ]
     },
     {
       "id": 13,
-      "text": "Parmi les limites de la Bayley-4, lesquelles sont explicitement mentionnées dans le cours ?",
-      "explanation": "La Bayley-4 ne doit pas être utilisée seule pour déterminer la nature d'un trouble, n'est pas conçue comme mesure d'intelligence, ne prédit pas la réussite scolaire future, et peut avoir une durée de passation longue. Hors de la tranche d'âge normative, seules des équivalences en âge de développement peuvent être obtenues.",
+      "text": "La NBAS de Brazelton :",
+      "explanation": "La NBAS dure environ 1h (observation + discussion avec les parents). Elle comprend 28 items comportementaux ET 8 réflexes ET un groupe d'items supplémentaires pour les nourrissons fragiles. Les parents sont présents pendant toute l'évaluation. Son champ d'application est restreint à la période néonatale (0-2 mois).",
       "correct": [
-        "Utilisée seule, elle ne doit pas être considérée comme déterminante pour mesurer la nature de troubles dans un domaine spécifique",
-        "Cet outil n'est pas conçu pour prédire la réussite scolaire future"
+        "Dure environ 1 heure",
+        "Comprend 8 réflexes traduisant l'état neurologique",
+        "Nécessite la présence des parents pendant toute l'évaluation"
       ],
       "wrong": [
-        "L'étalonnage français est insuffisant car réalisé sur moins de 500 enfants",
-        "Les sous-échelles ne peuvent pas être administrées indépendamment les unes des autres",
-        "Le test n'est pas adapté aux équipes pluridisciplinaires",
-        "La Bayley-4 ne prend pas en compte la participation active des parents lors de l'évaluation",
-        "Le matériel est exclusivement fourni par l'examinateur, sans mallette standardisée incluse",
-        "La Bayley-4 ne permet pas de suivi longitudinal car elle ne peut être administrée qu'une seule fois"
+        "Comprend 18 observations neurocomportementales",
+        "Peut être utilisée jusqu'à 3 mois de vie",
+        "Ne nécessite pas la présence des parents",
+        "Est utilisable uniquement en milieu hospitalier",
+        "Comprend 28 items comportementaux et 18 réflexes"
       ]
     },
     {
       "id": 14,
-      "text": "Concernant l'évaluation neuromotrice d'Amiel-Tison, quel outil évalue l'enfant entre 37 et 42 SA ?",
-      "explanation": "L'ENTAT (Évaluation Neurologique À Terme d'Amiel-Tison) évalue l'enfant autour de la naissance ou l'ancien prématuré arrivé à terme, entre 37 SA et 42 SA. L'ENAT, construit sur le même modèle, prend le relais pour évaluer l'enfant du premier mois jusqu'à 6 ans.",
+      "text": "L'outil d'Amiel-Tison est qualifié de test de deuxième intention car :",
+      "explanation": "L'outil d'Amiel-Tison est un test de deuxième intention : il est utilisé lorsque l'évaluation initiale révèle des comportements moteurs anormaux ou un enfant à risque. Il est très spécialisé (neuromoteur), avec peu d'items psychomoteurs, et son point fort est l'évaluation du tonus.",
       "correct": [
-        "L'ENTAT (Évaluation Neurologique À Terme d'Amiel-Tison)"
+        "Il est utilisé lorsque l'évaluation initiale révèle des comportements moteurs anormaux"
       ],
       "wrong": [
-        "L'ENAT (Évaluation Neurologique d'Amiel-Tison)",
-        "L'ENTAT et l'ENAT, tous deux utilisables dès 37 SA",
-        "L'ENAT-0, sous-échelle spécifique au nouveau-né à terme",
-        "L'échelle de Vaivre-Douret adaptée pour le terme",
-        "La NBAS, dans sa version destinée aux nouveau-nés à terme",
-        "Le DDST, qui débute à 37 SA pour les enfants à terme",
-        "L'INFANIB, référence française pour l'évaluation du nouveau-né à terme"
+        "Il ne peut être administré qu'après une prescription médicale",
+        "Il doit toujours être précédé du Denver dans le protocole d'évaluation",
+        "Il est réservé aux enfants ayant déjà un diagnostic de paralysie cérébrale",
+        "Il est administré en deuxième dans une même séance, après le BLR",
+        "Il nécessite une formation de deuxième cycle pour être utilisé",
+        "Il n'est utilisable qu'à partir du deuxième mois de vie postnatal",
+        "Son étalonnage a été réalisé en deux temps, justifiant ce qualificatif"
       ]
     },
     {
       "id": 15,
-      "text": "Dans l'ENAT, quel système de codage est utilisé pour qualifier les résultats ?",
-      "explanation": "Le codage de l'ENAT est identique à celui du nouveau-né : 0 = optimal (normal), 1 = modérément déviant (troubles mineurs), 2 = très déviant (pathologique). Ce codage varie avec la maturation et c'est toujours l'âge corrigé qui est pris en compte.",
+      "text": "Pour évaluer et coter le tonus d'un nourrisson de 2 mois :",
+      "explanation": "L'évaluation neurologique d'Amiel-Tison (ENAT) et l'évaluation néonatale de Vaivre-Douret permettent toutes deux de coter le tonus. Le BLR comporte très peu d'items de tonus (point faible). Le DF-MOT et le DDST n'évaluent pas le tonus de manière cotée. La Bayley-4 n'évalue pas le tonus.",
       "correct": [
-        "0 = optimal, 1 = modérément déviant, 2 = très déviant"
+        "L'évaluation d'Amiel-Tison",
+        "L'évaluation neuropsychomotrice néonatale de Vaivre-Douret"
       ],
       "wrong": [
-        "0 = absent, 1 = présent mais incomplet, 2 = présent et complet",
-        "1 = normal, 2 = troubles mineurs, 3 = pathologique",
-        "0 = normal, 1 = à surveiller, 2 = retard modéré, 3 = retard sévère",
-        "A = optimal, B = intermédiaire, C = déviant",
-        "0 = optimal, 1 = déviant, sans distinction de degré",
-        "Score continu de 0 à 10 par domaine évalué",
-        "Cotation binaire : 0 = absent ou insuffisant, 1 = présent"
+        "Le Bayley 4",
+        "Le DDST",
+        "Le DF-MOT",
+        "Le BLR",
+        "La NBAS",
+        "Le NBO"
       ]
     },
     {
       "id": 16,
-      "text": "Quelle est la particularité majeure de l'outil d'Amiel-Tison qui le distingue des autres tests présentés dans le cours ?",
-      "explanation": "Le point fort distinctif de l'outil d'Amiel-Tison est la prise en compte de l'évaluation du tonus de fond, élément très important dès la naissance. C'est un test spécialisé, neuromoteur, de deuxième intention, avec peu d'items psychomoteurs.",
+      "text": "Dans le Bayley 4, le critère d'arrêt est :",
+      "explanation": "Le critère d'arrêt du Bayley-4 est l'obtention de 0 point à 5 items consécutifs. Si l'enfant n'obtient pas 2 points aux 3 premiers items présentés, il faut remonter à la tranche d'âge précédente.",
       "correct": [
-        "Sa prise en compte de l'évaluation du tonus de fond dès la naissance"
+        "0 point à 5 items consécutifs"
       ],
       "wrong": [
-        "Sa capacité à calculer un quotient de développement global comparable au QD du Brunet-Lézine",
-        "L'inclusion d'un subtest de langage réceptif et expressif dès 37 SA",
-        "La présence obligatoire des parents pendant toute la passation pour valider les items sociaux",
-        "Sa structure graphique très visuelle tenant sur une seule page, comparable au Denver",
-        "Le fait d'être le seul outil permettant d'évaluer les enfants prématurés avant 37 SA",
-        "La standardisation sur un échantillon de 1100 enfants français avec étalonnage récent",
-        "Sa capacité à prédire la réussite scolaire à partir des scores obtenus à 2 ans"
+        "0 point à 3 items consécutifs",
+        "2 échecs consécutifs",
+        "0 point à 4 items consécutifs",
+        "Échec à tous les items d'une tranche d'âge",
+        "0 point ou 1 point à 5 items consécutifs",
+        "10 items échoués au total dans un subtest",
+        "Échec aux 3 premiers items présentés"
       ]
     },
     {
       "id": 17,
-      "text": "L'outil d'Amiel-Tison est qualifié de test de « deuxième intention ». Qu'est-ce que cela signifie dans le contexte du cours ?",
-      "explanation": "Un test de deuxième intention signifie qu'il est utilisé après une évaluation initiale et non en première ligne. L'ENAT/ENTAT est indiqué si l'évaluation initiale révèle des comportements moteurs anormaux ou en cas d'anamnèse révélant un enfant considéré 'à risque'. Il n'est pas un outil de dépistage généraliste.",
+      "text": "Le NBO se distingue de la NBAS par :",
+      "explanation": "Le NBO comprend 18 observations (contre 28 items + 8 réflexes + groupe supplémentaire pour la NBAS), est utilisable jusqu'au 3e mois (contre 2 mois pour la NBAS), et est conçu pour une utilisation clinique courante (PMI, CAMSP, cabinet libéral), pas seulement hospitalière.",
       "correct": [
-        "Il est utilisé lorsque l'évaluation initiale révèle des comportements moteurs anormaux ou un enfant à risque"
+        "Un nombre d'observations plus réduit (18 observations)",
+        "Une utilisation possible jusqu'au troisième mois de vie",
+        "Une utilisation en cabinet libéral, PMI ou CAMSP"
       ],
       "wrong": [
-        "Il est administré en deuxième lors d'une même séance, après une évaluation cognitive préalable",
-        "Il ne peut être administré que par un neurologue, après orientation d'un premier examen par un psychomotricien",
-        "Il s'agit d'un outil de confirmation diagnostique administré uniquement en milieu hospitalier spécialisé",
-        "Il est utilisé après 6 mois de prise en charge, pour évaluer les progrès réalisés",
-        "Il constitue la deuxième partie d'un bilan systématique commençant toujours par la NBAS",
-        "Il ne peut être prescrit que par un médecin, jamais en autonomie par un psychomotricien",
-        "Il est réservé aux enfants pour lesquels un diagnostic de paralysie cérébrale a déjà été posé"
+        "L'absence de participation des parents",
+        "Une utilisation réservée aux prématurés",
+        "Un étalonnage quantitatif avec calcul de score de maturation",
+        "Un nombre d'items plus important pour une évaluation plus complète",
+        "Une passation plus longue, d'environ 2 heures"
       ]
     },
     {
       "id": 18,
-      "text": "Le test de Denver (DDST) a été créé par :",
-      "explanation": "Le Denver Developmental Screening Test (DDST) a été proposé par W.K. Frankenburg et J.B. Dodds, publié en 1967 dans le Journal of Pediatrics. Il est conçu pour identifier les problèmes ou retards nécessitant des évaluations plus fines.",
+      "text": "Un avantage du test de Denver par rapport aux autres outils du cours est :",
+      "explanation": "Le Denver est très visuel (synthèse graphique sur une page), généraliste (4 sphères), de première intention et facile d'utilisation. Il prend en compte les variables interindividuelles grâce aux fourchettes d'acquisition. Sa limite principale est un étalonnage qui n'est plus adapté.",
       "correct": [
-        "W.K. Frankenburg et J.B. Dodds"
+        "Sa présentation graphique très visuelle tenant sur une page",
+        "Sa prise en compte des variables interindividuelles via des fourchettes d'acquisition"
       ],
       "wrong": [
-        "Arnold Gesell et Amatruda",
-        "Odette Brunet et Irène Lézine",
-        "T.B. Brazelton et Nugent",
-        "Claudine Amiel-Tison et Gosselin",
-        "Laurence Vaivre-Douret",
-        "Nancy Bayley et Aylward",
-        "Saint-Anne D'Argassies et André Thomas"
+        "Son étalonnage récent adapté à la population française",
+        "Le calcul d'un quotient de développement global",
+        "L'évaluation du tonus passif et actif",
+        "Sa capacité à fournir un diagnostic différentiel précis",
+        "La présence obligatoire des parents pendant toute la passation",
+        "Sa spécificité neuromotrice permettant un dépistage des paralysies cérébrales"
       ]
     },
     {
       "id": 19,
-      "text": "L'échelle de Denver se compose de 105 items classés en 4 secteurs. Lesquels ?",
-      "explanation": "Les 4 secteurs du Denver sont : le contact social, la motricité fine, le langage et la motricité globale (macro motricité). Les items sont classés en ordre chronologique d'apparition et chaque acquisition a une fourchette d'acquisition (plage) plutôt qu'un âge unique.",
+      "text": "L'évaluation neuromotrice d'Amiel-Tison utilise quel système de codage ?",
+      "explanation": "Le codage de l'ENAT/ENTAT est : 0 = optimal, 1 = modérément déviant, 2 = très déviant. Ce codage varie avec la maturation. La somme totale des scores n'est jamais utilisée ; on produit une synthèse clinique qualitative. C'est toujours l'âge corrigé qui est pris en compte.",
       "correct": [
-        "Contact social, motricité fine, langage, motricité globale"
+        "0 = optimal, 1 = modérément déviant, 2 = très déviant"
       ],
       "wrong": [
-        "Posture, coordination oculomotrice, langage, sociabilité",
-        "Cognitif, communication réceptive, communication expressive, motricité",
-        "Tonus, réflexes, comportement, motricité globale",
-        "Contact social, motricité fine, langage, cognition",
-        "Motricité fine, motricité globale, communication, adaptation sociale",
-        "Contact social, préhension, langage, locomotion",
-        "Attention, motricité fine, langage expressif, langage réceptif"
+        "0 = absent, 1 = présent, 2 = excessif",
+        "1 = normal, 2 = trouble mineur, 3 = pathologique",
+        "0 = optimal, 1 = à surveiller, 2 = retard modéré, 3 = retard sévère",
+        "Score continu de 0 à 10 par domaine",
+        "0 = optimal, 1 = déviant, sans distinction de degré",
+        "Cotation binaire : réussi ou échoué",
+        "A = normal, B = intermédiaire, C = pathologique"
       ]
     },
     {
       "id": 20,
-      "text": "Quelle est l'originalité graphique majeure du test de Denver qui le distingue des autres outils ?",
-      "explanation": "L'originalité du Denver tient en une synthèse graphique très visuelle tenant sur une seule page. Elle prend en compte les variables interindividuelles : chaque acquisition n'a pas un âge fixe mais une fourchette (plage) d'acquisition, avec des écart-types, ce qui permet de visualiser rapidement le profil développemental de l'enfant.",
+      "text": "Pour objectiver l'homogénéité du développement d'un enfant de 12 mois, je peux utiliser :",
+      "explanation": "Le BLR (2-30 mois) calcule des QD partiels pour chaque domaine (P, C, L, S), permettant de comparer les sphères entre elles et d'identifier une hétérogénéité. La Bayley-4 permet également des comparaisons entre ses trois échelles. Le DF-MOT ne couvre que deux rubriques motrices sans QD.",
       "correct": [
-        "Une synthèse graphique tenant sur une page où chaque acquisition a une fourchette d'acquisition prenant en compte les variables interindividuelles"
+        "Le BLR",
+        "Le Bayley 4"
       ],
       "wrong": [
-        "Un graphique en radar montrant les écarts entre les quatre secteurs développementaux",
-        "Un tableau de conversion permettant d'obtenir un quotient de développement standardisé en percentiles",
-        "Une courbe de croissance développementale superposable aux courbes de poids et taille",
-        "Un diagramme circulaire illustrant la proportion de réussites par secteur à chaque âge clé",
-        "Un graphique tenant sur deux pages, avec une partie motrice et une partie cognitive",
-        "La présentation des items sous forme de cases colorées selon leur niveau de difficulté",
-        "Un profil en barres horizontales comparant le niveau de l'enfant évalué à la norme de sa tranche d'âge"
+        "Le DDST uniquement",
+        "L'évaluation d'Amiel-Tison",
+        "Le DF-MOT",
+        "La NBAS",
+        "L'évaluation néonatale de Vaivre-Douret",
+        "Le NBO"
       ]
     },
     {
       "id": 21,
-      "text": "Dans quel contexte d'utilisation clinique positionne-t-on le test de Denver par rapport aux autres outils d'évaluation ?",
-      "explanation": "Le Denver est décrit comme un test généraliste de première intention, facile d'utilisation, très visuel, qui rend compte de l'enfant dans sa globalité. Sa limite principale est que son étalonnage n'est plus adapté. Il permet d'identifier les problèmes nécessitant des évaluations plus fines et complémentaires.",
+      "text": "Une limite du Brunet-Lézine Révisé est :",
+      "explanation": "Les points faibles du BLR incluent : peu d'items chez les moins de 4 mois (notamment en tonus), passation pouvant être longue (jusqu'à 60 min après 15 mois), présence des parents pouvant gêner, et cotation ne prenant pas assez en compte l'observation qualitative selon certains auteurs.",
       "correct": [
-        "Test généraliste de première intention, visuel et facile d'utilisation"
+        "Peu d'items chez le tout petit (avant 4 mois), notamment pour le tonus",
+        "La présence des parents peut gêner la passation"
       ],
       "wrong": [
-        "Test spécialisé de deuxième intention, réservé aux enfants à risque neurologique",
-        "Test de référence pour le diagnostic des troubles du neurodéveloppement en France",
-        "Test de première intention exclusivement réservé aux prématurés et nouveau-nés",
-        "Outil de suivi longitudinal permettant le calcul d'un quotient de développement",
-        "Test généraliste mais uniquement pour la tranche 0-2 ans, remplacé ensuite par le BLR",
-        "Outil de deuxième intention adapté au bilan approfondi après dépistage positif",
-        "Test normatif permettant de calculer un âge de développement précis par secteur"
+        "L'absence d'étalonnage pour la population française",
+        "L'impossibilité d'utiliser l'âge corrigé pour les prématurés",
+        "La passation, toujours inférieure à 15 minutes, ne permet pas une observation clinique suffisante",
+        "Le test ne peut pas être utilisé pour le dépistage précoce d'anomalies psychomotrices",
+        "Il ne prend pas en compte la présence des parents",
+        "Il ne calcule pas de quotient de développement"
       ]
     },
     {
       "id": 22,
-      "text": "Concernant la maturation du tonus chez le prématuré, dans quelle direction progresse-t-elle initialement ?",
-      "explanation": "Chez les prématurés, la maturation du tonus musculaire progresse d'abord dans un sens caudo-céphalique (des pieds vers le cou), d'abord sur les muscles extenseurs, puis vers 34 SA sur les muscles fléchisseurs. L'équilibre flexion/extension se produit autour de 40 SA. C'est l'inverse de la maturation corticale qui est céphalo-caudale.",
+      "text": "Le Niveau Moteur Fonctionnel dans le DF-MOT correspond à :",
+      "explanation": "Le NMF est la dernière tranche d'âge pour laquelle tous les items sont réussis, sous réserve que les deux tranches d'âge précédentes soient également validées. Une tolérance d'1 échec est possible si la tranche comprend 3 items ou plus. On obtient un NMF en PML et un NMF en PCVM.",
       "correct": [
-        "Caudo-céphalique (des pieds vers le cou), d'abord sur les muscles extenseurs"
+        "La dernière tranche d'âge où tous les items sont réussis, avec validation des deux tranches précédentes"
       ],
       "wrong": [
-        "Céphalo-caudale (de la tête vers les pieds), d'abord sur les muscles fléchisseurs",
-        "Proximo-distale (du tronc vers les extrémités), simultanément sur fléchisseurs et extenseurs",
-        "Caudo-céphalique (des pieds vers le cou), d'abord sur les muscles fléchisseurs",
-        "Disto-proximale (des extrémités vers le tronc), d'abord sur les muscles extenseurs",
-        "Céphalo-caudale (de la tête vers les pieds), d'abord sur les muscles extenseurs",
-        "La maturation tonique est diffuse et simultanée sur l'ensemble du corps",
-        "Postéro-antérieure (du dos vers l'avant), en suivant la myélinisation des faisceaux corticaux"
+        "La moyenne des âges de réussite sur les items PML et PCVM",
+        "Le dernier item réussi avant le premier échec",
+        "L'âge de développement calculé à partir du score brut total",
+        "La première tranche d'âge où l'enfant échoue à un item",
+        "Le score brut total divisé par le nombre d'items présentés",
+        "La tranche d'âge où l'enfant obtient le meilleur score partiel",
+        "L'équivalent du QD dans le DF-MOT, exprimé en mois"
       ]
     },
     {
       "id": 23,
-      "text": "La myélinisation des faisceaux spino-sous-corticaux, responsable de la maturation tonique précoce chez le prématuré, s'amorce et s'achève à quels stades ?",
-      "explanation": "La maturation des faisceaux spino-sous-corticaux commence dès 24 SA et leur myélinisation est achevée vers 34 SA. Les faisceaux cortico-spinaux, eux, s'amorcent à 34 SA et se poursuivent jusqu'à 2 ans.",
+      "text": "Dans le BLR, la cotation des résultats permet :",
+      "explanation": "Le BLR permet de calculer des âges de développement (AD) partiels et global à partir du nombre de points obtenus (1 point = 3 jours), puis des QD partiels et global. La présence d'un profil graphique permet de visualiser la distribution des réussites par secteur. Les QD partiels renseignent sur l'hétérogénéité.",
       "correct": [
-        "Elle commence dès 24 SA et la myélinisation est achevée vers 34 SA"
+        "Le calcul d'un âge de développement partiel pour chaque secteur",
+        "Le calcul d'un quotient de développement global et de quatre QD partiels"
       ],
       "wrong": [
-        "Elle commence dès 28 SA et la myélinisation est achevée vers 40 SA",
-        "Elle commence dès 32 SA et la myélinisation est achevée vers 37 SA",
-        "Elle commence dès 24 SA et se poursuit jusqu'à 2 ans",
-        "Elle commence dès 34 SA et la myélinisation est achevée vers 40 SA",
-        "Elle commence dès 20 SA et la myélinisation est achevée vers 30 SA",
-        "Elle commence dès 24 SA et la myélinisation est achevée vers 28 SA",
-        "Elle commence dès 28 SA et la myélinisation est achevée vers 34 SA"
+        "Le calcul d'un score de maturation comparable à celui de Vaivre-Douret",
+        "L'attribution d'un niveau moteur fonctionnel en PML et PCVM",
+        "Le calcul d'un quotient intellectuel prédictif de la réussite scolaire",
+        "La comparaison de l'enfant à ses pairs selon un rang percentile",
+        "L'attribution d'une note standard par domaine comparable à la Bayley-4",
+        "Le calcul d'un index de déviation neurologique selon la grille d'Amiel-Tison"
       ]
     },
     {
       "id": 24,
-      "text": "Quelles déformations posturales peuvent résulter d'une position couchée prolongée chez le prématuré ?",
-      "explanation": "Lors de la position couchée prolongée, le corps aplati contre le matelas peut entraîner : abduction de la hanche avec rotation externe, flexion latérale et élévation des membres supérieurs avec rétraction scapulaire, et tête aplatie (plagiocéphalie) éventuellement asymétrique.",
+      "text": "Un avantage de la Bayley 4 par rapport aux autres outils du cours est :",
+      "explanation": "Les avantages de la Bayley-4 incluent : un étalonnage français récent (2022), la possibilité d'administrer chaque échelle indépendamment, l'implication active du parent facilitant l'évaluation, et un suivi longitudinal possible. Son avantage distinctif est la possibilité de comparer les échelles entre elles.",
       "correct": [
-        "Abduction de la hanche avec rotation externe",
-        "Plagiocéphalie (tête aplatie), éventuellement asymétrique",
-        "Flexion latérale et élévation des membres supérieurs avec rétraction scapulaire"
+        "Son étalonnage français de 2022",
+        "Les échelles Cognitive, de Langage et de Motricité peuvent être administrées indépendamment"
       ],
       "wrong": [
-        "Hyperlordose lombaire avec bascule antérieure du bassin",
-        "Adduction fixée des membres inférieurs avec équinisme bilatéral",
-        "Rotation interne de la hanche avec antépulsion du tronc",
-        "Hypertonie des fléchisseurs du cou avec rétraction des muscles sous-occipitaux",
-        "Valgus des genoux avec affaissement de la voûte plantaire"
+        "L'évaluation du tonus passif et actif",
+        "Une passation toujours inférieure à 30 minutes",
+        "La possibilité de prédire la réussite scolaire future",
+        "L'absence de nécessité d'un examinateur spécialisé",
+        "La gratuité du matériel de passation",
+        "Son utilisation possible dès 28 SA en néonatologie"
       ]
     },
     {
       "id": 25,
-      "text": "Parmi les raisons justifiant l'évaluation du bébé prématuré, lesquelles sont identifiées dans le cours ?",
-      "explanation": "Les quatre raisons principales sont : population à risque, importante hypotonie axiale et périphérique, prévention, et dépistage précoce des séquelles pour améliorer les possibilités de récupération. La prématurité représente un facteur de risque pouvant aller jusqu'à ×10 pour les TND.",
+      "text": "Pour approfondir la qualité du développement moteur d'un enfant de 24 mois et obtenir des Niveaux Moteurs Fonctionnels :",
+      "explanation": "Le DF-MOT est le seul outil qui produit des Niveaux Moteurs Fonctionnels (NMF) en PML et PCVM. C'est aussi le seul outil label 'psychomot' développé par une psychomotricienne pour les psychomotriciens. La Bayley-4 fournit des notes étalonnées de motricité mais pas de NMF.",
       "correct": [
-        "Population à risque et importante hypotonie axiale et périphérique",
-        "Prévention et dépistage précoce des séquelles pour améliorer les possibilités de récupération"
+        "J'utilise le DF-MOT"
       ],
       "wrong": [
-        "Établissement d'un diagnostic différentiel avec les troubles du spectre autistique",
-        "Calcul d'un quotient développemental comparable à celui d'un enfant à terme",
-        "Orientation vers une éducation spécialisée dès la première année de vie",
-        "Évaluation systématique du risque de dépression parentale",
-        "Estimation du pronostic cognitif à l'âge scolaire dès la période néonatale",
-        "Détermination du délai optimal pour initier la rééducation orthoptique"
+        "J'utilise le BLR",
+        "J'utilise le Bayley 4",
+        "J'utilise le DDST",
+        "J'utilise l'évaluation d'Amiel-Tison",
+        "J'utilise l'évaluation neuromotrice de Vaivre-Douret",
+        "J'utilise la NBAS",
+        "J'utilise le NBO"
       ]
     },
     {
       "id": 26,
-      "text": "L'échelle neuro-psychomotrice néonatale du prématuré de Vaivre-Douret (1997) évalue plusieurs domaines. Lesquels ?",
-      "explanation": "Cette échelle évalue : les signes cliniques d'alerte (signes visuels, opisthotonos, pouce adductus, mouvements anormaux), le tonus passif de l'axe et des membres (manœuvres d'extensibilité), le tonus actif (tiré-assis, retour en arrière, redressement), les réflexes primaires (succion, grasping, marche automatique, redressement, moro), la motricité spontanée et les capacités d'éveil et poursuite oculaire.",
+      "text": "L'évaluation neuropsychomotrice néonatale de Vaivre-Douret s'utilise :",
+      "explanation": "L'évaluation neuropsychomotrice néonatale de Vaivre-Douret est applicable de 28 à 41 SA. C'est le seul test permettant d'évaluer la maturation du prématuré dès son séjour en néonatologie. L'ENTAT d'Amiel-Tison commence à 37 SA.",
       "correct": [
-        "Le tonus passif de l'axe et des membres via les manœuvres d'extensibilité",
-        "Les réflexes primaires : succion, grasping, marche automatique, redressement, Moro",
-        "Les capacités d'éveil et la qualité de la poursuite oculaire"
+        "De 28 à 41 SA"
       ],
       "wrong": [
-        "Les habiletés de communication préverbale et le développement lexical précoce",
-        "La permanence de l'objet et les capacités d'imitation différée",
-        "Le comportement d'attachement et la qualité du lien parent-enfant par questionnaire",
-        "La motricité fine et la préhension avec cotation en percentiles",
-        "Le périmètre crânien et la prise de poids comme indicateurs de maturité cérébrale"
+        "De 37 à 42 SA",
+        "De 0 à 2 mois",
+        "De 32 SA à 3 mois de vie",
+        "De 24 SA à la naissance",
+        "De 28 SA à 3 mois de vie corrigée",
+        "De 34 à 42 SA",
+        "De 0 à 3 mois de vie corrigée pour les anciens prématurés"
       ]
     },
     {
       "id": 27,
-      "text": "L'échelle de Vaivre-Douret pour l'évaluation néonatale du prématuré s'appuie sur les travaux de quelle chercheuse qui a décrit le développement du prématuré semaine par semaine ?",
-      "explanation": "L'échelle de Vaivre-Douret s'appuie sur les travaux de Suzanne Saint-Anne D'Argassies, qui a fondé à Paris avec André Thomas des travaux sur la sémiologie neuroclinique du nouveau-né prématuré (de 26 à 37 SA) et du nouveau-né à terme, décrivant le développement semaine d'aménorrhée par semaine d'aménorrhée.",
+      "text": "Un inconvénient de la Bayley 4 est :",
+      "explanation": "Les limites de la Bayley-4 sont : elle ne doit pas être utilisée seule pour diagnostiquer un trouble, n'est pas conçue pour mesurer l'intelligence, ne prédit pas la réussite scolaire, et sa durée de passation peut être longue (jusqu'à 70 minutes). Hors tranche d'âge, seules des équivalences en âge de développement peuvent être obtenues.",
       "correct": [
-        "Suzanne Saint-Anne D'Argassies"
+        "Sa durée de passation peut être longue",
+        "Elle n'est pas conçue pour prédire la réussite scolaire future"
       ],
       "wrong": [
-        "Claudine Amiel-Tison",
-        "Irène Lézine",
-        "T. Berry Brazelton",
-        "Nancy Bayley",
-        "Laurence Vaivre-Douret elle-même (suivi longitudinal personnel)",
-        "Odette Brunet",
-        "France Ilg"
+        "L'absence d'étalonnage pour la population française",
+        "Les échelles ne peuvent pas être administrées séparément",
+        "Elle ne peut être utilisée qu'en milieu hospitalier",
+        "Elle commence trop tard (2 mois) pour les nouveau-nés",
+        "La participation du parent biaise les résultats",
+        "Elle ne permet pas le suivi longitudinal"
       ]
     },
     {
       "id": 28,
-      "text": "Dans la cotation de l'évaluation néonatale de Vaivre-Douret, que mesure le score de maturation obtenu ?",
-      "explanation": "Le score de maturation permet de situer l'enfant dans sa maturation, en le comparant au terme de l'enfant le jour de l'évaluation. Il est pondéré en fonction de la disponibilité et de l'état de santé du bébé. Ce n'est pas un score de développement ou de pathologie, mais bien un score de maturation.",
+      "text": "La particularité de l'évaluation d'Amiel-Tison par rapport aux autres outils est :",
+      "explanation": "L'outil d'Amiel-Tison est le seul parmi ceux du cours à prendre en compte l'évaluation du tonus de fond dès la naissance et à se concentrer sur les signes de déviance neuromotrice. Il utilise toujours l'âge corrigé. La somme totale des scores n'est jamais utilisée : seule une synthèse clinique qualitative est produite.",
       "correct": [
-        "Le niveau de maturation de l'enfant, mis en lien avec son âge gestationnel au moment de l'évaluation"
+        "Son point fort est l'évaluation du tonus de fond dès la naissance",
+        "La somme totale des scores n'est jamais utilisée : seule une synthèse clinique qualitative est produite"
       ],
       "wrong": [
-        "Un quotient de développement comparable au QD du Brunet-Lézine",
-        "Le degré de pathologie neurologique, coté de 0 (optimal) à 2 (très déviant)",
-        "Le risque de paralysie cérébrale exprimé en probabilité sur une échelle de 0 à 100",
-        "L'âge développemental de l'enfant exprimé en semaines d'aménorrhée corrigées",
-        "La sévérité de l'hypotonie axiale et périphérique sur une échelle de 1 à 4",
-        "Le niveau de conscience et d'éveil du bébé selon la grille de Prechtl",
-        "Un indice composite de risque neurologique comparable au score d'Apgar"
+        "Il est le seul à calculer un quotient de développement neuromoteur",
+        "Il est le seul à utiliser l'âge corrigé pour les prématurés",
+        "Il est applicable dès 28 SA, avant tout autre outil",
+        "Il inclut une évaluation standardisée du développement cognitif et langagier",
+        "Il est le seul outil utilisable de la naissance à 6 ans",
+        "Il produit un score total permettant le suivi longitudinal objectif de l'enfant"
       ]
     },
     {
       "id": 29,
-      "text": "Quelle est l'origine du Brunet-Lézine et qui en est à l'initiative ?",
-      "explanation": "Irène Lézine, élève de Wallon, a adapté les tests de Gesell aux bébés français à la demande de Zazzo, en collaboration avec Odette Brunet. Le test a été publié en 1951 et révisé en 1965 puis en 1997 par Denise Josse. C'était le seul baby test disponible en France pendant longtemps.",
+      "text": "Le DDST comprend :",
+      "explanation": "Le DDST comprend 105 items répartis en 4 secteurs : contact social, motricité fine, langage et motricité globale. Les items sont classés en ordre chronologique d'apparition. Il est applicable de 0 à 6 ans. Il ne calcule pas de QD ni de niveau fonctionnel.",
       "correct": [
-        "Irène Lézine, à la demande de Zazzo, a adapté les tests de Gesell aux bébés français avec Odette Brunet"
+        "105 items",
+        "Des items de contact social",
+        "Des items de motricité fine et de motricité globale"
       ],
       "wrong": [
-        "Odette Brunet, à la demande de Piaget, a créé un outil original sans lien avec les tests de Gesell",
-        "Wallon a directement conçu le test pour évaluer le développement psychomoteur des bébés français",
-        "Zazzo et Lézine ont adapté l'échelle de Bayley pour la population française",
-        "André Thomas a demandé à Lézine d'adapter les travaux de Saint-Anne D'Argassies",
-        "Irène Lézine a adapté les tests de Binet-Simon pour les nourrissons à la demande de l'INSERM",
-        "Le Brunet-Lézine est une adaptation française du Denver réalisée par Lézine et Brunet",
-        "Denise Josse a créé le test original en 1997, Brunet et Lézine en ayant seulement posé les bases"
+        "150 items",
+        "Des items de tonus passif",
+        "Un calcul de quotient de développement",
+        "Des items cognitifs cotés séparément",
+        "Des items de préhension-coordination visuomanuelle"
       ]
     },
     {
       "id": 30,
-      "text": "Le Brunet-Lézine Révisé (BLR) évalue l'enfant selon quatre sous-échelles. Lesquelles, et combien d'items chacune contient-elle (dans la version révisée) ?",
-      "explanation": "Les quatre sous-échelles du BLR sont : P (Postural) avec 40 items, C (Coordination oculomotrice) avec 54 items, L (Langage) avec 30 items, et S (Sociabilité) avec 26 items. Le total est de 150 items, dont 33 nouveaux et 19 modifiés lors de la révision de 1997.",
+      "text": "Pour évaluer un enfant de 5 ans, je peux utiliser :",
+      "explanation": "Le DDST couvre 0 à 6 ans ; l'ENAT d'Amiel-Tison couvre 0 à 6 ans. Le BLR s'arrête à 30 mois, le DF-MOT à 48 mois, la Bayley-4 à 42 mois. Un enfant de 5 ans n'est donc accessible qu'au Denver et à l'Amiel-Tison parmi les outils du cours.",
       "correct": [
-        "P (Posture) : 40 items, C (Coordination) : 54 items, L (Langage) : 30 items, S (Sociabilité) : 26 items"
+        "Le DDST",
+        "L'évaluation d'Amiel-Tison"
       ],
       "wrong": [
-        "P : 54 items, C : 40 items, L : 30 items, S : 26 items",
-        "P : 40 items, C : 44 items, L : 40 items, S : 26 items",
-        "P : 40 items, C : 54 items, L : 26 items, S : 30 items",
-        "P : 54 items, C : 54 items, L : 26 items, S : 16 items",
-        "P : 36 items, C : 54 items, L : 34 items, S : 26 items",
-        "P : 40 items, C : 44 items, L : 30 items, S : 36 items",
-        "P : 46 items, C : 46 items, L : 30 items, S : 28 items"
+        "Le BLR",
+        "Le Bayley 4",
+        "Le DF-MOT",
+        "La NBAS",
+        "Le NBO",
+        "L'évaluation neuropsychomotrice néonatale de Vaivre-Douret"
       ]
     },
     {
       "id": 31,
-      "text": "Quelle est la tranche d'âge couverte par le Brunet-Lézine Révisé (version 1997) ?",
-      "explanation": "Le BLR est adapté aux enfants de 2 à 30 mois. La révision a déplacé le début de 1 mois (version précédente) à 2 mois. L'étalonnage a été réalisé sur 1055 enfants de 2 à 30 mois.",
+      "text": "La NBAS de Brazelton comprend :",
+      "explanation": "La NBAS comprend trois parties distinctes : 28 items comportementaux, 8 réflexes traduisant l'état neurologique, et un groupe d'items évaluant le répertoire du nourrisson fragile et le soutien dont il a besoin. Elle ne comprend pas 18 observations (c'est le NBO) ni de scoring de maturation (c'est Vaivre-Douret).",
       "correct": [
-        "De 2 à 30 mois"
+        "28 items comportementaux",
+        "8 réflexes traduisant l'état neurologique"
       ],
       "wrong": [
-        "De 1 à 30 mois",
-        "De 2 à 36 mois",
-        "De 0 à 30 mois",
-        "De 2 à 24 mois",
-        "De 1 mois à 3 ans",
-        "De 4 mois à 30 mois",
-        "De 2 mois à 4 ans"
+        "18 observations neurocomportementales",
+        "Un score de maturation exprimé en semaines d'aménorrhée",
+        "Un questionnaire parental de 30 items rempli avant la passation",
+        "Des items de tonus passif avec manœuvres d'extensibilité",
+        "15 items de régulation comportementale et 8 réflexes",
+        "Un subtest de motricité globale coté séparément"
       ]
     },
     {
       "id": 32,
-      "text": "Comment se calcule un Quotient de Développement (QD) dans le Brunet-Lézine Révisé ?",
-      "explanation": "Le QD (partiel ou global) est toujours le rapport de l'Age de Développement (AD) à l'Âge Réel (AR) de l'enfant, multiplié par 100. Formule : QD = AD / AR × 100. Aucun QD n'est calculé avant 4 mois car il serait trop élevé et non significatif.",
+      "text": "La NBAS de Brazelton a pour but :",
+      "explanation": "La NBAS vise à accompagner les parents dans la découverte de leur bébé et à renforcer leur rôle. Elle met en évidence les atouts et les vulnérabilités du bébé ainsi que son style comportemental. C'est un support favorisant la mise en place des interactions précoces, pas un outil diagnostique neurologique au sens strict.",
       "correct": [
-        "QD = AD / AR × 100 (Âge de Développement divisé par l'Âge Réel, multiplié par 100)"
+        "Accompagner les parents dans la découverte de leur bébé",
+        "Mettre en évidence les atouts et les vulnérabilités du bébé"
       ],
       "wrong": [
-        "QD = AR / AD × 100 (Âge Réel divisé par l'Âge de Développement, multiplié par 100)",
-        "QD = (AD - AR) / AR × 100, exprimant l'écart relatif à l'âge réel",
-        "QD = somme des AD partiels / 4 (moyenne des quatre sous-échelles)",
-        "QD = AD global / âge gestationnel corrigé × 100",
-        "QD = score brut total / score brut maximum × 100",
-        "QD = AD partiel / AD global × 100",
-        "QD = nombre d'items réussis / nombre d'items présentés × 100"
+        "Établir un diagnostic de paralysie cérébrale dès la naissance",
+        "Calculer un score de maturation neurologique comparable à l'ENTAT",
+        "Dépister les retards cognitifs avant 2 mois",
+        "Évaluer le tonus passif axial et périphérique du nouveau-né",
+        "Remplacer l'examen neurologique standard en maternité",
+        "Mesurer le quotient de développement du nourrisson"
       ]
     },
     {
       "id": 33,
-      "text": "Parmi les affirmations suivantes sur le calcul du QD dans le BLR, lesquelles sont exactes ?",
-      "explanation": "Le QD total n'est PAS la moyenne des QD partiels — il s'obtient en prenant l'AD total. Aucun QD n'est calculé avant 4 mois. Les QD partiels concernent les 4 sous-échelles (QDP, QDC, QDL, QDS) et doivent être utilisés avec prudence, uniquement à titre indicatif.",
+      "text": "La NBAS se déroule en :",
+      "explanation": "L'observation de la NBAS se déroule en 3 parties (28 items comportementaux, 8 réflexes, groupe d'items pour nourrissons fragiles), suivie d'un temps de discussion avec les parents. Le tout dure environ 1 heure. Les parents sont présents et observent pendant toute la passation.",
       "correct": [
-        "Le QD total n'est pas la moyenne des QD partiels : il s'obtient en prenant l'âge de développement global",
-        "Aucun QD n'est calculé avant 4 mois car il serait trop élevé et n'aurait pas de sens"
+        "Un temps d'observation du nouveau-né suivi d'un échange avec les parents",
+        "3 parties d'observation distinctes"
       ],
       "wrong": [
-        "Le QD total est la moyenne arithmétique des quatre QD partiels",
-        "Les QD partiels peuvent être utilisés comme seul élément diagnostique",
-        "Le QD peut être calculé dès 2 mois, âge minimal du test",
-        "Un QD inférieur à 85 indique systématiquement un retard de développement sévère",
-        "Le QD global est toujours supérieur aux QD partiels car il pondère les domaines forts",
-        "Le QD partiel de sociabilité (QDS) est le plus fiable car C est l'échelle la plus homogène",
-        "Le QD peut être calculé chez les prématurés en utilisant l'âge gestationnel à la place de l'âge réel"
+        "2 parties : observation du nourrisson seul, puis avec les parents",
+        "Une seule séquence continue d'environ 30 minutes",
+        "4 parties correspondant aux 4 sphères comportementales de Gesell",
+        "Un entretien parental préalable, puis une observation standardisée",
+        "Un temps d'observation filmée, analysée ensuite sans les parents",
+        "2 parties : items réflexes d'abord, items comportementaux ensuite"
       ]
     },
     {
       "id": 34,
-      "text": "Quelles sont les conditions de présentation des objets lors de la passation du BLR ?",
-      "explanation": "Les objets sont d'abord présentés à 50 cm de l'enfant puis ramenés à portée de ses mains. L'examinateur se place à gauche de l'enfant en retrait pour les épreuves de manipulation. Les épreuves de motricité globale se font au sol, et les manipulations sur les genoux de la mère devant une table.",
+      "text": "Parmi les éléments évalués dans la NBAS, on trouve :",
+      "explanation": "La NBAS évalue notamment la qualité du sommeil, la capacité à être consolé et à l'auto-apaisement, les réponses visuelles et auditives, la robustesse, la fatigabilité et l'intérêt pour l'échange interactif. Elle évalue aussi 8 réflexes neurologiques. Elle ne mesure pas le tonus passif par manœuvres d'extensibilité.",
       "correct": [
-        "Les objets sont présentés d'abord à 50 cm de l'enfant puis ramenés à portée de ses mains",
-        "L'examinateur se place à gauche de l'enfant en retrait pour les épreuves de manipulation"
+        "La qualité du sommeil et la capacité à l'auto-apaisement",
+        "Les réponses visuelles et auditives",
+        "La robustesse et la fatigabilité"
       ],
       "wrong": [
-        "Les objets sont présentés directement à portée de main pour éviter les frustrations de l'enfant",
-        "L'examinateur se place en face de l'enfant pour observer les réponses visuelles",
-        "Les objets sont présentés dans le champ visuel droit puis gauche alternativement",
-        "L'examinateur se place à droite de l'enfant pour respecter la dominance latérale",
-        "Les objets sont présentés à 30 cm, distance correspondant au champ visuel optimal du nourrisson",
-        "Les objets sont posés sur la table sans les présenter activement à l'enfant",
-        "L'examinateur évite de se placer du même côté que le parent pour ne pas influencer l'enfant"
+        "Le tonus passif par manœuvres d'extensibilité",
+        "La permanence de l'objet et les capacités d'imitation",
+        "Le niveau de langage réceptif et expressif",
+        "La marche automatique et le réflexe de Moro uniquement",
+        "La préhension fine et la coordination oculo-manuelle"
       ]
     },
     {
       "id": 35,
-      "text": "Quels enfants ont été exclus de l'échantillon d'étalonnage du BLR révisé (1997) ?",
-      "explanation": "Ont été exclus de l'étalonnage : les enfants présentant des troubles majeurs du développement, les grands prématurés (avant 36 semaines ou poids inférieur à 2400g), et les naissances multiples. L'étalonnage a été réalisé sur 1055 enfants de 2 à 30 mois.",
+      "text": "L'évaluation neuropsychomotrice néonatale de Vaivre-Douret évalue :",
+      "explanation": "L'évaluation de Vaivre-Douret explore : le tonus passif de l'axe et des membres (manœuvres d'extensibilité), le tonus actif (tiré-assis, retour en arrière, redressement), les réflexes primaires (succion, grasping, marche automatique, redressement, Moro), la motricité spontanée et les capacités d'éveil avec poursuite oculaire. Elle ne mesure pas le langage.",
       "correct": [
-        "Les enfants avec troubles majeurs du développement",
-        "Les grands prématurés (avant 36 semaines ou poids inférieur à 2400g)",
-        "Les naissances multiples"
+        "Le tonus passif de l'axe et des membres",
+        "Les réflexes primaires",
+        "Les capacités d'éveil et la poursuite oculaire"
       ],
       "wrong": [
-        "Les enfants gardés en crèche collective (biais environnemental)",
-        "Les enfants dont les parents sont étudiants en psychologie",
-        "Les enfants nés par césarienne",
-        "Les enfants adoptés avant 3 mois",
-        "Les enfants avec antécédents familiaux de troubles du langage"
+        "Le langage réceptif et expressif",
+        "Les habiletés de préhension fine et de manipulation",
+        "Le comportement d'attachement avec les parents",
+        "La mémoire de travail et l'attention soutenue",
+        "La permanence de l'objet avant 2 mois"
       ]
     },
     {
       "id": 36,
-      "text": "Que représente 1 point dans le système de calcul des âges de développement du BLR ?",
-      "explanation": "Dans le BLR, 1 point équivaut à la valeur de 3 jours. Il y a 10 points par niveau d'âge. Par exemple, pour un enfant de 17 mois, on doit obtenir 170 points. Ce système permet de calculer des âges de développement partiels et global.",
+      "text": "Le score de maturation obtenu avec l'évaluation de Vaivre-Douret :",
+      "explanation": "Le score de maturation de l'évaluation de Vaivre-Douret permet de situer l'enfant dans sa maturation par rapport à son âge gestationnel au moment de l'évaluation. Il est pondéré selon la disponibilité et l'état de santé du bébé. Ce n'est pas un QD, ni un score de pathologie.",
       "correct": [
-        "1 point équivaut à 3 jours de développement"
+        "Permet de situer l'enfant dans sa maturation en lien avec son âge gestationnel",
+        "Est pondéré en fonction de la disponibilité et de l'état de santé du bébé"
       ],
       "wrong": [
-        "1 point équivaut à 1 semaine de développement",
-        "1 point équivaut à 1 mois de développement",
-        "1 point équivaut à 15 jours de développement",
-        "1 point équivaut à 1 jour de développement",
-        "1 point équivaut à 10 jours de développement",
-        "La valeur d'un point varie selon la sous-échelle considérée",
-        "1 point équivaut à 5 jours de développement"
+        "Équivaut à un quotient de développement exprimé sur 100",
+        "Permet de diagnostiquer une paralysie cérébrale avant le terme",
+        "Est une somme de scores par domaine comparable à la Bayley-4",
+        "Reflète uniquement le tonus passif, sans tenir compte du tonus actif",
+        "Est calculé en divisant l'âge gestationnel obtenu par l'âge gestationnel réel",
+        "Est uniquement qualitatif, sans aucune valeur chiffrée"
       ]
     },
     {
       "id": 37,
-      "text": "Parmi les points forts du Brunet-Lézine Révisé, lesquels sont cités dans le cours ?",
-      "explanation": "Les points forts du BLR incluent : un test vécu comme non inquisiteur par les parents, une passation souple alliant clinique et testing, la présence des parents donnant des indices sur le milieu environnant, et son utilité pédagogique pour la connaissance du jeune enfant. C'est aussi un outil de dépistage des anomalies du développement psychomoteur.",
+      "text": "L'évaluation néonatale de Vaivre-Douret est avantageuse car :",
+      "explanation": "C'est l'outil réalisé par une psychomotricienne, le seul permettant d'évaluer la maturation du prématuré dès le séjour en néonatologie (28-41 SA) et d'en assurer le suivi. Il prend en compte à la fois le tonus actif, passif, les réflexes et la motricité spontanée. Sa limite principale est la courte période d'application.",
       "correct": [
-        "Test vécu comme non inquisiteur par les parents",
-        "La présence des parents fournit des indices sur le style interactif mère-enfant et sur le milieu"
+        "C'est le seul outil permettant d'évaluer et de suivre la maturation dès le séjour en néonatologie",
+        "Il a été créé par une psychomotricienne et prend en compte tonus actif, passif et réflexes"
       ],
       "wrong": [
-        "Passation rapide (moins de 15 minutes) quelle que soit la tranche d'âge",
-        "Étalonnage récent (2022) avec prise en compte de l'effet Flynn",
-        "Possibilité de prédire la réussite scolaire à partir du QD obtenu avant 2 ans",
-        "Test incluant une échelle de tonus permettant le dépistage précoce des paralysies cérébrales",
-        "Normalisation sur un grand échantillon international de plus de 5000 enfants",
-        "Cotation entièrement automatisée évitant les biais liés à l'examinateur"
+        "Il permet un suivi jusqu'à 2 ans de vie corrigée",
+        "Son étalonnage sur 1100 enfants en fait l'outil le plus normatif pour les prématurés",
+        "Il inclut une évaluation standardisée du comportement interactif parent-enfant",
+        "Il peut être utilisé sans formation spécifique par tout professionnel de la petite enfance",
+        "Il produit un profil graphique comparable à celui du BLR",
+        "Il est applicable en ambulatoire dès la sortie de néonatologie"
       ]
     },
     {
       "id": 38,
-      "text": "Quel est le nombre total d'items dans le Brunet-Lézine Révisé, et comment sont-ils répartis ?",
-      "explanation": "Le BLR révisé comporte 150 items au total, dont 33 nouveaux items et 19 items modifiés (11 modifiés + 8 questions devenues épreuves selon certains passages du cours). 40% des items sont passés 1 mois plus tôt que dans la version précédente.",
-      "correct": [
-        "150 items au total, dont 33 nouveaux",
-        "40% des items sont passés 1 mois plus tôt que dans la version précédente"
-      ],
-      "wrong": [
-        "130 items au total, avec 50 items nouveaux",
-        "150 items, mais uniquement 10 items nouveaux (les 140 autres étant conservés tels quels)",
-        "180 items au total, afin d'améliorer la couverture des premières semaines de vie",
-        "150 items, dont 40% passés 1 mois plus tard (progression des normes avec l'effet Flynn)",
-        "120 items au total, avec suppression de 30 items du premier mois et ajout de 33 nouveaux",
-        "150 items, dont 33 supprimés et 33 nouveaux, le total restant inchangé",
-        "160 items au total, avec 33 nouveaux items ajoutés à la version précédente sans suppression"
-      ]
-    },
-    {
-      "id": 39,
-      "text": "Quelle est la règle de passation concernant le point de départ dans le BLR révisé ?",
-      "explanation": "Le test démarre à l'âge de l'enfant (âge réel pour un enfant à terme, âge corrigé pour un prématuré). La progression se fait dans les deux sens : si l'enfant réussit on avance, si il échoue on remonte. L'objectif est d'aller de la tranche d'âge où tout est réussi à celle où tout est échoué.",
-      "correct": [
-        "Le test démarre à l'âge de l'enfant (AR pour enfant à terme, AC pour prématuré) avec progression dans les deux sens"
-      ],
-      "wrong": [
-        "Le test démarre toujours 3 mois avant l'âge réel de l'enfant pour établir le niveau plancher",
-        "Le test démarre à 2 mois pour tous les enfants, quel que soit leur âge",
-        "Le test démarre à l'âge corrigé pour tous les enfants, qu'ils soient prématurés ou non",
-        "Le test démarre 2 mois avant l'âge de l'enfant, comme dans le DF-MOT",
-        "Le point de départ est déterminé par une lettre identifiée dans un tableau, comme dans la Bayley-4",
-        "Le test démarre toujours par les items du domaine postural, quel que soit l'âge",
-        "Il n'y a pas de point de départ fixe : l'examinateur choisit librement selon ses observations initiales"
-      ]
-    },
-    {
-      "id": 40,
-      "text": "Le DF-MOT de Vaivre-Douret évalue deux champs principaux. Lesquels ?",
-      "explanation": "Le DF-MOT (Développement moteur Fonctionnel du jeune enfant de 0 à 48 mois) explore deux champs : PML (Posturo-Moteur et Locomoteur) et PCVM (Préhension-Coordination Visuomanuelle). Le test est présenté en 2 feuillets selon l'âge : 0-12 mois et 13-48 mois.",
-      "correct": [
-        "PML (Posturo-Moteur et Locomoteur) et PCVM (Préhension-Coordination Visuomanuelle)"
-      ],
-      "wrong": [
-        "Motricité globale et motricité fine, avec sous-scores de tonus et coordination",
-        "Langage et motricité, correspondant aux deux grandes sphères psychomotrices",
-        "Tonus passif et tonus actif, évalués selon les manœuvres d'extensibilité d'Amiel-Tison",
-        "PML (Posture-Motricité-Locomotion) et CLG (Cognitif-Langage-Global)",
-        "Cognition et motricité, avec mise en évidence de dissociations développementales",
-        "PML (Préhension-Manipulation-Locomotion) et PCVM (Posture-Contrôle-Voie Motrice)",
-        "Contact social et motricité fonctionnelle, selon les quatre secteurs du Denver"
-      ]
-    },
-    {
-      "id": 41,
-      "text": "Quelle est la tranche d'âge couverte par le DF-MOT, et comment est-il présenté ?",
-      "explanation": "Le DF-MOT couvre les enfants de 0 à 48 mois. Il est présenté en 2 feuillets selon l'âge : 0-12 mois et 13-48 mois. C'est le seul outil label 'psychomot' pour les petits, développé par une psychomotricienne (Laurence Vaivre-Douret).",
-      "correct": [
-        "De 0 à 48 mois, présenté en 2 feuillets : 0-12 mois et 13-48 mois"
-      ],
-      "wrong": [
-        "De 0 à 36 mois, présenté en 3 feuillets trimestriels",
-        "De 1 à 48 mois, présenté en 1 feuillet unique avec axes PML et PCVM",
-        "De 0 à 48 mois, présenté en 4 feuillets annuels",
-        "De 2 à 48 mois, présenté en 2 feuillets : 2-24 mois et 25-48 mois",
-        "De 0 à 4 ans, présenté en 2 feuillets : 0-6 mois et 6 mois-4 ans",
-        "De 0 à 48 mois, présenté en 1 feuillet mais avec 2 colonnes PML et PCVM",
-        "De 3 mois à 48 mois, présenté en 2 feuillets : 3-18 mois et 19-48 mois"
-      ]
-    },
-    {
-      "id": 42,
-      "text": "Dans le DF-MOT, à partir de quel âge débute-t-on la passation, et quel est le critère d'arrêt ?",
-      "explanation": "La passation débute 2 mois avant l'âge de l'enfant (âge réel pour un enfant à terme, âge corrigé pour un ancien prématuré). On s'arrête après 2 échecs consécutifs. Si les deux premiers items proposés sont échoués, on passe à l'âge précédent.",
-      "correct": [
-        "On commence 2 mois avant l'âge de l'enfant (AR ou AC si préma) et on s'arrête après 2 échecs consécutifs"
-      ],
-      "wrong": [
-        "On commence à l'âge exact de l'enfant et on s'arrête après 3 échecs consécutifs",
-        "On commence 3 mois avant l'âge de l'enfant et on s'arrête après 2 échecs consécutifs",
-        "On commence 2 mois avant l'âge de l'enfant et on s'arrête après 5 échecs consécutifs (comme la Bayley-4)",
-        "On commence à l'âge exact de l'enfant et on s'arrête après 2 échecs non consécutifs dans la même tranche",
-        "On commence 1 mois avant l'âge de l'enfant et on s'arrête après 2 échecs consécutifs",
-        "On commence au début du feuillet correspondant à l'enfant et on avance jusqu'à 2 échecs",
-        "On commence 2 mois avant l'âge et on s'arrête après le premier item échoué dans chaque rubrique"
-      ]
-    },
-    {
-      "id": 43,
-      "text": "Comment est déterminé le Niveau Moteur Fonctionnel (NMF) dans le DF-MOT ?",
-      "explanation": "Le NMF correspond à la dernière tranche d'âge pour laquelle tous les items sont réussis, sous réserve que les deux tranches d'âge précédentes soient également validées. Si une tranche d'âge comprend 3 items ou plus, 1 échec peut être toléré. On obtient un NMF en PML et un NMF en PCVM.",
-      "correct": [
-        "Le NMF correspond à la dernière tranche d'âge où tous les items sont réussis, avec validation des deux tranches précédentes (et tolérance d'1 échec si la tranche comprend 3 items ou plus)"
-      ],
-      "wrong": [
-        "Le NMF est la tranche d'âge où l'enfant obtient son meilleur score, même partiel",
-        "Le NMF correspond à l'âge moyen des items réussis, calculé par moyenne arithmétique",
-        "Le NMF est la dernière tranche d'âge où au moins 50% des items sont réussis",
-        "Le NMF est calculé en divisant l'âge développemental par l'âge chronologique",
-        "Le NMF est la première tranche d'âge où l'enfant échoue à tous les items",
-        "Le NMF correspond à la tranche d'âge précédant le premier échec, sans condition sur les tranches antérieures",
-        "Le NMF est établi en comptant le nombre total d'items réussis toutes tranches d'âge confondues"
-      ]
-    },
-    {
-      "id": 44,
-      "text": "Parmi les avantages du DF-MOT cités dans le cours, lesquels sont corrects ?",
-      "explanation": "Les avantages du DF-MOT : test qualitatif issu d'un suivi longitudinal sur 4 ans, créé par une psychomotricienne, passation rapide (max 20 minutes), prise en compte des NEM (normes exprimées avec moyennes et écart-types), consignes claires, évaluation quantitative et qualitative, et reprise du profil sur une feuille de suivi.",
-      "correct": [
-        "Passation rapide, d'une durée maximale de 20 minutes",
-        "Prise en compte des variables interindividuelles avec âges moyens d'acquisition et écart-types pour chaque item"
-      ],
-      "wrong": [
-        "Évaluation complète des 4 sphères du développement dont langage et socialisation",
-        "Étalonnage récent de 2022 avec un échantillon de 1100 enfants",
-        "Possibilité d'administrer chaque rubrique indépendamment avec un profil standardisé",
-        "Calcul d'un quotient de développement global directement comparable au QD du BLR",
-        "Test utilisable dès la période néonatale grâce à l'adaptation pour les grands prématurés",
-        "Présence obligatoire des parents garantissant la validité écologique du test"
-      ]
-    },
-    {
-      "id": 45,
-      "text": "Quelle est la limite principale du DF-MOT mentionnée dans le cours ?",
-      "explanation": "La limite principale du DF-MOT est que seules deux rubriques sur quatre sont explorées (PML et PCVM). Il n'y a pas de cotation sur la communication et le langage, ni sur le social et le cognitif, même si des items y faisant référence sont présents dans le test.",
-      "correct": [
-        "Seules deux rubriques sur quatre sont explorées : absence de cotation sur la communication/langage et sur le social/cognitif"
-      ],
-      "wrong": [
-        "La passation est trop longue pour les enfants de moins de 12 mois",
-        "L'absence d'étalonnage sur la population française rend les NMF peu interprétables",
-        "Le test ne peut être utilisé chez les prématurés car l'âge corrigé n'est pas pris en compte",
-        "L'absence de profil graphique rend le suivi longitudinal difficile à visualiser",
-        "Le test ne peut être administré qu'une seule fois, sans possibilité de réévaluation",
-        "Les items ne sont pas standardisés, laissant trop de place à l'interprétation de l'examinateur",
-        "La durée de passation trop longue (plus d'1 heure) rend l'outil peu adapté en consultation"
-      ]
-    },
-    {
-      "id": 46,
-      "text": "Quel outil est décrit comme le « seul label psychomot » pour les jeunes enfants dans le cours ?",
-      "explanation": "Le DF-MOT est décrit dans le cours comme le seul outil label 'psychomot' pour les petits. Il a été développé par Laurence Vaivre-Douret, psychomotricienne, spécifiquement pour les psychomotriciens.",
-      "correct": [
-        "Le DF-MOT (Développement moteur Fonctionnel du jeune enfant) de Vaivre-Douret"
-      ],
-      "wrong": [
-        "Le Brunet-Lézine Révisé, car il a été initialement développé à la demande de psychomotriciens",
-        "L'échelle neuropsychomotrice néonatale de Vaivre-Douret pour les prématurés",
-        "Le test de Denver, car il évalue la motricité globale et fine",
-        "La Bayley-4, car sa version française a été adaptée pour les pratiques psychomotrices",
-        "L'ENAT, car il évalue les items psychomoteurs en complément des items neurologiques",
-        "La NBAS, car elle évalue les compétences du nourrisson selon une approche psychomotrice",
-        "Le BLR, car Irène Lézine était une pionnière de la psychomotricité"
-      ]
-    },
-    {
-      "id": 47,
-      "text": "Pour quelle raison principale le Brunet-Lézine a-t-il été révisé en 1997 ?",
-      "explanation": "La révision de 1997 répondait notamment à la nécessité de prendre en compte l'effet Flynn (augmentation des performances des enfants), l'évolution de la vision de l'enfant et des méthodes éducatives, la plus grande liberté laissée aux enfants, et la nécessité de favoriser le développement. C'était aussi le seul outil disponible en France à l'époque.",
-      "correct": [
-        "Pour prendre en compte l'effet Flynn, l'évolution des méthodes éducatives et la plus grande liberté accordée aux enfants"
-      ],
-      "wrong": [
-        "Pour intégrer une échelle de tonus permettant le dépistage des paralysies cérébrales",
-        "Pour adapter le test aux enfants de milieu non francophone vivant en France",
-        "Pour allonger la tranche d'âge jusqu'à 48 mois afin de rejoindre le DF-MOT",
-        "Pour remplacer le scoring binaire par un scoring en 3 points comme dans la Bayley",
-        "Pour introduire un subtest cognitif permettant le calcul d'un QI global",
-        "Pour réduire le nombre d'items afin de diminuer le temps de passation",
-        "Pour harmoniser le test avec les normes européennes établies par l'OMS"
-      ]
-    },
-    {
-      "id": 48,
-      "text": "Dans la révision de 1997 du BLR, quelle sous-échelle a été la plus touchée par les modifications, et pourquoi ?",
-      "explanation": "La sous-échelle S (Sociabilité) est celle qui a été la plus touchée, car elle est la plus sensible aux conceptions éducatives qui ont évolué. Elle est aussi la plus dispersée des quatre sous-échelles (elle touche à l'autonomie, la communication et n'a qu'un faible nombre d'items). C est l'échelle la plus homogène.",
-      "correct": [
-        "La sous-échelle S (Sociabilité), car elle est la plus sensible aux évolutions des conceptions éducatives"
-      ],
-      "wrong": [
-        "La sous-échelle L (Langage), car les items verbaux ont été entièrement remplacés par des épreuves standardisées",
-        "La sous-échelle P (Posture), car les nouvelles pratiques de portage ont modifié le développement moteur",
-        "La sous-échelle C (Coordination), car les jouets modernes ont considérablement changé les tâches de préhension",
-        "Toutes les sous-échelles ont été modifiées de manière équivalente lors de la révision",
-        "La sous-échelle L, car elle possède le moins d'items et était la plus difficile à évaluer",
-        "La sous-échelle P, car l'effet Flynn affecte principalement les acquisitions motrices précoces",
-        "La sous-échelle C, car c'est la plus homogène et donc la plus fragile aux changements normatifs"
-      ]
-    },
-    {
-      "id": 49,
-      "text": "L'étalonnage initial du BSID (Bayley Scale of Infant Development) a été réalisé sur quel échantillon ?",
-      "explanation": "Le BSID initial a été standardisé sur 1242 enfants répartis en 14 sous-groupes de 2 à 42 mois. Il a d'abord été publié par Nancy Bayley en 1969, avec une seconde édition en 1993. La Bayley-4 (2022) a été étalonnée sur 1100 enfants en France.",
-      "correct": [
-        "1242 enfants répartis en 14 sous-groupes de 2 à 42 mois"
-      ],
-      "wrong": [
-        "1055 enfants répartis en 14 sous-groupes de 2 à 30 mois",
-        "1100 enfants répartis en 12 sous-groupes de 16 jours à 42 mois",
-        "1242 enfants répartis en 12 sous-groupes de 0 à 36 mois",
-        "2000 enfants répartis en 14 sous-groupes de 1 à 42 mois",
-        "1055 enfants répartis en 14 sous-groupes de 1 à 42 mois",
-        "1242 enfants répartis en 10 sous-groupes de 2 à 42 mois",
-        "800 enfants répartis en 14 sous-groupes de 2 à 42 mois"
-      ]
-    },
-    {
-      "id": 50,
-      "text": "Concernant les conditions de passation de la Bayley-4, quelles affirmations sont exactes ?",
-      "explanation": "Les conditions de passation de la Bayley-4 requièrent la présence de l'examinateur, de l'enfant et d'un parent. Un lieu spacieux est nécessaire (items de motricité + table et chaise). Outre la mallette standard, l'examinateur doit fournir lui-même : ruban adhésif craft, mouchoirs, céréales, chronomètre, objet masquant la tête, feuilles A4 et escaliers.",
-      "correct": [
-        "Les personnes présentes lors de la passation sont : l'examinateur, l'enfant et un parent",
-        "L'examinateur doit fournir lui-même certains matériels comme des céréales, un chronomètre et des escaliers"
-      ],
-      "wrong": [
-        "La passation peut se faire sans la présence des parents si l'enfant est âgé de plus de 18 mois",
-        "Tout le matériel nécessaire est inclus dans la mallette standardisée du test",
-        "La passation nécessite impérativement une table adaptée à la taille de l'enfant, sans espace au sol",
-        "L'âge corrigé n'est pas pris en compte dans la Bayley-4, contrairement au BLR",
-        "Le point de départ est toujours l'item 1 de chaque subtest, quelle que soit l'âge de l'enfant",
-        "La passation de la Bayley-4 peut se faire sans la présence physique d'un parent, par téléconférence",
-        "Le matériel fourni par l'examinateur comprend des puzzles, des blocs de couleur et une balle rouge"
-      ]
-    },
-    {
-      "id": 51,
-      "text": "Quelle loi de développement est illustrée par la direction de maturation du tonus musculaire chez le prématuré, allant des pieds vers la tête ?",
-      "explanation": "La direction caudo-céphalique de la maturation tonique chez le prématuré illustre la loi caudo-céphalique (ascendante, des pieds vers la tête). Elle s'oppose à la maturation corticale céphalo-caudale (descendante, de la tête vers les pieds) qui prend ensuite le relais après 40 SA. Ce sont les lois décrites par Gesell et Amatruda.",
-      "correct": [
-        "La loi caudo-céphalique (ascendante, des pieds vers la tête)"
-      ],
-      "wrong": [
-        "La loi céphalo-caudale (descendante, de la tête vers les pieds)",
-        "La loi proximo-distale (du centre vers les extrémités)",
-        "La loi disto-proximale (des extrémités vers le centre)",
-        "La loi d'asymétrie tonique décrite par Brazelton",
-        "La loi de maturation centrifuge des réflexes primaires",
-        "La loi de différenciation motrice progressive décrite par Gesell",
-        "La loi de latéralisation précoce des fonctions motrices"
-      ]
-    },
-    {
-      "id": 52,
-      "text": "Quel outil de l'annexe 4 peut être utilisé dès 28 SA pour évaluer la maturation du prématuré ?",
-      "explanation": "L'évaluation neurologique néonatale du prématuré et du nouveau-né à terme de L. Vaivre-Douret est applicable de 28 à 41 SA. C'est l'outil permettant le suivi dès le séjour en néonatologie. Elle est le seul test permettant d'évaluer la maturation de l'enfant prématuré dès cette période.",
-      "correct": [
-        "L'évaluation neurologique néonatale du prématuré et du nouveau-né à terme de L. Vaivre-Douret (28 à 41 SA)"
-      ],
-      "wrong": [
-        "L'ENTAT d'Amiel-Tison (qui commence à 37 SA seulement)",
-        "La NBAS de Brazelton (qui commence à 37 SA pour les nouveau-nés)",
-        "La Bayley-4 (qui commence à 16 jours de vie postnatale)",
-        "Le DDST de Denver (qui commence à la naissance mais n'est pas applicable au prématuré hospitalisé)",
-        "Le BLR (qui commence à 2 mois)",
-        "Le DF-MOT (qui commence à 0 mois mais nécessite un enfant en capacité d'être évalué en condition standard)",
-        "L'ENAT, conçu pour les enfants du premier mois à 6 ans"
-      ]
-    },
-    {
-      "id": 53,
-      "text": "Dans quel(s) lieu(x) de pratique clinique le NBO peut-il être utilisé, selon le cours ?",
-      "explanation": "Le NBO est utilisable en pratique clinique dans différents contextes : milieu hospitalier, PMI (Protection Maternelle et Infantile), CAMSP (Centre d'Action Médico-Sociale Précoce) ou cabinet libéral. C'est un outil clinique dérivé de la NBAS, conçu pour être plus accessible.",
-      "correct": [
-        "Milieu hospitalier, PMI, CAMSP et cabinet libéral"
-      ],
-      "wrong": [
-        "Uniquement en milieu hospitalier spécialisé (maternité et néonatologie)",
-        "Uniquement en PMI et CAMSP, pas en cabinet libéral",
-        "Uniquement en milieu hospitalier et en PMI, pas en cabinet libéral ni en CAMSP",
-        "En milieu hospitalier, en école maternelle et en cabinet libéral",
-        "Uniquement en maternité lors des premiers jours de vie",
-        "En milieu hospitalier et en équipe mobile à domicile, mais pas en cabinet libéral",
-        "Exclusivement dans les unités de soins intensifs néonataux (USIN)"
-      ]
-    },
-    {
-      "id": 54,
-      "text": "Qu'évalue spécifiquement la Communication réceptive dans la Bayley-4 ?",
-      "explanation": "La Communication réceptive de la Bayley-4 évalue les comportements préverbaux pour les plus jeunes et les habiletés morphologiques et lexicales pour les plus grands. Elle comprend des items explorant l'acquisition des marqueurs de possession, le référencement social et la compréhension verbale.",
-      "correct": [
-        "Les comportements préverbaux pour les plus jeunes et les habiletés morphologiques et lexicales pour les plus grands, incluant compréhension verbale et référencement social"
-      ],
-      "wrong": [
-        "La communication préverbale, le développement lexical expressif, la syntaxe et la morphologie",
-        "La poursuite oculaire, la préhension et la manipulation d'objets dès 16 jours",
-        "Les réponses visuelles et auditives, la qualité du sommeil et les capacités d'auto-apaisement",
-        "Exclusivement la compréhension verbale et le vocabulaire réceptif à partir de 12 mois",
-        "La production de sons, le babillage et les premiers mots avant 12 mois",
-        "La discrimination auditive, le traitement phonologique et la mémoire verbale à court terme",
-        "L'imitation verbale, la dénomination et la capacité à suivre des consignes complexes"
-      ]
-    },
-    {
-      "id": 55,
-      "text": "Dans le cadre de l'évaluation neuropsychomotrice du prématuré, que signifie le terme « N.I.D.C.A.P. » ?",
-      "explanation": "Le N.I.D.C.A.P. (Neonatal Individualized Developmental Care and Assessment Program) est un programme de soins de développement individualisé pour le nouveau-né, développé par Brazelton et Hals en 1986. Il fait partie de la prise en charge spécifique autour du corps de l'enfant prématuré qui concerne le psychomotricien.",
-      "correct": [
-        "Neonatal Individualized Developmental Care and Assessment Program"
-      ],
-      "wrong": [
-        "Neonatal Intensive Developmental Care and Assessment Protocol",
-        "Neurobehavioural Individualized Developmental Care and Assessment Program",
-        "Neonatal Individualized Developmental Coordination and Assessment Program",
-        "Neurological Intensive Developmental Care Assessment Protocol",
-        "Newborn Individualized Developmental Care and Adaptation Program",
-        "Neonatal Intensive Developmental Cognitive Abilities Program",
-        "Neuropsychomotor Individualized Developmental Care and Assessment Protocol"
-      ]
-    },
-    {
-      "id": 56,
-      "text": "Concernant les outils d'évaluation des nouveau-nés et bébés prématurés dans la littérature internationale, lesquels sont cités dans le cours ?",
-      "explanation": "Parmi les outils cités : APIB, NNNS, TIMP, GMs (General Movements de Prechtl), NAPI, Dubowitz, NMBA, NBAS, INFANIB et Ballard score. Ces outils sont principalement neuromoteurs, s'appuyant sur le tonus et les signes neurologiques spécifiques.",
-      "correct": [
-        "APIB (Assessment of Preterm Infants Behaviour) et TIMP (Test of Infant Motor Performance)",
-        "Prechtl's Assessment of General Movements (GMs) et Dubowitz Neurological Assessment",
-        "INFANIB (Infant Neurological International Battery) et Ballard score"
-      ],
-      "wrong": [
-        "WPPSI (Wechsler Preschool and Primary Scale of Intelligence)",
-        "BSID-III (Bayley Scale of Infant Development third edition) utilisé dès 24 SA en néonatologie",
-        "DENVERII, version adaptée pour les grands prématurés avant 32 SA",
-        "DF-MOT néonatal, version précoce du test de Vaivre-Douret applicable dès 26 SA",
-        "Vineland-II (Vineland Adaptive Behavior Scales) pour les comportements adaptatifs néonataux"
-      ]
-    },
-    {
-      "id": 57,
-      "text": "Dans l'évaluation du prématuré selon Vaivre-Douret, la poursuite oculaire évolue qualitativement. Comment est décrite cette évolution ?",
-      "explanation": "Selon l'évaluation de Vaivre-Douret, la disponibilité et les capacités d'éveil du bébé s'expriment notamment à travers la qualité de la poursuite oculaire, qui évolue d'une poursuite oculogyre (mouvements oculaires seuls) vers une poursuite oculo-céphalogyre (les yeux ET la tête suivent la cible).",
+      "text": "Dans l'évaluation néonatale de Vaivre-Douret, la poursuite oculaire évolue :",
+      "explanation": "Selon Vaivre-Douret, la poursuite oculaire évolue d'une poursuite oculogyre (seuls les yeux se déplacent) vers une poursuite oculo-céphalogyre (les yeux et la tête suivent la cible ensemble). Cette évolution reflète la maturation neurologique progressive du bébé.",
       "correct": [
         "D'une poursuite oculogyre vers une poursuite oculo-céphalogyre"
       ],
       "wrong": [
-        "D'une poursuite oculo-céphalogyre vers une poursuite oculogyre (régression apparente puis maturation)",
-        "D'une poursuite verticale vers une poursuite horizontale, puis circulaire",
-        "D'une poursuite réflexe vers une poursuite volontaire avec fixation stable",
-        "D'une absence de poursuite vers une poursuite oculaire à 45°, puis à 90°",
-        "D'une convergence oculaire vers une divergence contrôlée avec accommodation",
-        "D'une poursuite saccadique immature vers une poursuite fluide et lente",
-        "D'une poursuite monoculaire vers une poursuite binoculaire coordinée"
+        "D'une poursuite oculo-céphalogyre vers une poursuite oculogyre",
+        "D'une poursuite verticale vers une poursuite horizontale",
+        "D'une poursuite monoculaire vers une poursuite binoculaire",
+        "D'une poursuite réflexe vers une poursuite volontaire avec fixation",
+        "D'une poursuite à 45° vers une poursuite à 180°",
+        "D'une poursuite saccadique vers une poursuite lisse et continue",
+        "D'une absence de poursuite vers une convergence oculaire stable"
       ]
     },
     {
-      "id": 58,
-      "text": "Quels éléments caractérisent le Brunet-Lézine comme un outil alliant clinique et testing, selon les points forts du test ?",
-      "explanation": "Le BLR est qualifié d'outil alliant clinique et testing car l'observation est un aspect très important, plus que la simple réussite ou échec. On observe : les relations parents/enfant, les attitudes spontanées de l'enfant et ses émissions vocales. Le profil met en évidence la manière dont l'enfant met en œuvre ses possibilités.",
+      "id": 39,
+      "text": "Dans le BLR, 1 point équivaut à :",
+      "explanation": "Dans le système de calcul des âges de développement du BLR, 1 point = 3 jours. Il y a 10 points par niveau d'âge. Ainsi, pour un enfant de 17 mois, on doit obtenir 170 points. Ce système permet de calculer des âges de développement partiels et global avec précision.",
       "correct": [
-        "L'observation est plus importante que la réussite ou l'échec : elle renseigne sur le contrôle émotionnel, la relation avec les personnes et l'intérêt pour les objets",
-        "Le profil met en évidence la manière dont l'enfant met en œuvre ses possibilités, pas seulement ses performances"
+        "3 jours"
       ],
       "wrong": [
-        "Il inclut une échelle de cotation neurologique standardisée permettant le dépistage des IMOC",
-        "Il combine un entretien semi-structuré avec les parents et une passation individuelle chronométrée",
-        "La présence des parents est contre-indiquée pour éviter les biais dans l'observation clinique",
-        "Il est le seul test à prendre en compte les pleurs et les manifestations de détresse comme indicateurs développementaux",
-        "Il intègre une évaluation de la qualité du lien d'attachement par observation structurée de type Ainsworth",
-        "La cotation qualitative prend le pas sur la cotation quantitative, aucun score chiffré n'étant produit"
+        "1 semaine",
+        "1 mois",
+        "15 jours",
+        "1 jour",
+        "10 jours",
+        "5 jours",
+        "La valeur varie selon la sous-échelle considérée"
       ]
     },
     {
-      "id": 59,
-      "text": "Selon les auteurs du BLR, quel rôle jouent les parents lors de la passation, et quelle est leur place dans le protocole ?",
-      "explanation": "La présence des parents est indispensable pour rassurer et tenir l'enfant, et elle permet d'avoir des indications sur les relations parents-enfant. En l'absence de réaction à certains items, on peut poser la question aux parents. Cependant, leur présence peut aussi gêner la passation (point faible). Les parents peuvent intervenir à tout moment.",
+      "id": 40,
+      "text": "La révision du BLR en 1997 a notamment permis :",
+      "explanation": "La révision de 1997 a pris en compte l'effet Flynn, l'évolution des méthodes éducatives, et la plus grande liberté accordée aux enfants. Le début du test a été avancé de 1 mois à 2 mois. 40% des items sont désormais passés 1 mois plus tôt. La sous-échelle S est celle qui a été la plus modifiée.",
       "correct": [
-        "Leur présence est indispensable pour rassurer l'enfant et fournit des indications précieuses sur les relations parents-enfant",
-        "En l'absence de réaction de l'enfant à certains items, la question peut être posée aux parents"
+        "De prendre en compte l'effet Flynn",
+        "De faire passer 40% des items 1 mois plus tôt que dans la version précédente"
       ],
       "wrong": [
-        "Les parents sont exclus de la salle de passation pour éviter les biais de performance sociale",
-        "Les parents ne peuvent intervenir qu'à la fin de la passation, lors d'un entretien de restitution",
-        "La présence des parents est optionnelle avant 6 mois, obligatoire après",
-        "Les parents cotent eux-mêmes les items de la sous-échelle de sociabilité par questionnaire",
-        "Les parents sont invités à administrer eux-mêmes les items du subtest postural",
-        "La présence d'un seul parent (préférentiellement le père) est recommandée pour neutraliser l'effet de surprotection maternelle",
-        "Les parents servent uniquement de support affectif sans contribution diagnostique"
+        "D'abaisser l'âge de début du test de 2 mois à 1 mois",
+        "D'intégrer une évaluation du tonus passif absente de la version précédente",
+        "De faire passer tous les items 3 mois plus tôt grâce aux nouvelles méthodes éducatives",
+        "D'harmoniser le test avec les normes européennes de l'OMS",
+        "D'ajouter un subtest cognitif permettant le calcul d'un QI",
+        "De supprimer la sous-échelle posturale jugée peu discriminante"
       ]
     },
     {
-      "id": 60,
-      "text": "En comparant les différents tests présentés dans le cours, lesquelles de ces affirmations comparatives sont exactes ?",
-      "explanation": "Le Denver est généraliste (première intention, 0-6 ans, très visuel), l'Amiel-Tison est spécialisé (deuxième intention, accent sur le tonus neurologique), le BLR couvre 2-30 mois avec calcul de QD, le DF-MOT va de 0 à 48 mois avec NMF moteurs, et la Bayley-4 va de 16 jours à 42 mois avec un étalonnage français récent (2022).",
+      "id": 41,
+      "text": "Dans le BLR, la sous-échelle la plus dispersée et la plus sensible aux évolutions éducatives est :",
+      "explanation": "La sous-échelle S (Sociabilité) est la plus dispersée des quatre : elle touche à l'autonomie, la communication, et n'a qu'un faible nombre d'items (26). Elle est aussi celle qui a été la plus modifiée lors de la révision de 1997. La sous-échelle C est la plus homogène.",
       "correct": [
-        "Le Denver est un test de première intention généraliste tandis que l'Amiel-Tison est un test de deuxième intention très spécialisé",
-        "Le DF-MOT couvre une tranche d'âge plus longue que le BLR (0-48 mois vs 2-30 mois)"
+        "La sous-échelle S (Sociabilité)"
       ],
       "wrong": [
-        "La Bayley-4 et le BLR couvrent exactement la même tranche d'âge (2 mois à 30 mois)",
-        "Le Denver et le BLR calculent tous deux un quotient de développement global standardisé",
-        "L'Amiel-Tison et le DF-MOT utilisent tous deux un score de maturation comparable",
-        "La NBAS et le NBO couvrent la même tranche d'âge (0 à 3 mois)",
-        "Le DF-MOT et la Bayley-4 explorent tous deux les quatre sphères du développement de manière équivalente",
-        "Le BLR et la Bayley-4 utilisent le même système de notation en 3 niveaux (0, 1, 2 points)"
+        "La sous-échelle P (Posture)",
+        "La sous-échelle C (Coordination)",
+        "La sous-échelle L (Langage)",
+        "Toutes les sous-échelles sont équivalentes en termes de dispersion",
+        "La sous-échelle L car elle possède le moins d'items",
+        "La sous-échelle C car elle est la plus sensible aux stimulations environnementales",
+        "La sous-échelle P car elle évalue des acquisitions très normées par l'âge"
+      ]
+    },
+    {
+      "id": 42,
+      "text": "Les enfants exclus de l'étalonnage du BLR révisé sont :",
+      "explanation": "Ont été exclus : les enfants avec troubles majeurs du développement, les grands prématurés (avant 36 semaines ou poids inférieur à 2400g), et les naissances multiples. L'étalonnage a été réalisé sur 1055 enfants de 2 à 30 mois.",
+      "correct": [
+        "Les grands prématurés (avant 36 semaines ou poids inférieur à 2400g)",
+        "Les naissances multiples",
+        "Les enfants présentant des troubles majeurs du développement"
+      ],
+      "wrong": [
+        "Les enfants gardés en crèche collective",
+        "Les enfants dont les parents sont professionnels de santé",
+        "Les enfants nés par césarienne",
+        "Les enfants dont la langue maternelle n'est pas le français",
+        "Les enfants ayant des antécédents familiaux de troubles du langage"
+      ]
+    },
+    {
+      "id": 43,
+      "text": "Pour calculer le QD total dans le BLR :",
+      "explanation": "Le QD total s'obtient en prenant l'AD total (somme des points des 4 sous-échelles), pas la moyenne des QD partiels. La formule reste QD = AD / AR × 100. Le QD total est donc différent de la moyenne des quatre QD partiels (QDP, QDC, QDL, QDS).",
+      "correct": [
+        "Je prends l'âge de développement global et je divise par l'âge réel, multiplié par 100",
+        "Je n'utilise pas la moyenne des quatre QD partiels"
+      ],
+      "wrong": [
+        "Je calcule la moyenne des quatre quotients de développement partiels",
+        "Je divise l'âge réel par l'âge de développement global, multiplié par 100",
+        "Je somme les quatre QD partiels et je divise par 400",
+        "Je prends le QD partiel le plus élevé comme estimateur du QD global",
+        "Je multiplie le score brut total par un coefficient d'étalonnage",
+        "Je prends l'âge de développement du domaine le plus représentatif (C, le plus homogène)"
+      ]
+    },
+    {
+      "id": 44,
+      "text": "Quel outil du cours permet d'évaluer un enfant de 42 mois mais pas un enfant de 48 mois ?",
+      "explanation": "La Bayley-4 couvre de 16 jours à 42 mois inclus, donc elle s'arrête exactement à 42 mois. Elle ne couvre pas 48 mois. Le DF-MOT va jusqu'à 48 mois et l'ENAT jusqu'à 6 ans. Le BLR s'arrête à 30 mois.",
+      "correct": [
+        "Le Bayley 4"
+      ],
+      "wrong": [
+        "Le BLR",
+        "Le DF-MOT",
+        "Le DDST",
+        "L'évaluation d'Amiel-Tison",
+        "La NBAS",
+        "Le NBO",
+        "L'évaluation néonatale de Vaivre-Douret"
+      ]
+    },
+    {
+      "id": 45,
+      "text": "Parmi les outils suivants, lequel ne calcule ni QD, ni NMF, ni score de maturation, et ne produit pas de notes étalonnées ?",
+      "explanation": "Le DDST ne produit aucun score chiffré standardisé : pas de QD, pas de NMF, pas de note étalonnée. C'est un outil de screening visuel. Le BLR produit des QD, le DF-MOT des NMF, la Bayley-4 des notes étalonnées, et Vaivre-Douret un score de maturation.",
+      "correct": [
+        "Le DDST"
+      ],
+      "wrong": [
+        "Le BLR",
+        "Le DF-MOT",
+        "Le Bayley 4",
+        "L'évaluation de Vaivre-Douret",
+        "L'évaluation d'Amiel-Tison",
+        "La NBAS",
+        "Le NBO"
+      ]
+    },
+    {
+      "id": 46,
+      "text": "Parmi les outils du cours, lesquels utilisent obligatoirement l'âge corrigé pour les enfants prématurés ?",
+      "explanation": "L'évaluation d'Amiel-Tison, le BLR, le DF-MOT et l'évaluation de Vaivre-Douret utilisent tous l'âge corrigé pour les prématurés. La Bayley-4 aussi. Le DDST peut utiliser l'âge corrigé. En revanche, la NBAS s'applique à partir du terme (37 SA) sans notion d'âge corrigé post-terme.",
+      "correct": [
+        "Le BLR",
+        "Le DF-MOT",
+        "L'évaluation d'Amiel-Tison"
+      ],
+      "wrong": [
+        "La NBAS (elle s'administre en période néonatale sans notion d'âge corrigé)",
+        "Le DDST, qui utilise toujours l'âge réel quel que soit le statut de naissance",
+        "Aucun outil ne prend en compte l'âge corrigé, c'est une pratique clinique non standardisée",
+        "Uniquement la Bayley-4, les autres outils ne mentionnent pas l'âge corrigé",
+        "Uniquement l'évaluation de Vaivre-Douret, conçue exclusivement pour les prématurés"
+      ]
+    },
+    {
+      "id": 47,
+      "text": "Quel est le seul outil du cours développé par une psychomotricienne et labellisé pour les psychomotriciens ?",
+      "explanation": "Le DF-MOT est décrit dans le cours comme le seul outil label 'psychomot' pour les petits, développé par Laurence Vaivre-Douret, psychomotricienne. L'évaluation néonatale de Vaivre-Douret a également été développée par une psychomotricienne, mais le qualificatif 'label psychomot' est attribué spécifiquement au DF-MOT.",
+      "correct": [
+        "Le DF-MOT"
+      ],
+      "wrong": [
+        "Le BLR",
+        "L'évaluation néonatale de Vaivre-Douret",
+        "La NBAS",
+        "Le Bayley 4",
+        "L'évaluation d'Amiel-Tison",
+        "Le DDST",
+        "Le NBO"
+      ]
+    },
+    {
+      "id": 48,
+      "text": "Quel outil du cours permet à la fois un suivi longitudinal et une évaluation dès 16 jours de vie ?",
+      "explanation": "La Bayley-4 commence à 16 jours et permet explicitement le suivi longitudinal des progrès d'un enfant dans le cadre d'une prise en charge. Le DF-MOT commence à 0 mois mais 16 jours est dans sa plage également. La NBAS s'applique de 0 à 2 mois mais sans suivi longitudinal standardisé.",
+      "correct": [
+        "Le Bayley 4"
+      ],
+      "wrong": [
+        "Le BLR",
+        "La NBAS",
+        "Le NBO",
+        "Le DDST",
+        "L'évaluation d'Amiel-Tison",
+        "L'évaluation néonatale de Vaivre-Douret",
+        "Le DF-MOT, qui commence à 2 mois"
+      ]
+    },
+    {
+      "id": 49,
+      "text": "Parmi ces affirmations comparatives, lesquelles sont exactes ?",
+      "explanation": "Le BLR et la Bayley-4 permettent tous deux d'objectiver un profil de développement multi-domaines. La NBAS et le NBO partagent le même objectif relationnel mais diffèrent dans leur structure. Le DDST et l'Amiel-Tison sont tous deux applicables à 5 ans mais avec des objectifs très différents (screening généraliste vs spécialisation neuromotrice).",
+      "correct": [
+        "La NBAS et le NBO ont tous deux pour objectif de soutenir la relation parent-enfant",
+        "Le DDST et l'évaluation d'Amiel-Tison sont tous deux applicables à un enfant de 5 ans"
+      ],
+      "wrong": [
+        "Le BLR et le DF-MOT couvrent la même tranche d'âge",
+        "La Bayley-4 et le BLR calculent tous deux un quotient de développement global",
+        "La NBAS et l'ENTAT évaluent tous deux les réflexes primaires avec le même système de cotation",
+        "Le DF-MOT et le BLR produisent tous deux des niveaux moteurs fonctionnels en PML et PCVM",
+        "La Bayley-4 et le DDST utilisent tous deux des fourchettes d'acquisition pour chaque item",
+        "Le BLR et la Bayley-4 commencent tous deux à 2 mois"
+      ]
+    },
+    {
+      "id": 50,
+      "text": "Je veux évaluer un enfant de 8 mois. Parmi les affirmations suivantes, lesquelles sont correctes ?",
+      "explanation": "À 8 mois, le DDST (0-6 ans), le BLR (2-30 mois), le Bayley-4 (16 jours-42 mois) et le DF-MOT (0-48 mois) sont tous applicables. La NBAS ne s'applique qu'aux 2 premiers mois. L'évaluation néonatale de Vaivre-Douret s'arrête à 41 SA. L'ENTAT s'applique autour du terme uniquement.",
+      "correct": [
+        "Je peux utiliser le DDST",
+        "Je peux utiliser le BLR",
+        "Je peux utiliser le Bayley 4"
+      ],
+      "wrong": [
+        "Je peux utiliser la NBAS de Brazelton",
+        "Je peux utiliser l'évaluation néonatale de Vaivre-Douret",
+        "Je peux utiliser l'ENTAT d'Amiel-Tison",
+        "Je peux utiliser le NBO",
+        "Je ne peux utiliser aucun outil avant 12 mois, les outils ne sont pas assez sensibles"
       ]
     }
   ]
