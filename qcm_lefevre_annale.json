@@ -152,14 +152,14 @@
     {
       "id": 13,
       "text": "Au sujet du MMSE :",
-      "explanation": "Sa passation est recommandée par la HAS (et non l'OMS). Son score documente l'instauration de certaines médications. Le MMSE seul ne peut pas permettre le diagnostic de la maladie d'Alzheimer.",
+      "explanation": "Sa passation est recommandée par l'OMS et par la HAS. Son score documente l'instauration de certaines médications. Le MMSE seul ne peut pas permettre le diagnostic de la maladie d'Alzheimer.",
       "correct": [
+        "Sa passation est recommandée par l'OMS",
         "Sa passation est recommandée par la HAS",
         "Son score documente l'instauration de certaines médications"
       ],
       "wrong": [
-        "Seul le MMSE peut permettre le diagnostic de la maladie d'Alzheimer",
-        "Sa passation est recommandée par l'OMS"
+        "Seul le MMSE peut permettre le diagnostic de la maladie d'Alzheimer"
       ]
     },
     {
