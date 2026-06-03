@@ -41,6 +41,12 @@
       "subject": "Psychiatrie - G.",
       "tag": "Psychiatrie",
       "description": "60 questions de niveau expert sur la psychomotricité en psychiatrie"
+    },
+    {
+      "file": "qcm_lefevre_annale.json",
+      "subject": "Gériatrie MMSE",
+      "tag": "Gériatrie",
+      "description": "QCM Classique MMSE"
     }
   ]
 }
