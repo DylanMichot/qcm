@@ -1,0 +1,1027 @@
+{
+  "subject": "Psychomotricité appliquée à la psychiatrie",
+  "tag": "Ch1 – Institutions, bilan psychomoteur, sémiologie et relation thérapeutique",
+  "description": "QCM couvrant les orientations institutionnelles, le bilan psychomoteur en phases aiguë et stable, la sémiologie psychomotrice des pathologies psychiatriques (schizophrénie, paranoïa, borderline, dépression), la relation thérapeutique et la temporalité des soins.",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Concernant la psychiatrie institutionnelle, quelles propositions sont exactes ?",
+      "explanation": "La psychiatrie institutionnelle, née à Saint-Alban sous Tosquelles et Bonnafé pendant la WW2, s'inspirait de la psychanalyse et du marxisme. Elle plaçait le fonctionnement de l'institution au centre et prônait une horizontalité des relations soignants-soignés.",
+      "correct": [
+        "Elle trouve ses origines à l'hôpital Saint-Alban pendant la Seconde Guerre mondiale",
+        "Elle s'inspire à la fois de la psychanalyse et du marxisme",
+        "Elle prône une horizontalité des relations soignants-soignés"
+      ],
+      "wrong": [
+        "Elle a été fondée par Jean Oury dans les années 1940",
+        "Elle accorde la priorité au traitement médicamenteux sur l'environnement institutionnel",
+        "Elle prône une stricte hiérarchisation statutaire entre soignants",
+        "Elle est à l'origine exclusive du courant de réhabilitation psychosociale",
+        "Elle considère que l'institution n'a qu'un rôle secondaire dans le soin"
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Quel personnage est associé à la clinique de La Borde dans les années 1950 ?",
+      "explanation": "Jean Oury a fondé et dirigé la clinique de La Borde à partir des années 1950, en prolongeant les idées de la psychiatrie institutionnelle initiées à Saint-Alban.",
+      "correct": [
+        "Jean Oury"
+      ],
+      "wrong": [
+        "François Tosquelles",
+        "Lucien Bonnafé",
+        "Pierre Delion",
+        "Wilfred Bion",
+        "Carl Rogers",
+        "Henri Wallon",
+        "René Roussillon"
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Dans l'orientation psychodynamique et institutionnelle, quelles activités concrètes illustrent les principes de la psychiatrie institutionnelle ?",
+      "explanation": "La psychiatrie institutionnelle se traduit concrètement par des réunions soignants-soignés, des activités de jardinage et cuisine, ainsi que des sorties dans la cité, visant à responsabiliser les patients et à diversifier leur environnement social.",
+      "correct": [
+        "Les réunions soignants-soignés",
+        "Le jardinage et la cuisine partagée",
+        "Les sorties et ateliers dans la cité"
+      ],
+      "wrong": [
+        "L'application stricte de protocoles médicamenteux standardisés",
+        "La séparation systématique des patients et des soignants lors des repas",
+        "La supervision uniquement par des psychiatres senior",
+        "L'absence de toute prise de décision partagée avec les patients",
+        "La priorisation des entretiens individuels sur toute forme de vie collective"
+      ]
+    },
+    {
+      "id": 4,
+      "text": "Concernant la réhabilitation psychosociale, quelles affirmations sont correctes ?",
+      "explanation": "La réhabilitation psychosociale, née aux États-Unis dans les années 1980, met l'accent sur l'empowerment du patient, l'utilisation maximale de ses capacités sociales, et donne la priorité au social sur le médical.",
+      "correct": [
+        "Elle a émergé aux États-Unis dans les années 1980",
+        "Elle met l'accent sur l'empowerment et le pouvoir d'agir du patient"
+      ],
+      "wrong": [
+        "Elle a été initiée en France par Jean Oury",
+        "Elle subordonne systématiquement le social au médical",
+        "Elle refuse toute forme d'évaluation directe des symptômes",
+        "Elle exclut le travail avec les familles de son champ d'action",
+        "Elle s'oppose au concept de pair-aidance",
+        "Elle néglige les habiletés sociales au profit des habiletés instrumentales"
+      ]
+    },
+    {
+      "id": 5,
+      "text": "Dans l'orientation réhabilitation psychosociale, quelles interventions relèvent du travail du psychomotricien ?",
+      "explanation": "Le psychomotricien en réhabilitation psychosociale peut animer des groupes de TCC centrés sur des symptômes identifiés, travailler sur des items psychomoteurs (motricité fine, coordination) et proposer de la remédiation cognitive et de la cognition sociale.",
+      "correct": [
+        "Groupes de TCC centrés sur un symptôme identifié",
+        "Remédiation cognitive et cognition sociale (Théorie de l'esprit)",
+        "Prise en charge des troubles de la coordination et de la motricité fine"
+      ],
+      "wrong": [
+        "Groupes à médiation par les arts plastiques exclusivement",
+        "Enveloppements secs en chambre d'isolement",
+        "Psychanalyse individuelle des contenus latents",
+        "Supervision des équipes infirmières",
+        "Balnéothérapie à visée de régulation tonique"
+      ]
+    },
+    {
+      "id": 6,
+      "text": "Lors de la phase aiguë, qu'est-ce qui caractérise le bilan psychomoteur selon le cours ?",
+      "explanation": "En phase aiguë, l'évaluation n'est pas classique : l'état psychomoteur est transitoire et non représentatif du profil habituel. Le psychomotricien doit évaluer l'état tonique, les enveloppes psychiques, les défenses psychiques et les distances proxémiques acceptables.",
+      "correct": [
+        "L'état psychomoteur est transitoire et non représentatif du profil du patient",
+        "L'évaluation doit identifier l'état tonique et les enveloppes psychiques"
+      ],
+      "wrong": [
+        "Elle suit le même protocole que pour la phase de stabilité",
+        "Elle nécessite obligatoirement un bilan standardisé de 4 heures",
+        "Elle exclut toute évaluation des distances proxémiques",
+        "Elle est toujours réalisée en présence du psychiatre",
+        "Les tests standardisés sont systématiquement applicables",
+        "Elle ne peut jamais être réalisée en chambre d'isolement"
+      ]
+    },
+    {
+      "id": 7,
+      "text": "Dans la vignette clinique d'Abdelkader, quels tests ont été utilisés par la psychomotricienne pour évaluer la désorganisation psychomotrice ?",
+      "explanation": "La psychomotricienne a utilisé des reproductions gestuelles type EMG pour la désorganisation praxique, des reproductions de phrases rythmiques type Stamback pour l'impulsivité, et le dessin du bonhomme pour les représentations corporelles.",
+      "correct": [
+        "Reproductions gestuelles de type EMG",
+        "Reproductions de phrases rythmiques de type Stamback",
+        "Dessin du bonhomme"
+      ],
+      "wrong": [
+        "Questionnaire d'alexithymie de Toronto",
+        "Test de Rosenberg",
+        "Épreuve des bras tendus",
+        "Échelle d'estime de soi sociale de Lawson",
+        "Test de conscience de soi de Fenigstein"
+      ]
+    },
+    {
+      "id": 8,
+      "text": "Le bilan psychomoteur en phase de stabilité comporte deux grandes parties. Lesquelles ?",
+      "explanation": "Le bilan en phase de stabilité comprend un entretien semi-dirigé explorant le corps, l'histoire de la personne et de la maladie, et une partie de mise en jeu du corps avec des tests psychomoteurs standardisés.",
+      "correct": [
+        "Un entretien semi-dirigé explorant le vécu corporel et l'histoire de la maladie",
+        "Une mise en jeu du corps avec des tests psychomoteurs"
+      ],
+      "wrong": [
+        "Une passation de tests neuropsychologiques standardisés uniquement",
+        "Un entretien directif centré sur les symptômes actuels uniquement",
+        "Une observation en milieu naturel (domicile du patient)",
+        "Une évaluation par entretien familial structuré",
+        "Une passation d'imagerie mentale guidée",
+        "Un protocole d'évaluation cognitive standardisé de type MMSE"
+      ]
+    },
+    {
+      "id": 9,
+      "text": "Quels items psychomoteurs sont principalement évalués lors du bilan en phase de stabilité ?",
+      "explanation": "Le bilan psychomoteur en phase de stabilité évalue principalement le tonus, la cénesthésie, l'organisation gestuelle, l'image du corps et le système émotionnel.",
+      "correct": [
+        "Le tonus",
+        "La cénesthésie",
+        "Le système émotionnel"
+      ],
+      "wrong": [
+        "Les fonctions mnésiques verbales",
+        "La vitesse de traitement de l'information (QI performance)",
+        "Le niveau lexical et grammatical",
+        "La mémoire de travail visuospatiale",
+        "Les capacités de lecture et d'écriture scolaire"
+      ]
+    },
+    {
+      "id": 10,
+      "text": "Concernant l'évaluation du tonus lors du bilan psychomoteur, quels éléments sont correctement associés à leur dimension tonique ?",
+      "explanation": "Le tonus de fond est évalué par le ballant et les paratonies ; le tonus postural par les équilibres statiques et l'épreuve des bras tendus ; le tonus pneumatique par l'observation de la respiration.",
+      "correct": [
+        "Le tonus de fond est évalué via le ballant et les paratonies",
+        "Le tonus pneumatique porte sur l'observation de la respiration"
+      ],
+      "wrong": [
+        "Le tonus d'action est évalué par l'équilibre statique uniquement",
+        "Le tonus de fond inclut l'épreuve des bras tendus",
+        "Le tonus postural concerne exclusivement la marche et la course",
+        "L'épreuve de la poussée évalue le tonus pneumatique",
+        "Le tonus d'action se mesure par les mobilisations passives des membres",
+        "Le tonus postural s'évalue par l'extensibilité musculaire passive"
+      ]
+    },
+    {
+      "id": 11,
+      "text": "L'évaluation de la cénesthésie dans le bilan psychomoteur inclut quels types de sensations ?",
+      "explanation": "La cénesthésie englobe les sensations extéroceptives (émanant des sens), intéroceptives (évaluées par le questionnaire de Moyano) et proprioceptives (évaluées notamment par la série « mains cachées »).",
+      "correct": [
+        "Sensations extéroceptives",
+        "Sensations intéroceptives évaluées par le questionnaire de Moyano",
+        "Sensations proprioceptives incluant la série « mains cachées »"
+      ],
+      "wrong": [
+        "Les capacités mnésiques à court terme",
+        "La vitesse d'encodage de l'information visuelle",
+        "L'estimation de la durée des intervalles temporels",
+        "Les performances en calcul mental",
+        "La reconnaissance des visages (gnosies prosopiques)"
+      ]
+    },
+    {
+      "id": 12,
+      "text": "Concernant les échelles d'autoévaluation utilisées dans le bilan ROUFFACH, lesquelles sont citées dans le cours ?",
+      "explanation": "Le bilan ROUFFACH utilise six échelles d'autoévaluation : image du corps (Moyano), alexithymie de Toronto (Bagby), estime de soi sociale (Lawson), estime de soi (Rosenberg), empathie (Eysenck) et conscience de soi (Fenigstein).",
+      "correct": [
+        "Questionnaire de l'image du corps de Moyano (2009)",
+        "Alexithymie de Toronto de Bagby (1992)",
+        "Estime de soi de Rosenberg (1965)"
+      ],
+      "wrong": [
+        "Échelle d'anxiété de Hamilton",
+        "Questionnaire de dépression de Beck (BDI)",
+        "Échelle de dissociation DES",
+        "Test d'empathie de Baron-Cohen",
+        "Inventaire de personnalité NEO-PI-R"
+      ]
+    },
+    {
+      "id": 13,
+      "text": "Quels sont les objectifs du bilan psychomoteur en phase de stabilité ?",
+      "explanation": "Le bilan en phase de stabilité vise à confirmer l'indication de thérapie psychomotrice, à contribuer à la précision du diagnostic médical, à favoriser l'alliance thérapeutique et à permettre une réévaluation des compétences à distance.",
+      "correct": [
+        "Confirmer et préciser l'indication de thérapie psychomotrice",
+        "Contribuer à la précision du diagnostic médical",
+        "Favoriser l'alliance thérapeutique avec le patient"
+      ],
+      "wrong": [
+        "Remplacer le diagnostic psychiatrique",
+        "Prescrire les traitements médicamenteux adaptés",
+        "Évaluer l'aptitude professionnelle du patient",
+        "Déterminer la capacité juridique du patient",
+        "Rédiger le projet de sortie hospitalière du patient"
+      ]
+    },
+    {
+      "id": 14,
+      "text": "Dans le bilan psychomoteur, l'évaluation de l'organisation gestuelle comprend ?",
+      "explanation": "L'organisation gestuelle évalue les coordinations, praxies, gnosies, inhibition, organisation spatio-temporelle du geste, mais aussi le schéma corporel via des tests comme main-œil-oreille de Piaget-Head et l'imitation de gestes.",
+      "correct": [
+        "Le test « main-œil-oreille » de Piaget-Head",
+        "Le dessin de soi"
+      ],
+      "wrong": [
+        "L'épreuve des expressions faciales volontaires",
+        "Le questionnaire de Moyano",
+        "L'alexithymie de Toronto",
+        "L'épreuve du sens musculaire de Soubiran",
+        "L'épreuve de conscience de soi de Fenigstein",
+        "L'épreuve du mime du métier"
+      ]
+    },
+    {
+      "id": 15,
+      "text": "Quels signes caractérisent le vécu corporel dans la psychose de façon générale ?",
+      "explanation": "Le vécu corporel psychotique inclut des troubles de dépersonnalisation/déréalisation, des troubles cénesthésiques, des angoisses de morcellement, des hallucinations cénesthésiques et l'incurie.",
+      "correct": [
+        "Trouble de dépersonnalisation/déréalisation",
+        "Angoisses de morcellement liées à la destruction de l'unité du Moi corporel",
+        "Hallucinations cénesthésiques"
+      ],
+      "wrong": [
+        "Alexithymie exclusive sans autres troubles cénesthésiques",
+        "Rigidité axiale exclusivement d'origine neurologique",
+        "Anesthésie totale de toutes les modalités sensorielles",
+        "Hyperinvestissement systématique du corps propre",
+        "Absence de tout délire à thématique corporelle"
+      ]
+    },
+    {
+      "id": 16,
+      "text": "La dissociation en psychiatrie se caractérise par ?",
+      "explanation": "La dissociation correspond à la rupture de l'unité psychique et de l'homogénéité de la personnalité, provoquant un relâchement des processus associatifs. Elle affecte tous les secteurs : cognitif, affectif, moteur et social.",
+      "correct": [
+        "Une rupture de l'unité psychique et de l'homogénéité de la personnalité",
+        "Un relâchement des processus associatifs aboutissant à l'incohérence"
+      ],
+      "wrong": [
+        "Une rigidification excessive des processus associatifs",
+        "Un surinvestissement du corps propre et de ses frontières",
+        "Une hyperconnexion entre les sphères cognitive et émotionnelle",
+        "Un état exclusivement caractérisé par des hallucinations visuelles",
+        "Une forme de réorganisation défensive efficace du Moi",
+        "Une altération uniquement de la sphère motrice"
+      ]
+    },
+    {
+      "id": 17,
+      "text": "Sur le plan tonique, la dissociation se manifeste par ?",
+      "explanation": "La dissociation produit un contraste entre une dimension cognitive active et une dimension psychomotrice désincarnée, avec une hypertonie ou hypotonie généralisée. Le patient pense son corps mais ne l'éprouve pas.",
+      "correct": [
+        "Un contraste entre dimension cognitive active et dimension psychomotrice désincarnée",
+        "Une possible hypertonie ou hypotonie généralisée"
+      ],
+      "wrong": [
+        "Une normotonie systématique préservée dans tous les contextes",
+        "Une hyperréflexivité tonique exclusive au segment supérieur du corps",
+        "Une dissociation entre tonus axial et tonus des membres exclusivement",
+        "Une catalepsie permanente sans variation possible",
+        "Une hypotonie sélective des membres inférieurs uniquement",
+        "Un tonus de fond normal avec hypertonicité réactionnelle"
+      ]
+    },
+    {
+      "id": 18,
+      "text": "Parmi les manifestations de la dissociation sur le plan gestuel, lesquelles sont citées dans le cours ?",
+      "explanation": "Sur le plan gestuel, la dissociation se manifeste par des stéréotypies, des échopraxies et la catatonie (état de passivité et d'inertie motrice alternant avec des états d'excitation).",
+      "correct": [
+        "Stéréotypies",
+        "Échopraxies",
+        "Catatonie"
+      ],
+      "wrong": [
+        "Dysdiadococinésie",
+        "Ataxie cérébelleuse",
+        "Mouvements athétosiques",
+        "Tremblements d'intention",
+        "Bradykinésie parkinsonienne"
+      ]
+    },
+    {
+      "id": 19,
+      "text": "Concernant la schizophrénie et le tonus, quelles propositions sont exactes selon le cours ?",
+      "explanation": "Dans la schizophrénie, on observe une hypertonie du tonus de fond, une catalepsie (maintien des attitudes imposées lors de mobilisation passive), une dysharmonie cinétique associant rigidité axiale et nonchalance du mouvement, et peu d'ajustement tonique dans la relation.",
+      "correct": [
+        "Hypertonie du tonus de fond d'intensité variable",
+        "Catalepsie lors de la mobilisation passive des membres"
+      ],
+      "wrong": [
+        "Hypotonie généralisée constante",
+        "Ajustement tonique relationnel préservé",
+        "Hypertonie sélective des membres inférieurs uniquement",
+        "Absence de paratonies à l'examen",
+        "Normotonicité axiale avec flaccidité périphérique",
+        "Tremblements de repos d'origine extrapyramidale"
+      ]
+    },
+    {
+      "id": 20,
+      "text": "Dans la schizophrénie, quelles perturbations cénesthésiques sont décrites dans le cours ?",
+      "explanation": "Dans la schizophrénie, toute l'extéroceptivité est bouleversée (abrasion, hypersensibilité ou hallucinations), la proprioception est altérée (perception diminuée des fonctions physiologiques), et ces perturbations peuvent nuire au processus d'individuation.",
+      "correct": [
+        "Altérations de l'extéroceptivité : abrasion sensorielle ou hypersensibilité",
+        "Perception diminuée des fonctions physiologiques (digestion, respiration)"
+      ],
+      "wrong": [
+        "Hypersensibilité proprioceptive exclusive",
+        "Préservation totale de l'intéroception",
+        "Hallucinations exclusivement visuelles et auditives",
+        "Hypersensibilité thermique sans altération des autres modalités",
+        "Tenue vestimentaire toujours adaptée à la température",
+        "Déconnexion sensorielle uniquement dans les situations de stress"
+      ]
+    },
+    {
+      "id": 21,
+      "text": "L'organisation gestuelle dans la schizophrénie se caractérise notamment par ?",
+      "explanation": "Dans la schizophrénie, l'organisation gestuelle présente un ralentissement psychomoteur global, des troubles de la coordination et des praxies (liés aux troubles exécutifs), et des échopraxies, maniérismes et stéréotypies.",
+      "correct": [
+        "Ralentissement psychomoteur global",
+        "Échopraxies, maniérisme, stéréotypies"
+      ],
+      "wrong": [
+        "Hyperactivité motrice incontrôlée sans stéréotypies",
+        "Organisation gestuelle normale avec seuls troubles mnésiques",
+        "Accélération des praxies compensatoire",
+        "Hyperfluidité des coordinations dynamiques",
+        "Préservation totale de la motricité fine",
+        "Absence de trouble de la coordination bimanuelle"
+      ]
+    },
+    {
+      "id": 22,
+      "text": "Dans la schizophrénie, les troubles de l'image du corps se manifestent notamment par ?",
+      "explanation": "Dans la schizophrénie, l'image du corps est perturbée par une expérience de dépossession, une mécanisation du corps, et une perte des frontières entre soi et le monde extérieur, aboutissant à une expérience angoissante de mélange entre ce qui appartient à soi et à autrui.",
+      "correct": [
+        "Une expérience de dépossession du corps propre",
+        "Une perte des frontières entre soi et le monde extérieur"
+      ],
+      "wrong": [
+        "Une dysmorphophobie focalisée sur un seul organe",
+        "Un surinvestissement du corps comme lieu de plaisir",
+        "Une représentation corporelle stable malgré la désorganisation psychique",
+        "Une conscience de soi renforcée par la psychose",
+        "Une préservation de l'identité corporelle sans atteinte de l'image du corps",
+        "Une hyperconsciencisation des mouvements physiologiques automatiques"
+      ]
+    },
+    {
+      "id": 23,
+      "text": "Le système émotionnel dans la schizophrénie se caractérise par ?",
+      "explanation": "Dans la schizophrénie, on observe une diminution de l'expressivité spontanée, de l'amimie, une discordance affective, des difficultés à identifier la valence des émotions sur soi et sur autrui, ainsi qu'une alexithymie et une anhédonie.",
+      "correct": [
+        "Diminution de l'expressivité spontanée et amimie",
+        "Alexithymie et anhédonie"
+      ],
+      "wrong": [
+        "Hyperexpressivité émotionnelle labiles",
+        "Empathie affective préservée mais empathie cognitive altérée",
+        "Congruence affective dans toutes les situations sociales",
+        "Accélération des réactions végétatives",
+        "Expressivité faciale augmentée avec discordance verbale",
+        "Hyperreconnaissance des émotions sur les visages d'autrui"
+      ]
+    },
+    {
+      "id": 24,
+      "text": "Dans le cas de la paranoïa, quelles manifestations psychomotrices sont décrites dans le cours ?",
+      "explanation": "La paranoïa se caractérise par une hypertonie de fond avec rigidité axiale (dos, épaules), des paratonies à l'examen du tonus, un besoin d'intruser l'autre et un délire hypocondriaque à mécanismes interprétatifs.",
+      "correct": [
+        "Hypertonie de fond avec rigidité axiale",
+        "Délire hypocondriaque à mécanismes interprétatifs"
+      ],
+      "wrong": [
+        "Hypotonie généralisée et effondrement postural",
+        "Stéréotypies et échopraxies fréquentes",
+        "Alexithymie profonde sans discours sur le corps",
+        "Incurie et désintérêt du corps propre",
+        "Amimie et réduction de l'expressivité faciale",
+        "Anhédonie majeure comme signe prédominant"
+      ]
+    },
+    {
+      "id": 25,
+      "text": "Le trouble limite borderline présente quels profils psychomoteurs spécifiques décrits dans le cours ?",
+      "explanation": "Le borderline présente un décalage entre dimension cognitive élaborée et dimensions affective/motrice plus précaires, une attitude en « faux-self » avec hypernormalité de surface, et une recherche de sensations extrêmes (scarifications, sports extrêmes) pour lutter contre les angoisses.",
+      "correct": [
+        "Décalage entre dimension cognitive et dimensions affective/motrice",
+        "Attitude en « faux-self » impliquant une hypernormalité de surface inauthentique"
+      ],
+      "wrong": [
+        "Rigidité psychique et corporelle identique à la paranoïa",
+        "Amimie et anhédonie prédominantes",
+        "Catatonie alternant avec des états d'excitation",
+        "Alexithymie totale sans tentative de mise en mots des émotions",
+        "Hypertonie de fond avec paratonies systématiques",
+        "Absence de tout comportement d'automutilation"
+      ]
+    },
+    {
+      "id": 26,
+      "text": "Les comportements d'atteinte aux limites corporelles dans le trouble borderline sont compris dans le cours comme ?",
+      "explanation": "Dans le trouble borderline, les scarifications et recherches de sensations extrêmes témoignent d'un défaut dans l'intégrité du soi, permettant de tester la cohérence du soi sur le corps en sollicitant l'enveloppe entre le dedans et le dehors.",
+      "correct": [
+        "Un moyen de tester la cohérence du soi en sollicitant l'enveloppe corporelle"
+      ],
+      "wrong": [
+        "Une forme de communication verbale substituée",
+        "Un mécanisme de régulation tonique automatique",
+        "Une expression de la catatonie borderline",
+        "Un comportement exclusivement lié à la prise de toxiques",
+        "Une réponse d'adaptation sociale normalisée",
+        "Un symptôme dissociatif sans lien avec les angoisses d'enveloppe",
+        "Un équivalent de la carapace tonique schizophrénique"
+      ]
+    },
+    {
+      "id": 27,
+      "text": "Dans la dépression, quelles manifestations du vécu corporel sont décrites dans le cours ?",
+      "explanation": "Dans la dépression, le corps est triste, abattu, vécu comme source de déplaisir. On observe un ralentissement idéique et moteur, une agitation motrice stérile, et un corps figé avec une posture caractéristique (tronc plié, tête fléchie, regard fixe).",
+      "correct": [
+        "Corps vécu comme source de déplaisir avec désintérêt allant à l'incurie",
+        "Ralentissement idéique et moteur important",
+        "Corps figé avec tronc plié, tête fléchie, regard fixe"
+      ],
+      "wrong": [
+        "Hyperinvestissement du corps comme lieu de sensations agréables",
+        "Agitation psychomotrice productive et finalisée",
+        "Stéréotypies et échopraxies dominantes",
+        "Hypertonie axiale avec rigidité paranoïaque",
+        "Hallucinations cénesthésiques de transformation corporelle"
+      ]
+    },
+    {
+      "id": 28,
+      "text": "La représentation corporelle dans la dépression se caractérise par ?",
+      "explanation": "Dans la dépression, le dessin de la personne témoigne d'un investissement négatif du corps malgré une représentation globale stable. Le corps est perçu comme défaillant, lourd, source de déplaisir, et peut aller jusqu'à être agressé.",
+      "correct": [
+        "Un investissement négatif du corps malgré une représentation globale stable"
+      ],
+      "wrong": [
+        "Une destruction complète de la représentation globale du corps",
+        "Un surinvestissement positif du corps propre compensatoire",
+        "Une désorganisation praxique équivalente à la schizophrénie",
+        "Une perte des frontières du corps identique à la psychose",
+        "Une indifférence totale au corps sans valence affective",
+        "Une dysmorphophobie intense avec délire de transformation corporelle",
+        "Une représentation corporelle fragmentée comme dans la psychose"
+      ]
+    },
+    {
+      "id": 29,
+      "text": "Parmi les concepts mobilisés pour penser la « juste distance » dans la relation thérapeutique en psychomotricité, lesquels sont cités dans le cours ?",
+      "explanation": "La juste distance convoque plusieurs références : la posture soignante de Carl Rogers, la proxémie de Hall, la fonction alpha de Bion, l'empathie d'Ajuriaguerra, le dialogue tonico-émotionnel de Wallon et la malléabilité de Roussillon.",
+      "correct": [
+        "La proxémie d'Edouard T. Hall",
+        "La fonction alpha et la capacité de rêverie maternelle de Wilfred Bion",
+        "La malléabilité de René Roussillon"
+      ],
+      "wrong": [
+        "Le concept d'attachement de John Bowlby",
+        "La théorie du double lien (double bind) de Bateson",
+        "La relation d'objet de Melanie Klein",
+        "La notion de holding de Donald Winnicott",
+        "Le concept de mentalisation de Peter Fonagy"
+      ]
+    },
+    {
+      "id": 30,
+      "text": "La citation de Moyano (2014) sur le rôle du psychomotricien dans la relation thérapeutique décrit un professionnel qui ?",
+      "explanation": "Selon Moyano (2014), le psychomotricien engage son propre corps comme médiateur de la relation, dosant ses sollicitations pour permettre au sujet d'advenir. Il se positionne comme « moi auxiliaire » pour soutenir le moi défaillant du patient.",
+      "correct": [
+        "Engage son propre corps comme médiateur de la relation à l'autre",
+        "Se place en « moi auxiliaire » pour soutenir le moi défaillant du patient"
+      ],
+      "wrong": [
+        "Maintient une neutralité corporelle absolue pour éviter les projections",
+        "Délègue la médiation corporelle à des co-thérapeutes",
+        "Adopte systématiquement une position de surplomb thérapeutique",
+        "Évite tout engagement corporel pour préserver la distance professionnelle",
+        "Privilégie la parole sur l'engagement corporel dans la relation",
+        "Se positionne comme expert qui prescrit les mouvements du patient"
+      ]
+    },
+    {
+      "id": 31,
+      "text": "Les neurones miroirs sont mentionnés dans le cours en lien avec ?",
+      "explanation": "Les neurones miroirs sont cités pour expliquer comment le psychomotricien, en éprouvant avec le patient, peut comprendre ses intentions et émotions, permettant adaptation, communication et régulation des relations sociales.",
+      "correct": [
+        "La compréhension des intentions et des émotions chez autrui dans la relation thérapeutique"
+      ],
+      "wrong": [
+        "La genèse des stéréotypies dans la schizophrénie",
+        "Le mécanisme d'identification projective du patient paranoïaque",
+        "L'origine neurobiologique de la catalepsie",
+        "La base neurologique de la dysharmonie cinétique",
+        "Le substrat des troubles cénesthésiques dans la psychose",
+        "La régulation du tonus de fond chez le patient borderline",
+        "L'explication de l'amimie dans la dépression"
+      ]
+    },
+    {
+      "id": 32,
+      "text": "Les mécanismes de défense psychotiques dans la relation qui sont décrits dans le cours sont ?",
+      "explanation": "Dans la relation avec les patients psychotiques, trois mécanismes de défense principaux sont décrits : le clivage de l'objet (bon/mauvais soignant), l'identification projective (patient fait ressentir au soignant ce qu'il ressent lui-même) et l'idéalisation.",
+      "correct": [
+        "Le clivage de l'objet",
+        "L'identification projective",
+        "L'idéalisation"
+      ],
+      "wrong": [
+        "Le refoulement",
+        "La formation réactionnelle",
+        "La sublimation",
+        "La rationalisation",
+        "L'intellectualisation"
+      ]
+    },
+    {
+      "id": 33,
+      "text": "La constellation transférentielle selon Pierre Delion implique que ?",
+      "explanation": "Selon Delion, le patient psychotique projette des parties de sa réalité psychique partout (soignants, lieux, médiations). Ces débris de transferts doivent pouvoir être collectés, analysés, transformés puis renvoyés au patient de façon collective, ce qui exige une organisation non laissée au hasard.",
+      "correct": [
+        "Le patient psychotique projette des parties de sa réalité psychique un peu partout dans l'institution",
+        "L'organisation des services doit permettre la libre circulation des patients et la diversité des rencontres"
+      ],
+      "wrong": [
+        "Le transfert est exclusivement dyadique entre patient et thérapeute référent",
+        "L'institution ne doit pas intervenir dans le traitement du transfert",
+        "Les débris de transferts ne concernent que les relations soignant-patient",
+        "La constellation transférentielle est un phénomène uniquement intra-psychique",
+        "Elle implique que chaque soignant traite seul le transfert qui lui est adressé",
+        "Elle exige une structure de soins très hiérarchisée"
+      ]
+    },
+    {
+      "id": 34,
+      "text": "Concernant le positionnement du psychomotricien au sein de l'équipe soignante, quelles attitudes sont recommandées dans le cours ?",
+      "explanation": "Le psychomotricien doit assurer des transmissions régulières, éviter les prises de décision isolées, tenir son cadre thérapeutique, éviter d'être pris dans les mouvements pulsionnels de groupe et avoir une capacité d'analyse des enjeux latents.",
+      "correct": [
+        "Assurer des transmissions régulières à l'équipe",
+        "Éviter les prises de décision isolées",
+        "Avoir une capacité d'analyse réflexive des enjeux latents"
+      ],
+      "wrong": [
+        "Préserver une totale autonomie de décision clinique",
+        "Éviter les réunions d'équipe pour protéger la confidentialité du patient",
+        "Prendre systématiquement parti dans les conflits d'équipe",
+        "Déléguer toute supervision à l'équipe infirmière",
+        "Prioriser la relation individuelle avec le patient sur le travail institutionnel"
+      ]
+    },
+    {
+      "id": 35,
+      "text": "La décompensation psychiatrique est définie dans le cours comme ?",
+      "explanation": "La décompensation est un temps de rupture par rapport à un état antérieur, avec l'émergence de symptômes qui occupent le devant de la scène. Elle peut se concevoir comme l'écroulement d'un équilibre psychique, chimique ou environnemental.",
+      "correct": [
+        "Un temps de rupture par rapport à un état antérieur avec émergence de symptômes",
+        "L'écroulement d'un équilibre psychique, chimique ou environnemental"
+      ],
+      "wrong": [
+        "Une amélioration progressive des symptômes psychiatriques",
+        "Un processus exclusivement biologique sans dimension psychique",
+        "Une réorganisation adaptative positive de la personnalité",
+        "Un phénomène toujours prévisible et progressif",
+        "Une réponse immunitaire au stress chronique",
+        "Un mécanisme de défense psychique efficace"
+      ]
+    },
+    {
+      "id": 36,
+      "text": "Selon le psychiatre Christodoulou (2006) cité dans le cours, la psychomotricité en phase aiguë ?",
+      "explanation": "Christodoulou préconise la psychomotricité dès les premiers jours de l'hospitalisation, de façon intensive, car elle participe à la régulation et l'apaisement des symptômes, réduit la durée de la crise, favorise la confiance mutuelle et potentialise les chimiothérapies.",
+      "correct": [
+        "Doit être débutée dès les premiers jours de l'hospitalisation de façon intensive",
+        "Participe à la régulation et l'apaisement des symptômes",
+        "Potentialise les chimiothérapies"
+      ],
+      "wrong": [
+        "Doit être réservée à la phase de stabilisation uniquement",
+        "Est contre-indiquée en cas d'agitation sévère dans tous les cas",
+        "Remplace les traitements médicamenteux en phase aiguë",
+        "Doit être pratiquée uniquement en groupe et jamais en individuel",
+        "Est inefficace si débutée avant la 2e semaine d'hospitalisation"
+      ]
+    },
+    {
+      "id": 37,
+      "text": "Dans la prise en charge de Driss (patient schizophrène en état catatonique), quelle technique a d'abord été utilisée ?",
+      "explanation": "Face à l'état catatonique de Driss, la psychomotricienne a proposé des enveloppements secs pour l'aider à mieux percevoir les limites de son corps, sans qu'il ait besoin de se mettre en mouvement. Une couverture lestée a ensuite été ajoutée.",
+      "correct": [
+        "Des enveloppements secs pour mieux percevoir les limites corporelles"
+      ],
+      "wrong": [
+        "Un bilan psychomoteur standardisé complet",
+        "Une séance de relaxation psychomotrice active",
+        "Un travail d'expression corporelle en groupe",
+        "Des exercices de motricité fine pour la désorganisation praxique",
+        "Une balnéothérapie pour la régulation tonique",
+        "Un enveloppement humide à visée de contenance",
+        "Une technique de respiration abdominale guidée verbalement"
+      ]
+    },
+    {
+      "id": 38,
+      "text": "Le projet thérapeutique en phase aiguë de crise se caractérise par ?",
+      "explanation": "En phase aiguë, le projet thérapeutique vise des objectifs à court terme pour réduire l'intensité de la souffrance. Les séances sont à fréquence pluri-hebdomadaire ou quotidienne, dans un cadre spatio-temporel défini mais souple. Il n'engage pas encore une dimension expressive ou élaborative.",
+      "correct": [
+        "Des objectifs thérapeutiques à court terme du fait de l'intensité des troubles",
+        "Une fréquence pluri-hebdomadaire ou quotidienne des séances"
+      ],
+      "wrong": [
+        "Des objectifs à long terme inscrits dans un projet de vie global",
+        "L'absence de tout cadre spatio-temporel défini pour favoriser la spontanéité",
+        "Un travail d'élaboration symbolique et d'expression dès la première séance",
+        "Des séances exclusivement en groupe pour stimuler les interactions sociales",
+        "Un cadre rigide et invariable indépendamment de l'état du patient",
+        "Une fréquence hebdomadaire unique pour ne pas surcharger le patient"
+      ]
+    },
+    {
+      "id": 39,
+      "text": "La sortie de crise en psychiatrie est engagée lorsque quels indicateurs sont présents ?",
+      "explanation": "La sortie de crise est repérée quand le patient parvient à un apaisement et contrôle de l'activité psychique et corporelle, quand le contact relationnel s'améliore, que le discours s'organise, que les rythmes biologiques se régulent et qu'il peut investir les activités thérapeutiques.",
+      "correct": [
+        "Apaisement et contrôle de l'activité psychique et corporelle",
+        "Amélioration du contact relationnel avec l'équipe soignante",
+        "Régulation des rythmes biologiques"
+      ],
+      "wrong": [
+        "Disparition complète de toute symptomatologie",
+        "Reprise d'une activité professionnelle à temps plein",
+        "Sevrage total de tout traitement médicamenteux",
+        "Retour au domicile sans soutien institutionnel",
+        "Normalisation complète du bilan psychomoteur"
+      ]
+    },
+    {
+      "id": 40,
+      "text": "Dans le suivi au long cours, la notion de « prothèse institutionnelle » décrite dans le cours renvoie à ?",
+      "explanation": "La prothèse institutionnelle désigne la nécessité pour certains patients chroniques de s'appuyer sur l'institution de façon durable, celle-ci devenant une condition nécessaire à leur survie psychique. Elle doit se renforcer et durer malgré les attaques de la maladie.",
+      "correct": [
+        "La nécessité pour certains patients chroniques de s'appuyer sur l'institution de façon durable comme condition de survie psychique"
+      ],
+      "wrong": [
+        "Un dispositif technique de rééducation orthopédique",
+        "Un protocole de soins standardisé pour tous les patients",
+        "Un substitut temporaire à la famille du patient",
+        "Un outil d'évaluation des incapacités fonctionnelles",
+        "Un cadre légal de protection des majeurs vulnérables",
+        "Un dispositif de compensation sensorielle appareillée",
+        "Un mode de financement spécifique des soins psychiatriques"
+      ]
+    },
+    {
+      "id": 41,
+      "text": "Le CMP dans le suivi psychiatrique ambulatoire joue le rôle de ?",
+      "explanation": "Le CMP est le lieu de référence et la plaque tournante du suivi ambulatoire, regroupant psychiatre, psychologue, assistant social, infirmier et psychomotricien pour une prise en charge pluridisciplinaire coordonnée.",
+      "correct": [
+        "Lieu de référence et plaque tournante du suivi ambulatoire",
+        "Structure réunissant psychiatre, psychologue, infirmier et psychomotricien"
+      ],
+      "wrong": [
+        "Structure réservée exclusivement aux hospitalisations sous contrainte",
+        "Centre de traitement exclusivement médicamenteux",
+        "Structure accueillant uniquement les patients en phase aiguë",
+        "Lieu de prise en charge réservé aux troubles de l'enfant",
+        "Centre d'expertise judiciaire psychiatrique",
+        "Structure de soins à entrée uniquement sur ordonnance spécialisée"
+      ]
+    },
+    {
+      "id": 42,
+      "text": "Quels écueils dans le suivi au long cours sont identifiés dans le cours ?",
+      "explanation": "Les écueils du suivi long cours incluent l'hyperprotection du patient par des soins sans fin, le fait de tout tolérer (absences répétées, non-respect du cadre), ne pas solliciter le désir du patient, et répondre trop vite à ses besoins pour se valoriser soi-même.",
+      "correct": [
+        "Hyperprotéger le patient en maintenant des prises en charge sans fin",
+        "Tout tolérer, notamment les absences répétées et le non-respect du cadre"
+      ],
+      "wrong": [
+        "Fixer des objectifs thérapeutiques trop ambitieux à court terme",
+        "Refuser catégoriquement toute supervision externe",
+        "Proposer trop de médiations corporelles différentes en même temps",
+        "Exiger du patient une verbalisation systématique de ses ressentis",
+        "Impliquer la famille du patient dans toutes les décisions de soin",
+        "Maintenir une distance relationnelle trop grande avec le patient"
+      ]
+    },
+    {
+      "id": 43,
+      "text": "Selon Sassolas (2019) cité dans le cours, le « génie de la psychose » consiste à ?",
+      "explanation": "Selon Sassolas, le génie de la psychose est d'induire la confusion entre absence et inexistence : les patients semblent dénués d'affects, de désirs et de pensées, alors qu'en réalité toute leur énergie psychique est utilisée pour détruire ou jeter hors d'eux cette vie psychique vécue comme dangereuse.",
+      "correct": [
+        "Induire la confusion entre absence et inexistence de la vie psychique"
+      ],
+      "wrong": [
+        "Générer une adhérence excessive aux soins institutionnels",
+        "Produire une rigidité corporelle défensive efficace",
+        "Créer un hyperinvestissement de la relation soignante",
+        "Favoriser l'idéalisation du soignant comme mécanisme de protection",
+        "Permettre une régulation émotionnelle par les comportements de passage à l'acte",
+        "Induire une hypernormalité de surface masquant les troubles réels",
+        "Renforcer la capacité à mentaliser les expériences traumatiques"
+      ]
+    },
+    {
+      "id": 44,
+      "text": "Les cinq pôles d'objectifs thérapeutiques en psychomotricité décrits dans le cours comprennent ?",
+      "explanation": "Les objectifs thérapeutiques s'organisent autour de cinq pôles : vécu corporel, structuration psychocorporelle, régulation (émotions/anxiété/douleur), relation (accordage, expressivité, lien à l'autre) et fonctions supérieures/processus secondaires (attention, verbalisation, symbolisation).",
+      "correct": [
+        "Un pôle autour du vécu corporel (enveloppes, conscience, image du corps)",
+        "Un pôle autour de la régulation (émotions, anxiété, douleur)",
+        "Un pôle autour de la relation (accordage, expressivité, ajustement au lien)"
+      ],
+      "wrong": [
+        "Un pôle autour de la rééducation orthopédique",
+        "Un pôle autour de la réinsertion professionnelle",
+        "Un pôle autour de la pharmacologie adjuvante",
+        "Un pôle autour de l'adaptation scolaire et cognitive",
+        "Un pôle autour de la régulation alimentaire et du sommeil"
+      ]
+    },
+    {
+      "id": 45,
+      "text": "Parmi les médiations thérapeutiques citées dans le cours comme pratiquées à l'Hôpital Sainte-Anne, lesquelles appartiennent à la catégorie des médiations corporelles ?",
+      "explanation": "Les médiations corporelles pratiquées à Sainte-Anne incluent la relaxation, la gym douce, les soins du visage, le jeu dramatique thérapeutique et le tennis.",
+      "correct": [
+        "La relaxation",
+        "La gym douce",
+        "Les soins du visage"
+      ],
+      "wrong": [
+        "L'argile",
+        "L'écriture",
+        "Le collage",
+        "L'art plastique",
+        "Le conte"
+      ]
+    },
+    {
+      "id": 46,
+      "text": "Dans l'approche de la relation thérapeutique en psychomotricité, la « juste distance » implique ?",
+      "explanation": "La juste distance consiste à ajuster et moduler l'espace relationnel (physique et psychique) entre soi et l'autre en fonction du projet de soin et de l'état psychique du patient, en évitant les mouvements de séduction, d'emprise, de rejet ou d'indifférence.",
+      "correct": [
+        "Ajuster l'espace relationnel physique et psychique en fonction de l'état du patient",
+        "Être au clair sur ses intentions thérapeutiques pour éviter séduction ou emprise"
+      ],
+      "wrong": [
+        "Maintenir une distance physique constante et invariable",
+        "Éviter tout contact physique dans la relation thérapeutique",
+        "Préférer systématiquement la proximité pour favoriser le lien",
+        "Déléguer la gestion de la distance relationnelle au patient",
+        "Adopter la même distance avec tous les patients indépendamment de leur pathologie",
+        "Favoriser systématiquement la distance pour respecter l'autonomie"
+      ]
+    },
+    {
+      "id": 47,
+      "text": "La carapace tonique décrite dans le vécu corporel psychotique correspond à ?",
+      "explanation": "La carapace tonique est une tentative du patient psychotique de reprendre conscience de ses propres limites corporelles face aux angoisses de morcellement, au même titre que les TCA, scarifications, ou sport intensif.",
+      "correct": [
+        "Une tentative de reprendre conscience des limites corporelles face aux angoisses de morcellement"
+      ],
+      "wrong": [
+        "Un effet secondaire des neuroleptiques",
+        "Une réponse réflexe aux hallucinations cénesthésiques",
+        "Un signe de la catatonie en phase aiguë",
+        "Un mécanisme de défense exclusif au trouble borderline",
+        "Une réaction neurologique à la dissociation psycho-corporelle",
+        "Une forme de paratonicité observée uniquement en phase de stabilité",
+        "Un état de rigidité musculaire lié à la catalepsie"
+      ]
+    },
+    {
+      "id": 48,
+      "text": "Dans le bilan psychomoteur, l'évaluation du système émotionnel comprend ?",
+      "explanation": "L'évaluation du système émotionnel met en relation le tonus (postures, attitudes), la respiration et les fonctions végétatives, et les expressions faciales. Elle inclut des épreuves de mimique volontaire, le mime du métier et le questionnaire d'alexithymie de Toronto.",
+      "correct": [
+        "L'épreuve des expressions faciales volontaires",
+        "L'observation des mimiques et de l'adaptation du regard",
+        "Le questionnaire d'alexithymie de Toronto (Bagby, 1992)"
+      ],
+      "wrong": [
+        "La série « mains cachées » de Bergès",
+        "L'épreuve du sens musculaire de Soubiran",
+        "Le questionnaire de Moyano sur l'image du corps",
+        "Le test de Rosenberg sur l'estime de soi",
+        "L'épreuve des bras tendus de l'équilibre postural"
+      ]
+    },
+    {
+      "id": 49,
+      "text": "L'incurie dans la psychose peut être comprise comme ?",
+      "explanation": "L'incurie en contexte psychotique peut s'expliquer par une difficulté à prendre conscience de son corps, à en percevoir l'état et à initier une action pour le modifier ; mais aussi comme une façon de réagir à la menace de morcellement ou à la demande de l'autre vécue comme intrusive.",
+      "correct": [
+        "Une difficulté à prendre conscience du corps et à initier une action pour le modifier",
+        "Une façon de réagir à la menace de morcellement ou à l'intrusion de l'autre"
+      ],
+      "wrong": [
+        "Un choix volontaire et conscient du patient pour signifier son refus des soins",
+        "Un effet secondaire direct des antipsychotiques de première génération",
+        "Un signe de simulation motivé par un bénéfice secondaire",
+        "Une manifestation exclusive de la paranoïa",
+        "Un comportement oppositionnel sans lien avec la construction psychocorporelle",
+        "Une manifestation isolée des épisodes maniaques uniquement"
+      ]
+    },
+    {
+      "id": 50,
+      "text": "La co-thérapie est privilégiée dans quelle orientation du travail du psychomotricien en psychiatrie ?",
+      "explanation": "Dans l'orientation psychodynamique et institutionnelle, les groupes à médiation thérapeutique sont menés en co-thérapie, avec des supervisions possibles pour analyser les contenus latents et les mouvements transféro/contre-transférentiel.",
+      "correct": [
+        "Dans l'orientation psychodynamique et institutionnelle"
+      ],
+      "wrong": [
+        "Exclusivement dans l'orientation réhabilitation psychosociale",
+        "Uniquement lors des prises en charge individuelles en phase aiguë",
+        "Dans le cadre des évaluations ROUFFACH uniquement",
+        "Exclusivement lors des bilans en phase de stabilité",
+        "Uniquement lors des séances de remédiation cognitive",
+        "Dans le cadre du CDJ uniquement et non de l'intrahospitalier",
+        "Uniquement pour les patients dits « chroniques »"
+      ]
+    },
+    {
+      "id": 51,
+      "text": "L'entretien semi-dirigé du bilan psychomoteur explore quelles dimensions ?",
+      "explanation": "L'entretien semi-dirigé explore l'histoire de la personne (vie sociale, professionnelle, loisirs), l'histoire de la maladie (symptômes, hospitalisations, insight), et le corps et son investissement (antécédents traumatiques, vécu corporel, douleurs).",
+      "correct": [
+        "L'histoire de la personne (vie sociale, familiale, professionnelle)",
+        "L'histoire de la maladie et la conscience des troubles (insight)",
+        "Le corps et son investissement (douleurs, vécu sensoriel)"
+      ],
+      "wrong": [
+        "Les performances neuropsychologiques aux tests standardisés",
+        "Le niveau d'études et le quotient intellectuel",
+        "Les antécédents familiaux de pathologies neurologiques",
+        "Les habitudes de consommation alimentaire et le poids",
+        "L'accès aux droits sociaux et le statut juridique"
+      ]
+    },
+    {
+      "id": 52,
+      "text": "La notion de « surinvestissement narcissique et retrait objectal » dans la psychose est attribuée dans le cours à ?",
+      "explanation": "C'est Freud qui aborde la question du vécu de désappropriation dans la psychose sous l'angle d'un « surinvestissement narcissique et d'un retrait objectal ».",
+      "correct": [
+        "Freud"
+      ],
+      "wrong": [
+        "Lacan",
+        "Winnicott",
+        "Bion",
+        "Ajuriaguerra",
+        "Wallon",
+        "Roussillon",
+        "Delion"
+      ]
+    },
+    {
+      "id": 53,
+      "text": "Dans la prise en charge en phase de crise, une contre-indication à l'intervention précoce du psychomotricien est mentionnée dans le cours. Laquelle ?",
+      "explanation": "Le cours précise que venir de manière précoce peut être une contre-indication en cas de trop grande agitation du patient, où la mobilisation psychomotrice ne serait pas adaptée ni possible.",
+      "correct": [
+        "Une agitation trop importante du patient"
+      ],
+      "wrong": [
+        "La présence d'un traitement médicamenteux en cours",
+        "L'absence de prescription médicale formelle",
+        "La présence d'un état dissociatif",
+        "Le placement en chambre d'isolement thérapeutique systématiquement",
+        "Le refus verbal explicite du patient",
+        "La présence d'idéations suicidaires actives",
+        "Une pathologie somatique associée"
+      ]
+    },
+    {
+      "id": 54,
+      "text": "L'HDJ (Hôpital de Jour) dans le suivi extrahospitalier est caractérisé dans le cours par ?",
+      "explanation": "L'HDJ concerne en général des patients plus en difficulté que le CDJ, avec une prise en charge sur la journée incluant des repas thérapeutiques et des espaces informels importants.",
+      "correct": [
+        "Des patients en général plus en difficulté que ceux du CDJ",
+        "Une prise en charge à la journée avec repas thérapeutiques et espaces informels"
+      ],
+      "wrong": [
+        "Une prise en charge exclusivement individuelle",
+        "Un suivi uniquement médicamenteux sans ateliers thérapeutiques",
+        "Un accueil exclusivement pour les patients en post-urgence",
+        "Des séances uniquement le matin sans suivi l'après-midi",
+        "Une structure réservée aux patients non stabilisés sous traitement",
+        "Un lieu de soins sans équipe pluridisciplinaire permanente"
+      ]
+    },
+    {
+      "id": 55,
+      "text": "Concernant les patients dits « chroniques », quelles caractéristiques sont décrites dans le cours ?",
+      "explanation": "Les patients chroniques présentent une intrication d'états déficitaires massifs et de lourdes pathologies mentales. Leur rapport au temps est figé, ils perdent leurs repères spatio-temporels, sont multi-ritualisés, et perdent leur capacité subjective, créative et expressive.",
+      "correct": [
+        "Un rapport au temps figé avec perte des repères spatio-temporels",
+        "Une perte de la capacité subjective, créative et expressive"
+      ],
+      "wrong": [
+        "Un maintien de bonnes capacités d'adaptation sociale",
+        "Un investissement actif et spontané dans les activités thérapeutiques",
+        "Une préservation de l'identité personnelle malgré la chronicité",
+        "Un rapport au corps systématiquement hyperinvesti",
+        "Une capacité de mentalisation progressivement améliorée",
+        "Une demande active et régulière de soins psychomoteurs"
+      ]
+    },
+    {
+      "id": 56,
+      "text": "Selon le cours, quelles sont les caractéristiques du cadre thérapeutique psychomoteur en phase aiguë de crise ?",
+      "explanation": "En phase aiguë, le cadre doit offrir des repères fiables, spatio-temporels définis mais souples. Les séances peuvent se dérouler en chambre ou en salle, à fréquence pluri-hebdomadaire ou quotidienne, avec une durée ajustée à la temporalité du patient.",
+      "correct": [
+        "Un cadre spatio-temporel défini mais souple adapté au patient",
+        "Une durée de séance ajustée à la temporalité du patient (5 min, 20 min, 1h)"
+      ],
+      "wrong": [
+        "Un protocole standardisé identique pour tous les patients en crise",
+        "Des séances uniquement en salle de psychomotricité équipée",
+        "Une durée fixe de 45 minutes incompressible",
+        "L'absence de cadre pour favoriser la spontanéité du patient",
+        "Des séances exclusivement collectives pour ne pas isoler le patient",
+        "Un cadre rigide sans possibilité d'adaptation en cours de séance"
+      ]
+    },
+    {
+      "id": 57,
+      "text": "Dans le bilan ROUFFACH, la durée moyenne de passation est de ?",
+      "explanation": "Le bilan ROUFFACH s'étale sur une durée moyenne de 4 heures, réparties le plus souvent entre trois ou quatre séances sur une période d'une à plusieurs semaines.",
+      "correct": [
+        "4 heures réparties sur 3 à 4 séances"
+      ],
+      "wrong": [
+        "1 heure en une seule séance",
+        "8 heures sur une seule journée",
+        "2 heures sur 2 séances",
+        "6 heures sur 6 séances quotidiennes",
+        "30 minutes par semaine sur 8 semaines",
+        "10 heures sur 5 séances hebdomadaires",
+        "2 heures sur une seule séance"
+      ]
+    },
+    {
+      "id": 58,
+      "text": "La spécificité du travail institutionnel du psychomotricien en intrahospitalier inclut ?",
+      "explanation": "En intrahospitalier, le travail institutionnel comprend les réunions soignants-soignés, les transmissions directes aux équipes, les participations aux transmissions et aux synthèses, et les temps informels de la vie hospitalière. Ce maillage institutionnel constitue un métacadre indispensable aux soins.",
+      "correct": [
+        "La participation aux réunions soignants-soignés",
+        "Les transmissions directes aux équipes et la mise en lien des professionnels",
+        "La participation à la vie informelle de l'hôpital"
+      ],
+      "wrong": [
+        "La gestion exclusive du dossier médical du patient",
+        "La prescription des traitements médicamenteux en l'absence du psychiatre",
+        "L'organisation administrative du service hospitalier",
+        "La formation initiale des internes en psychiatrie",
+        "La rédaction des certificats médicaux de soins sous contrainte"
+      ]
+    },
+    {
+      "id": 59,
+      "text": "La rencontre avec le patient en phase aiguë nécessite selon le cours que le psychomotricien adapte ?",
+      "explanation": "Pour rencontrer le patient en phase aiguë, le psychomotricien doit adapter son langage non verbal (posture, qualité de respiration, regard, gestuelle, mimiques, états toniques) ainsi que son langage verbal (choix des mots, leur forme), en faisant preuve de grande disponibilité et adaptabilité.",
+      "correct": [
+        "Son langage non verbal (posture, respiration, regard, mimiques, tonus)",
+        "Son langage verbal dans le choix des mots et leur forme"
+      ],
+      "wrong": [
+        "Exclusivement son langage verbal pour ne pas influencer le patient par le corps",
+        "Uniquement l'aménagement spatial de la salle de soin",
+        "Le contenu du bilan psychomoteur standardisé à administrer",
+        "Sa tenue professionnelle selon le protocole institutionnel",
+        "La prescription médicamenteuse en lien avec le psychiatre",
+        "Le volume et le débit de sa parole uniquement"
+      ]
+    },
+    {
+      "id": 60,
+      "text": "La temporalité du soin psychiatrique se caractérise selon le cours par ?",
+      "explanation": "La temporalité en psychiatrie est faite de tentatives de continuité, de ruptures, de répétitions, d'inattendus et de projets. La relation thérapeutique peut se déployer sur des décennies, et c'est la notion de lien qui prend une place centrale.",
+      "correct": [
+        "Des tentatives de continuité mais aussi des ruptures et répétitions",
+        "Un déploiement parfois sur des décennies centré sur la notion de lien"
+      ],
+      "wrong": [
+        "Une évolution toujours linéaire vers la guérison",
+        "Une temporalité identique à celle des soins somatiques aigus",
+        "Une succession prévisible de phases sans répétitions",
+        "Une durée maximale de 2 ans pour tout suivi psychiatrique",
+        "Une temporalité déterminée exclusivement par l'évolution biologique",
+        "Un lien thérapeutique systématiquement interrompu à la sortie d'hospitalisation"
+      ]
+    }
+  ]
+}
