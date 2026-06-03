@@ -35,6 +35,12 @@
       "subject": "Tests – Bekier",
       "tag": "Tests",
       "description": "60 questions de niveau expert sur les tests"
+    },
+    {
+      "file": "qcm_psychomotricite_psychiatrie.json",
+      "subject": "Psychiatrie - G.",
+      "tag": "Psychiatrie",
+      "description": "60 questions de niveau expert sur la psychomotricité en psychiatrie"
     }
   ]
 }
