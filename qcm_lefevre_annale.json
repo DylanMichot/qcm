@@ -1,0 +1,178 @@
+{
+  "subject": "Gérontopsychomotricité – MMSE",
+  "tag": "ISRP 2A – Partiel C. Lefevre 2024-2025",
+  "description": "Reconstitution exacte des 14 questions du partiel de Gérontopsychomotricité 2024-2025 (C. Lefevre). Options de réponse reproduites mot pour mot depuis le sujet original, sans ajout.",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Le score MMSE s'établit sur :",
+      "explanation": "Le MMSE s'établit sur 30 items cotés et 1 item non coté, pour un score maximal de 30 points.",
+      "correct": [
+        "30 items cotés et 1 non coté"
+      ],
+      "wrong": [
+        "28 items",
+        "29 items"
+      ]
+    },
+    {
+      "id": 2,
+      "text": "En quelle année l'outil MMSE a été créé :",
+      "explanation": "Le MMSE a été créé en 1975 par Folstein et ses collaborateurs.",
+      "correct": [
+        "En 1975"
+      ],
+      "wrong": [
+        "En 1985",
+        "En 1986",
+        "En 1976"
+      ]
+    },
+    {
+      "id": 3,
+      "text": "A qui doit-on le MMSE :",
+      "explanation": "Le MMSE (Mini-Mental State Examination) a été créé par Folstein et ses collaborateurs en 1975.",
+      "correct": [
+        "A Folstein et ses collaborateurs"
+      ],
+      "wrong": [
+        "Au Professeur Dubois et au Docteur Derouesné",
+        "Au Docteur Ross Eustace Geller"
+      ]
+    },
+    {
+      "id": 4,
+      "text": "GRECO signifie :",
+      "explanation": "GRECO est l'acronyme de Groupe de Recherche sur les Évaluations COgnitives.",
+      "correct": [
+        "Groupe de Recherche sur les Evaluations COgnitives"
+      ],
+      "wrong": [
+        "Groupe isoRessourcE sur la COgnition",
+        "Général Research Establishments of COgnitives"
+      ]
+    },
+    {
+      "id": 5,
+      "text": "La passation du MMSE :",
+      "explanation": "La passation du MMSE dure environ 10 minutes et nécessite un environnement calme. Elle contient bien un item de rappel différé (rappel des 3 mots appris en début de passation).",
+      "correct": [
+        "Dure 10 minutes environ",
+        "Nécessite un environnement calme"
+      ],
+      "wrong": [
+        "Ne contient pas d'item de rappel différé"
+      ]
+    },
+    {
+      "id": 6,
+      "text": "La passation du MMSE :",
+      "explanation": "La passation du MMSE nécessite une stabilité pharmacologique et de s'assurer des bonnes capacités visuelles et auditives du patient. Elle requiert donc des aménagements particuliers.",
+      "correct": [
+        "Nécessite une stabilité pharmacologique",
+        "Nécessite de s'assurer des bonnes capacités visuelles et auditives du patient"
+      ],
+      "wrong": [
+        "Ne nécessite aucun aménagement particulier, d'où son intérêt"
+      ]
+    },
+    {
+      "id": 7,
+      "text": "La version GRECO du MMSE s'impose en France depuis :",
+      "explanation": "La version GRECO s'impose en France depuis les années 90, suite à sa publication dans la Presse Médicale sous la direction de Dérouesné.",
+      "correct": [
+        "Les années 90",
+        "Sa publication dans la Presse Médicale sous la direction de Dérouesné"
+      ],
+      "wrong": [
+        "Les années 70",
+        "Les années 80"
+      ]
+    },
+    {
+      "id": 8,
+      "text": "Concernant l'évaluation de l'orientation dans le temps des items 1, 2, 3 :",
+      "explanation": "Pour les items d'orientation dans le temps, on peut permettre au sujet de corriger une réponse erronée en lui demandant 'En êtes-vous sûr ?'. Le jour de la semaine a bien une importance.",
+      "correct": [
+        "On peut permettre au sujet de corriger une réponse erronée en lui demandant \"En êtes-vous sûr?\""
+      ],
+      "wrong": [
+        "On ne peut se permettre aucun changement de réponse",
+        "Le jour de la semaine n'a aucune importance"
+      ]
+    },
+    {
+      "id": 9,
+      "text": "Pour la question 6 du MMSE :",
+      "explanation": "Pour la question sur la localisation, lorsque le sujet vient d'une autre ville, on peut se contenter du nom de l'hôpital. En cabinet, on demande l'adresse et/ou le nom du cabinet. Ces deux adaptations sont valides selon le protocole GRECO.",
+      "correct": [
+        "Lorsque le sujet vient d'une autre ville, on peut se contenter du nom de l'hôpital de la ville",
+        "En cabinet, on demande l'adresse et/ou le nom du cabinet"
+      ],
+      "wrong": [
+        "Les réponses A et B sont fausses"
+      ]
+    },
+    {
+      "id": 10,
+      "text": "Dans le cadre des consignes concernant l'apprentissage :",
+      "explanation": "Pour l'item d'apprentissage des 3 mots, on accorde 20 secondes pour la réponse selon le protocole GRECO.",
+      "correct": [
+        "On accorde 20 secondes pour la réponse"
+      ],
+      "wrong": [
+        "On accorde 15 secondes pour la réponse",
+        "On accorde entre 10 et 15 secondes pour la réponse"
+      ]
+    },
+    {
+      "id": 11,
+      "text": "Quelle suite de mots est répétée à l'item 24 du MMSE :",
+      "explanation": "À l'item 24, la phrase à répéter est 'Pas de mais, de si, ni de et'.",
+      "correct": [
+        "Pas de mais, de si, ni de et"
+      ],
+      "wrong": [
+        "Pas de si, mais des et, et des si",
+        "Pas de et, un si et un mais"
+      ]
+    },
+    {
+      "id": 12,
+      "text": "Aux items 25, 26, 27 du MMSE :",
+      "explanation": "Aux items 25-26-27, le patient prend la feuille de la main droite et doit la plier en deux. La troisième consigne est de la poser sur la table, et non de la jeter à la poubelle.",
+      "correct": [
+        "Le patient prend la feuille de papier de la main droite",
+        "Le patient doit plier la feuille en deux"
+      ],
+      "wrong": [
+        "Puis il doit la jeter à la poubelle"
+      ]
+    },
+    {
+      "id": 13,
+      "text": "Au sujet du MMSE :",
+      "explanation": "Sa passation est recommandée par la HAS (et non l'OMS). Son score documente l'instauration de certaines médications. Le MMSE seul ne peut pas permettre le diagnostic de la maladie d'Alzheimer.",
+      "correct": [
+        "Sa passation est recommandée par la HAS",
+        "Son score documente l'instauration de certaines médications"
+      ],
+      "wrong": [
+        "Seul le MMSE peut permettre le diagnostic de la maladie d'Alzheimer",
+        "Sa passation est recommandée par l'OMS"
+      ]
+    },
+    {
+      "id": 14,
+      "text": "Au sujet du MMSE :",
+      "explanation": "Un score inférieur à 24 est le plus souvent le signe d'une atteinte cognitive pathologique. Le MMSE a un intérêt en psychomotricité pour orienter la prise en charge. Un score de 30 n'exclut pas une prise en charge si d'autres éléments cliniques le justifient.",
+      "correct": [
+        "Un score inférieur à 24 est le plus souvent le signe d'une atteinte cognitive pathologique"
+      ],
+      "wrong": [
+        "Son score a peu d'intérêt en psychomotricité",
+        "On ne prend jamais en charge un patient qui obtient un score de 30"
+      ]
+    }
+  ]
+}
