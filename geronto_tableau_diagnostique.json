@@ -1,0 +1,1031 @@
+{
+  "subject": "Gérontopsychomotricité – Tableau diagnostique",
+  "tag": "ISRP 2A – Fonctions psychomotrices et pathologies gériatriques",
+  "description": "60 questions couvrant le tableau des fonctions psychomotrices selon les pathologies (vasculaire, Parkinson, Corps de Lewy, Alzheimer, DLFT, post-chute) et le tableau des hypothèses diagnostiques. Travail dans les deux sens : trouble → signes et signes → trouble, avec comparaisons entre pathologies.",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Dans la maladie de Parkinson, le tonus est caractérisé par :",
+      "explanation": "Le tonus dans la maladie de Parkinson est une hypertonie plastique (résistance uniforme tout au long du mouvement, dite 'en tuyau de plomb'). Il ne s'agit pas d'une spasticité ni d'une hypotonie.",
+      "correct": [
+        "Une hypertonie plastique"
+      ],
+      "wrong": [
+        "Une rigidité fluctuante",
+        "Une hypotonie globale",
+        "Un tonus conservé au début",
+        "Une hypertonie de protection",
+        "Une spasticité variable selon les membres",
+        "Un tonus variable selon les épisodes",
+        "Une diminution progressive du tonus axial"
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Dans la maladie à corps de Lewy, le tonus est décrit comme :",
+      "explanation": "La maladie à corps de Lewy se caractérise par une rigidité fluctuante, en lien avec les fluctuations cognitives et motrices qui sont une des caractéristiques majeures de cette pathologie.",
+      "correct": [
+        "Une rigidité fluctuante"
+      ],
+      "wrong": [
+        "Une hypertonie plastique",
+        "Un tonus conservé au début",
+        "Une hypotonie globale",
+        "Une hypertonie de protection",
+        "Un tonus variable selon les lésions vasculaires",
+        "Une hypertonie spastique unilatérale",
+        "Une diminution progressive et régulière"
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Dans la maladie d'Alzheimer, le tonus est :",
+      "explanation": "Dans la maladie d'Alzheimer, le tonus est conservé au début de la maladie. Les troubles moteurs, dont les modifications toniques, surviennent tardivement dans l'évolution.",
+      "correct": [
+        "Conservé au début"
+      ],
+      "wrong": [
+        "Hypertonique plastique dès le début",
+        "Fluctuant dès les premières années",
+        "Hypotonique dès les premiers signes",
+        "Variable selon les lésions vasculaires associées",
+        "Toujours normal tout au long de la maladie",
+        "Immédiatement altéré dès le diagnostic",
+        "Rigide et symétrique"
+      ]
+    },
+    {
+      "id": 4,
+      "text": "Le syndrome post-chute se caractérise par quel type d'atteinte du tonus ?",
+      "explanation": "Dans le syndrome post-chute, on observe soit une hypertonie de protection (contraction défensive liée à la peur de tomber), soit une diminution du tonus. Ces deux tableaux sont possibles selon le patient.",
+      "correct": [
+        "Hypertonie de protection ou diminution du tonus"
+      ],
+      "wrong": [
+        "Hypertonie plastique",
+        "Rigidité fluctuante",
+        "Tonus conservé dans tous les cas",
+        "Hypotonie axiale isolée",
+        "Spasticité unilatérale",
+        "Tonus normal, sans modification",
+        "Hypertonie uniquement, sans possible diminution"
+      ]
+    },
+    {
+      "id": 5,
+      "text": "Parmi ces pathologies, lesquelles présentent un tonus conservé en début d'évolution ?",
+      "explanation": "La maladie d'Alzheimer et la DLFT (démence fronto-temporale) présentent toutes deux un tonus conservé en début d'évolution. Les troubles moteurs et toniques apparaissent plus tardivement.",
+      "correct": [
+        "Maladie d'Alzheimer",
+        "DLFT"
+      ],
+      "wrong": [
+        "Maladie de Parkinson",
+        "Maladie à corps de Lewy",
+        "Trouble vasculaire",
+        "Syndrome post-chute",
+        "Corps de Lewy et Parkinson",
+        "Toutes les pathologies citées"
+      ]
+    },
+    {
+      "id": 6,
+      "text": "La bradykinésie, les petits pas et la micrographie orientent prioritairement vers :",
+      "explanation": "La bradykinésie (lenteur des mouvements), la marche à petits pas et la micrographie (écriture de plus en plus petite) sont des signes cardinaux de la maladie de Parkinson.",
+      "correct": [
+        "La maladie de Parkinson"
+      ],
+      "wrong": [
+        "La maladie à corps de Lewy",
+        "Le trouble neurocognitif vasculaire",
+        "La DLFT",
+        "La maladie d'Alzheimer",
+        "Le syndrome post-chute",
+        "La dépression",
+        "Le syndrome confusionnel"
+      ]
+    },
+    {
+      "id": 7,
+      "text": "Dans le syndrome post-chute, la motricité globale est caractérisée par :",
+      "explanation": "Dans le syndrome post-chute, on observe une rétropulsion (centre de gravité projeté en arrière), une peur de marcher et une restriction des déplacements liée à la peur de rechuter. La motricité globale est préservée initialement mais compromise par la peur.",
+      "correct": [
+        "Rétropulsion et peur de marcher"
+      ],
+      "wrong": [
+        "Bradykinésie et petits pas",
+        "Chutes fréquentes liées aux hallucinations",
+        "Ralentissement tardif et progressif",
+        "Préservation complète de la marche",
+        "Troubles de la marche avec petits pas en fauchant",
+        "Ataxie cérébelleuse prédominante",
+        "Paralysie unilatérale des membres inférieurs"
+      ]
+    },
+    {
+      "id": 8,
+      "text": "Dans quelle pathologie les chutes fréquentes sont-elles une caractéristique de la motricité globale dès le début ?",
+      "explanation": "Les chutes fréquentes sont une caractéristique majeure de la maladie à corps de Lewy, en lien avec les fluctuations, les hallucinations visuelles et le syndrome parkinsonien associé. Elles font partie des critères diagnostiques.",
+      "correct": [
+        "Maladie à corps de Lewy"
+      ],
+      "wrong": [
+        "Maladie d'Alzheimer",
+        "DLFT",
+        "Maladie de Parkinson uniquement",
+        "Trouble neurocognitif vasculaire",
+        "Syndrome post-chute (par définition secondaire à une chute)",
+        "Dépression",
+        "Syndrome confusionnel"
+      ]
+    },
+    {
+      "id": 9,
+      "text": "Dans la DLFT (démence fronto-temporale), la motricité globale est :",
+      "explanation": "Dans la DLFT, la motricité globale est préservée au début. Ce sont les fonctions exécutives et les comportements qui sont d'abord atteints, tandis que les fonctions motrices restent longtemps intactes.",
+      "correct": [
+        "Préservée au début"
+      ],
+      "wrong": [
+        "Très altérée dès les premiers signes",
+        "Caractérisée par une rétropulsion",
+        "Marquée par une bradykinésie et des petits pas",
+        "Perturbée par des chutes fréquentes",
+        "Ralentie progressivement dès le début",
+        "Marquée par des troubles de la coordination cérébelleux",
+        "Altérée de façon unilatérale"
+      ]
+    },
+    {
+      "id": 10,
+      "text": "La micrographie est spécifiquement associée à quelle pathologie dans ce tableau ?",
+      "explanation": "La micrographie (réduction progressive de la taille de l'écriture) est un signe spécifique de la maladie de Parkinson, lié à la bradykinésie et à l'hypertonie plastique qui affectent les mouvements fins et répétitifs.",
+      "correct": [
+        "Maladie de Parkinson"
+      ],
+      "wrong": [
+        "Maladie à corps de Lewy",
+        "Maladie d'Alzheimer",
+        "DLFT",
+        "Trouble neurocognitif vasculaire",
+        "Syndrome post-chute",
+        "Maladie à corps de Lewy et Parkinson indifféremment",
+        "Toutes les pathologies avec atteinte de la motricité fine"
+      ]
+    },
+    {
+      "id": 11,
+      "text": "Dans la maladie d'Alzheimer, la motricité fine est :",
+      "explanation": "Dans la maladie d'Alzheimer, les difficultés de motricité fine sont tardives. Elles surviennent progressivement dans l'évolution de la maladie, les premières atteintes concernant la mémoire et l'orientation.",
+      "correct": [
+        "Peu altérée, avec des difficultés tardives"
+      ],
+      "wrong": [
+        "Immédiatement touchée dès le diagnostic",
+        "Caractérisée par une micrographie",
+        "Très altérée avec lenteur marquée",
+        "Préservée tout au long de la maladie",
+        "Atteinte de façon fluctuante",
+        "Altérée uniquement côté dominant",
+        "Comparable à celle observée dans la DLFT"
+      ]
+    },
+    {
+      "id": 12,
+      "text": "Les troubles visuospatiaux sont particulièrement marqués dans quelle(s) pathologie(s) ?",
+      "explanation": "Les troubles visuospatiaux sont une caractéristique marquée de la maladie à corps de Lewy (troubles visuospatiaux ++) et de la maladie d'Alzheimer (perturbation tardive de la coordination oculo-motrice, agnosie possible). Dans la DLFT, la perception visuelle est peu atteinte.",
+      "correct": [
+        "Maladie à corps de Lewy",
+        "Maladie d'Alzheimer"
+      ],
+      "wrong": [
+        "DLFT exclusivement",
+        "Syndrome post-chute",
+        "Maladie de Parkinson principalement",
+        "Trouble neurocognitif vasculaire exclusivement",
+        "Toutes les pathologies de manière équivalente",
+        "Aucune de ces pathologies"
+      ]
+    },
+    {
+      "id": 13,
+      "text": "Dans quelle pathologie la latéralité peut-elle être atteinte de façon unilatérale ?",
+      "explanation": "Le trouble neurocognitif vasculaire peut entraîner une atteinte unilatérale de la latéralité, en lien avec les lésions focales cérébrales (AVC, infarctus lacunaires). Dans toutes les autres pathologies du tableau, la latéralité est décrite comme conservée.",
+      "correct": [
+        "Trouble neurocognitif vasculaire"
+      ],
+      "wrong": [
+        "Maladie de Parkinson",
+        "Maladie à corps de Lewy",
+        "Maladie d'Alzheimer",
+        "DLFT",
+        "Syndrome post-chute",
+        "Maladie d'Alzheimer et DLFT",
+        "Toutes les pathologies dégénératives"
+      ]
+    },
+    {
+      "id": 14,
+      "text": "Dans la DLFT, le schéma corporel est :",
+      "explanation": "Dans la DLFT, le schéma corporel est préservé en début d'évolution. Ce sont les fonctions frontales (exécutives, comportementales) qui sont prioritairement touchées, pas les fonctions de représentation corporelle.",
+      "correct": [
+        "Préservé"
+      ],
+      "wrong": [
+        "Altéré par des troubles visuospatiaux",
+        "Désorganisé progressivement",
+        "Marqué par une négligence unilatérale",
+        "Altéré par des troubles du mouvement",
+        "Perturbé par une perte de confiance corporelle",
+        "Atteint dès les premières manifestations de la maladie",
+        "Caractérisé par une anosognosie corporelle"
+      ]
+    },
+    {
+      "id": 15,
+      "text": "La négligence unilatérale et une désorientation spatiale possible sont caractéristiques de :",
+      "explanation": "Le trouble neurocognitif vasculaire peut entraîner une négligence unilatérale (héminégligence) liée à des lésions focales, ainsi qu'une désorientation spatiale. Ces signes dépendent de la localisation des lésions vasculaires.",
+      "correct": [
+        "Trouble neurocognitif vasculaire"
+      ],
+      "wrong": [
+        "Maladie d'Alzheimer uniquement",
+        "DLFT",
+        "Maladie à corps de Lewy",
+        "Syndrome post-chute",
+        "Maladie de Parkinson",
+        "Maladie d'Alzheimer et DLFT indifféremment",
+        "Toutes les pathologies avec atteinte frontale"
+      ]
+    },
+    {
+      "id": 16,
+      "text": "Dans la maladie d'Alzheimer, l'orientation spatiale est décrite comme :",
+      "explanation": "La désorientation spatiale est une caractéristique majeure de la maladie d'Alzheimer. Elle fait partie de la désorientation temporo-spatiale qui est un signe cardinal de cette pathologie.",
+      "correct": [
+        "Désorientation spatiale"
+      ],
+      "wrong": [
+        "Préservée tout au long de la maladie",
+        "Perturbée uniquement par des fluctuations",
+        "Variable selon les lésions vasculaires",
+        "Réduite par la restriction des déplacements",
+        "Altérée uniquement en fin de maladie",
+        "Perturbée par des troubles visuospatiaux fluctuants",
+        "Conservée jusqu'aux stades sévères"
+      ]
+    },
+    {
+      "id": 17,
+      "text": "Dans le syndrome post-chute, la relation au temps est marquée par :",
+      "explanation": "Dans le syndrome post-chute, la relation au temps est marquée par une peur anticipatoire : la personne anticipe la rechute, ce qui conduit à une modification du rapport au temps et à l'espace (restriction des déplacements, évitement).",
+      "correct": [
+        "Une peur anticipatoire"
+      ],
+      "wrong": [
+        "Une désorientation temporo-spatiale",
+        "Des fluctuations importantes",
+        "Un ralentissement du temps subjectif",
+        "Une conservation parfaite du sens du temps",
+        "Une désorientation dans le temps similaire à Alzheimer",
+        "Un rapport au temps préservé dans tous les cas",
+        "Une accélération subjective du temps"
+      ]
+    },
+    {
+      "id": 18,
+      "text": "Dans la maladie à corps de Lewy, la relation au temps est caractérisée par :",
+      "explanation": "Dans la maladie à corps de Lewy, la relation au temps est marquée par des fluctuations, qui sont une des caractéristiques centrales de cette pathologie (fluctuations cognitives, de la vigilance et de l'état général).",
+      "correct": [
+        "Des fluctuations"
+      ],
+      "wrong": [
+        "Une désorientation temporo-spatiale stable",
+        "Une peur anticipatoire du temps",
+        "Un ralentissement régulier et progressif",
+        "Une conservation parfaite",
+        "Une désorientation comparable à Alzheimer",
+        "Une accélération subjective",
+        "Un rapport au temps normal"
+      ]
+    },
+    {
+      "id": 19,
+      "text": "Les fonctions exécutives sont décrites comme 'très touchées' dans :",
+      "explanation": "Les fonctions exécutives sont très touchées dans le trouble neurocognitif vasculaire (atteinte des circuits fronto-sous-corticaux) et dans la DLFT (atteinte frontale prédominante). C'est même la signature neuropsychologique de ces deux pathologies.",
+      "correct": [
+        "Trouble neurocognitif vasculaire",
+        "DLFT"
+      ],
+      "wrong": [
+        "Maladie de Parkinson",
+        "Maladie à corps de Lewy",
+        "Maladie d'Alzheimer",
+        "Syndrome post-chute",
+        "Maladie d'Alzheimer et Parkinson",
+        "Corps de Lewy uniquement"
+      ]
+    },
+    {
+      "id": 20,
+      "text": "Dans la maladie d'Alzheimer, les fonctions exécutives sont :",
+      "explanation": "Dans la maladie d'Alzheimer, les fonctions exécutives sont progressivement altérées. Elles ne sont pas intactes mais leur atteinte est moins précoce et moins sévère qu'dans le trouble vasculaire ou la DLFT.",
+      "correct": [
+        "Altérées de façon progressive"
+      ],
+      "wrong": [
+        "Très touchées dès le début",
+        "Totalement préservées",
+        "Très fluctuantes",
+        "Altérées uniquement en phase terminale",
+        "Identiques à celles de la DLFT",
+        "Comparables à celles du syndrome post-chute",
+        "Préservées jusqu'aux stades modérés"
+      ]
+    },
+    {
+      "id": 21,
+      "text": "Dans le syndrome post-chute, les fonctions exécutives sont :",
+      "explanation": "Dans le syndrome post-chute, on observe une diminution de l'initiative liée à la peur, à l'évitement et au repli sur soi. Ce n'est pas une atteinte frontale primaire mais une conséquence fonctionnelle du syndrome.",
+      "correct": [
+        "Marquées par une diminution de l'initiative"
+      ],
+      "wrong": [
+        "Très altérées comme dans la DLFT",
+        "Totalement préservées",
+        "Fluctuantes comme dans corps de Lewy",
+        "Altérées progressivement comme dans Alzheimer",
+        "Normales dans tous les cas",
+        "Atteintes de façon unilatérale",
+        "Identiques à celles observées dans Parkinson"
+      ]
+    },
+    {
+      "id": 22,
+      "text": "Une attention très fluctuante est le signe caractéristique de :",
+      "explanation": "Les fluctuations attentionnelles importantes sont une caractéristique cardinale de la maladie à corps de Lewy. Elles se manifestent par des variations importantes de la vigilance et des performances cognitives d'un moment à l'autre.",
+      "correct": [
+        "Maladie à corps de Lewy"
+      ],
+      "wrong": [
+        "Maladie d'Alzheimer",
+        "DLFT",
+        "Trouble neurocognitif vasculaire",
+        "Maladie de Parkinson",
+        "Syndrome post-chute",
+        "Maladie d'Alzheimer et vasculaire",
+        "Syndrome confusionnel uniquement"
+      ]
+    },
+    {
+      "id": 23,
+      "text": "Dans le syndrome post-chute, l'attention est décrite comme :",
+      "explanation": "Dans le syndrome post-chute, on peut observer soit une hypervigilance (attention focalisée sur le danger, la peur de tomber) soit un retrait (évitement, inhibition). Ces deux tableaux sont possibles et liés à la réponse émotionnelle à la chute.",
+      "correct": [
+        "Hypervigilance ou retrait"
+      ],
+      "wrong": [
+        "Très fluctuante",
+        "Diminuée de façon constante",
+        "Totalement préservée",
+        "Comparable à Alzheimer",
+        "Identique à la DLFT",
+        "Focalisée uniquement sur les tâches motrices",
+        "Normale dans tous les cas"
+      ]
+    },
+    {
+      "id": 24,
+      "text": "Les hallucinations visuelles sont spécifiquement mentionnées dans la colonne perception visuelle de :",
+      "explanation": "Les hallucinations visuelles sont une caractéristique de la perception visuelle dans la maladie à corps de Lewy. Elles font partie de la triade diagnostique (hallucinations visuelles, fluctuations, syndrome parkinsonien) et sont un argument majeur pour ce diagnostic.",
+      "correct": [
+        "Maladie à corps de Lewy"
+      ],
+      "wrong": [
+        "Maladie d'Alzheimer",
+        "DLFT",
+        "Trouble neurocognitif vasculaire",
+        "Maladie de Parkinson",
+        "Syndrome post-chute",
+        "Dépression",
+        "Maladie d'Alzheimer et corps de Lewy indifféremment"
+      ]
+    },
+    {
+      "id": 25,
+      "text": "Dans la maladie d'Alzheimer, la perception visuelle peut être marquée par :",
+      "explanation": "Dans la maladie d'Alzheimer, la perception visuelle peut être touchée par une agnosie (incapacité à reconnaître des objets, des visages ou des lieux malgré une vision normale). C'est un signe qui peut apparaître dans l'évolution de la maladie.",
+      "correct": [
+        "Une agnosie possible"
+      ],
+      "wrong": [
+        "Des hallucinations visuelles systématiques",
+        "Une conservation parfaite tout au long de la maladie",
+        "Des hallucinations identiques à corps de Lewy",
+        "Une atteinte liée aux lésions focales",
+        "Des fluctuations de la perception",
+        "Une perte visuelle progressive d'origine rétinienne",
+        "Une agnosie uniquement en stade terminal"
+      ]
+    },
+    {
+      "id": 26,
+      "text": "Dans quelle pathologie la graphomotricité est-elle le plus spécifiquement altérée par une micrographie ?",
+      "explanation": "La micrographie est un signe spécifique de la maladie de Parkinson : l'écriture devient progressivement plus petite, irrégulière et peut finir par être illisible. Ce signe est lié à la bradykinésie et à l'hypertonie plastique.",
+      "correct": [
+        "Maladie de Parkinson"
+      ],
+      "wrong": [
+        "Maladie à corps de Lewy",
+        "Maladie d'Alzheimer",
+        "Trouble neurocognitif vasculaire",
+        "DLFT",
+        "Syndrome post-chute",
+        "Maladie à corps de Lewy et Parkinson de façon équivalente",
+        "Toutes les pathologies avec atteinte motrice"
+      ]
+    },
+    {
+      "id": 27,
+      "text": "Dans la DLFT, la graphomotricité est :",
+      "explanation": "Dans la DLFT, la graphomotricité est peu atteinte. Ce sont les fonctions comportementales, exécutives et langagières qui sont prioritairement touchées dans cette pathologie, tandis que les fonctions motrices restent longtemps préservées.",
+      "correct": [
+        "Peu atteinte"
+      ],
+      "wrong": [
+        "Caractérisée par une micrographie",
+        "Très altérée dès le début",
+        "Perturbée par des tremblements",
+        "Altérée progressivement comme dans Alzheimer",
+        "Ralentie par une bradykinésie",
+        "Atteinte de façon fluctuante",
+        "Identique à la maladie de Parkinson"
+      ]
+    },
+    {
+      "id": 28,
+      "text": "La triade diagnostique de la maladie à corps de Lewy comprend :",
+      "explanation": "La triade diagnostique de la maladie à corps de Lewy comprend les hallucinations visuelles, les fluctuations cognitives et un syndrome parkinsonien. La présence de ces trois éléments confère un niveau de probabilité élevé pour ce diagnostic.",
+      "correct": [
+        "Hallucinations visuelles, fluctuations, syndrome parkinsonien"
+      ],
+      "wrong": [
+        "Bradykinésie, rigidité, tremblement",
+        "Troubles mémoire, désorientation, évolution progressive",
+        "Désinhibition, apathie, troubles comportementaux",
+        "Chute récente, peur de tomber, rétropulsion",
+        "Hallucinations, chutes, micrographie",
+        "Fluctuations, AVC, troubles exécutifs",
+        "Apathie, fluctuations, rigidité"
+      ]
+    },
+    {
+      "id": 29,
+      "text": "Les arguments en faveur d'un trouble neurocognitif vasculaire sont :",
+      "explanation": "Les arguments en faveur d'un trouble neurocognitif vasculaire sont : présence d'AVC, HTA ou diabète dans les antécédents, une évolution par paliers (et non progressive) et une atteinte des fonctions exécutives. L'absence de facteurs vasculaires est un argument contre.",
+      "correct": [
+        "Antécédents d'AVC, HTA ou diabète",
+        "Évolution par paliers",
+        "Fonctions exécutives touchées"
+      ],
+      "wrong": [
+        "Troubles mémoire épisodique majeurs d'emblée",
+        "Hallucinations visuelles récurrentes",
+        "Désinhibition et troubles comportementaux",
+        "Chute récente comme facteur déclenchant",
+        "Évolution progressive et régulière"
+      ]
+    },
+    {
+      "id": 30,
+      "text": "Quel argument est retenu contre le diagnostic de maladie d'Alzheimer ?",
+      "explanation": "L'absence de troubles mnésiques majeurs et la présence de fluctuations importantes sont des arguments contre le diagnostic de maladie d'Alzheimer. Ces éléments orientent plutôt vers une maladie à corps de Lewy ou un syndrome confusionnel.",
+      "correct": [
+        "Absence de troubles mnésiques majeurs",
+        "Fluctuations importantes"
+      ],
+      "wrong": [
+        "Présence d'une désorientation spatiale",
+        "Évolution progressive",
+        "Âge supérieur à 65 ans",
+        "Troubles mémoire épisodique marqués",
+        "Antécédents vasculaires",
+        "Bradykinésie associée",
+        "Hallucinations visuelles isolées"
+      ]
+    },
+    {
+      "id": 31,
+      "text": "Le diagnostic de maladie de Parkinson est mis en doute si :",
+      "explanation": "Un argument contre le diagnostic de maladie de Parkinson est le déclin cognitif survenant avant les signes moteurs. Dans la maladie de Parkinson typique, les signes moteurs (bradykinésie, rigidité, tremblement) précèdent le déclin cognitif.",
+      "correct": [
+        "Le déclin cognitif précède les signes moteurs"
+      ],
+      "wrong": [
+        "La bradykinésie est présente",
+        "Les signes moteurs apparaissent avant le déclin cognitif",
+        "La micrographie est observée",
+        "Une rigidité plastique est mise en évidence",
+        "Les troubles de la marche sont présents",
+        "Le tremblement de repos est absent",
+        "Les antécédents familiaux sont positifs"
+      ]
+    },
+    {
+      "id": 32,
+      "text": "La désinhibition, l'apathie et les troubles comportementaux sont des arguments en faveur de :",
+      "explanation": "La désinhibition, l'apathie et les troubles comportementaux sont les arguments centraux en faveur d'une DLFT (démence fronto-temporale). Ce sont les manifestations frontales caractéristiques de cette pathologie.",
+      "correct": [
+        "DLFT"
+      ],
+      "wrong": [
+        "Maladie d'Alzheimer",
+        "Maladie à corps de Lewy",
+        "Trouble neurocognitif vasculaire",
+        "Maladie de Parkinson",
+        "Syndrome post-chute",
+        "Dépression",
+        "Syndrome confusionnel"
+      ]
+    },
+    {
+      "id": 33,
+      "text": "Quel argument est retenu contre le diagnostic de DLFT ?",
+      "explanation": "Un argument contre la DLFT est la présence d'une mémoire très touchée d'emblée. Dans la DLFT, la mémoire est relativement préservée en début d'évolution, c'est le comportement et les fonctions exécutives qui sont d'abord atteints.",
+      "correct": [
+        "Mémoire très touchée d'emblée"
+      ],
+      "wrong": [
+        "Présence d'une désinhibition",
+        "Troubles du comportement marqués",
+        "Fonctions exécutives très altérées",
+        "Apathie importante",
+        "Absence de troubles mnésiques",
+        "Troubles du langage précoces",
+        "Motricité globale préservée au début"
+      ]
+    },
+    {
+      "id": 34,
+      "text": "Le syndrome post-chute a un niveau de probabilité élevé quand :",
+      "explanation": "Le syndrome post-chute a un niveau de probabilité élevé selon le contexte : présence d'une chute récente, d'une peur de tomber et d'une rétropulsion. L'absence d'antécédent de chute est un argument contre ce diagnostic.",
+      "correct": [
+        "Une chute récente, une peur de tomber et une rétropulsion sont présentes"
+      ],
+      "wrong": [
+        "Le déclin cognitif précède la chute",
+        "Les hallucinations visuelles sont présentes",
+        "Les antécédents vasculaires sont documentés",
+        "La désinhibition est au premier plan",
+        "Les fluctuations cognitives sont importantes",
+        "La bradykinésie précède la chute",
+        "Une désorientation temporo-spatiale est présente"
+      ]
+    },
+    {
+      "id": 35,
+      "text": "La dépression se distingue du syndrome confusionnel par :",
+      "explanation": "La dépression a une installation progressive avec plainte mnésique, ralentissement et perte d'intérêt, tandis que le syndrome confusionnel s'installe brutalement avec un facteur aigu déclenchant. Une désorientation majeure argue contre la dépression.",
+      "correct": [
+        "Une installation progressive (non brutale)",
+        "L'absence de désorientation majeure"
+      ],
+      "wrong": [
+        "Une installation brutale liée à un facteur aigu",
+        "La présence de fluctuations importantes",
+        "Des hallucinations visuelles fréquentes",
+        "Une atteinte des fonctions exécutives très marquée",
+        "Un niveau de probabilité toujours élevé",
+        "Une rétropulsion à l'examen clinique",
+        "Une rigidité plastique associée"
+      ]
+    },
+    {
+      "id": 36,
+      "text": "Un patient présente une installation brutale des symptômes, des fluctuations et un facteur aigu identifiable. Quelle hypothèse diagnostique doit être envisagée en priorité ?",
+      "explanation": "L'installation brutale, les fluctuations importantes et la présence d'un facteur aigu (infection, médicament, déshydratation…) orientent en priorité vers un syndrome confusionnel (delirium). Une évolution progressive argue contre ce diagnostic.",
+      "correct": [
+        "Syndrome confusionnel"
+      ],
+      "wrong": [
+        "Maladie d'Alzheimer",
+        "DLFT",
+        "Maladie à corps de Lewy",
+        "Trouble neurocognitif vasculaire",
+        "Syndrome post-chute",
+        "Dépression",
+        "Maladie de Parkinson"
+      ]
+    },
+    {
+      "id": 37,
+      "text": "Un patient de 75 ans présente des troubles mémoire épisodique, une désorientation temporo-spatiale et une évolution progressive sur 3 ans. Quelle est l'hypothèse prioritaire ?",
+      "explanation": "Les troubles mémoire épisodique, la désorientation temporo-spatiale et l'évolution progressive sont les arguments centraux en faveur de la maladie d'Alzheimer, avec un niveau de probabilité élevé si la mémoire est très touchée.",
+      "correct": [
+        "Maladie d'Alzheimer"
+      ],
+      "wrong": [
+        "DLFT",
+        "Maladie à corps de Lewy",
+        "Trouble neurocognitif vasculaire",
+        "Maladie de Parkinson",
+        "Syndrome post-chute",
+        "Dépression",
+        "Syndrome confusionnel"
+      ]
+    },
+    {
+      "id": 38,
+      "text": "Parmi ces signes, lesquels sont des arguments en faveur de la maladie de Parkinson ?",
+      "explanation": "Les arguments en faveur de la maladie de Parkinson sont la bradykinésie, la rigidité, le tremblement et la micrographie. Le déclin cognitif avant les signes moteurs est un argument contre.",
+      "correct": [
+        "Bradykinésie",
+        "Rigidité",
+        "Tremblement"
+      ],
+      "wrong": [
+        "Hallucinations visuelles comme signe inaugural",
+        "Déclin cognitif avant les signes moteurs",
+        "Fluctuations cognitives importantes",
+        "Désinhibition et troubles comportementaux",
+        "Installation brutale des symptômes",
+        "Antécédents d'AVC"
+      ]
+    },
+    {
+      "id": 39,
+      "text": "Parmi ces pathologies, lesquelles ont un niveau de probabilité diagnostique élevé lorsque leurs critères spécifiques sont présents ?",
+      "explanation": "La maladie à corps de Lewy a un niveau élevé si la triade est présente. Le syndrome post-chute a un niveau élevé selon le contexte. La maladie d'Alzheimer a un niveau élevé si la mémoire est très touchée. Le trouble vasculaire a un niveau moyen à élevé.",
+      "correct": [
+        "Maladie à corps de Lewy (si triade présente)",
+        "Syndrome post-chute (selon contexte)",
+        "Maladie d'Alzheimer (si mémoire très touchée)"
+      ],
+      "wrong": [
+        "DLFT (niveau toujours élevé)",
+        "Dépression (niveau toujours élevé)",
+        "Syndrome confusionnel (niveau toujours faible)",
+        "Maladie de Parkinson (niveau toujours élevé)",
+        "Trouble vasculaire (niveau toujours faible)"
+      ]
+    },
+    {
+      "id": 40,
+      "text": "Dans la maladie de Parkinson, la coordination oculo-motrice est :",
+      "explanation": "Dans la maladie de Parkinson, la coordination oculo-motrice est ralentie, en lien avec la bradykinésie générale qui affecte également les mouvements oculaires (hypométrie saccadique, ralentissement des mouvements de poursuite).",
+      "correct": [
+        "Ralentie"
+      ],
+      "wrong": [
+        "Très perturbée par des troubles visuospatiaux",
+        "Totalement préservée",
+        "Marquée par des hallucinations",
+        "Fluctuante",
+        "Altérée tardivement comme dans Alzheimer",
+        "Caractérisée par une agnosie",
+        "Identique à celle du syndrome post-chute"
+      ]
+    },
+    {
+      "id": 41,
+      "text": "Dans le trouble neurocognitif vasculaire, les fonctions exécutives sont :",
+      "explanation": "Les fonctions exécutives sont très touchées dans le trouble neurocognitif vasculaire, en raison de l'atteinte des circuits fronto-sous-corticaux (connexions entre cortex frontal et ganglions de la base). C'est souvent le signe neuropsychologique le plus précoce.",
+      "correct": [
+        "Très touchées"
+      ],
+      "wrong": [
+        "Altérées progressivement",
+        "Fluctuantes",
+        "Préservées au début",
+        "Peu atteintes",
+        "Comparables à celles d'Alzheimer",
+        "Altérées uniquement en phase tardive",
+        "Identiques à la DLFT mais d'origine différente"
+      ]
+    },
+    {
+      "id": 42,
+      "text": "La plainte mnésique, le ralentissement et la perte d'intérêt orientent vers :",
+      "explanation": "La plainte mnésique, le ralentissement psychomoteur et la perte d'intérêt sont des arguments en faveur d'une dépression. Attention : ces signes peuvent mimer une démence (pseudodémence dépressive). Une désorientation majeure argue contre la dépression.",
+      "correct": [
+        "Dépression"
+      ],
+      "wrong": [
+        "Maladie d'Alzheimer",
+        "DLFT",
+        "Syndrome post-chute",
+        "Trouble neurocognitif vasculaire",
+        "Maladie à corps de Lewy",
+        "Maladie de Parkinson",
+        "Syndrome confusionnel"
+      ]
+    },
+    {
+      "id": 43,
+      "text": "Dans le trouble neurocognitif vasculaire, la perception visuelle est :",
+      "explanation": "Dans le trouble neurocognitif vasculaire, la perception visuelle varie selon les lésions : une lésion occipitale ou pariétale peut entraîner des troubles visuels, tandis qu'une lésion frontale ou sous-corticale peut laisser la perception visuelle intacte.",
+      "correct": [
+        "Variable selon la localisation des lésions"
+      ],
+      "wrong": [
+        "Systématiquement altérée",
+        "Caractérisée par des hallucinations visuelles",
+        "Toujours conservée",
+        "Marquée par une agnosie constante",
+        "Fluctuante comme dans corps de Lewy",
+        "Similaire à celle observée dans Alzheimer",
+        "Perturbée uniquement par des troubles visuospatiaux"
+      ]
+    },
+    {
+      "id": 44,
+      "text": "Parmi ces pathologies, dans laquelle l'espace est-il le plus restreint par évitement comportemental ?",
+      "explanation": "Dans le syndrome post-chute, la restriction des déplacements est une conséquence directe de la peur de rechuter. La personne réduit volontairement son espace de déplacement pour éviter une nouvelle chute, ce qui aggrave le déconditionnement.",
+      "correct": [
+        "Syndrome post-chute"
+      ],
+      "wrong": [
+        "Maladie d'Alzheimer",
+        "DLFT",
+        "Maladie à corps de Lewy",
+        "Trouble neurocognitif vasculaire",
+        "Maladie de Parkinson",
+        "Dépression",
+        "Syndrome confusionnel"
+      ]
+    },
+    {
+      "id": 45,
+      "text": "Dans la DLFT, la perception visuelle est :",
+      "explanation": "Dans la DLFT, la perception visuelle est variable. Ce sont surtout les fonctions frontales (exécutives, comportementales, langagières) qui sont atteintes, tandis que les fonctions visuelles restent souvent longtemps préservées.",
+      "correct": [
+        "Variable"
+      ],
+      "wrong": [
+        "Caractérisée par des hallucinations visuelles",
+        "Toujours très atteinte",
+        "Identique à la maladie à corps de Lewy",
+        "Marquée par une agnosie systématique",
+        "Préservée dans tous les cas",
+        "Altérée uniquement dans les formes sémantiques",
+        "Perturbée par des fluctuations visuelles"
+      ]
+    },
+    {
+      "id": 46,
+      "text": "La perte de confiance corporelle caractérise le schéma corporel dans :",
+      "explanation": "Dans le syndrome post-chute, le schéma corporel est marqué par une perte de confiance corporelle : la personne ne fait plus confiance à son corps pour se déplacer, ce qui modifie profondément sa représentation et son rapport à son corps.",
+      "correct": [
+        "Syndrome post-chute"
+      ],
+      "wrong": [
+        "Maladie d'Alzheimer",
+        "DLFT",
+        "Maladie à corps de Lewy",
+        "Trouble neurocognitif vasculaire",
+        "Maladie de Parkinson",
+        "Dépression",
+        "Syndrome confusionnel"
+      ]
+    },
+    {
+      "id": 47,
+      "text": "Dans la maladie de Parkinson, l'espace est :",
+      "explanation": "Dans la maladie de Parkinson, les difficultés de repérage dans l'espace sont liées aux troubles moteurs (freezing, festination) et au ralentissement général. La personne a du mal à s'orienter et à naviguer dans l'espace.",
+      "correct": [
+        "Marqué par des difficultés de repérage"
+      ],
+      "wrong": [
+        "Désorganisé par des troubles visuospatiaux majeurs",
+        "Restreint par la peur de tomber",
+        "Marqué par une désorientation spatiale comparable à Alzheimer",
+        "Totalement préservé",
+        "Variable selon les lésions",
+        "Altéré par des fluctuations",
+        "Caractérisé par une négligence unilatérale"
+      ]
+    },
+    {
+      "id": 48,
+      "text": "Quelle pathologie présente des troubles visuospatiaux particulièrement marqués (++) dans l'espace ?",
+      "explanation": "La maladie à corps de Lewy est caractérisée par des troubles visuospatiaux ++ dans l'espace, ce qui en fait l'une des pathologies où cette atteinte est la plus sévère et la plus précoce. Ces troubles sont liés aux hallucinations visuelles et à l'atteinte pariétale.",
+      "correct": [
+        "Maladie à corps de Lewy"
+      ],
+      "wrong": [
+        "Maladie d'Alzheimer",
+        "DLFT",
+        "Trouble neurocognitif vasculaire",
+        "Maladie de Parkinson",
+        "Syndrome post-chute",
+        "Dépression",
+        "Corps de Lewy et Alzheimer de façon équivalente"
+      ]
+    },
+    {
+      "id": 49,
+      "text": "Dans la maladie de Parkinson, le schéma corporel est altéré par :",
+      "explanation": "Dans la maladie de Parkinson, le schéma corporel est altéré par les troubles du mouvement eux-mêmes : la bradykinésie, la rigidité et les difficultés à initier les mouvements modifient la représentation que la personne a de son corps en action.",
+      "correct": [
+        "Une altération du mouvement"
+      ],
+      "wrong": [
+        "Une négligence unilatérale",
+        "Des troubles visuospatiaux",
+        "Une désorganisation progressive",
+        "Une perte de confiance corporelle",
+        "Une altération identique à Alzheimer",
+        "Des fluctuations de la représentation corporelle",
+        "Une anosognosie corporelle"
+      ]
+    },
+    {
+      "id": 50,
+      "text": "Dans la maladie d'Alzheimer, le schéma corporel est :",
+      "explanation": "Dans la maladie d'Alzheimer, le schéma corporel est marqué par une désorganisation progressive, en lien avec l'évolution de la maladie. Les apraxies et agnosies corporelles peuvent apparaître progressivement.",
+      "correct": [
+        "Marqué par une désorganisation progressive"
+      ],
+      "wrong": [
+        "Préservé tout au long de la maladie",
+        "Altéré par une négligence unilatérale",
+        "Marqué par une perte de confiance corporelle",
+        "Altéré par des troubles du mouvement",
+        "Préservé jusqu'aux stades sévères",
+        "Comparables à la DLFT",
+        "Marqué par des fluctuations de la représentation corporelle"
+      ]
+    },
+    {
+      "id": 51,
+      "text": "Dans la maladie à corps de Lewy, le schéma corporel est :",
+      "explanation": "Dans la maladie à corps de Lewy, le schéma corporel est perturbé par les troubles visuospatiaux qui sont une caractéristique majeure de cette pathologie. Les hallucinations visuelles et les troubles de la perception spatiale contribuent à cette altération.",
+      "correct": [
+        "Marqué par une altération visuospatiale"
+      ],
+      "wrong": [
+        "Préservé grâce aux fluctuations",
+        "Altéré par une négligence unilatérale",
+        "Marqué par une désorganisation progressive comme Alzheimer",
+        "Perturbé uniquement par les hallucinations",
+        "Totalement préservé",
+        "Comparable à la maladie de Parkinson",
+        "Marqué par une perte de confiance corporelle"
+      ]
+    },
+    {
+      "id": 52,
+      "text": "Parmi ces fonctions, laquelle est la plus préservée dans la DLFT en début d'évolution ?",
+      "explanation": "Dans la DLFT, la latéralité est conservée, la motricité globale est préservée au début, la motricité fine est peu altérée et le schéma corporel est préservé. Ce sont les fonctions frontales qui sont prioritairement touchées.",
+      "correct": [
+        "Latéralité",
+        "Motricité globale",
+        "Schéma corporel"
+      ],
+      "wrong": [
+        "Fonctions exécutives",
+        "Attention",
+        "Comportement social",
+        "Contrôle inhibiteur",
+        "Planification"
+      ]
+    },
+    {
+      "id": 53,
+      "text": "Quelle(s) pathologie(s) présente(nt) des troubles de l'espace d'origine spatiale (désorientation ou troubles visuospatiaux) plutôt que par restriction comportementale ?",
+      "explanation": "La maladie d'Alzheimer (désorientation spatiale), la maladie à corps de Lewy (troubles visuospatiaux ++) et le trouble vasculaire (désorientation possible, négligence) présentent des troubles de l'espace d'origine cognitive ou neurologique. Le syndrome post-chute présente une restriction comportementale d'origine émotionnelle.",
+      "correct": [
+        "Maladie d'Alzheimer",
+        "Maladie à corps de Lewy",
+        "Trouble neurocognitif vasculaire"
+      ],
+      "wrong": [
+        "Syndrome post-chute",
+        "DLFT uniquement",
+        "Maladie de Parkinson uniquement",
+        "Dépression",
+        "Syndrome confusionnel"
+      ]
+    },
+    {
+      "id": 54,
+      "text": "Dans la maladie d'Alzheimer, la désorientation temporo-spatiale concerne :",
+      "explanation": "La désorientation temporo-spatiale est un signe cardinal de la maladie d'Alzheimer : elle concerne à la fois le temps (désorientation dans le temps) et l'espace (désorientation spatiale). C'est l'une des premières manifestations cliniques.",
+      "correct": [
+        "Le temps et l'espace simultanément"
+      ],
+      "wrong": [
+        "Uniquement l'espace",
+        "Uniquement le temps",
+        "Principalement les fonctions exécutives",
+        "D'abord la mémoire procédurale",
+        "D'abord la mémoire sémantique uniquement",
+        "Principalement la mémoire de travail",
+        "Uniquement en stade avancé"
+      ]
+    },
+    {
+      "id": 55,
+      "text": "Quelle est la différence principale entre le ralentissement dans la maladie de Parkinson et dans la maladie d'Alzheimer concernant la motricité globale ?",
+      "explanation": "Dans la maladie de Parkinson, le ralentissement (bradykinésie, petits pas) est présent dès le début et est un signe cardinal. Dans la maladie d'Alzheimer, le ralentissement moteur global est tardif, les premières atteintes étant cognitives.",
+      "correct": [
+        "Le ralentissement est précoce dans Parkinson et tardif dans Alzheimer"
+      ],
+      "wrong": [
+        "Le ralentissement est tardif dans Parkinson et précoce dans Alzheimer",
+        "Les deux pathologies présentent le même profil de ralentissement",
+        "Seul Alzheimer présente un ralentissement moteur global",
+        "Le ralentissement dans Parkinson est lié aux hallucinations",
+        "Dans Alzheimer le ralentissement est lié à la rétropulsion",
+        "Les deux pathologies ont un ralentissement précoce équivalent",
+        "Dans Parkinson le ralentissement affecte d'abord la motricité fine"
+      ]
+    },
+    {
+      "id": 56,
+      "text": "Dans quelle(s) pathologie(s) l'attention est-elle décrite comme 'diminuée' (sans fluctuations ni hypervigilance) ?",
+      "explanation": "L'attention est décrite comme simplement diminuée dans la maladie de Parkinson et dans la maladie d'Alzheimer. Dans la maladie à corps de Lewy elle est très fluctuante, dans le syndrome post-chute elle peut être hypervigilante ou en retrait, et dans le trouble vasculaire elle est fluctuante.",
+      "correct": [
+        "Maladie de Parkinson",
+        "Maladie d'Alzheimer"
+      ],
+      "wrong": [
+        "Maladie à corps de Lewy",
+        "Syndrome post-chute",
+        "Trouble neurocognitif vasculaire",
+        "DLFT",
+        "Toutes les pathologies dégénératives",
+        "Corps de Lewy et Alzheimer de façon identique"
+      ]
+    },
+    {
+      "id": 57,
+      "text": "Parmi ces caractéristiques, lesquelles sont partagées entre la maladie à corps de Lewy et la maladie de Parkinson ?",
+      "explanation": "La maladie à corps de Lewy et la maladie de Parkinson partagent un syndrome parkinsonien (bradykinésie, rigidité), des chutes fréquentes et des troubles de la motricité fine. La différence majeure réside dans les hallucinations visuelles et les fluctuations cognitives propres au corps de Lewy.",
+      "correct": [
+        "Syndrome parkinsonien",
+        "Micrographie / atteinte de la motricité fine"
+      ],
+      "wrong": [
+        "Hallucinations visuelles récurrentes",
+        "Fluctuations cognitives importantes",
+        "Désinhibition et troubles comportementaux",
+        "Désorientation temporo-spatiale précoce",
+        "Troubles exécutifs très marqués dès le début",
+        "Rétropulsion et peur de tomber comme signe inaugural"
+      ]
+    },
+    {
+      "id": 58,
+      "text": "Dans quelle pathologie les fonctions exécutives sont-elles décrites comme 'altérées' (ni très touchées, ni simplement progressives) ?",
+      "explanation": "Les fonctions exécutives sont décrites comme 'altérées' (sans qualificatif supplémentaire) dans la maladie de Parkinson et la maladie à corps de Lewy. Elles sont 'très touchées' dans le vasculaire et la DLFT, et 'altération progressive' dans Alzheimer.",
+      "correct": [
+        "Maladie de Parkinson",
+        "Maladie à corps de Lewy"
+      ],
+      "wrong": [
+        "DLFT",
+        "Trouble neurocognitif vasculaire",
+        "Maladie d'Alzheimer",
+        "Syndrome post-chute",
+        "Dépression",
+        "Toutes les pathologies dégénératives"
+      ]
+    },
+    {
+      "id": 59,
+      "text": "Parmi ces signes, lesquels sont présents dans le syndrome post-chute mais absents dans toutes les pathologies dégénératives du tableau ?",
+      "explanation": "La rétropulsion (projection du centre de gravité en arrière) et la peur anticipatoire de tomber sont des signes spécifiques du syndrome post-chute. Elles résultent d'une réponse comportementale et émotionnelle à la chute, absente par définition dans les pathologies dégénératives sans antécédent de chute.",
+      "correct": [
+        "Rétropulsion",
+        "Peur anticipatoire de tomber"
+      ],
+      "wrong": [
+        "Bradykinésie",
+        "Hallucinations visuelles",
+        "Fluctuations cognitives",
+        "Désorientation spatiale",
+        "Hypertonie plastique",
+        "Troubles exécutifs",
+        "Micrographie"
+      ]
+    },
+    {
+      "id": 60,
+      "text": "Un patient présente : des troubles comportementaux au premier plan, des fonctions mnésiques relativement préservées, une motricité globale conservée et une attention variable. Quelle hypothèse diagnostique est la plus probable ?",
+      "explanation": "Le profil avec troubles comportementaux au premier plan (désinhibition, apathie), mémoire relativement préservée, motricité conservée et fonctions exécutives très altérées correspond à la DLFT. Une mémoire très touchée d'emblée serait un argument contre.",
+      "correct": [
+        "DLFT"
+      ],
+      "wrong": [
+        "Maladie d'Alzheimer",
+        "Maladie à corps de Lewy",
+        "Trouble neurocognitif vasculaire",
+        "Maladie de Parkinson",
+        "Syndrome post-chute",
+        "Dépression",
+        "Syndrome confusionnel"
+      ]
+    }
+  ]
+}
