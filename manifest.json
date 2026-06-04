@@ -47,6 +47,12 @@
       "subject": "Gériatrie MMSE",
       "tag": "Gériatrie",
       "description": "QCM Classique MMSE"
+    },
+    {
+      "file": "geronto_tableau_diagnostique.json",
+      "subject": "Gériatrie Profils Troubles",
+      "tag": "Gériatrie",
+      "description": "QCM Tableau Diagnostics Géronto"
     }
   ]
 }
