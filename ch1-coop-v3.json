@@ -1,0 +1,517 @@
+{
+  "subject": "Rééducation des TDC",
+  "tag": "Ch1 – Introduction à la méthode CO-OP",
+  "description": "30 questions de niveau expert sur l'introduction à la méthode CO-OP (Polatajko, 2001) : définitions fondamentales du mouvement et du TDC, modèles théoriques (cognitiviste, écologique, dynamique), approches bottom-up/top-down, inspirations et outils de la méthode CO-OP (stratégie globale, ADE, découverte guidée, stratégies spécifiques, structure de l'intervention). Distracteurs conçus pour être plausibles. Préparation aux partiels.",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Parmi les définitions suivantes des termes utilisés en motricité, laquelle (lesquelles) est (sont) exacte(s) ?",
+      "explanation": "Motricité renvoie à l'ensemble des processus permettant la contraction musculaire assurant le maintien de la posture et la production des mouvements. Coordination renvoie à la possibilité d'exécuter harmonieusement deux mouvements ou plus, orientés vers un but commun. Praxie renvoie à une séquence de mouvements coordonnés et finalisés en fonction d'un but (Piaget, 1960), sous-tendant l'interdépendance pensée-action.",
+      "correct": [
+        "La motricité renvoie à l'ensemble des processus permettant la contraction musculaire assurant le maintien de la posture et la production des mouvements",
+        "La coordination renvoie à la possibilité d'exécuter harmonieusement deux mouvements ou plus, orientés vers un but commun",
+        "La praxie renvoie à une séquence de mouvements coordonnés et finalisés en fonction d'un but (Piaget, 1960)"
+      ],
+      "wrong": [
+        "Le mouvement renvoie à la possibilité de se mouvoir de façon volontaire ou réflexe, ce qui correspond en réalité à la définition retenue pour la coordination",
+        "Le geste renvoie à une séquence de mouvements coordonnés et finalisés en fonction d'un but, notion développée par Ajuriaguerra",
+        "La coordination renvoie surtout à l'exécution d'un mouvement unique mais particulièrement précis",
+        "La praxie renvoie avant tout à la dimension motrice du geste, son élaboration mentale restant secondaire",
+        "Le geste correspond à l'ensemble des processus assurant la contraction musculaire nécessaire au maintien postural"
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Concernant la distinction entre apraxie et dyspraxie :",
+      "explanation": "L'apraxie correspond à une perturbation de l'organisation du mouvement intentionnel suite à une lésion neurologique (Liepmann, 1900) : on perd une compétence motrice déjà acquise. La dyspraxie correspond à une atteinte développementale, sans lésion neurologique (Ajuriaguerra, Stambak) : la motricité ne se construit pas de façon aussi harmonieuse que chez les autres enfants.",
+      "correct": [
+        "L'apraxie correspond à une perturbation de l'organisation du mouvement intentionnel suite à une lésion neurologique (Liepmann, 1900)",
+        "La dyspraxie correspond à une atteinte développementale, sans lésion neurologique (Ajuriaguerra, Stambak)"
+      ],
+      "wrong": [
+        "La dyspraxie correspond à une perturbation de l'organisation du mouvement intentionnel décrite par Liepmann en 1900",
+        "L'apraxie désigne une atteinte développementale de la motricité, décrite notamment par Ajuriaguerra",
+        "Les deux termes renvoient à une perte de compétences motrices antérieurement acquises, qu'il y ait ou non une lésion identifiée",
+        "L'apraxie toucherait surtout des enfants présentant un trouble développemental sans cause neurologique retrouvée",
+        "La dyspraxie peut être consécutive à une lésion neurologique identifiée chez certains enfants",
+        "Les deux notions seraient aujourd'hui utilisées de façon globalement interchangeable dans les classifications actuelles"
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Concernant la terminologie et la définition du TDC :",
+      "explanation": "TDC = Trouble Développemental des Coordinations (DSM5), traduction officielle de Developmental Coordination Disorder (DCD) à l'international. Le TDC est un trouble de la coordination motrice dans lequel l'acquisition et l'exécution d'habiletés motrices coordonnées sont nettement inférieures aux attentes compte tenu de l'âge chronologique de l'enfant et des opportunités antérieures d'apprentissage.",
+      "correct": [
+        "TDC signifie Trouble Développemental des Coordinations, traduction officielle de Developmental Coordination Disorder (DCD)",
+        "Le TDC se définit par une acquisition et une exécution d'habiletés motrices coordonnées nettement inférieures aux attentes, compte tenu de l'âge chronologique de l'enfant et de ses opportunités d'apprentissage"
+      ],
+      "wrong": [
+        "TDC signifie Trouble du Développement Cognitivo-moteur",
+        "DCD est l'abréviation retenue pour désigner un trouble mixte associant coordination et langage",
+        "Le TDC se définit essentiellement par un écart de performance motrice par rapport aux enfants du même niveau scolaire, indépendamment de l'âge chronologique",
+        "Le terme TDC a progressivement remplacé le terme dyspraxie sans qu'un texte officiel ne l'établisse comme traduction du DCD",
+        "Le TDC s'accompagne le plus souvent d'un retard de langage significatif chez l'enfant",
+        "TDC et retard mental désigneraient des degrés différents d'un même trouble du développement"
+      ]
+    },
+    {
+      "id": 4,
+      "text": "Dans l'évolution nosologique du terme, quelles désignations anciennes de la maladresse gestuelle sont citées dans le cours ?",
+      "explanation": "Le cours rappelle qu'on retrouve une multitude de désignations de la maladresse gestuelle dans l'histoire : maladresse congénitale, débilité motrice, atteinte cérébrale mineure, avant l'harmonisation autour du terme TDC.",
+      "correct": [
+        "Maladresse congénitale",
+        "Débilité motrice",
+        "Atteinte cérébrale mineure"
+      ],
+      "wrong": [
+        "Syndrome de l'enfant maladroit",
+        "Infirmité motrice cérébrale mineure",
+        "Trouble de la latéralité croisée",
+        "Débilité motrice acquise",
+        "Trouble de l'intégration sensorimotrice"
+      ]
+    },
+    {
+      "id": 5,
+      "text": "Concernant les définitions de l'apprentissage, de l'apprentissage moteur et de l'habilité motrice, lesquelles sont exactes ?",
+      "explanation": "L'apprentissage est une modification du comportement à la suite d'expériences, impliquant stabilité et durabilité (2001), et un processus mental actif d'acquisition de connaissances (2004). L'apprentissage moteur comprend l'élaboration d'une unité fonctionnelle et le contrôle moteur. L'habilité motrice vise une réponse efficace et économique pour atteindre un objectif de façon stable, précise, rapide, avec un minimum de coût énergétique ou attentionnel.",
+      "correct": [
+        "L'apprentissage est une modification du comportement à la suite d'expériences, impliquant les notions de stabilité et de durabilité",
+        "L'apprentissage moteur comprend l'élaboration d'une unité fonctionnelle et le contrôle moteur",
+        "L'habilité motrice vise à réaliser une réponse efficace et économique pour atteindre un objectif de façon stable, précise, rapide et avec un minimum de coût énergétique ou attentionnel"
+      ],
+      "wrong": [
+        "L'apprentissage se définirait essentiellement par la répétition d'un comportement, sans lien nécessaire avec sa stabilité ou sa durabilité",
+        "L'apprentissage moteur se limiterait à l'acquisition d'un geste isolé, sans viser sa stabilisation dans le temps",
+        "L'habilité motrice correspondrait surtout à la rapidité d'exécution du geste, indépendamment de sa précision ou de son coût énergétique",
+        "L'automatisation d'un geste rendrait l'exécution davantage dépendante du feedback perçu en temps réel",
+        "L'apprentissage moteur et l'apprentissage cognitivo-verbal reposeraient sur les mêmes processus mentaux, notamment attentionnels et mnésiques"
+      ]
+    },
+    {
+      "id": 6,
+      "text": "Concernant le profil de l'enfant présentant un TDC, quelles affirmations sont exactes ?",
+      "explanation": "L'enfant TDC présente une difficulté à automatiser une séquence gestuelle, de la lenteur et de l'imprécision, et les répétitions/démonstrations lui sont relativement peu aidantes. Pourtant, il dispose généralement d'un équipement neuro-moteur intègre, de systèmes sensoriels fonctionnels et d'une efficience intellectuelle dans la norme : la maladresse persiste malgré tout.",
+      "correct": [
+        "Il présente une difficulté à automatiser une séquence gestuelle, avec lenteur et imprécision",
+        "Les répétitions et démonstrations sont relativement peu aidantes pour améliorer sa performance motrice",
+        "Il dispose généralement d'un équipement neuro-moteur intègre et d'une efficience intellectuelle dans la norme"
+      ],
+      "wrong": [
+        "Il présenterait le plus souvent une efficience intellectuelle inférieure à la norme, ce qui expliquerait ses difficultés motrices",
+        "Ses performances motrices resteraient globalement stables et prévisibles d'une séance à l'autre",
+        "Des répétitions et démonstrations régulières permettraient le plus souvent de corriger durablement sa maladresse",
+        "Ses difficultés motrices s'expliqueraient en grande partie par un déficit sensoriel (visuel, auditif ou vestibulaire) associé",
+        "Son environnement quotidien serait en général insuffisamment stimulant sur le plan moteur, ce qui expliquerait en partie ses difficultés"
+      ]
+    },
+    {
+      "id": 7,
+      "text": "Quelles sont les conséquences à plus ou moins long terme de la maladresse motrice chez l'enfant TDC, selon le cours ?",
+      "explanation": "Le cours cite : un impact négatif sur la vie quotidienne et la performance scolaire, des risques augmentés de troubles internalisés (anxiété, faible estime de soi, dépression), une moins bonne santé physique (surpoids, obésité) et un impact sur les interactions sociales (difficultés à jouer avec les autres).",
+      "correct": [
+        "Un impact négatif sur la vie quotidienne et la performance scolaire",
+        "Un risque augmenté de développer des troubles internalisés (anxiété, faible estime de soi, dépression)",
+        "Un impact sur les interactions sociales, notamment via les difficultés à participer aux jeux avec les autres enfants"
+      ],
+      "wrong": [
+        "Un impact principalement circonscrit à la performance scolaire, sans répercussion notable sur le plan social",
+        "Un risque de troubles internalisés globalement comparable à celui observé dans la population générale",
+        "Une tendance à un surinvestissement des activités physiques compensant les difficultés motrices initiales",
+        "Des répercussions essentiellement transitoires, disparaissant spontanément à l'adolescence",
+        "Un impact sur les interactions sociales qui concernerait surtout le cadre scolaire plutôt que les jeux entre pairs"
+      ]
+    },
+    {
+      "id": 8,
+      "text": "Selon le DSM5 et la CIM11, quels critères diagnostiques du TDC sont mentionnés dans le cours ?",
+      "explanation": "Les critères cités sont : apparition précoce du trouble, impact significatif sur la vie de l'enfant, exclusion d'une déficience intellectuelle (aucun diagnostic de TDC n'est retenu si la maladresse s'explique par un trouble du développement intellectuel), une mesure comparable à celle d'une norme, et une atteinte dans plusieurs domaines.",
+      "correct": [
+        "Une apparition précoce du trouble",
+        "Un impact significatif sur la vie de l'enfant",
+        "Une exclusion de toute déficience intellectuelle : aucun diagnostic de TDC n'est retenu si la maladresse s'explique par un trouble du développement intellectuel"
+      ],
+      "wrong": [
+        "Une apparition qui surviendrait le plus souvent au moment de l'entrée dans les apprentissages scolaires formels, plutôt que dans la petite enfance",
+        "Un impact qui ne serait retenu comme critère que s'il touche avant tout le domaine scolaire",
+        "Une association fréquente, bien que non systématique, avec un trouble du développement intellectuel",
+        "Un diagnostic pouvant reposer sur l'atteinte d'un seul domaine d'activité particulièrement affecté",
+        "Une mesure fondée principalement sur le ressenti des parents, complétée si besoin par des outils standardisés"
+      ]
+    },
+    {
+      "id": 9,
+      "text": "Le modèle cognitiviste du mouvement (courant «français» : Piaget, Ajuriaguerra, Wallon) se caractérise par :",
+      "explanation": "Ce courant porte sur le versant cognitif du geste, son «élaboration» : le geste est considéré comme la résultante de son aspect cognitif, postulant une «représentation interne». Le cerveau est vu comme la commande centrale qui commande l'exécution musculaire.",
+      "correct": [
+        "Une considération du geste comme résultante de son aspect cognitif, postulant une «représentation interne»",
+        "Une conception dans laquelle le cerveau, considéré comme la commande centrale, commande l'exécution musculaire"
+      ],
+      "wrong": [
+        "Une lecture principalement «anglo-saxonne» du mouvement, centrée sur le couplage perception-action",
+        "Une commande centrale jouant un rôle secondaire, la perception de l'environnement orientant l'essentiel de l'exécution motrice",
+        "Un centrage sur le versant moteur du mouvement davantage que sur son élaboration cognitive",
+        "Un mouvement envisagé avant tout comme une contrainte issue de l'environnement, la représentation interne y jouant un rôle limité",
+        "Une conception où la représentation interne du geste resterait secondaire par rapport aux contraintes biomécaniques",
+        "Un modèle principalement associé aux travaux de Bernstein et Newell sur l'auto-organisation du mouvement"
+      ]
+    },
+    {
+      "id": 10,
+      "text": "Le modèle écologique du mouvement (courant «anglo-saxon») et le principe d'affordances associé se caractérisent par :",
+      "explanation": "Le modèle écologique porte sur le versant moteur du mouvement, son «produit» : le mouvement émerge d'une relation réciproque entre le sujet et son environnement, basé sur le couplage perception-action, sans «commande centrale». Le principe d'affordances signifie que la perception d'un objet nous indique comment l'utiliser.",
+      "correct": [
+        "Une considération du mouvement comme l'émergence d'une relation réciproque entre le sujet et son environnement, sans commande centrale",
+        "Le principe d'affordances, selon lequel la perception d'un objet indique comment l'utiliser"
+      ],
+      "wrong": [
+        "Une centration principalement portée sur l'élaboration cognitive interne du geste, plus que sur l'environnement",
+        "Une commande centrale portée par le cerveau, qui resterait malgré tout le principal organisateur du mouvement",
+        "Une considération plutôt «française», développée notamment par Piaget et Wallon",
+        "Un comportement moteur peu influencé par l'environnement immédiat de la tâche",
+        "Le principe d'affordances, selon lequel la perception d'un objet renseigne surtout sur ses propriétés physiques plutôt que sur son mode d'utilisation",
+        "Une conception centrée sur le trajet allant du cerveau vers les muscles, indépendamment du contexte de la tâche"
+      ]
+    },
+    {
+      "id": 11,
+      "text": "Concernant l'évolution terminologique du trouble, quelles affirmations sont exactes ?",
+      "explanation": "Le terme dyspraxie n'apparaît plus dans les classifications internationales ; les conférences de consensus ont opté pour le terme TDC, si bien que les deux termes sont considérés comme équivalents dans le cours.",
+      "correct": [
+        "TDC et dyspraxie sont considérés comme deux termes équivalents dans le cours",
+        "Le terme dyspraxie n'apparaît plus dans les classifications internationales, au profit du terme TDC"
+      ],
+      "wrong": [
+        "Le terme TAC resterait aujourd'hui le terme le plus largement employé dans les classifications internationales",
+        "Le terme dyspraxie continuerait d'être utilisé de façon dominante dans les publications scientifiques récentes",
+        "TDC et apraxie renverraient tous deux à des troubles d'origine développementale",
+        "L'harmonisation terminologique proposée par les conférences de consensus aurait plutôt conduit à privilégier le terme dyspraxie",
+        "Le terme TAC désignerait une entité clinique distincte du TDC, avec des critères diagnostiques propres",
+        "Cette évolution terminologique s'inscrirait dans la continuité des travaux de Liepmann sur l'apraxie"
+      ]
+    },
+    {
+      "id": 12,
+      "text": "La théorie dynamique du mouvement (Bernstein, 1967 ; Newell, 1986) postule que :",
+      "explanation": "Le mouvement émerge grâce aux propriétés auto-organisationnelles du système, résultant d'un réseau de contraintes liées à la tâche, à l'organisme et à l'environnement. Une coordination peut se modéliser par un paysage d'attracteurs, le comportement moteur étant «attiré» dans certaines directions en fonction des contraintes.",
+      "correct": [
+        "Le mouvement émerge grâce aux propriétés auto-organisationnelles du système, résultant d'un réseau de contraintes liées à la tâche, à l'organisme et à l'environnement"
+      ],
+      "wrong": [
+        "Le mouvement résulterait avant tout d'un programme moteur central établi en amont de l'action",
+        "La coordination motrice serait peu influencée par les contraintes propres à l'environnement de la tâche",
+        "Ce courant se distinguerait nettement des théories écologiques du mouvement, dont il serait indépendant",
+        "Le comportement moteur se prêterait difficilement à une modélisation par un paysage d'attracteurs",
+        "Ce modèle a été principalement développé par Piaget et Ajuriaguerra dans une perspective cognitiviste",
+        "Les contraintes propres à l'organisme (souplesse, morphologie...) auraient un rôle secondaire par rapport aux consignes motrices",
+        "Ce courant accorderait une place limitée à l'auto-organisation du système moteur, au profit d'une programmation centrale"
+      ]
+    },
+    {
+      "id": 13,
+      "text": "Que met en évidence l'exemple de l'expérience des index (bouger les index dans un sens différent puis de façon coordonnée) présenté dans le cours ?",
+      "explanation": "L'expérience montre que les doigts finissent par reprendre leur premier modèle de mouvement : cela illustre qu'il n'existe pas de programme moteur central rigide, mais que le mouvement émerge des contraintes motrices du système, dans une logique de paysage d'attracteurs.",
+      "correct": [
+        "Il montre que le mouvement n'est pas entièrement prescrit par un programme moteur central préétabli, mais émerge des contraintes motrices du système"
+      ],
+      "wrong": [
+        "Il illustrerait l'existence d'un programme moteur central relativement stable, peu sensible aux contraintes de vitesse",
+        "Il montrerait que la coordination bimanuelle dépend peu des contraintes biomécaniques du geste",
+        "Il constituerait une illustration classique du modèle cognitiviste du mouvement",
+        "Il montrerait que chaque mouvement du doigt serait planifié en détail par le SNC avant son déclenchement",
+        "Il suggérerait que les deux mains fonctionnent de manière largement indépendante l'une de l'autre",
+        "Il illustrerait l'un des critères diagnostiques retenus par le DSM5 pour le TDC",
+        "Il mettrait en évidence une grande stabilité et une faible variabilité des mouvements observés"
+      ]
+    },
+    {
+      "id": 14,
+      "text": "Concernant l'exemple de la prise du crayon développé dans le cours pour illustrer la théorie dynamique du mouvement :",
+      "explanation": "Il existe désormais 4 prises de crayon reconnues comme fonctionnelles (tripode, quadripode, dynamique et latérale), et non plus une seule prise tridigitale. Cela montre que la prise de crayon dépend de nombreux facteurs (souplesse du pouce, fracture ou non de la main, support d'écriture, taille du crayon), illustrant l'aspect dynamique et non prescrit du mouvement.",
+      "correct": [
+        "Il existe désormais 4 prises de crayon reconnues comme fonctionnelles (tripode, quadripode, dynamique et latérale), et non plus une seule prise tridigitale"
+      ],
+      "wrong": [
+        "Une seule prise de crayon, la prise tridigitale, resterait traditionnellement considérée comme fonctionnelle",
+        "Il existerait 6 prises de crayon reconnues comme fonctionnelles dans la littérature citée",
+        "La prise de crayon dépendrait surtout du support d'écriture utilisé, indépendamment de la souplesse du pouce de l'enfant",
+        "Cet exemple serait présenté dans le cours comme une illustration du modèle cognitiviste du mouvement",
+        "La prise de crayon dépendrait avant tout de la morphologie de la main, indépendamment du support d'écriture",
+        "La prise quadripode serait présentée comme une prise non fonctionnelle dans la littérature actuelle",
+        "Cet exemple viserait surtout à démontrer la stabilité d'un programme moteur central propre à l'écriture"
+      ]
+    },
+    {
+      "id": 15,
+      "text": "Concernant les approches rééducatives bottom-up et top-down du TDC :",
+      "explanation": "Le bottom-up mise sur tous les sous-bassements moteurs pouvant aider dans les actions motrices du quotidien. Le top-down consiste à travailler directement des habiletés motrices utiles au quotidien. Le top-down est globalement plus efficace, mais il reste important d'utiliser aussi le bottom-up ; un mélange des deux est pertinent.",
+      "correct": [
+        "L'approche bottom-up mise sur les sous-bassements moteurs pouvant aider dans les actions motrices du quotidien",
+        "L'approche top-down, qui entraîne directement une habileté motrice utile au quotidien, est globalement plus efficace que le bottom-up, tout en restant pertinent de mélanger les deux approches"
+      ],
+      "wrong": [
+        "L'approche top-down se concentrerait avant tout sur les sous-bassements moteurs avant de travailler l'activité elle-même",
+        "L'approche bottom-up consisterait à entraîner en priorité l'habileté motrice cible dans son contexte naturel",
+        "Le bottom-up serait globalement plus efficace que le top-down pour la majorité des habiletés motrices",
+        "Combiner les approches bottom-up et top-down serait généralement peu recommandé en pratique clinique",
+        "Le top-down s'accompagnerait rarement de stratégies métacognitives dans sa mise en œuvre",
+        "Ces deux approches partageraient globalement les mêmes objectifs et les mêmes modalités de mise en œuvre"
+      ]
+    },
+    {
+      "id": 16,
+      "text": "Comment la métacognition est-elle définie dans le cours (Polatajko & Mandich, 2004) ?",
+      "explanation": "La métacognition implique les processus cognitifs qui contrôlent et évaluent la cognition elle-même («je réfléchis à comment je réfléchis»). Elle inclut la compréhension des compétences et des stratégies qu'une tâche requiert, et du contrôle nécessaire de celles-ci pour la réaliser.",
+      "correct": [
+        "Elle implique les processus cognitifs qui contrôlent et évaluent la cognition elle-même, incluant la compréhension des compétences et stratégies qu'une tâche requiert"
+      ],
+      "wrong": [
+        "Elle renverrait surtout à la mémorisation des connaissances factuelles nécessaires à la réalisation d'une tâche",
+        "Elle correspondrait davantage à un ajustement réflexe du geste, peu dépendant d'un contrôle conscient",
+        "Elle se rapporterait principalement à la perception sensorielle du mouvement en cours d'exécution",
+        "Elle porterait surtout sur l'exécution du geste, avec peu de lien avec la compréhension des stratégies requises par la tâche",
+        "Il s'agirait d'un concept central du modèle écologique du mouvement plutôt que des approches cognitivo-verbales",
+        "Elle désignerait avant tout le contrôle musculaire fin nécessaire à la précision du geste",
+        "Ce concept aurait été introduit par Bernstein en 1967 dans le cadre de la théorie dynamique du mouvement"
+      ]
+    },
+    {
+      "id": 17,
+      "text": "Parmi les principes actifs ayant inspiré la méthode CO-OP, lesquels concernent le rôle du langage ?",
+      "explanation": "Les principes actifs inspirant CO-OP incluent le rôle du langage dans la régulation du geste, et le rôle du langage dans l'apprentissage à travers le modèle d'auto-instruction de Meichenbaum (1971), le «Self-Instructional Training Program».",
+      "correct": [
+        "Le rôle du langage dans la régulation du geste",
+        "Le rôle du langage dans l'apprentissage, à travers le modèle d'auto-instruction de Meichenbaum (1971)"
+      ],
+      "wrong": [
+        "Le rôle principalement de la perception visuelle, plus que du langage, dans la régulation du geste",
+        "Le modèle d'auto-instruction développé par Piaget dans le cadre de sa théorie du développement cognitif",
+        "Une verbalisation jugée secondaire par rapport à la démonstration silencieuse dans l'apprentissage moteur",
+        "Le principe d'affordances emprunté à la théorie écologique du mouvement",
+        "La théorie des attracteurs dynamiques proposée par Bernstein",
+        "Un rôle du renforcement essentiellement basé sur des récompenses matérielles plutôt que verbales"
+      ]
+    },
+    {
+      "id": 18,
+      "text": "Quelle est la séquence exacte des 5 temps du «modelage du comportement» intégrée par la méthode CO-OP ?",
+      "explanation": "Le modelage du comportement en 5 temps suit : modelage ouvert → guidance extériorisée → auto-instruction extériorisée → auto-instruction atténuée (estompage) → auto-instruction intériorisée. La méthode CO-OP intègre les principes de la guidance et de l'auto-guidance verbale.",
+      "correct": [
+        "Modelage ouvert → guidance extériorisée → auto-instruction extériorisée → auto-instruction atténuée (estompage) → auto-instruction intériorisée"
+      ],
+      "wrong": [
+        "Modelage ouvert → auto-instruction extériorisée → guidance extériorisée → auto-instruction atténuée → auto-instruction intériorisée",
+        "Guidance extériorisée → modelage ouvert → auto-instruction extériorisée → auto-instruction atténuée → auto-instruction intériorisée",
+        "Modelage ouvert → guidance extériorisée → auto-instruction atténuée → auto-instruction extériorisée → auto-instruction intériorisée",
+        "Modelage ouvert → guidance extériorisée → auto-instruction extériorisée → auto-instruction intériorisée → auto-instruction atténuée",
+        "Guidance extériorisée → auto-instruction extériorisée → modelage ouvert → auto-instruction atténuée → auto-instruction intériorisée",
+        "Modelage ouvert → auto-instruction atténuée → auto-instruction extériorisée → guidance extériorisée → auto-instruction intériorisée",
+        "Auto-instruction extériorisée → guidance extériorisée → modelage ouvert → auto-instruction atténuée → auto-instruction intériorisée"
+      ]
+    },
+    {
+      "id": 19,
+      "text": "Concernant la stratégie GOAL-PLAN-DO-CHECK et l'intérêt d'introduire une nouvelle approche dans la rééducation des enfants TDC :",
+      "explanation": "«GOAL-PLAN-DO-CHECK» se traduit par «But-Plan-Fait-Vérifie» ; la méthode CO-OP intègre cette stratégie de résolution de problème («la stratégie globale»). L'intérêt d'une nouvelle approche repose notamment sur la nécessité d'agir sur l'activité et la participation de l'enfant (logique «top-down»), une intervention réaliste fondée sur des données probantes, et l'intégration des théories contemporaines de l'apprentissage moteur.",
+      "correct": [
+        "«GOAL-PLAN-DO-CHECK» se traduit par «But-Plan-Fait-Vérifie» et constitue la stratégie de résolution de problème intégrée par la méthode CO-OP",
+        "L'intérêt d'une nouvelle approche repose notamment sur la nécessité d'agir sur l'activité et la participation de l'enfant (logique «top-down»)"
+      ],
+      "wrong": [
+        "«GOAL-PLAN-DO-CHECK» se traduirait plutôt par «But-Plan-Décide-Contrôle» dans les publications francophones",
+        "Cette stratégie serait davantage rattachée aux approches bottom-up qu'aux approches top-down",
+        "L'intérêt d'une nouvelle approche reposerait surtout sur des considérations théoriques, indépendamment des données probantes disponibles",
+        "Cette stratégie accorderait une place limitée aux interactions entre la personne, l'environnement et la tâche",
+        "«GOAL-PLAN-DO-CHECK» serait une stratégie plutôt associée au modèle cognitiviste du mouvement",
+        "L'intérêt d'une nouvelle approche reposerait avant tout sur le renforcement des sous-bassements moteurs de l'enfant"
+      ]
+    },
+    {
+      "id": 20,
+      "text": "Selon Polatajko (2001), quels éléments caractérisent l'originalité de l'approche CO-OP (Cognitive Orientation to daily Occupational Performance) ?",
+      "explanation": "L'originalité de CO-OP repose sur : partir de la motivation de l'enfant, être au plus près de son contexte écologique, impliquer les parents dans la démarche, et intégrer les modèles récents du contrôle moteur (théories écologique, dynamique).",
+      "correct": [
+        "Partir de la motivation de l'enfant",
+        "Être au plus près du contexte écologique de l'enfant",
+        "Impliquer les parents dans la démarche"
+      ],
+      "wrong": [
+        "Impliquer les parents seulement de façon ponctuelle, en fin de prise en charge",
+        "S'appuyer avant tout sur des modèles plus anciens du contrôle moteur, antérieurs aux théories écologique et dynamique",
+        "Donner la priorité au travail des sous-bassements moteurs avant d'aborder les activités du quotidien",
+        "Faire élaborer le plan d'action principalement par le thérapeute, sur la base de son expertise clinique",
+        "Se référer avant tout à des situations standardisées, plutôt qu'au contexte quotidien propre à l'enfant"
+      ]
+    },
+    {
+      "id": 21,
+      "text": "La méthode CO-OP, approche top-down recommandée en France et à l'international, comprend quels principes et outils ?",
+      "explanation": "La méthode CO-OP comprend plusieurs principes et outils : une stratégie globale de résolution de problème, des stratégies spécifiques (si nécessaire), une analyse dynamique de l'exécution (ADE), et une découverte guidée.",
+      "correct": [
+        "Une stratégie globale de résolution de problème",
+        "Une analyse dynamique de l'exécution (ADE)",
+        "Une découverte guidée"
+      ],
+      "wrong": [
+        "Une méthode reposant essentiellement sur la répétition passive du geste par l'enfant",
+        "Un entraînement centré en priorité sur les sous-bassements moteurs, indépendamment de l'activité fonctionnelle visée",
+        "Une évaluation neuropsychologique standardisée constituant le préalable central de toute intervention",
+        "Des stratégies spécifiques considérées comme peu utiles et rarement proposées en pratique",
+        "Un accompagnement s'appuyant en partie sur un traitement médicamenteux complémentaire"
+      ]
+    },
+    {
+      "id": 22,
+      "text": "Dans la stratégie globale de la méthode CO-OP, à quoi correspondent les différentes étapes ?",
+      "explanation": "BUT : «Qu'est-ce que tu veux faire ?» = rappel de l'habileté motrice motivante. PLAN : «Comment tu vas faire ?» = élaboration du plan d'action. FAIS : «Essaye !» = test du plan d'action. VÉRIFIE : «Le plan a-t-il fonctionné ?» = vérification, validation ou correction du plan d'action.",
+      "correct": [
+        "BUT : «Qu'est-ce que tu veux faire ?», soit le rappel de l'habileté motrice motivante",
+        "PLAN : «Comment tu vas faire ?», soit l'élaboration du plan d'action",
+        "VÉRIFIE : «Le plan a-t-il fonctionné ?», soit la vérification, validation ou correction du plan d'action"
+      ],
+      "wrong": [
+        "FAIS correspondrait à l'évaluation finale des progrès de l'enfant sur plusieurs mois",
+        "BUT correspondrait à la vérification du plan d'action déjà mis en œuvre",
+        "PLAN correspondrait au test concret de l'action par l'enfant",
+        "VÉRIFIE consisterait à établir un nouvel objectif thérapeutique, indépendant du plan initial",
+        "Cette stratégie ne comporterait que deux étapes : PLAN et FAIS"
+      ]
+    },
+    {
+      "id": 23,
+      "text": "Dans la stratégie globale du CO-OP, lorsque le plan n'a pas fonctionné, la flèche de retour renvoie vers quelle étape, et avec quel message adressé à l'enfant ?",
+      "explanation": "La flèche de retour renvoie vers l'étape PLAN : elle permet de dire à l'enfant que c'est son plan qui n'était pas adapté, et non le fait qu'il soit «nul» — «Ce n'est pas que tu es nul, c'est juste que ton plan n'était pas le bon… et nous on va réfléchir ensemble pour trouver un autre plan qui sera le bon».",
+      "correct": [
+        "Elle renvoie vers l'étape PLAN, avec le message que c'est le plan qui n'était pas adapté, et non l'enfant qui serait «nul»"
+      ],
+      "wrong": [
+        "Elle renverrait vers l'étape BUT, en remettant en question la motivation initiale de l'enfant",
+        "Elle renverrait vers l'étape FAIS, en demandant à l'enfant de réessayer exactement le même plan sans le modifier",
+        "Elle mettrait fin à la prise en charge de l'habileté motrice concernée",
+        "Elle renverrait vers l'étape VÉRIFIE elle-même, dans une boucle sans fin",
+        "Elle transmettrait à l'enfant le message que son échec est lié à un manque de capacité personnelle",
+        "Elle s'accompagnerait généralement d'une réduction temporaire de la verbalisation de l'enfant",
+        "Elle renverrait vers une nouvelle évaluation standardisée (MCRO/ECQE) avant de poursuivre"
+      ]
+    },
+    {
+      "id": 24,
+      "text": "Quelles sont les grandes étapes de la vue d'ensemble simplifiée de la méthode CO-OP présentées dans le cours ?",
+      "explanation": "La vue d'ensemble simplifiée comprend : le choix d'habiletés motrices par l'enfant (traditionnellement 3), l'apprentissage de la stratégie globale (But-Plan-Fait-Vérifie), l'entraînement des habiletés motrices et l'affinement du plan (au moins 2 habiletés motrices exercées par séance pendant une dizaine de séances), puis la réévaluation, le transfert et la généralisation.",
+      "correct": [
+        "Le choix des habiletés motrices par l'enfant (traditionnellement 3)",
+        "L'apprentissage à l'enfant de la stratégie globale (But-Plan-Fait-Vérifie)",
+        "L'entraînement des habiletés motrices et l'affinement du plan (au moins 2 habiletés motrices exercées par séance)"
+      ],
+      "wrong": [
+        "Le choix des habiletés motrices reposerait avant tout sur l'expertise clinique du thérapeute, plus que sur les préférences de l'enfant",
+        "Quelques séances suffiraient généralement à travailler l'ensemble des habiletés motrices retenues",
+        "La réévaluation finale porterait surtout sur la performance en séance, sans réel lien avec le transfert au quotidien",
+        "La méthode prévoirait une réévaluation seulement en cas d'échec manifeste de la prise en charge",
+        "Le nombre d'habiletés travaillées serait fixé à 10 dès le départ du protocole"
+      ]
+    },
+    {
+      "id": 25,
+      "text": "Comment le plan est-il coconstruit avec l'enfant dans la méthode CO-OP ?",
+      "explanation": "Le plan est coconstruit en observant l'exécution de l'enfant et en repérant les aspects déficitaires (= l'analyse dynamique de l'exécution, ADE), puis en questionnant et guidant l'enfant vers sa propre découverte de solutions (= la découverte guidée), en utilisant la stratégie globale (toujours) et des stratégies spécifiques (si besoin).",
+      "correct": [
+        "En observant l'exécution de l'enfant et en repérant les aspects déficitaires, ce qui correspond à l'analyse dynamique de l'exécution (ADE)",
+        "En questionnant et guidant l'enfant vers sa propre découverte de solutions, ce qui correspond à la découverte guidée"
+      ],
+      "wrong": [
+        "En privilégiant les solutions proposées directement par le thérapeute plutôt que la découverte par l'enfant",
+        "En se concentrant sur la finalité de l'habileté motrice, sans détailler ses étapes constitutives",
+        "En limitant l'observation de l'enfant à un bilan initial, sans suivi régulier de son exécution",
+        "En donnant la priorité aux stratégies spécifiques, la stratégie globale n'intervenant qu'en dernier recours",
+        "En laissant l'enfant expérimenter seul la tâche, le questionnement du thérapeute n'intervenant qu'en fin de séance",
+        "En s'appuyant principalement sur des outils d'évaluation standardisés plutôt que sur l'observation directe de l'enfant"
+      ]
+    },
+    {
+      "id": 26,
+      "text": "Concernant l'analyse dynamique de l'exécution (ADE), illustrée par l'exemple de Dorothée qui a du mal à sauter à la corde, le thérapeute cherche à déterminer :",
+      "explanation": "L'ADE est le processus de questionnement du thérapeute à partir de l'observation de l'enfant en action. Dans l'exemple de Dorothée, le thérapeute détermine : si elle est suffisamment motivée, si elle a une connaissance globale de la tâche, et quel(s) obstacle(s) observable(s) existe(nt) en termes de compétence d'exécution.",
+      "correct": [
+        "Si l'enfant est suffisamment motivée pour exercer l'action",
+        "Si l'enfant a une connaissance globale de la tâche à exécuter",
+        "Quel(s) obstacle(s) observable(s) existe(nt) en termes de compétence d'exécution"
+      ],
+      "wrong": [
+        "Si l'enfant présente une déficience intellectuelle associée à ses difficultés motrices",
+        "Si l'enfant dispose d'un niveau de langage suffisant pour comprendre des consignes complexes",
+        "Si l'enfant présente des signes évocateurs d'un trouble du spectre autistique",
+        "Si l'enfant a acquis la lecture, prérequis supposé à la compréhension de la tâche",
+        "Si l'enfant a atteint un âge chronologique minimum de 10 ans"
+      ]
+    },
+    {
+      "id": 27,
+      "text": "Parmi les 4 principes de la découverte guidée utilisés lors de l'élaboration du plan avec l'enfant, lesquels sont cités dans le cours ?",
+      "explanation": "Les 4 principes de la découverte guidée sont : «Posez des questions, n'expliquez pas !», «Rendre évident !», «Une seule chose à la fois !», et «Guider, ne pas faire à la place !». En CO-OP, les enfants fixent leurs propres objectifs thérapeutiques et sont guidés pour découvrir leurs propres stratégies.",
+      "correct": [
+        "«Posez des questions, n'expliquez pas !»",
+        "«Une seule chose à la fois !»",
+        "«Guider, ne pas faire à la place !»"
+      ],
+      "wrong": [
+        "«Expliquez la solution avant que l'enfant n'essaie, pour lui faire gagner du temps !»",
+        "«Faites une partie du geste à la place de l'enfant lorsque la tâche semble trop difficile !»",
+        "«Travaillez plusieurs stratégies spécifiques en parallèle pour accélérer les progrès !»",
+        "«Minimisez les feedbacks sur les erreurs, pour ne pas décourager l'enfant !»",
+        "«Laissez l'enfant expérimenter seul, la guidance verbale n'intervenant qu'en cas d'échec répété !»"
+      ]
+    },
+    {
+      "id": 28,
+      "text": "Quelle est la définition de l'approche CO-OP selon Polatajko & Mandich (2004) ?",
+      "explanation": "L'approche CO-OP est une approche de résolution de problème, centrée sur la personne, qui promeut l'acquisition d'habiletés motrices par un processus d'utilisation de stratégies cognitives et de découverte guidée. C'est une approche centrée sur la performance («top down») et cognitivo-verbale : le thérapeute encourage l'enfant à verbaliser tout au long de la résolution de problème.",
+      "correct": [
+        "Une approche de résolution de problème, centrée sur la personne, qui promeut l'acquisition d'habiletés motrices par un processus d'utilisation de stratégies cognitives et de découverte guidée"
+      ],
+      "wrong": [
+        "Une approche centrée avant tout sur le renforcement musculaire analytique des groupes moteurs déficitaires",
+        "Une approche combinant rééducation sensorielle et accompagnement médicamenteux de l'enfant",
+        "Une approche centrée en priorité sur l'accompagnement des parents, la participation directe de l'enfant restant secondaire",
+        "Une approche de type bottom-up, centrée sur le renforcement des sous-bassements moteurs préalablement au travail fonctionnel",
+        "Une approche standardisée laissant peu de place à la verbalisation spontanée de l'enfant",
+        "Une approche centrée sur l'établissement d'un diagnostic différentiel du TDC, davantage que sur la rééducation elle-même",
+        "Une approche reposant surtout sur l'observation du thérapeute, la verbalisation de l'enfant restant marginale"
+      ]
+    },
+    {
+      "id": 29,
+      "text": "Concernant les stratégies spécifiques (8+3) de la méthode CO-OP, quelles affirmations sont exactes ?",
+      "explanation": "Les stratégies spécifiques sont facultatives, reposent principalement sur de la guidance verbale et s'intègrent au plan d'action. Le «script verbal» (verbal rote script) guide l'enfant vers une séquence de mots ou de sons pouvant guider son mouvement.",
+      "correct": [
+        "Elles sont facultatives et reposent principalement sur de la guidance verbale, en s'intégrant au plan d'action",
+        "Le «script verbal» consiste à guider l'enfant vers une séquence de mots ou de sons pouvant guider son mouvement"
+      ],
+      "wrong": [
+        "Elles seraient recommandées à chaque séance, en complément systématique de la stratégie globale",
+        "Elles se substitueraient progressivement à la stratégie globale de résolution de problème au fil de la prise en charge",
+        "Le «script verbal» consisterait à faire verbaliser le thérapeute pendant qu'il exécute lui-même le mouvement devant l'enfant",
+        "La «conscience de la position du corps» porterait surtout sur la perception des objets manipulés plutôt que sur la posture de l'enfant",
+        "Elles s'appuieraient en partie sur un appareillage orthopédique adapté à l'enfant",
+        "La «sensation du mouvement» mobiliserait surtout l'attention visuelle de l'enfant plutôt que ses sensations proprioceptives"
+      ]
+    },
+    {
+      "id": 30,
+      "text": "Concernant la structure type de l'intervention CO-OP, ses principes facilitants et ses limites, quelles affirmations sont exactes ?",
+      "explanation": "La phase de préparation (séance 1) permet d'établir les buts avec l'enfant et les parents, de déterminer 3 habiletés motrices et de réaliser une évaluation de départ. La phase d'acquisition comprend 8 séances (séances 2 à 9), avec au moins 2 habiletés par séance. La séance 10 est une phase de vérification (réévaluation). Dans sa forme initiale, la méthode nécessite un engagement actif, un niveau verbal suffisant et un niveau cognitif suffisant chez l'enfant ; elle est donc peu appropriée pour le polyhandicap ou le trouble du développement intellectuel, mais intéressante pour les enfants TDA-H.",
+      "correct": [
+        "La phase de préparation (séance 1) permet notamment de déterminer 3 habiletés motrices et de réaliser une évaluation de départ",
+        "La phase d'acquisition comprend 8 séances de travail, avec au moins 2 habiletés motrices exercées par séance",
+        "La méthode nécessite, dans sa forme initiale, un engagement actif ainsi qu'un niveau verbal et cognitif suffisant de l'enfant"
+      ],
+      "wrong": [
+        "La phase de vérification (séance 10) correspondrait à l'initiation d'un nouveau bilan diagnostique du TDC",
+        "Le nombre de séances resterait globalement standard, avec peu de marge d'adaptation selon l'âge ou les objectifs",
+        "La méthode conviendrait particulièrement bien, sans adaptation notable, aux enfants présentant un polyhandicap",
+        "La méthode serait jugée peu adaptée aux enfants présentant un trouble déficitaire de l'attention avec hyperactivité (TDA-H)",
+        "Les principes facilitants accorderaient une place limitée à la dimension ludique de la prise en charge"
+      ]
+    }
+  ]
+}

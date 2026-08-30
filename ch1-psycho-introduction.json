@@ -1,0 +1,517 @@
+{
+  "subject": "Psychologie",
+  "tag": "Ch1 – Introduction",
+  "description": "30 questions de niveau expert sur le chapitre d'introduction : rappels sur l'approche TCC, notion de santé mentale (définition OMS, modèle bio-psycho-social, santé mentale positive/négative), le normal et le pathologique (relativité, les 3 types de normalité, débat Freud/Bergeret, personnalité, continuum et facteurs de risque), et les classifications diagnostiques (Kraepelin, psychanalyse, types de classifications, CIM, DSM). Distracteurs conçus pour être crédibles et plausibles. Préparation aux partiels.",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Selon les rappels sur l'approche TCC présentés en introduction, quels sont les trois pôles sur lesquels on envisage le fonctionnement psychique ?",
+      "explanation": "Les 3 pôles sur lesquels on envisage le fonctionnement psychique sont l'interaction permanente entre l'émotion, la pensée, et le comportement (ce qui est observable de nos pensées).",
+      "correct": [
+        "L'émotion",
+        "La pensée",
+        "Le comportement, ce qui est observable de nos pensées"
+      ],
+      "wrong": [
+        "La motivation, qui oriente l'ensemble du fonctionnement psychique",
+        "La perception, qui filtre les informations sensorielles avant leur traitement cognitif",
+        "La mémoire, qui conserve les expériences passées de l'individu",
+        "L'attention, qui sélectionne les informations pertinentes de l'environnement",
+        "La sensation, qui correspond à l'activation des récepteurs sensoriels"
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Concernant notre rapport à la réalité, tel que présenté en introduction du cours :",
+      "explanation": "Il faut savoir que nous ne sommes jamais dans la réalité, mais dans une interprétation de la réalité.",
+      "correct": [
+        "Nous ne sommes jamais dans la réalité, mais dans une interprétation de la réalité"
+      ],
+      "wrong": [
+        "Nous accéderions directement à la réalité par nos perceptions sensorielles, sans interprétation cognitive intermédiaire",
+        "Notre rapport à la réalité serait principalement déterminé par nos comportements observables, indépendamment de nos pensées",
+        "L'interprétation de la réalité ne concernerait que les personnes présentant un trouble psychiatrique",
+        "Notre interprétation de la réalité serait fixée une fois pour toutes durant l'enfance",
+        "La réalité serait perçue de façon identique par l'ensemble des individus, indépendamment de leur histoire personnelle",
+        "L'interprétation de la réalité relèverait surtout du registre émotionnel, avec peu d'implication de la pensée",
+        "Notre rapport à la réalité serait avant tout déterminé par des facteurs biologiques innés, indépendamment de l'expérience vécue"
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Selon le cours, quels sont les troubles les plus observés dans la population générale ?",
+      "explanation": "Ceux qui sont le plus observés dans la population sont les troubles anxieux et les troubles de l'humeur.",
+      "correct": [
+        "Les troubles anxieux",
+        "Les troubles de l'humeur"
+      ],
+      "wrong": [
+        "Les troubles du sommeil",
+        "Le spectre de la schizophrénie et les autres psychoses",
+        "Les troubles des conduites alimentaires",
+        "Les troubles dissociatifs",
+        "Les troubles somatiques",
+        "Les dépendances liées à des substances"
+      ]
+    },
+    {
+      "id": 4,
+      "text": "Selon la définition de l'OMS présentée dans le cours, la santé mentale correspond à :",
+      "explanation": "D'après l'OMS, la santé mentale correspond à un état de bien-être mental qui permet de faire face aux sources de stress de la vie, de réaliser son potentiel, de bien apprendre et de bien travailler, et de contribuer à la vie de la communauté.",
+      "correct": [
+        "Un état de bien-être mental qui permet de faire face aux sources de stress de la vie, de réaliser son potentiel, de bien apprendre et de bien travailler, et de contribuer à la vie de la communauté"
+      ],
+      "wrong": [
+        "Un état durable d'absence de toute souffrance psychique, quelles que soient les circonstances de vie",
+        "Une capacité à maintenir un fonctionnement social irréprochable en toutes circonstances",
+        "Un état biologique mesurable par des marqueurs neurophysiologiques objectifs",
+        "Une aptitude à réussir professionnellement et à atteindre les objectifs que l'on s'est fixés",
+        "Un état psychique stable, indépendant du contexte social, familial ou économique de la personne",
+        "Une capacité à résoudre seul l'ensemble des difficultés rencontrées au cours de la vie",
+        "Un équilibre affectif obtenu par la maîtrise complète de ses émotions"
+      ]
+    },
+    {
+      "id": 5,
+      "text": "Selon le cours, la santé mentale d'un individu est déterminée par :",
+      "explanation": "La santé mentale d'un individu est déterminée par une multiplicité de facteurs, biologiques, personnels, familiaux et sociaux ou encore économiques et existentiels (référence au modèle bio-psycho-social).",
+      "correct": [
+        "Une multiplicité de facteurs biologiques, personnels, familiaux, sociaux, économiques et existentiels (modèle bio-psycho-social)"
+      ],
+      "wrong": [
+        "Principalement des facteurs biologiques et génétiques, les autres dimensions jouant un rôle secondaire",
+        "Essentiellement l'environnement familial de la petite enfance, les autres facteurs ayant une influence limitée",
+        "Un ensemble de facteurs propres à l'individu, indépendamment du contexte social ou économique",
+        "Principalement des facteurs sociaux et économiques, la dimension biologique étant peu déterminante",
+        "Des facteurs comportementaux appris, indépendamment de toute dimension biologique",
+        "Un facteur unique dominant, propre à chaque individu, qui expliquerait l'essentiel du fonctionnement psychique",
+        "Des facteurs psychologiques, sans lien avec les conditions de vie matérielles"
+      ]
+    },
+    {
+      "id": 6,
+      "text": "Concernant la place de la santé mentale dans le discours actuel, selon le cours :",
+      "explanation": "La santé mentale est maintenant présente dans le discours : on reconnaît l'importance d'avoir une bonne santé mentale dans un «fonctionnement humain optimal», ce qui banalise un peu l'accès à un psychologue ou à un psychiatre, un peu moins tabou qu'auparavant.",
+      "correct": [
+        "La santé mentale est davantage présente dans le discours, avec une reconnaissance croissante de son importance dans un «fonctionnement humain optimal»",
+        "L'accès à un psychologue ou à un psychiatre tend à se banaliser, étant un peu moins tabou qu'auparavant"
+      ],
+      "wrong": [
+        "La santé mentale resterait un sujet largement absent du discours social actuel",
+        "L'accès à un psychologue ou un psychiatre resterait aujourd'hui aussi tabou qu'auparavant",
+        "La reconnaissance de la santé mentale dans le discours viserait surtout à en minimiser l'importance",
+        "Le fonctionnement humain optimal serait défini indépendamment de toute référence à la santé mentale",
+        "La banalisation de l'accès aux soins psychiques concernerait surtout la psychiatrie, mais pas la psychologie",
+        "Le fait d'en parler davantage aurait plutôt renforcé la honte associée à la consultation"
+      ]
+    },
+    {
+      "id": 7,
+      "text": "Concernant les facteurs qui pèsent sur la santé mentale et la notion de «faire face à la vie», selon le cours :",
+      "explanation": "Ce qui va peser sur la santé mentale, ce sont surtout les facteurs de vie défavorisés. «Faire face à la vie» = «s'adapter» : avoir une flexibilité cognitive pour pouvoir s'adapter aux différentes choses de la vie (stress, pression…), mais parfois on ne peut pas y faire face seul et on a besoin d'aide.",
+      "correct": [
+        "Ce qui pèse le plus sur la santé mentale, ce sont surtout les facteurs de vie défavorisés",
+        "«Faire face à la vie» = «s'adapter», ce qui suppose une flexibilité cognitive face aux différentes situations comme le stress ou la pression"
+      ],
+      "wrong": [
+        "Ce qui pèserait le plus sur la santé mentale serait avant tout la prédisposition génétique de l'individu, indépendamment de ses conditions de vie",
+        "«Faire face à la vie» supposerait avant tout d'éviter les situations stressantes plutôt que de s'y adapter",
+        "La flexibilité cognitive ne concernerait que la capacité à changer d'avis rapidement sur un sujet donné",
+        "Les facteurs de vie favorisés seraient ceux qui pèseraient le plus sur la santé mentale, en générant des attentes excessives",
+        "«Faire face à la vie» impliquerait surtout de gérer seul les difficultés rencontrées, le recours à un soutien extérieur étant peu valorisé par cette notion",
+        "La notion de «faire face» renverrait avant tout à une capacité physique d'endurance face aux contraintes du quotidien"
+      ]
+    },
+    {
+      "id": 8,
+      "text": "Quel paradoxe est souligné dans le cours à propos de la santé mentale ?",
+      "explanation": "Ce qui est paradoxal, c'est que nous pouvons avoir un trouble psychiatrique mais être en bonne santé mentale : nous pouvons souffrir d'une pathologie psychiatrique, mais pour autant nous sentir bien, être en bonne santé mentale.",
+      "correct": [
+        "Il est possible de souffrir d'un trouble psychiatrique tout en étant, par ailleurs, en bonne santé mentale"
+      ],
+      "wrong": [
+        "Il serait difficile de se sentir bien tant qu'un trouble psychiatrique n'est pas résolu",
+        "La bonne santé mentale supposerait l'absence de tout trouble psychiatrique diagnostiqué",
+        "Un trouble psychiatrique entraînerait le plus souvent une dégradation globale et durable du bien-être ressenti",
+        "La santé mentale et les troubles psychiatriques relèveraient de deux échelles largement indépendantes, avec peu de points de recoupement",
+        "Le paradoxe soulevé porterait sur la possibilité d'être en bonne santé physique tout en souffrant d'un trouble psychiatrique",
+        "Le paradoxe porterait sur la difficulté à distinguer un trouble psychiatrique d'un trouble somatique",
+        "Il serait paradoxal qu'une personne en bonne santé mentale puisse malgré tout consulter un psychologue"
+      ]
+    },
+    {
+      "id": 9,
+      "text": "Concernant les caractéristiques de la santé mentale telles que décrites dans le cours, lesquelles sont exactes ?",
+      "explanation": "La santé mentale correspond à un équilibre entre tous les aspects de la vie, fluctue sur un continuum (processus dynamique en permanence adaptable), et constitue un concept multidimensionnel incluant l'absence de manifestations négatives et la présence de manifestations positives. Une bonne santé mentale ne signifie pas ne pas être malade.",
+      "correct": [
+        "Elle correspond à un équilibre entre tous les aspects de la vie",
+        "Elle fluctue sur un continuum, dans un processus dynamique en permanence adaptable",
+        "Elle constitue un concept multidimensionnel incluant l'absence de manifestations négatives et la présence de manifestations positives"
+      ],
+      "wrong": [
+        "Une bonne santé mentale se définirait avant tout par l'absence de maladie diagnostiquée",
+        "Elle correspondrait à un état stable, acquis une fois pour toutes au cours du développement",
+        "Elle se limiterait à la présence de manifestations positives, indépendamment de toute manifestation négative",
+        "Elle serait principalement définie par la capacité à réguler ses émotions négatives",
+        "Elle reposerait avant tout sur un équilibre biologique, les autres dimensions de la vie restant secondaires"
+      ]
+    },
+    {
+      "id": 10,
+      "text": "Comment le cours distingue-t-il la santé mentale «positive» et «négative» ?",
+      "explanation": "La santé mentale positive renvoie au bien-être et aux ressources psychologiques (soutien de l'environnement, conditions de vie comme le sommeil ou l'alimentation). La santé mentale négative renvoie au retentissement des troubles sur la vie quotidienne et à leurs impacts.",
+      "correct": [
+        "La santé mentale positive renvoie au bien-être et aux ressources psychologiques, notamment au soutien de l'environnement et aux conditions de vie",
+        "La santé mentale négative renvoie au retentissement des troubles sur la vie quotidienne et à leurs impacts"
+      ],
+      "wrong": [
+        "La santé mentale positive renverrait à l'absence de troubles diagnostiqués, tandis que la négative désignerait leur présence",
+        "La santé mentale positive concernerait surtout les enfants, tandis que la négative concernerait surtout les adultes",
+        "La santé mentale négative renverrait aux ressources psychologiques disponibles, tandis que la positive concernerait leur absence",
+        "La distinction positive/négative renverrait avant tout à la polarité des émotions ressenties (agréables versus désagréables)",
+        "La santé mentale positive désignerait une évaluation réalisée par un psychiatre, la négative par un psychologue",
+        "Cette distinction opposerait les approches biologiques (positive) aux approches psychosociales (négative) de la santé mentale"
+      ]
+    },
+    {
+      "id": 11,
+      "text": "Concernant les éléments qui favorisent la santé mentale et l'intérêt qu'ils représentent pour la psychomotricité, selon le cours :",
+      "explanation": "Le cours cite l'alimentation, le sommeil et le sport comme éléments favorisant la santé mentale, et souligne l'intérêt du psychomotricien pour la conscience du corps, le souffle ou le sens osseux de la colonne vertébrale.",
+      "correct": [
+        "Des éléments tels que l'alimentation, le sommeil et le sport sont identifiés comme favorisant la santé mentale",
+        "Le psychomotricien peut notamment s'intéresser à la conscience du corps, au souffle ou au sens osseux de la colonne vertébrale"
+      ],
+      "wrong": [
+        "Seuls des facteurs médicamenteux seraient reconnus comme favorisant durablement la santé mentale",
+        "Le sommeil et l'alimentation seraient jugés secondaires par rapport à la pratique sportive intensive",
+        "L'intérêt du psychomotricien porterait avant tout sur l'évaluation du quotient intellectuel de la personne",
+        "Le sport serait présenté comme un facteur de risque pour la santé mentale lorsqu'il est pratiqué régulièrement",
+        "Le psychomotricien s'intéresserait avant tout à l'historique médicamenteux du patient plutôt qu'à la conscience corporelle",
+        "L'alimentation et le sommeil concerneraient surtout la prise en charge des troubles somatiques, avec peu de lien avec la santé mentale"
+      ]
+    },
+    {
+      "id": 12,
+      "text": "Concernant l'accès aux soins psychiques évoqué dans le cours :",
+      "explanation": "L'accès aux psychologues est présenté comme difficile, et celui aux psychiatres comme encore pire.",
+      "correct": [
+        "L'accès à un psychologue est présenté comme difficile, et celui à un psychiatre comme encore plus difficile"
+      ],
+      "wrong": [
+        "L'accès à un psychiatre serait présenté comme plus simple que celui à un psychologue",
+        "L'accès aux soins psychiques serait présenté comme globalement satisfaisant sur l'ensemble du territoire",
+        "Seul l'accès au psychologue poserait difficulté, l'accès au psychiatre étant jugé aisé",
+        "La difficulté d'accès concernerait surtout les psychomotriciens, plus que les psychologues ou psychiatres",
+        "L'accès aux soins psychiques serait jugé équivalent, qu'il s'agisse d'un psychologue ou d'un psychiatre",
+        "La difficulté d'accès aux soins psychiques serait attribuée principalement au coût des consultations, plus qu'au nombre de professionnels disponibles",
+        "L'accès aux soins psychiques serait présenté comme plus simple que l'accès aux soins somatiques"
+      ]
+    },
+    {
+      "id": 13,
+      "text": "Selon le cours, de quoi dépend la distinction entre le normal et le pathologique ?",
+      "explanation": "Le normal et le pathologique dépendent de l'endroit où l'on vit, de la culture, et du regard de la société. La différence entre le normal et le pathologique serait la manière dont l'individu va vivre les choses.",
+      "correct": [
+        "Elle dépend de l'endroit où l'on vit, de la culture, et du regard porté par la société",
+        "La différence entre le normal et le pathologique tiendrait avant tout à la manière dont l'individu vit les choses"
+      ],
+      "wrong": [
+        "Elle dépendrait avant tout de critères biologiques mesurables, indépendamment du contexte culturel",
+        "Elle reposerait sur un seuil statistique fixe, valable de la même manière dans toutes les cultures",
+        "Elle serait définie surtout par la présence ou l'absence de symptômes objectivables",
+        "La différence entre normal et pathologique tiendrait avant tout à la gravité des symptômes observés, indépendamment du vécu subjectif",
+        "Elle dépendrait principalement de l'âge de la personne concernée, plus que de son environnement culturel",
+        "Elle reposerait sur des critères identiques à ceux utilisés pour les maladies somatiques"
+      ]
+    },
+    {
+      "id": 14,
+      "text": "Contrairement aux maladies somatiques, quelles particularités présente le champ de la psychopathologie selon le cours ?",
+      "explanation": "Contrairement aux maladies somatiques, il y a toujours des incertitudes et des méconnaissances en psychopathologie : des différences de symptômes, différentes manières de vivre les choses, et pas forcément de moyen d'évaluer comme dans les maladies somatiques (ex : pas d'outils comme l'IRM).",
+      "correct": [
+        "Il existe toujours des incertitudes et des méconnaissances, avec des différences de symptômes et de manières de vivre les choses",
+        "Il n'existe pas forcément de moyen d'évaluer la pathologie comme dans les maladies somatiques (par exemple, pas d'outils comme l'IRM)"
+      ],
+      "wrong": [
+        "Les maladies somatiques et les troubles psychiques disposeraient globalement des mêmes outils d'évaluation objective",
+        "Les incertitudes concerneraient surtout les maladies somatiques, la psychopathologie bénéficiant d'outils diagnostiques bien établis",
+        "L'imagerie cérébrale (IRM) constituerait aujourd'hui l'outil de référence pour poser un diagnostic psychiatrique",
+        "Les différences de symptômes entre individus seraient anecdotiques et n'affecteraient guère la fiabilité du diagnostic",
+        "La psychopathologie reposerait sur des critères aussi standardisés et objectifs que ceux des maladies somatiques",
+        "Les méconnaissances évoquées concerneraient essentiellement les maladies rares, plus que les troubles psychiques courants"
+      ]
+    },
+    {
+      "id": 15,
+      "text": "Selon le cours, quelles raisons expliquent la grande relativité de la «santé» ou de la «normalité» en santé mentale ?",
+      "explanation": "Trois raisons sont citées : l'absence de réels outils pour des données objectives (pas d'IRM par exemple), le lien intime entre le développement d'une psychopathologie et son interprétation par la culture contemporaine, et le fait que la santé mentale tienne du registre culturel et religieux de l'époque donnée.",
+      "correct": [
+        "L'absence de réels outils pour des données objectives",
+        "Le lien intime entre le développement d'une psychopathologie et son interprétation par la culture contemporaine",
+        "Le fait que la santé mentale tienne du registre culturel et religieux de l'époque donnée"
+      ],
+      "wrong": [
+        "La difficulté à recruter suffisamment de professionnels formés à ces questions",
+        "L'absence de consensus entre les psychiatres et les psychologues sur les traitements à privilégier",
+        "Le coût élevé des prises en charge, qui limiterait leur accès à une partie de la population",
+        "La rareté des troubles psychiques dans la population générale, rendant leur étude difficile",
+        "Le manque de formation initiale des médecins généralistes sur les troubles psychiques"
+      ]
+    },
+    {
+      "id": 16,
+      "text": "Concernant la normalité statistique, l'une des trois définitions de la normalité présentées dans le cours :",
+      "explanation": "La normalité statistique est envisagée par rapport aux autres, en s'appuyant sur la courbe de Gauss, et sert de référence pour valider des recherches.",
+      "correct": [
+        "Elle est envisagée par rapport aux autres, en s'appuyant notamment sur la courbe de Gauss, et sert de référence pour valider des recherches"
+      ],
+      "wrong": [
+        "Elle serait envisagée par rapport à ce qui est attendu et accepté par la société à un moment donné",
+        "Elle correspondrait à un idéal par définition inatteignable, servant de référence pour le perfectionnisme",
+        "Elle reposerait sur l'évaluation clinique individuelle du patient par le thérapeute, indépendamment de toute comparaison statistique",
+        "Elle s'appuierait sur des critères qualitatifs, sans référence à une distribution statistique",
+        "Elle correspondrait à la fréquence d'un comportement au sein d'une seule famille, plutôt qu'au sein de la population générale",
+        "Elle serait fondée sur le jugement subjectif du clinicien plutôt que sur une distribution de référence",
+        "Elle reposerait sur une évaluation de l'intensité et de la fréquence des symptômes plutôt que sur une comparaison à un groupe de référence"
+      ]
+    },
+    {
+      "id": 17,
+      "text": "Concernant la normalité normative, l'une des trois définitions de la normalité présentées dans le cours :",
+      "explanation": "La normalité normative correspond à ce qui est attendu, autorisé et accepté par la société, et évolue avec le temps. L'exemple de l'homosexualité est cité : autrefois considérée comme une pathologie dans les anciens DSM, elle est aujourd'hui acceptée.",
+      "correct": [
+        "Elle correspond à ce qui est attendu, autorisé et accepté par la société à un moment donné, et évolue avec le temps",
+        "L'exemple de l'homosexualité est cité : autrefois considérée comme une pathologie dans les classifications, elle est aujourd'hui acceptée"
+      ],
+      "wrong": [
+        "Elle correspondrait à ce qui est statistiquement le plus fréquent au sein d'une population donnée, indépendamment du jugement social",
+        "Elle constituerait un idéal par définition inatteignable, qui évoluerait peu dans le temps",
+        "L'exemple de la colère est cité comme un comportement toujours bien accepté socialement, quelle que soit sa forme",
+        "Elle reposerait sur des critères fixes et immuables, définis une fois pour toutes par les classifications diagnostiques",
+        "Elle serait déterminée avant tout par la loi, avec peu de lien avec les mœurs ou les usages sociaux",
+        "L'exemple de l'homosexualité serait cité comme un trouble encore considéré comme pathologique dans les classifications actuelles"
+      ]
+    },
+    {
+      "id": 18,
+      "text": "Concernant la normalité idéale, l'une des trois définitions de la normalité présentées dans le cours :",
+      "explanation": "L'idéal est par définition inatteignable (l'idéal n'est pas fait pour qu'on l'atteigne), et cette définition est associée à la capacité de la personne à évoluer, en lien avec le perfectionnisme.",
+      "correct": [
+        "L'idéal est par définition inatteignable, l'idéal n'étant pas fait pour être atteint",
+        "Elle est associée à la capacité de la personne à évoluer, et se rapproche du perfectionnisme"
+      ],
+      "wrong": [
+        "Elle correspondrait à ce qui est statistiquement le plus représenté au sein d'un groupe de référence",
+        "Elle correspondrait à ce qui est attendu et autorisé par la société à un instant donné",
+        "Elle serait présentée comme un but concrètement atteignable, à condition de fournir suffisamment d'efforts",
+        "Elle serait indépendante de toute dimension liée au perfectionnisme",
+        "Elle reposerait sur une comparaison directe avec la courbe de Gauss",
+        "Elle serait définie par les critères diagnostiques des classifications internationales comme la CIM ou le DSM"
+      ]
+    },
+    {
+      "id": 19,
+      "text": "Concernant le débat autour de la notion de normalité évoqué dans le cours :",
+      "explanation": "La notion de normalité reste débattue : Freud refuse l'idée même de normalité, tandis que Bergeret considère que tout le monde est normal.",
+      "correct": [
+        "Freud refuserait l'idée même de normalité",
+        "Bergeret considérerait que tout le monde est normal"
+      ],
+      "wrong": [
+        "Freud considérerait que tout le monde est normal, la normalité étant une construction sociale",
+        "Bergeret refuserait l'idée même de normalité, la jugeant inutilisable en clinique",
+        "Freud et Bergeret partageraient une position largement identique sur la question de la normalité",
+        "Kraepelin serait cité comme l'auteur qui refuse l'idée même de normalité",
+        "Ce débat opposerait principalement des auteurs behavioristes sur la définition de la normalité statistique",
+        "Freud proposerait une définition statistique de la normalité, fondée sur la courbe de Gauss"
+      ]
+    },
+    {
+      "id": 20,
+      "text": "Selon le schéma présenté dans le cours, comment se construit la personnalité ?",
+      "explanation": "La personnalité résulte du mélange du caractère (acquis) et du tempérament (inné) qui, selon les expériences vécues, amènent à des schémas de pensée façonnant la personnalité.",
+      "correct": [
+        "La personnalité résulte du mélange du caractère (acquis) et du tempérament (inné), qui, selon les expériences vécues, amènent à des schémas de pensée façonnant la personnalité"
+      ],
+      "wrong": [
+        "La personnalité résulterait du mélange du tempérament (acquis) et du caractère (inné), indépendamment des expériences vécues",
+        "La personnalité serait principalement déterminée par le tempérament, le caractère n'ayant qu'un rôle mineur",
+        "La personnalité se construirait essentiellement à partir des expériences vécues, indépendamment de toute dimension innée",
+        "La personnalité résulterait du caractère (inné) et du tempérament (acquis), selon un schéma proche de celui utilisé dans le DSM",
+        "La personnalité serait fixée dès la naissance par le tempérament, les schémas de pensée n'intervenant qu'à la marge",
+        "Les schémas de pensée seraient à l'origine du tempérament et du caractère, plutôt que l'inverse",
+        "La personnalité résulterait principalement de facteurs socio-économiques, le tempérament et le caractère jouant un rôle secondaire"
+      ]
+    },
+    {
+      "id": 21,
+      "text": "Comment le cours définit-il la personnalité ?",
+      "explanation": "La personnalité correspond à ce qu'il y a de stable et d'unique dans le fonctionnement psychique d'un individu ; elle résulte de facteurs cognitifs et émotionnels.",
+      "correct": [
+        "Ce qu'il y a de stable et d'unique dans le fonctionnement psychique d'un individu, résultant de facteurs cognitifs et émotionnels"
+      ],
+      "wrong": [
+        "Ce qu'il y a de plus changeant et de plus variable dans le fonctionnement psychique d'un individu",
+        "Un ensemble de comportements observables, avec peu de lien avec une dimension cognitive ou émotionnelle propre",
+        "Un trait unique et isolé qui suffirait à caractériser le fonctionnement global d'un individu",
+        "Le résultat de facteurs environnementaux, indépendamment de processus cognitifs ou émotionnels propres à l'individu",
+        "Un ensemble de symptômes cliniques permettant de poser un diagnostic psychiatrique",
+        "Ce qu'il y a de commun entre tous les individus d'une même culture, indépendamment de leurs particularités propres",
+        "Un ensemble de mécanismes de défense mis en place face à une angoisse typique"
+      ]
+    },
+    {
+      "id": 22,
+      "text": "Concernant les traits de personnalité tels que décrits dans le cours :",
+      "explanation": "Les traits de personnalité définissent un fonctionnement psychologique, une perception de l'environnement, et une manière de gérer les relations interpersonnelles. Tous les individus en présentent, à des degrés plus ou moins marqués, et ils sont fluctuants.",
+      "correct": [
+        "Ils définissent un fonctionnement psychologique, une perception de l'environnement et une manière de gérer les relations interpersonnelles",
+        "Ils sont fluctuants, et tous les individus en présentent, à des degrés plus ou moins marqués"
+      ],
+      "wrong": [
+        "Ils seraient fixés dès la petite enfance, avec peu de possibilité de fluctuation ultérieure",
+        "Ils ne concerneraient que les personnes présentant un trouble de la personnalité diagnostiqué",
+        "Ils se limiteraient à la manière de gérer les relations interpersonnelles, avec peu de lien avec la perception de l'environnement",
+        "Ils seraient largement indépendants du fonctionnement psychologique global de la personne",
+        "Seule une minorité d'individus présenterait des traits de personnalité identifiables",
+        "Ils correspondraient à des catégories diagnostiques binaires, présentes ou absentes chez un individu"
+      ]
+    },
+    {
+      "id": 23,
+      "text": "Concernant le continuum entre le normal et le pathologique évoqué dans le cours, quels éléments sont mis en avant ?",
+      "explanation": "Le continuum entre le normal et le pathologique met en avant l'importance de la flexibilité, de la souplesse et de l'adaptabilité, la pluralité des modes de fonctionnement utilisés, et son caractère évolutif selon les expériences et les âges de la vie.",
+      "correct": [
+        "L'importance de la flexibilité, de la souplesse et de l'adaptabilité",
+        "La pluralité des modes de fonctionnement utilisés",
+        "Le caractère évolutif de ce continuum selon les expériences et les âges de la vie"
+      ],
+      "wrong": [
+        "L'existence d'un seuil fixe et universel séparant clairement le normal du pathologique",
+        "La stabilité du fonctionnement psychique, qui resterait identique tout au long de la vie",
+        "La nécessité de recourir à un seul mode de fonctionnement pour être considéré comme normal",
+        "L'indépendance du fonctionnement psychique par rapport aux expériences vécues au cours de la vie",
+        "La primauté des facteurs biologiques sur les facteurs environnementaux dans ce continuum"
+      ]
+    },
+    {
+      "id": 24,
+      "text": "Parmi les facteurs de risque de troubles psychopathologiques cités dans le cours, lesquels sont exacts ?",
+      "explanation": "Les facteurs de risque cités sont : l'altération du fonctionnement social, une rigidité et des traits de personnalité marqués (très caractéristique de l'impulsivité ou de l'anorexie mentale), et une incapacité d'adaptation aux différentes situations de la vie.",
+      "correct": [
+        "L'altération du fonctionnement social",
+        "Une rigidité et des traits de personnalité marqués",
+        "Une incapacité d'adaptation aux différentes situations de la vie"
+      ],
+      "wrong": [
+        "Une flexibilité cognitive particulièrement développée face aux situations de la vie",
+        "Une multiplicité et une diversité des modes de fonctionnement utilisés par la personne",
+        "Un fonctionnement social stable et bien intégré dans la durée",
+        "Une capacité d'adaptation marquée face aux changements de vie",
+        "Un tempérament inné particulièrement expressif, indépendamment du contexte de vie"
+      ]
+    },
+    {
+      "id": 25,
+      "text": "Quel apport est attribué à Emile Kraepelin dans le cours, concernant les classifications diagnostiques ?",
+      "explanation": "Kraepelin a établi le tableau clinique du patient : un ensemble de signes et de symptômes, une évolution typique (aiguë ou chronique), une étiologie précise (souvent multifactorielle), et un traitement spécifique.",
+      "correct": [
+        "Il a établi le tableau clinique du patient, regroupant un ensemble de signes et de symptômes, une évolution typique, une étiologie et un traitement spécifique"
+      ],
+      "wrong": [
+        "Il aurait établi la notion de structure psychique, associant un désir, une angoisse typique et des mécanismes de défense",
+        "Il serait à l'origine de la première classification internationale des maladies (CIM), reprise ensuite par l'OMS",
+        "Il aurait introduit la distinction entre classification catégorielle et classification dimensionnelle",
+        "Il aurait proposé les trois définitions de la normalité (statistique, normative, idéale) présentées dans le cours",
+        "Il serait à l'origine du DSM, destiné à faciliter la rapidité et la fiabilité du diagnostic",
+        "Il aurait développé le modèle bio-psycho-social de la santé mentale évoqué par l'OMS",
+        "Il aurait proposé la distinction entre santé mentale positive et négative"
+      ]
+    },
+    {
+      "id": 26,
+      "text": "Selon le cours, comment la psychanalyse aborde-t-elle les classifications, à travers la notion de structure psychique et psychopathologique ?",
+      "explanation": "La psychanalyse aborde les notions de structure avec l'association d'un désir, d'une angoisse typique, et la mise en place de mécanismes de défense.",
+      "correct": [
+        "Elle associe un désir, une angoisse typique, et la mise en place de mécanismes de défense"
+      ],
+      "wrong": [
+        "Elle reposerait sur un ensemble de signes et de symptômes associés à une évolution typique et une étiologie précise",
+        "Elle catégoriserait les troubles selon une approche binaire, en oui ou non, pour chaque caractéristique",
+        "Elle décrirait les troubles selon leur intensité et leur fréquence, dans une approche dimensionnelle",
+        "Elle synthétiserait les troubles en fonction de types ou de constellations de traits, dans une approche typologique",
+        "Elle se fonderait sur des données de mortalité recueillies dans différents pays et à différentes époques",
+        "Elle reposerait sur les résultats de la recherche en génétique et en neuro-imagerie",
+        "Elle s'organiserait en fonction de plusieurs aspects, dont les dimensions développementales et culturelles"
+      ]
+    },
+    {
+      "id": 27,
+      "text": "Concernant les objectifs des classifications diagnostiques et leurs conditions, selon le cours :",
+      "explanation": "Les classifications visent la systématisation et le diagnostic, le partage d'un langage commun, et des informations sur la nature, l'origine et le développement des troubles, permettant de poser des indications thérapeutiques. Trois conditions sont indispensables : l'homogénéité, la validité et la fidélité.",
+      "correct": [
+        "Elles visent la systématisation et le diagnostic, tout en permettant le partage d'un langage commun et des informations sur la nature, l'origine et le développement des troubles",
+        "Trois conditions sont indispensables à une classification : l'homogénéité, la validité et la fidélité"
+      ],
+      "wrong": [
+        "Elles viseraient avant tout à réduire le nombre de consultations nécessaires pour poser un diagnostic",
+        "Le partage d'un langage commun ne serait pas un objectif recherché par les classifications diagnostiques",
+        "Les trois conditions indispensables seraient l'objectivité, la reproductibilité et l'exhaustivité",
+        "Les classifications viseraient avant tout des fins de recherche, avec peu de lien avec les indications thérapeutiques",
+        "L'homogénéité et la fidélité seraient jugées moins importantes que l'exhaustivité du nombre de catégories",
+        "Les classifications chercheraient avant tout à remplacer l'évaluation clinique individuelle du patient"
+      ]
+    },
+    {
+      "id": 28,
+      "text": "Concernant les différents types de classifications présentés dans le cours, quelles associations sont exactes ?",
+      "explanation": "La classification catégorielle repose sur un nombre de caractéristiques nécessaires et suffisantes, de façon binaire (oui/non). La classification dimensionnelle est plus nuancée selon l'intensité ou la fréquence d'un trait, davantage une évaluation clinique qu'un diagnostic. La classification typologique synthétise les troubles en fonction de «types» ou de «syndromes».",
+      "correct": [
+        "La classification catégorielle repose sur un nombre de caractéristiques nécessaires et suffisantes, de façon binaire (oui/non)",
+        "La classification dimensionnelle est plus nuancée, selon l'intensité ou la fréquence d'un trait, et s'apparente davantage à une évaluation clinique qu'à un diagnostic",
+        "La classification typologique synthétise les troubles en fonction de «types» ou de «syndromes», selon une constellation de traits"
+      ],
+      "wrong": [
+        "La classification catégorielle reposerait sur l'intensité et la fréquence d'un trait plutôt que sur une logique binaire",
+        "La classification dimensionnelle constituerait davantage un diagnostic tranché qu'une évaluation clinique nuancée",
+        "La classification typologique reposerait sur un ensemble de caractéristiques nécessaires et suffisantes, de façon binaire",
+        "La classification catégorielle et la classification dimensionnelle reposeraient sur une logique largement similaire",
+        "La classification typologique correspondrait à la classification retenue par la CIM depuis sa création"
+      ]
+    },
+    {
+      "id": 29,
+      "text": "Concernant l'histoire et la structure de la CIM (Classification Internationale des Maladies) selon le cours :",
+      "explanation": "La CIM trouve son origine dans le recueil des causes et données de mortalité dans différents pays et différentes époques, dans le registre des pathologies somatiques, avant d'être reprise par l'OMS. Une section sur les troubles mentaux y a ensuite été ajoutée, marquant l'apparition des maladies et troubles mentaux dans cette classification.",
+      "correct": [
+        "Elle trouve son origine dans le recueil des causes et données de mortalité dans différents pays et différentes époques, avant d'être reprise par l'OMS",
+        "Une section spécifique sur les troubles mentaux y a été ajoutée par la suite, marquant l'apparition des maladies et troubles mentaux dans cette classification"
+      ],
+      "wrong": [
+        "Elle aurait été conçue dès l'origine comme un outil dédié avant tout aux troubles mentaux",
+        "Elle aurait été élaborée directement par des psychanalystes, avant d'être reprise plus tard par l'OMS",
+        "Elle serait structurée en fonction de plusieurs aspects, dont la dimension développementale et les valeurs culturelles",
+        "Chaque chapitre serait divisé en trois livrets distincts, dont un consacré spécifiquement à la recherche",
+        "Elle chercherait avant tout à se rapprocher du DSM en adoptant une classification catégorielle",
+        "Elle aurait été élaborée à partir des travaux d'Emile Kraepelin sur le tableau clinique"
+      ]
+    },
+    {
+      "id": 30,
+      "text": "Concernant le DSM tel que décrit dans le cours, quelles affirmations sont exactes ?",
+      "explanation": "Le DSM est apparu après la CIM, destiné à faciliter le diagnostic et sa rapidité en cherchant la fiabilité la plus forte. Il est aujourd'hui organisé selon une approche dimensionnelle, axée sur l'intensité et la fréquence des troubles, avec une vision de continuum ; les troubles anxieux, les TOC et le trauma y ont désormais leur propre catégorie à part entière.",
+      "correct": [
+        "Le DSM est apparu après la CIM, avec pour objectif de faciliter le diagnostic et sa rapidité, en cherchant la fiabilité la plus forte",
+        "Il est aujourd'hui organisé selon une approche dimensionnelle axée sur l'intensité et la fréquence des troubles, avec une vision de continuum"
+      ],
+      "wrong": [
+        "Le DSM serait apparu avant la CIM, cette dernière s'en étant ensuite largement inspirée",
+        "Le DSM reposerait aujourd'hui avant tout sur une approche catégorielle binaire, sans dimension d'intensité ni de fréquence",
+        "Le DSM aurait été conçu à l'origine par l'Organisation Mondiale de la Santé, avant d'être repris par des associations nationales",
+        "Les troubles anxieux, les TOC et le trauma resteraient regroupés dans une seule et même catégorie diagnostique dans les versions actuelles",
+        "Le DSM s'organiserait en fonction de trois grands aspects, contre un nombre bien plus élevé pour la CIM",
+        "Le DSM chercherait avant tout à s'éloigner de toute référence aux normes et valeurs culturelles dans la définition des troubles mentaux"
+      ]
+    }
+  ]
+}
