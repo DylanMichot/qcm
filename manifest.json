@@ -1,58 +1,22 @@
 {
   "subjects": [
-    {
-      "file": "ch5-gustation.json",
-      "subject": "Neurophysiologie – Gustation",
-      "tag": "Ch5 – Gustation",
-      "description": "30 questions de niveau expert sur la gustation"
+        {
+      "file": "ch1-coop-v3.json",
+      "subject": "TDC 1 - CO-OP",
+      "tag": "TDC",
+      "description": "La méthode CO-OP"
     },
     {
-      "file": "ch6-olfaction.json",
-      "subject": "Neurophysiologie – Olfaction",
-      "tag": "Ch6 – Olfaction",
-      "description": "30 questions de niveau expert sur l'olfaction"
+      "file": "ch1-psycho-introduction.json",
+      "subject": "Psycho 1 - Intro",
+      "tag": "Psycho",
+      "description": "Introduction au cours de psychologie, le normal & le pathologique"
     },
     {
-      "file": "ch7-9-trigeminal-thermique.json",
-      "subject": "Neurophysiologie – Sensibilités Trigéminale & Thermique",
-      "tag": "Ch7&9 – Sensibilités Trigéminale & Thermique",
-      "description": "30 questions de niveau expert sur les sensibilités trigéminale et thermique"
-    },
-    {
-      "file": "ch8-exteroception-mecanique.json",
-      "subject": "Neurophysiologie – Extéroception Mécanique",
-      "tag": "Ch8 – Extéroception Mécanique",
-      "description": "30 questions de niveau expert sur l'extéroception mécanique"
-    },
-    {
-      "file": "ch10-nociception.json",
-      "subject": "Neurophysiologie – Nociception",
-      "tag": "Ch10 – Nociception",
-      "description": "30 questions de niveau expert sur la nociception"
-    },
-    {
-      "file": "qcm_tests_jeune.json",
-      "subject": "Tests – Bekier",
-      "tag": "Tests",
-      "description": "60 questions de niveau expert sur les tests"
-    },
-    {
-      "file": "qcm_psychomotricite_psychiatrie.json",
-      "subject": "Psychiatrie - G.",
-      "tag": "Psychiatrie",
-      "description": "60 questions de niveau expert sur la psychomotricité en psychiatrie"
-    },
-    {
-      "file": "qcm_lefevre_annale.json",
-      "subject": "Gériatrie MMSE",
-      "tag": "Gériatrie",
-      "description": "QCM Classique MMSE"
-    },
-    {
-      "file": "geronto_tableau_diagnostique.json",
-      "subject": "Gériatrie Profils Troubles",
-      "tag": "Gériatrie",
-      "description": "QCM Tableau Diagnostics Géronto"
+      "file": "ch2-troubles-anxieux-trauma-toc.json",
+      "subject": "Psycho 2 - Troubles Anxieux, Trauma, TOC",
+      "tag": "Psycho",
+      "description": "Cours sur les troubles anxieux, le trauma et les TOC"
     }
   ]
 }
