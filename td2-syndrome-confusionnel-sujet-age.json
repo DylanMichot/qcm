@@ -1,0 +1,517 @@
+{
+  "subject": "Gérontopsychomotricité",
+  "tag": "TD2 – Le syndrome confusionnel du sujet âgé",
+  "description": "30 questions de niveau expert sur le syndrome confusionnel du sujet âgé : difficultés diagnostiques, définition du CEN, distinction avec la démence, signes cardinaux, description clinique (début et phase d'état), évolution, étiologies et facteurs prédisposants, et examens complémentaires (clinique, biologiques, TDM, EEG, LCR). Distracteurs conçus pour être crédibles, plausibles et de longueur comparable aux bonnes réponses.",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Concernant la prudence diagnostique face à un patient présentant des propos incohérents ou une désorientation, selon le cours :",
+      "explanation": "Un patient présentant ces signes ne doit pas être systématiquement qualifié de confus : d'autres diagnostics sont possibles (démences, dépressions, psychose hallucinatoire chronique). Il existe une urgence gériatrique lorsque des troubles psychiques sont associés à des troubles somatiques, ce qui doit faire évoquer une confusion pour en rechercher la cause et traiter rapidement.",
+      "correct": [
+        "Un patient présentant ces signes ne doit pas être systématiquement qualifié de confus, d'autres diagnostics étant possibles (démence, dépression, psychose hallucinatoire chronique)",
+        "Il existe une urgence gériatrique lorsque des troubles psychiques sont associés à des troubles somatiques, ce qui doit faire évoquer une confusion pour en rechercher la cause"
+      ],
+      "wrong": [
+        "Un patient présentant ces signes serait le plus souvent qualifié de confus d'emblée, les autres diagnostics étant rarement envisagés en pratique",
+        "L'urgence gériatrique ne concernerait que les troubles psychiques isolés, sans lien nécessaire avec des troubles somatiques associés",
+        "La psychose hallucinatoire chronique serait généralement écartée dès qu'un patient présente une désorientation temporo-spatiale",
+        "La dépression du sujet âgé ne présenterait que rarement des troubles cognitifs pouvant faire évoquer à tort une confusion",
+        "L'urgence gériatrique serait surtout définie par la présence de troubles somatiques isolés, sans lien avec des troubles psychiques",
+        "Un diagnostic de confusion serait à éviter le plus possible, au profit d'un diagnostic de démence par défaut"
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Selon la définition du CEN (collège des enseignants en neurologie), la confusion mentale est :",
+      "explanation": "La confusion mentale est un syndrome clinique fréquent caractérisé par une désorganisation aiguë de l'ensemble des fonctions cognitives et comportementales, mais n'étant pas due à des lésions structurelles du cerveau.",
+      "correct": [
+        "Un syndrome clinique fréquent caractérisé par une désorganisation aiguë de l'ensemble des fonctions cognitives et comportementales, sans être due à des lésions structurelles du cerveau"
+      ],
+      "wrong": [
+        "Un syndrome clinique rare caractérisé par une désorganisation progressive et durable des seules fonctions cognitives, en lien avec des lésions structurelles du cerveau",
+        "Un syndrome clinique fréquent caractérisé par une atteinte isolée de la mémoire de travail, sans retentissement sur le comportement",
+        "Un syndrome clinique fréquent caractérisé par une désorganisation aiguë et isolée du langage, sans atteinte des autres fonctions cognitives",
+        "Un syndrome clinique fréquent caractérisé par une désorganisation chronique et progressive de l'ensemble des fonctions cognitives et comportementales",
+        "Un syndrome clinique fréquent caractérisé par une désorganisation aiguë des fonctions motrices, sans atteinte des fonctions cognitives",
+        "Un syndrome clinique rare caractérisé par une atteinte avant tout affective, avec peu de désorganisation cognitive ou comportementale associée",
+        "Un syndrome clinique fréquent caractérisé par une désorganisation aiguë des fonctions cognitives, généralement due à une lésion cérébrale identifiable"
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Concernant l'installation et les principales causes de la confusion mentale, selon le cours :",
+      "explanation": "Elle implique une réversibilité et une installation sur un mode aigu, en quelques heures ou au plus quelques jours. La plupart des confusions mentales résultent de troubles métaboliques, toxiques (médicamenteux) ou infectieux.",
+      "correct": [
+        "Elle implique une réversibilité et une installation sur un mode aigu, en quelques heures ou au plus quelques jours",
+        "La plupart des confusions mentales résultent de troubles métaboliques, toxiques (médicamenteux) ou infectieux"
+      ],
+      "wrong": [
+        "Elle implique une irréversibilité et une installation progressive s'étalant sur plusieurs mois, voire plusieurs années",
+        "La plupart des confusions mentales résulteraient de troubles génétiques ou héréditaires, plutôt que de causes métaboliques ou infectieuses",
+        "Elle implique une réversibilité, mais une installation progressive s'étalant sur plusieurs semaines à plusieurs mois",
+        "La plupart des confusions mentales résulteraient de troubles avant tout psychologiques, avec peu de cause somatique identifiable",
+        "Elle implique une irréversibilité, mais une installation aiguë en quelques heures à quelques jours",
+        "La plupart des confusions mentales résulteraient de traumatismes psychiques anciens, remontant souvent à l'enfance du patient"
+      ]
+    },
+    {
+      "id": 4,
+      "text": "Comment le cours distingue-t-il la confusion mentale du syndrome démentiel ?",
+      "explanation": "Par définition, la confusion mentale se distingue d'un syndrome démentiel, presque toujours progressif et toujours irréversible, par son caractère aigu et réversible.",
+      "correct": [
+        "La confusion mentale se distingue du syndrome démentiel, presque toujours progressif et toujours irréversible, par son caractère aigu et réversible"
+      ],
+      "wrong": [
+        "La confusion mentale se distinguerait du syndrome démentiel par son caractère progressif et irréversible, ce dernier étant plutôt aigu et réversible",
+        "La confusion mentale et le syndrome démentiel seraient présentés comme deux termes globalement équivalents dans le cours",
+        "Le syndrome démentiel serait, à la différence de la confusion, presque toujours aigu et réversible en quelques jours",
+        "La confusion mentale se distinguerait surtout par une atteinte isolée de la mémoire, le syndrome démentiel touchant davantage le comportement",
+        "Le syndrome démentiel serait présenté comme un trouble transitoire, à la différence de la confusion, plus durable",
+        "La confusion mentale se distinguerait surtout par l'absence de trouble cognitif associé, contrairement au syndrome démentiel",
+        "Le syndrome démentiel serait décrit comme plus fréquent que la confusion chez le sujet âgé hospitalisé en urgence"
+      ]
+    },
+    {
+      "id": 5,
+      "text": "Quels sont les trois signes cardinaux de la description clinique de la confusion mentale présentés dans le cours ?",
+      "explanation": "Les trois signes cardinaux sont les troubles de l'attention, l'inversion du rythme veille-sommeil, et la fluctuation dans le temps.",
+      "correct": [
+        "Les troubles de l'attention",
+        "L'inversion du rythme veille-sommeil",
+        "La fluctuation dans le temps"
+      ],
+      "wrong": [
+        "Les troubles du langage expressif",
+        "La perte de l'orientation spatiale",
+        "L'altération de la mémoire à long terme",
+        "Les troubles moteurs de la marche",
+        "L'apparition de troubles délirants chroniques"
+      ]
+    },
+    {
+      "id": 6,
+      "text": "Concernant les signes de début de la confusion mentale décrits dans le cours, quelles affirmations sont exactes ?",
+      "explanation": "Les signes de début, d'apparition récente et rapidement progressifs, incluent une insomnie avec cauchemars, une tendance à somnoler dans la journée, des céphalées diffuses, une asthénie, une anorexie, ainsi que des modifications de l'humeur et du comportement.",
+      "correct": [
+        "Une insomnie avec cauchemars, associée à une tendance à somnoler dans la journée",
+        "Des céphalées diffuses et une asthénie",
+        "Une anorexie, ainsi que des modifications de l'humeur et du comportement"
+      ],
+      "wrong": [
+        "Une hypersomnie nocturne associée à une hyperactivité diurne intense et soutenue",
+        "Une augmentation franche de l'appétit, associée à une amélioration générale de l'humeur",
+        "Des douleurs articulaires localisées, sans retentissement sur le sommeil ou l'appétit",
+        "Une amélioration progressive de la concentration et de la vigilance dans les jours précédant l'épisode",
+        "Une euphorie inhabituelle, associée à une augmentation de l'énergie et de la motivation"
+      ]
+    },
+    {
+      "id": 7,
+      "text": "Concernant la présentation générale du patient en phase d'état de confusion mentale, selon le cours :",
+      "explanation": "La présentation est désordonnée et négligée, avec un faciès figé et inexpressif, hagard, et une parole indistincte. On observe un ralentissement psychomoteur et une difficulté à fixer son attention, cette inertie étant entrecoupée d'épisodes d'agitation psychomotrice, voire de périodes d'hyperactivité nocturne.",
+      "correct": [
+        "Une présentation désordonnée et négligée, avec un faciès figé et inexpressif, hagard, et une parole indistincte",
+        "Un ralentissement psychomoteur et une difficulté à fixer son attention",
+        "Cette inertie est entrecoupée d'épisodes d'agitation psychomotrice, voire de périodes d'hyperactivité nocturne"
+      ],
+      "wrong": [
+        "Une présentation soignée et méticuleuse, avec un visage expressif et un discours particulièrement fluide",
+        "Une accélération psychomotrice constante, sans période de ralentissement ni difficulté attentionnelle",
+        "Cette agitation permanente serait rarement entrecoupée de phases de ralentissement ou d'inertie",
+        "Une amélioration de l'attention et de la concentration observée typiquement en phase d'état",
+        "Une hyperactivité surtout diurne, sans recrudescence particulière des symptômes la nuit"
+      ]
+    },
+    {
+      "id": 8,
+      "text": "Concernant les troubles cognitifs fluctuants de la confusion mentale, selon le cours :",
+      "explanation": "On observe une obnubilation, des troubles de la mémoire, une désorientation temporo-spatiale, un langage incohérent, une écriture perturbée et une altération du jugement. Ces troubles cognitifs fluctuent dans le temps, avec une prédominance vespérale.",
+      "correct": [
+        "On observe une obnubilation, des troubles de la mémoire, une désorientation temporo-spatiale, un langage incohérent, une écriture perturbée et une altération du jugement",
+        "Ces troubles cognitifs fluctuent dans le temps, avec une prédominance vespérale"
+      ],
+      "wrong": [
+        "On observerait surtout une amélioration progressive du jugement et du langage au fil de la journée",
+        "Ces troubles cognitifs seraient stables tout au long de la journée, sans variation particulière selon le moment",
+        "On observerait surtout une atteinte isolée de l'écriture, sans retentissement sur la mémoire ou le jugement",
+        "Ces troubles cognitifs fluctueraient dans le temps, avec une prédominance plutôt matinale qu'en fin de journée",
+        "On observerait surtout une désorientation spatiale isolée, sans atteinte associée de la mémoire ou du langage",
+        "Ces troubles cognitifs seraient présentés comme constants et prévisibles d'un jour à l'autre, sans réelle fluctuation"
+      ]
+    },
+    {
+      "id": 9,
+      "text": "Concernant les troubles de l'humeur et de l'affectivité observés dans la confusion mentale, selon le cours :",
+      "explanation": "Une perplexité anxieuse est fréquente, le patient pouvant être très angoissé voire terrorisé, ce qui peut entraîner une réaction de fuite, d'autodestruction, de méconnaissance du danger et d'agressivité.",
+      "correct": [
+        "Une perplexité anxieuse est fréquente, le patient pouvant être très angoissé voire terrorisé",
+        "Cet état peut entraîner une réaction de fuite, d'autodestruction, de méconnaissance du danger et d'agressivité"
+      ],
+      "wrong": [
+        "Une euphorie sereine est fréquente, le patient se montrant généralement détendu et confiant",
+        "Cet état entraînerait surtout une réaction de retrait calme, sans risque particulier pour la sécurité du patient",
+        "Une perplexité anxieuse serait rare dans ce contexte, le patient restant le plus souvent lucide sur sa situation",
+        "Cet état entraînerait surtout une amélioration du jugement face au danger, en lien avec l'hypervigilance associée",
+        "Une tristesse profonde et durable serait le trouble affectif le plus caractéristique, plutôt que l'anxiété",
+        "Cet état n'aurait généralement pas de conséquence comportementale notable, l'humeur restant le seul symptôme touché"
+      ]
+    },
+    {
+      "id": 10,
+      "text": "Concernant le délire onirique avec hallucinations décrit dans le cours, quelles affirmations sont exactes ?",
+      "explanation": "Il présente une recrudescence nocturne, avec des hallucinations diverses (visuelles, auditives, gustatives, olfactives). Les thèmes sont surtout zoopsiques, mais peuvent aussi être familiaux ou professionnels.",
+      "correct": [
+        "Il présente une recrudescence nocturne, avec des hallucinations diverses (visuelles, auditives, gustatives, olfactives)",
+        "Les thèmes sont surtout zoopsiques, mais peuvent aussi être familiaux ou professionnels"
+      ],
+      "wrong": [
+        "Il présenterait surtout une recrudescence diurne, les hallucinations disparaissant généralement la nuit",
+        "Les thèmes seraient avant tout d'ordre religieux, avec peu de lien avec des éléments zoopsiques, familiaux ou professionnels",
+        "Il ne concernerait que les hallucinations visuelles, les autres modalités sensorielles étant rarement touchées",
+        "Les thèmes seraient surtout liés à des figures historiques ou politiques, plutôt qu'à des animaux",
+        "Il présenterait une intensité stable tout au long de la journée, sans variation notable selon le moment",
+        "Les thèmes seraient présentés comme identiques d'un patient à l'autre, sans variation individuelle possible"
+      ]
+    },
+    {
+      "id": 11,
+      "text": "Concernant l'atteinte somatique associée à la confusion mentale, selon le cours :",
+      "explanation": "Cette atteinte est variable mais constante, avec une altération de l'état général (insomnie, fièvre, troubles digestifs, surtout déshydratation). Si elle n'est pas la cause de la confusion, elle en crée l'étiologie, et si elle n'en est pas l'origine, elle crée des désordres somatiques.",
+      "correct": [
+        "Cette atteinte est variable mais constante, avec une altération de l'état général (insomnie, fièvre, troubles digestifs, surtout déshydratation)",
+        "Cette atteinte somatique peut être la cause de la confusion, ou en être une conséquence en créant des désordres somatiques"
+      ],
+      "wrong": [
+        "Cette atteinte somatique serait rare et inconstante, la confusion mentale pouvant souvent survenir sans grand retentissement physique",
+        "Cette atteinte somatique serait avant tout une conséquence de la confusion, pouvant rarement en être la cause",
+        "L'altération de l'état général se limiterait le plus souvent à des troubles digestifs, sans lien avec la fièvre ou la déshydratation",
+        "Cette atteinte somatique serait surtout observée chez les patients jeunes, plutôt que chez le sujet âgé confus",
+        "L'altération de l'état général serait présentée comme un signe tardif, apparaissant seulement après la guérison de la confusion",
+        "Cette atteinte somatique serait présentée comme sans lien avec la déshydratation, contrairement à la fièvre ou aux troubles digestifs"
+      ]
+    },
+    {
+      "id": 12,
+      "text": "Concernant l'évolution favorable de la confusion mentale décrite dans le cours, quelles affirmations sont exactes ?",
+      "explanation": "L'évolution est le plus souvent favorable si le patient est bien pris en charge, parfois après une nuit de sommeil ou une crise polyurique. Le plus souvent, l'évolution se fait de façon progressive avec une asthénie prolongée, une perturbation du sommeil et une amnésie lacunaire, avant une amélioration somatique.",
+      "correct": [
+        "L'évolution est le plus souvent favorable si le patient est bien pris en charge, parfois après une nuit de sommeil ou une crise polyurique",
+        "Le plus souvent, l'évolution se fait de façon progressive avec une asthénie prolongée, une perturbation du sommeil et une amnésie lacunaire, avant une amélioration somatique"
+      ],
+      "wrong": [
+        "L'évolution serait rarement favorable, quelle que soit la qualité de la prise en charge proposée au patient",
+        "Le plus souvent, l'évolution se ferait de façon brutale et instantanée, sans phase intermédiaire d'asthénie ou de perturbation du sommeil",
+        "L'évolution favorable dépendrait avant tout de la prise d'un traitement antibiotique, quelle que soit la cause de la confusion",
+        "Le plus souvent, l'évolution se ferait sans grande amnésie résiduelle, le patient se souvenant assez précisément de l'épisode",
+        "L'évolution favorable serait largement indépendante de la prise en charge proposée, la guérison survenant le plus souvent spontanément",
+        "Le plus souvent, l'évolution favorable s'accompagnerait d'une aggravation transitoire des troubles somatiques avant la guérison"
+      ]
+    },
+    {
+      "id": 13,
+      "text": "Concernant les signes d'alerte et l'évolution défavorable possible de la confusion mentale, selon le cours :",
+      "explanation": "Si l'amélioration est seulement mentale, il faut craindre une rechute. Les risques évoqués incluent un délire chronique, une dépendance ultérieure accrue, ou une évolution fatale.",
+      "correct": [
+        "Si l'amélioration est seulement mentale, il faut craindre une rechute",
+        "Les risques évoqués incluent un délire chronique, une dépendance ultérieure accrue, ou une évolution fatale"
+      ],
+      "wrong": [
+        "Si l'amélioration est seulement somatique, elle serait considérée comme un signe rassurant excluant tout risque de rechute",
+        "Les risques évoqués concerneraient surtout une amélioration rapide et durable de l'autonomie du patient",
+        "Une amélioration mentale isolée serait présentée comme un signe de bon pronostic, sans risque particulier associé",
+        "Les risques évoqués se limiteraient à une simple fatigue passagère, sans conséquence sur l'autonomie du patient",
+        "Si l'amélioration est seulement mentale, cela serait interprété comme le signe d'une guérison complète et définitive",
+        "Les risques évoqués concerneraient surtout un retour rapide à un état cognitif identique à celui d'avant l'épisode"
+      ]
+    },
+    {
+      "id": 14,
+      "text": "Parmi les étiologies et facteurs déclenchants de la confusion mentale cités dans le cours, lesquels relèvent d'une origine infectieuse, médicamenteuse ou cardiovasculaire ?",
+      "explanation": "Sont cités : une infection urinaire ou pulmonaire (infectieux), un sevrage en benzodiazépine (médicamenteux), et un syndrome coronarien (cardiovasculaire).",
+      "correct": [
+        "Une infection urinaire ou pulmonaire",
+        "Un sevrage en benzodiazépine",
+        "Un syndrome coronarien"
+      ],
+      "wrong": [
+        "Une carence isolée en vitamine C",
+        "Une anémie ferriprive asymptomatique",
+        "Une hypertension artérielle bien équilibrée",
+        "Une constipation occasionnelle isolée",
+        "Un contrôle glycémique jugé optimal"
+      ]
+    },
+    {
+      "id": 15,
+      "text": "Parmi les étiologies neurologiques ou métaboliques/endocriniennes de la confusion mentale citées dans le cours, lesquelles sont exactes ?",
+      "explanation": "Sont cités, du côté neurologique : accident vasculaire cérébral, hématome sous-dural, épilepsie ; et du côté métabolique/endocrinien : déshydratation, hypoxie.",
+      "correct": [
+        "Un accident vasculaire cérébral",
+        "Un hématome sous-dural ou une épilepsie",
+        "Une déshydratation ou une hypoxie"
+      ],
+      "wrong": [
+        "Une migraine ophtalmique isolée",
+        "Une légère hypoglycémie réactionnelle",
+        "Un déficit en vitamine D modéré",
+        "Une tension artérielle légèrement basse",
+        "Une fatigue oculaire liée aux écrans"
+      ]
+    },
+    {
+      "id": 16,
+      "text": "Parmi les étiologies psychiatriques, toxiques ou générales de la confusion mentale citées dans le cours, lesquelles sont exactes ?",
+      "explanation": "Sont cités : dépression, stress, deuil (psychiatriques) ; alcool, monoxyde de carbone (toxiques) ; chirurgie, anesthésie générale, subocclusion, fièvre, contention, privation sensorielle (généraux).",
+      "correct": [
+        "Une dépression, un stress ou un deuil",
+        "Une intoxication alcoolique ou au monoxyde de carbone",
+        "Une chirurgie, une anesthésie générale ou une contention physique"
+      ],
+      "wrong": [
+        "Un trouble de la personnalité ancien et stabilisé, sans décompensation récente",
+        "Une exposition modérée au soleil lors d'une promenade quotidienne",
+        "Une consommation habituelle et stable de caféine, sans changement récent",
+        "Un léger surpoids constaté lors du dernier bilan médical du patient",
+        "Une pratique régulière d'activité physique douce, sans complication rapportée"
+      ]
+    },
+    {
+      "id": 17,
+      "text": "Parmi les facteurs prédisposants à la confusion mentale cités dans le cours, lesquels sont exacts ?",
+      "explanation": "Sont cités : démence avérée ou troubles cognitifs chroniques sous-jacents, immobilisation aggravée par une contention physique, déficit sensoriel visuel ou auditif, comorbidités multiples, dénutrition.",
+      "correct": [
+        "Une démence avérée ou des troubles cognitifs chroniques sous-jacents",
+        "Une immobilisation, aggravée par une contention physique, ou un déficit sensoriel visuel ou auditif",
+        "L'existence de comorbidités multiples ou une dénutrition"
+      ],
+      "wrong": [
+        "Une activité physique régulière et une bonne autonomie fonctionnelle du patient",
+        "Une alimentation équilibrée et un bon état nutritionnel général",
+        "Une acuité visuelle et auditive préservée, sans déficit sensoriel identifié",
+        "L'absence de comorbidité associée chez le patient concerné",
+        "Une mobilité conservée, sans nécessité de contention ni d'aide à la marche"
+      ]
+    },
+    {
+      "id": 18,
+      "text": "Concernant la polymédication et le rôle de la gériatrie évoqués dans le cours, quelles affirmations sont exactes ?",
+      "explanation": "Au-delà de 5 à 7 médicaments sur une ordonnance, il devient difficile de connaître toutes les interactions entre eux. Chez les patients de 65 ans et plus, le nombre de médicaments dépasse souvent 7, et le rôle de la médecine gériatrique est souvent de faire le tri parmi ces médicaments.",
+      "correct": [
+        "Au-delà de 5 à 7 médicaments sur une ordonnance, il devient difficile de connaître toutes les interactions entre eux",
+        "Chez les patients de 65 ans et plus, le nombre de médicaments dépasse souvent 7, et le rôle de la médecine gériatrique est souvent de faire le tri parmi ces médicaments"
+      ],
+      "wrong": [
+        "Au-delà de 15 à 20 médicaments sur une ordonnance, les interactions deviendraient réellement difficiles à anticiper",
+        "Chez les patients de 65 ans et plus, le nombre de médicaments resterait généralement inférieur à 3, limitant le risque d'interactions",
+        "La gériatrie serait présentée comme une spécialité ancienne, existant depuis la création de la médecine moderne",
+        "Le rôle de la médecine gériatrique serait avant tout d'augmenter le nombre de traitements prescrits pour couvrir chaque symptôme",
+        "La gériatrie serait présentée comme une spécialité en déclin, du fait de la diminution du nombre de personnes âgées",
+        "Chez les patients de 65 ans et plus, le nombre de médicaments n'aurait pas d'impact particulier sur le risque de confusion"
+      ]
+    },
+    {
+      "id": 19,
+      "text": "Parmi les antécédents identifiés comme facteurs prédisposants à la confusion mentale dans le cours, lesquels sont exacts ?",
+      "explanation": "Sont cités : des antécédents de confusion (notamment postopératoire), et des troubles de l'humeur, en particulier des états dépressifs.",
+      "correct": [
+        "Des antécédents de confusion, notamment postopératoire",
+        "Des troubles de l'humeur, en particulier des états dépressifs"
+      ],
+      "wrong": [
+        "Des antécédents de migraine ophtalmique isolée, sans lien neurologique",
+        "Des antécédents de troubles bipolaires bien stabilisés depuis longtemps",
+        "Des antécédents de confusion, mais seulement hors contexte chirurgical",
+        "Des antécédents de troubles anxieux légers, sans retentissement notable",
+        "Des troubles de l'humeur, mais surtout des états d'euphorie plutôt que de dépression",
+        "Des antécédents d'allergies alimentaires, sans lien avec le risque de confusion"
+      ]
+    },
+    {
+      "id": 20,
+      "text": "Concernant l'examen clinique du patient suspect de confusion, présenté dans le cours, quelles affirmations sont exactes ?",
+      "explanation": "Il comprend une évaluation des capacités d'orientation, d'attention et de mémorisation (MMSE de référence dès que l'état du patient le permet), ainsi que la recherche d'un globe vésical, d'un fécalome, ou d'une cause de douleur.",
+      "correct": [
+        "Il comprend une évaluation des capacités d'orientation, d'attention et de mémorisation, le MMSE étant l'examen de référence dès que l'état du patient le permet",
+        "Il comprend aussi la recherche d'un globe vésical, d'un fécalome, ou d'une cause de douleur"
+      ],
+      "wrong": [
+        "Il comprend surtout une évaluation de la force musculaire et de l'équilibre, l'attention n'étant pas explorée en priorité",
+        "Le MMSE serait déconseillé chez le patient confus, quel que soit son état, au profit d'un test de fluence verbale",
+        "Il comprend surtout un bilan ophtalmologique complet, la recherche d'un globe vésical n'étant pas mentionnée",
+        "Il comprend avant tout une évaluation du langage écrit, la recherche d'une cause de douleur n'étant pas prioritaire",
+        "Le MMSE serait présenté comme l'examen de référence, mais surtout chez les patients de moins de 65 ans",
+        "Il comprend surtout la recherche d'antécédents familiaux de démence, plutôt qu'un examen clinique direct du patient"
+      ]
+    },
+    {
+      "id": 21,
+      "text": "Parmi les examens paracliniques de première intention cités dans le cours pour explorer une confusion, lesquels relèvent du bilan biologique sanguin ?",
+      "explanation": "Sont cités : ionogramme sanguin, urée, protides totaux, créatininémie avec calcul de la clairance de la créatinine, calcémie, glycémie capillaire, hémogramme, CRP.",
+      "correct": [
+        "L'ionogramme sanguin, l'urée et les protides totaux",
+        "La créatininémie avec calcul de la clairance de la créatinine, et la calcémie",
+        "La glycémie capillaire, ainsi que l'hémogramme et la CRP"
+      ],
+      "wrong": [
+        "Le dosage des hormones thyroïdiennes, souvent réalisé en première intention quelle que soit la présentation clinique",
+        "Un bilan lipidique complet, incluant cholestérol total et triglycérides, en première intention",
+        "Un dosage des marqueurs tumoraux sanguins, en première intention devant une confusion",
+        "Un bilan d'hémostase complet avec recherche de facteurs de coagulation rares",
+        "Un dosage sanguin des vitamines B12 et B9, généralement réalisé en première intention"
+      ]
+    },
+    {
+      "id": 22,
+      "text": "Parmi les examens paracliniques de première intention cités dans le cours pour explorer une confusion, lesquels relèvent d'explorations autres que le bilan sanguin ?",
+      "explanation": "Sont cités : saturation en oxygène, bandelette urinaire (leucocytes, nitrites), et ECG.",
+      "correct": [
+        "La saturation en oxygène",
+        "La bandelette urinaire (recherche de leucocytes, nitrites) et l'ECG"
+      ],
+      "wrong": [
+        "Une radiographie du thorax, associée à un scanner abdominal",
+        "Une échographie cardiaque transthoracique complète",
+        "Un bilan urodynamique complet, devant un épisode confusionnel",
+        "Une endoscopie digestive haute, en première intention",
+        "Un audiogramme complet, pour explorer les capacités sensorielles",
+        "Une consultation ophtalmologique, avant tout autre examen"
+      ]
+    },
+    {
+      "id": 23,
+      "text": "Que signifie et que révèle la CRP mentionnée dans le cours parmi les examens de première intention ?",
+      "explanation": "La CRP est la protéine C-réactive, qui marque dans une prise de sang les symptômes inflammatoires.",
+      "correct": [
+        "La CRP est la protéine C-réactive, qui marque dans une prise de sang les symptômes inflammatoires"
+      ],
+      "wrong": [
+        "La CRP serait la créatinine réactive plasmatique, qui marquerait surtout la fonction rénale du patient",
+        "La CRP serait la protéine C-réactive, qui marquerait surtout l'équilibre glycémique du patient diabétique",
+        "La CRP serait le coefficient de réactivité pupillaire, utilisé pour explorer les fonctions neurologiques",
+        "La CRP serait la clairance rénale plasmatique, permettant d'évaluer la fonction des reins",
+        "La CRP serait la protéine C-réactive, qui marquerait surtout l'équilibre hydrique et la déshydratation",
+        "La CRP serait un marqueur cardiaque spécifique, permettant de détecter un syndrome coronarien aigu",
+        "La CRP serait la concentration en protéines totales du plasma, reflet de l'état nutritionnel du patient"
+      ]
+    },
+    {
+      "id": 24,
+      "text": "Concernant la TDM cérébrale dans le bilan de confusion mentale, selon le cours :",
+      "explanation": "Elle ne doit pas être pratiquée de façon systématique. Elle est recommandée en cas de signes de localisation neurologique, de suspicion d'hémorragie méningée, ou de traumatisme crânien même mineur.",
+      "correct": [
+        "Elle ne doit pas être pratiquée de façon systématique",
+        "Elle est recommandée en cas de signes de localisation neurologique, de suspicion d'hémorragie méningée, ou de traumatisme crânien même mineur"
+      ],
+      "wrong": [
+        "Elle devrait être pratiquée assez largement chez tout patient présentant une confusion, quelle que soit la présentation clinique",
+        "Elle serait recommandée surtout en l'absence de signe neurologique, pour écarter une cause avant tout psychiatrique",
+        "Elle serait déconseillée en cas de traumatisme crânien, même mineur, au profit d'une simple surveillance clinique",
+        "Elle serait recommandée avant tout en cas de troubles digestifs isolés, sans autre signe associé",
+        "Elle serait rarement indiquée chez le sujet âgé, en raison du risque associé à l'irradiation",
+        "Elle serait recommandée dès l'apparition d'une fièvre, même en l'absence de tout signe neurologique associé"
+      ]
+    },
+    {
+      "id": 25,
+      "text": "Concernant la TDM cérébrale de seconde intention dans le bilan de confusion mentale, selon le cours :",
+      "explanation": "Une TDM cérébrale peut être indiquée en seconde intention afin de rechercher un accident vasculaire cérébral, même en l'absence de déficit moteur, ou un hématome sous-dural (si traitement par anticoagulant ou antiagrégant plaquettaire).",
+      "correct": [
+        "Elle peut être indiquée en seconde intention pour rechercher un accident vasculaire cérébral, même sans déficit moteur, ou un hématome sous-dural (notamment sous anticoagulant ou antiagrégant)"
+      ],
+      "wrong": [
+        "Elle serait indiquée en seconde intention surtout en présence d'un déficit moteur franc chez le patient, son absence limitant fortement cette indication clinique",
+        "Elle serait indiquée en seconde intention pour rechercher une épilepsie chez le patient confus, examen pourtant mieux exploré par l'électroencéphalogramme selon le cours",
+        "Elle serait indiquée en seconde intention pour rechercher une infection urinaire chez le patient âgé, plutôt qu'une cause neurologique sous-jacente",
+        "Elle serait indiquée en seconde intention surtout chez les patients sous traitement antidépresseur au long cours, plutôt que sous anticoagulant",
+        "Elle serait indiquée en seconde intention pour rechercher une carence en vitamine B12 chez le patient âgé, plutôt qu'une cause vasculaire cérébrale",
+        "Elle serait indiquée en seconde intention pour confirmer un diagnostic de dépression chez le sujet âgé présentant une confusion",
+        "Elle serait indiquée en seconde intention avant tout pour évaluer l'état nutritionnel global du patient confus hospitalisé"
+      ]
+    },
+    {
+      "id": 26,
+      "text": "Concernant l'électroencéphalogramme (EEG) et l'examen du LCR dans le bilan de confusion mentale, selon le cours :",
+      "explanation": "L'EEG est recommandé pour rechercher une comitialité (état de mal épileptique non convulsif, crise partielle complexe). Un examen du LCR est envisagé en cas de signes d'appel, comme une fièvre sans cause infectieuse rapidement identifiée.",
+      "correct": [
+        "L'EEG est recommandé pour rechercher une comitialité, comme un état de mal épileptique non convulsif ou une crise partielle complexe",
+        "Un examen du LCR est envisagé en cas de signes d'appel, comme une fièvre sans cause infectieuse rapidement identifiée"
+      ],
+      "wrong": [
+        "L'EEG serait recommandé pour rechercher une infection urinaire, plutôt qu'une comitialité",
+        "Un examen du LCR serait envisagé assez largement chez un patient confus, même en l'absence de signe d'appel particulier",
+        "L'EEG serait recommandé pour évaluer la fonction cardiaque du patient, en complément de l'ECG",
+        "Un examen du LCR serait déconseillé en cas de fièvre inexpliquée, cette dernière orientant plutôt vers un scanner cérébral",
+        "L'EEG serait recommandé pour rechercher une déshydratation, mieux explorée habituellement par l'ionogramme sanguin",
+        "Un examen du LCR serait envisagé surtout pour évaluer l'état nutritionnel du patient confus"
+      ]
+    },
+    {
+      "id": 27,
+      "text": "Comment distinguer les signes du début de la confusion mentale de ceux de la phase d'état, selon le cours ?",
+      "explanation": "Les signes du début (insomnie, céphalées, asthénie, anorexie) apparaissent rapidement, en quelques heures à quelques jours. La phase d'état se caractérise par une présentation désordonnée, un ralentissement psychomoteur entrecoupé d'épisodes d'agitation, et des troubles cognitifs fluctuants à prédominance vespérale.",
+      "correct": [
+        "Les signes du début (insomnie, céphalées, asthénie, anorexie) apparaissent rapidement, en quelques heures à quelques jours",
+        "La phase d'état se caractérise par une présentation désordonnée, un ralentissement psychomoteur entrecoupé d'épisodes d'agitation, et des troubles cognitifs fluctuants à prédominance vespérale"
+      ],
+      "wrong": [
+        "Les signes du début seraient identiques à ceux de la phase d'état, sans évolution symptomatique particulière entre les deux",
+        "La phase d'état se caractériserait surtout par une amélioration progressive de l'attention et du jugement du patient",
+        "Les signes du début apparaîtraient sur plusieurs mois, contrairement à la phase d'état qui s'installerait en quelques heures",
+        "La phase d'état précéderait le plus souvent les signes de début, dans un ordre inversé par rapport à ce que suggère leur nom",
+        "Les signes du début concerneraient surtout des troubles moteurs, la phase d'état étant plutôt marquée par des troubles du sommeil",
+        "La phase d'état se caractériserait par une disparition complète des troubles de l'attention observés au début"
+      ]
+    },
+    {
+      "id": 28,
+      "text": "Concernant la contention physique et la privation sensorielle évoquées dans le cours à propos de la confusion mentale :",
+      "explanation": "La contention physique aggrave le risque de confusion lorsqu'elle est associée à une immobilisation (facteur prédisposant). La contention et la privation sensorielle figurent aussi parmi les étiologies générales pouvant déclencher un épisode confusionnel.",
+      "correct": [
+        "La contention physique aggrave le risque de confusion lorsqu'elle est associée à une immobilisation, en tant que facteur prédisposant",
+        "La contention et la privation sensorielle figurent aussi parmi les étiologies générales pouvant déclencher un épisode confusionnel"
+      ],
+      "wrong": [
+        "La contention physique serait présentée comme un facteur protecteur, réduisant le risque de confusion chez le patient agité",
+        "La privation sensorielle ne figurerait pas parmi les étiologies générales citées dans le cours, contrairement à la chirurgie",
+        "La contention physique ne serait que rarement associée au risque de confusion, plutôt liée à un risque de complications physiques",
+        "La privation sensorielle serait présentée comme un facteur qui améliore la vigilance et réduit le risque confusionnel",
+        "La contention physique serait présentée comme un facteur prédisposant, mais rarement comme une étiologie déclenchante possible",
+        "La privation sensorielle concernerait surtout l'audition, sans lien mentionné avec la vision dans le cours"
+      ]
+    },
+    {
+      "id": 29,
+      "text": "Face à une suspicion de confusion mentale associée à des troubles somatiques, quelle démarche est recommandée selon le cours ?",
+      "explanation": "Il est préférable d'évoquer le diagnostic de confusion afin d'en rechercher rapidement la cause et de mettre en place un traitement adapté sans délai.",
+      "correct": [
+        "Il est préférable d'évoquer le diagnostic de confusion afin d'en rechercher rapidement la cause et de mettre en place un traitement adapté sans délai"
+      ],
+      "wrong": [
+        "Il est préférable d'écarter d'emblée le diagnostic de confusion, pour privilégier un diagnostic de démence par principe de précaution",
+        "Il est préférable d'attendre plusieurs jours d'observation avant d'engager une recherche étiologique chez ce type de patient",
+        "Il est préférable de traiter avant tout les troubles somatiques associés, sans rechercher de cause aux troubles psychiques",
+        "Il est préférable de considérer ces troubles comme bénins tant qu'une complication somatique sévère n'est pas clairement constatée",
+        "Il est préférable de proposer d'emblée une hospitalisation psychiatrique, sans bilan somatique associé",
+        "Il est préférable de solliciter un avis psychiatrique avant tout bilan somatique, la cause étant le plus souvent psychologique",
+        "Il est préférable de différer la prise en charge jusqu'à ce que le patient retrouve une communication verbale cohérente"
+      ]
+    },
+    {
+      "id": 30,
+      "text": "Parmi les grandes catégories d'étiologies et facteurs déclenchants de la confusion mentale énumérées dans le cours, lesquelles sont citées ?",
+      "explanation": "Le cours cite les catégories infectieuse, médicamenteuse, cardiovasculaire, neurologique, métabolique/endocrinienne, psychiatrique, toxique, et générale (chirurgie, anesthésie, contention, privation sensorielle, etc.).",
+      "correct": [
+        "Infectieux, médicamenteux et cardiovasculaires",
+        "Neurologiques, métaboliques et endocriniens",
+        "Psychiatriques, toxiques et généraux (chirurgie, anesthésie, contention, etc.)"
+      ],
+      "wrong": [
+        "Dermatologiques et rhumatologiques, catégories principales du cours",
+        "ORL et ophtalmologiques, présentées comme catégories à part",
+        "Orthopédiques et podologiques, catégories déclenchantes majeures",
+        "Gynécologiques et urologiques, catégories les plus fréquentes",
+        "Génétiques et immunologiques, catégories principales citées"
+      ]
+    }
+  ]
+}

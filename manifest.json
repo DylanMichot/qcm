@@ -17,6 +17,18 @@
       "subject": "Psycho 2 - Troubles Anxieux, Trauma, TOC",
       "tag": "Psycho",
       "description": "Cours sur les troubles anxieux, le trauma et les TOC"
+    },
+    {
+      "file": "td1-gerontopsychomotricite-tests-egp.json",
+      "subject": "Géronto 1 - Tests",
+      "tag": "Gérontopsychomotricité",
+      "description": "Cours sur les tests au delà de l'EGP"
+    },
+    {
+      "file": "td2-syndrome-confusionnel-sujet-age.json",
+      "subject": "Géronto 2 - Syndrome Confusionnel",
+      "tag": "Gérontopsychomotricité",
+      "description": "Cours sur le syndrome confusionnel"
     }
   ]
 }
