@@ -1,0 +1,517 @@
+{
+  "subject": "Psychologie",
+  "tag": "Ch1 & Ch2 – Révision combinée (Introduction / Troubles anxieux, traumatismes, TOC)",
+  "description": "30 questions de révision combinant le chapitre d'introduction (santé mentale, normal/pathologique, personnalité, classifications diagnostiques) et le chapitre 2 (troubles anxieux, traumatismes/TSPT, TOC). Sélection représentative des deux chapitres, avec des distracteurs plausibles et de longueur homogène.",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Selon les rappels sur l'approche TCC présentés en introduction, quels sont les trois pôles sur lesquels on envisage le fonctionnement psychique ?",
+      "explanation": "Les 3 pôles sur lesquels on envisage le fonctionnement psychique sont l'interaction permanente entre l'émotion, la pensée, et le comportement (ce qui est observable de nos pensées).",
+      "correct": [
+        "L'émotion",
+        "La pensée",
+        "Le comportement, ce qui est observable de nos pensées"
+      ],
+      "wrong": [
+        "La motivation, qui oriente l'ensemble du fonctionnement psychique",
+        "La perception, qui filtre les informations sensorielles avant leur traitement cognitif",
+        "La mémoire, qui conserve les expériences passées de l'individu",
+        "L'attention, qui sélectionne les informations pertinentes de l'environnement",
+        "La sensation, qui correspond à l'activation des récepteurs sensoriels"
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Selon la définition de l'OMS présentée dans le cours, la santé mentale correspond à :",
+      "explanation": "D'après l'OMS, la santé mentale correspond à un état de bien-être mental qui permet de faire face aux sources de stress de la vie, de réaliser son potentiel, de bien apprendre et de bien travailler, et de contribuer à la vie de la communauté.",
+      "correct": [
+        "Un état de bien-être mental qui permet de faire face aux sources de stress de la vie, de réaliser son potentiel, de bien apprendre et de bien travailler, et de contribuer à la vie de la communauté"
+      ],
+      "wrong": [
+        "Un état durable d'absence de toute souffrance psychique, quelles que soient les circonstances de vie",
+        "Une capacité à maintenir un fonctionnement social irréprochable en toutes circonstances",
+        "Un état biologique mesurable par des marqueurs neurophysiologiques objectifs",
+        "Une aptitude à réussir professionnellement et à atteindre les objectifs que l'on s'est fixés",
+        "Un état psychique stable, indépendant du contexte social, familial ou économique de la personne",
+        "Une capacité à résoudre seul l'ensemble des difficultés rencontrées au cours de la vie",
+        "Un équilibre affectif obtenu par la maîtrise complète de ses émotions"
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Quel paradoxe est souligné dans le cours à propos de la santé mentale ?",
+      "explanation": "Ce qui est paradoxal, c'est que nous pouvons avoir un trouble psychiatrique mais être en bonne santé mentale : nous pouvons souffrir d'une pathologie psychiatrique, mais pour autant nous sentir bien, être en bonne santé mentale.",
+      "correct": [
+        "Il est possible de souffrir d'un trouble psychiatrique tout en étant, par ailleurs, en bonne santé mentale"
+      ],
+      "wrong": [
+        "Il serait difficile de se sentir bien tant qu'un trouble psychiatrique n'est pas résolu",
+        "La bonne santé mentale supposerait l'absence de tout trouble psychiatrique diagnostiqué",
+        "Un trouble psychiatrique entraînerait le plus souvent une dégradation globale et durable du bien-être ressenti",
+        "La santé mentale et les troubles psychiatriques relèveraient de deux échelles largement indépendantes, avec peu de points de recoupement",
+        "Le paradoxe soulevé porterait sur la possibilité d'être en bonne santé physique tout en souffrant d'un trouble psychiatrique",
+        "Le paradoxe porterait sur la difficulté à distinguer un trouble psychiatrique d'un trouble somatique",
+        "Il serait paradoxal qu'une personne en bonne santé mentale puisse malgré tout consulter un psychologue"
+      ]
+    },
+    {
+      "id": 4,
+      "text": "Selon le cours, de quoi dépend la distinction entre le normal et le pathologique ?",
+      "explanation": "Le normal et le pathologique dépendent de l'endroit où l'on vit, de la culture, et du regard de la société. La différence entre le normal et le pathologique serait la manière dont l'individu va vivre les choses.",
+      "correct": [
+        "Elle dépend de l'endroit où l'on vit, de la culture, et du regard porté par la société",
+        "La différence entre le normal et le pathologique tiendrait avant tout à la manière dont l'individu vit les choses"
+      ],
+      "wrong": [
+        "Elle dépendrait avant tout de critères biologiques mesurables, indépendamment du contexte culturel",
+        "Elle reposerait sur un seuil statistique fixe, valable de la même manière dans toutes les cultures",
+        "Elle serait définie surtout par la présence ou l'absence de symptômes objectivables",
+        "La différence entre normal et pathologique tiendrait avant tout à la gravité des symptômes observés, indépendamment du vécu subjectif",
+        "Elle dépendrait principalement de l'âge de la personne concernée, plus que de son environnement culturel",
+        "Elle reposerait sur des critères identiques à ceux utilisés pour les maladies somatiques"
+      ]
+    },
+    {
+      "id": 5,
+      "text": "Concernant la normalité statistique, l'une des trois définitions de la normalité présentées dans le cours :",
+      "explanation": "La normalité statistique est envisagée par rapport aux autres, en s'appuyant sur la courbe de Gauss, et sert de référence pour valider des recherches.",
+      "correct": [
+        "Elle est envisagée par rapport aux autres, en s'appuyant notamment sur la courbe de Gauss, et sert de référence pour valider des recherches"
+      ],
+      "wrong": [
+        "Elle serait envisagée par rapport à ce qui est attendu et accepté par la société à un moment donné",
+        "Elle correspondrait à un idéal par définition inatteignable, servant de référence pour le perfectionnisme",
+        "Elle reposerait sur l'évaluation clinique individuelle du patient par le thérapeute, indépendamment de toute comparaison statistique",
+        "Elle s'appuierait sur des critères qualitatifs, sans référence à une distribution statistique",
+        "Elle correspondrait à la fréquence d'un comportement au sein d'une seule famille, plutôt qu'au sein de la population générale",
+        "Elle serait fondée sur le jugement subjectif du clinicien plutôt que sur une distribution de référence",
+        "Elle reposerait sur une évaluation de l'intensité et de la fréquence des symptômes plutôt que sur une comparaison à un groupe de référence"
+      ]
+    },
+    {
+      "id": 6,
+      "text": "Concernant la normalité normative, l'une des trois définitions de la normalité présentées dans le cours :",
+      "explanation": "La normalité normative correspond à ce qui est attendu, autorisé et accepté par la société, et évolue avec le temps. L'exemple de l'homosexualité est cité : autrefois considérée comme une pathologie dans les anciens DSM, elle est aujourd'hui acceptée.",
+      "correct": [
+        "Elle correspond à ce qui est attendu, autorisé et accepté par la société à un moment donné, et évolue avec le temps",
+        "L'exemple de l'homosexualité est cité : autrefois considérée comme une pathologie dans les classifications, elle est aujourd'hui acceptée"
+      ],
+      "wrong": [
+        "Elle correspondrait à ce qui est statistiquement le plus fréquent au sein d'une population donnée, indépendamment du jugement social",
+        "Elle constituerait un idéal par définition inatteignable, qui évoluerait peu dans le temps",
+        "L'exemple de la colère est cité comme un comportement toujours bien accepté socialement, quelle que soit sa forme",
+        "Elle reposerait sur des critères fixes et immuables, définis une fois pour toutes par les classifications diagnostiques",
+        "Elle serait déterminée avant tout par la loi, avec peu de lien avec les mœurs ou les usages sociaux",
+        "L'exemple de l'homosexualité serait cité comme un trouble encore considéré comme pathologique dans les classifications actuelles"
+      ]
+    },
+    {
+      "id": 7,
+      "text": "Concernant le débat autour de la notion de normalité évoqué dans le cours :",
+      "explanation": "La notion de normalité reste débattue : Freud refuse l'idée même de normalité, tandis que Bergeret considère que tout le monde est normal.",
+      "correct": [
+        "Freud refuserait l'idée même de normalité",
+        "Bergeret considérerait que tout le monde est normal"
+      ],
+      "wrong": [
+        "Freud considérerait que tout le monde est normal, la normalité étant une construction sociale",
+        "Bergeret refuserait l'idée même de normalité, la jugeant inutilisable en clinique",
+        "Freud et Bergeret partageraient une position largement identique sur la question de la normalité",
+        "Kraepelin serait cité comme l'auteur qui refuse l'idée même de normalité",
+        "Ce débat opposerait principalement des auteurs behavioristes sur la définition de la normalité statistique",
+        "Freud proposerait une définition statistique de la normalité, fondée sur la courbe de Gauss"
+      ]
+    },
+    {
+      "id": 8,
+      "text": "Comment le cours définit-il la personnalité ?",
+      "explanation": "La personnalité correspond à ce qu'il y a de stable et d'unique dans le fonctionnement psychique d'un individu ; elle résulte de facteurs cognitifs et émotionnels.",
+      "correct": [
+        "Ce qu'il y a de stable et d'unique dans le fonctionnement psychique d'un individu, résultant de facteurs cognitifs et émotionnels"
+      ],
+      "wrong": [
+        "Ce qu'il y a de plus changeant et de plus variable dans le fonctionnement psychique d'un individu",
+        "Un ensemble de comportements observables, avec peu de lien avec une dimension cognitive ou émotionnelle propre",
+        "Un trait unique et isolé qui suffirait à caractériser le fonctionnement global d'un individu",
+        "Le résultat de facteurs environnementaux, indépendamment de processus cognitifs ou émotionnels propres à l'individu",
+        "Un ensemble de symptômes cliniques permettant de poser un diagnostic psychiatrique",
+        "Ce qu'il y a de commun entre tous les individus d'une même culture, indépendamment de leurs particularités propres",
+        "Un ensemble de mécanismes de défense mis en place face à une angoisse typique"
+      ]
+    },
+    {
+      "id": 9,
+      "text": "Quel apport est attribué à Emile Kraepelin dans le cours, concernant les classifications diagnostiques ?",
+      "explanation": "Kraepelin a établi le tableau clinique du patient : un ensemble de signes et de symptômes, une évolution typique (aiguë ou chronique), une étiologie précise (souvent multifactorielle), et un traitement spécifique.",
+      "correct": [
+        "Il a établi le tableau clinique du patient, regroupant un ensemble de signes et de symptômes, une évolution typique, une étiologie et un traitement spécifique"
+      ],
+      "wrong": [
+        "Il aurait établi la notion de structure psychique, associant un désir, une angoisse typique et des mécanismes de défense",
+        "Il serait à l'origine de la première classification internationale des maladies (CIM), reprise ensuite par l'OMS",
+        "Il aurait introduit la distinction entre classification catégorielle et classification dimensionnelle",
+        "Il aurait proposé les trois définitions de la normalité (statistique, normative, idéale) présentées dans le cours",
+        "Il serait à l'origine du DSM, destiné à faciliter la rapidité et la fiabilité du diagnostic",
+        "Il aurait développé le modèle bio-psycho-social de la santé mentale évoqué par l'OMS",
+        "Il aurait proposé la distinction entre santé mentale positive et négative"
+      ]
+    },
+    {
+      "id": 10,
+      "text": "Concernant le DSM tel que décrit dans le cours, quelles affirmations sont exactes ?",
+      "explanation": "Le DSM est apparu après la CIM, destiné à faciliter le diagnostic et sa rapidité en cherchant la fiabilité la plus forte. Il est aujourd'hui organisé selon une approche dimensionnelle, axée sur l'intensité et la fréquence des troubles, avec une vision de continuum ; les troubles anxieux, les TOC et le trauma y ont désormais leur propre catégorie à part entière.",
+      "correct": [
+        "Le DSM est apparu après la CIM, avec pour objectif de faciliter le diagnostic et sa rapidité, en cherchant la fiabilité la plus forte",
+        "Il est aujourd'hui organisé selon une approche dimensionnelle axée sur l'intensité et la fréquence des troubles, avec une vision de continuum"
+      ],
+      "wrong": [
+        "Le DSM serait apparu avant la CIM, cette dernière s'en étant ensuite largement inspirée",
+        "Le DSM reposerait aujourd'hui avant tout sur une approche catégorielle binaire, sans dimension d'intensité ni de fréquence",
+        "Le DSM aurait été conçu à l'origine par l'Organisation Mondiale de la Santé, avant d'être repris par des associations nationales",
+        "Les troubles anxieux, les TOC et le trauma resteraient regroupés dans une seule et même catégorie diagnostique dans les versions actuelles",
+        "Le DSM s'organiserait en fonction de trois grands aspects, contre un nombre bien plus élevé pour la CIM",
+        "Le DSM chercherait avant tout à s'éloigner de toute référence aux normes et valeurs culturelles dans la définition des troubles mentaux"
+      ]
+    },
+    {
+      "id": 11,
+      "text": "Selon la définition retenue dans le cours, un trouble mental est :",
+      "explanation": "Un trouble mental est un syndrome caractérisé par une perturbation cliniquement significative de la cognition d'un individu, de sa régulation émotionnelle et de son comportement, le plus souvent associé à une détresse, une souffrance ou une altération importante des activités sociales, professionnelles ou d'autres domaines de la vie quotidienne.",
+      "correct": [
+        "Un syndrome caractérisé par une perturbation cliniquement significative de la cognition, de la régulation émotionnelle et du comportement d'un individu, le plus souvent associé à une détresse ou une altération importante des activités sociales, professionnelles ou d'autres domaines"
+      ],
+      "wrong": [
+        "Un ensemble de comportements observables et durables, jugés inadaptés par l'entourage social ou familial de la personne, indépendamment de tout vécu subjectif de détresse ressenti par elle-même au fil du quotidien",
+        "Une perturbation essentiellement biologique et héréditaire du fonctionnement cérébral de l'individu, sans répercussion nécessaire sur sa cognition, ses émotions ou son comportement observable au quotidien",
+        "Un syndrome défini avant tout par la présence de symptômes physiques inexpliqués par la médecine somatique, sans réelle altération de la cognition ou de la régulation émotionnelle qui lui serait associée",
+        "Une réaction ponctuelle et normale à un événement de vie stressant ou difficile traversé par la personne, sans caractère cliniquement significatif ni persistance dans le temps au-delà de quelques semaines",
+        "Un trouble se manifestant surtout dans la sphère professionnelle et académique de la personne concernée, avec assez peu de retentissement observable sur les autres domaines de sa vie quotidienne",
+        "Une perturbation du comportement social et relationnel de l'individu, qui ne s'accompagnerait généralement pas d'une réelle souffrance ressentie par la personne elle-même dans son quotidien",
+        "Un déséquilibre passager et réversible de l'humeur de la personne, sans lien direct avec sa cognition, sa régulation émotionnelle ou son fonctionnement social habituel au quotidien"
+      ]
+    },
+    {
+      "id": 12,
+      "text": "Concernant le diagnostic des troubles anxieux fondé sur la présence d'une triade, selon le cours :",
+      "explanation": "Le diagnostic repose sur la présence d'une triade associant crises d'angoisse aiguë, fond permanent d'anxiété et terrain anxieux. On distingue deux formes d'anxiété : un terrain anxieux permanent chez certaines personnes, et une anxiété présente seulement à certains moments chez d'autres.",
+      "correct": [
+        "Cette triade associe des crises d'angoisse aiguë, un fond permanent d'anxiété et un terrain anxieux",
+        "On distingue deux formes d'anxiété : un terrain anxieux permanent chez certaines personnes, et une anxiété présente seulement à certains moments chez d'autres"
+      ],
+      "wrong": [
+        "Cette triade associe des crises d'angoisse aiguë, une altération de la mémoire et une désorientation temporo-spatiale",
+        "Cette triade associe un terrain anxieux, une phobie spécifique et une obsession envahissante",
+        "On distingue deux formes d'anxiété : une forme surtout biologique et une forme surtout psychologique, sans lien entre elles",
+        "Cette triade associe un fond permanent d'anxiété, une dépression secondaire et une addiction associée",
+        "On distingue deux formes d'anxiété selon qu'elle touche les hommes ou les femmes, les mécanismes sous-jacents étant différents",
+        "Cette triade associe des crises d'angoisse aiguë, un terrain anxieux et une dissociation péritraumatique"
+      ]
+    },
+    {
+      "id": 13,
+      "text": "Selon le DSM-5-TR et la CIM-11, quelles catégories cliniques de troubles anxieux sont citées dans le cours ?",
+      "explanation": "Le DSM-5-TR et la CIM-11 distinguent notamment l'anxiété de séparation (plutôt chez les enfants), le trouble panique (plusieurs attaques de panique répétées), l'anxiété généralisée, l'agoraphobie, la phobie spécifique et la phobie sociale.",
+      "correct": [
+        "L'anxiété de séparation, plutôt observée chez les enfants",
+        "Le trouble panique, caractérisé par plusieurs attaques de panique répétées",
+        "L'agoraphobie et la phobie sociale"
+      ],
+      "wrong": [
+        "Le trouble de la personnalité borderline, plutôt diagnostiqué à l'âge adulte",
+        "Le trouble dissociatif de l'identité, plus rare dans la population",
+        "La dépression majeure, associée à une tristesse persistante",
+        "Le trouble bipolaire de type II, avec des épisodes hypomaniaques",
+        "Le trouble obsessionnel compulsif, une catégorie à part entière"
+      ]
+    },
+    {
+      "id": 14,
+      "text": "Concernant les conceptions de Freud et de D. Klein évoquées à propos du trouble panique, selon le cours :",
+      "explanation": "Pour Freud, la névrose d'angoisse est une «névrose actuelle» liée à des perturbations récentes de la vie pulsionnelle. Pour Klein et son approche bio-comportementale, la répétition des attaques de panique provoque la crainte anticipatoire de leur réapparition, et les lieux de survenue deviennent phobogènes.",
+      "correct": [
+        "Pour Freud, la névrose d'angoisse est une «névrose actuelle» liée à des perturbations récentes de la vie pulsionnelle",
+        "Pour Klein et son approche bio-comportementale, la répétition des attaques de panique provoque la crainte anticipatoire de leur réapparition"
+      ],
+      "wrong": [
+        "Pour Freud, la névrose d'angoisse serait une «névrose actuelle» liée à un dysfonctionnement du système GABAergique",
+        "Pour Klein et son approche bio-comportementale, la crainte anticipatoire résulterait avant tout d'un conflit œdipien non résolu",
+        "Pour Freud, le trouble panique serait avant tout expliqué par un déficit d'apprentissage social durant l'enfance",
+        "Pour Klein, la répétition des attaques de panique serait sans lien avec les lieux de leur survenue, contrairement à l'approche psychanalytique",
+        "Pour Freud, la névrose d'angoisse serait directement héritée génétiquement, indépendamment de la vie pulsionnelle du sujet",
+        "Pour Klein, l'approche bio-comportementale écarterait l'idée même d'une crainte anticipatoire chez les patients"
+      ]
+    },
+    {
+      "id": 15,
+      "text": "Concernant la neurobiologie de l'anxiété présentée dans le cours, quelles affirmations sont exactes ?",
+      "explanation": "Le cortex insulaire et l'amygdale sont suractivés chez les patients anxieux. Le GABA est la cible de médicaments anxiolytiques, la sérotonine régule son activité, et la production d'endocannabinoïdes (notamment au niveau du noyau accumbens) est également suspectée d'avoir un rôle.",
+      "correct": [
+        "Le cortex insulaire et l'amygdale sont suractivés chez les patients anxieux",
+        "Le GABA est la cible de médicaments anxiolytiques, et la sérotonine, qui régule son activité, est également impliquée",
+        "La production d'endocannabinoïdes, notamment au niveau du noyau accumbens, est également suspectée d'avoir un rôle"
+      ],
+      "wrong": [
+        "Le cortex préfrontal dorsolatéral et l'hippocampe seraient surtout suractivés chez les patients anxieux, indépendamment de l'amygdale",
+        "La dopamine serait la cible principale des médicaments anxiolytiques, la sérotonine n'ayant qu'un rôle marginal dans l'anxiété",
+        "La production de mélatonine, notamment au niveau du noyau caudé, serait le principal mécanisme impliqué dans l'anxiété",
+        "Les mécanismes neurobiologiques de l'anxiété seraient aujourd'hui bien établis, laissant peu de place à l'incertitude scientifique actuelle",
+        "L'acétylcholine, davantage que le GABA, serait la cible privilégiée des traitements anxiolytiques actuels"
+      ]
+    },
+    {
+      "id": 16,
+      "text": "Comment le cours distingue-t-il la peur et l'angoisse ?",
+      "explanation": "La peur est une émotion forte ressentie en présence d'une situation dangereuse imminente, qui constitue une menace à l'intégrité psycho-corporelle. L'angoisse est un malaise diffus, qui n'est pas une émotion primaire, caractérisé par une détresse ou une anticipation de quelque chose de désagréable ou catastrophique.",
+      "correct": [
+        "La peur est une émotion forte ressentie en présence d'une situation dangereuse imminente, qui constitue une menace à l'intégrité psycho-corporelle",
+        "L'angoisse est un malaise diffus, qui n'est pas une émotion primaire, caractérisé par une détresse ou une anticipation de quelque chose de désagréable ou catastrophique"
+      ],
+      "wrong": [
+        "La peur serait un malaise diffus qui n'est pas une émotion primaire, tandis que l'angoisse constituerait une réponse à une menace imminente et concrète",
+        "La peur et l'angoisse seraient globalement synonymes, sans nuance particulière selon le cours",
+        "L'angoisse serait une émotion primaire, tout comme la peur, mais associée à une menace plus diffuse dans le temps",
+        "La peur serait une construction essentiellement culturelle, tandis que l'angoisse relèverait d'un mécanisme biologique universel",
+        "L'angoisse serait presque toujours plus intense que la peur, quelle que soit la situation rencontrée",
+        "La peur concernerait surtout les situations sociales, tandis que l'angoisse concernerait plutôt les situations physiques"
+      ]
+    },
+    {
+      "id": 17,
+      "text": "Concernant le trouble anxieux au sens de la psychopathologie et la distinction entre phobie, agoraphobie et TAG, selon le cours :",
+      "explanation": "Un trouble anxieux se caractérise par un problème sévère et persistant, provoquant une détresse émotionnelle importante et une modification du comportement social, personnel ou professionnel. L'agoraphobie est la peur d'une situation, la phobie est la peur d'un objet, et le TAG correspond à une anxiété plus diffuse, liée à une intolérance à l'incertitude.",
+      "correct": [
+        "Un trouble anxieux se caractérise par un problème sévère et persistant, provoquant une détresse émotionnelle importante et une modification du comportement social, personnel ou professionnel",
+        "L'agoraphobie est la peur d'une situation, tandis que la phobie est la peur d'un objet",
+        "Le TAG correspond à une anxiété plus diffuse, non liée à un objet ou une situation particulière, plutôt associée à une intolérance à l'incertitude"
+      ],
+      "wrong": [
+        "Un trouble anxieux se définirait avant tout par la présence d'une anxiété, même en l'absence de toute gêne dans le quotidien ou les relations sociales",
+        "L'agoraphobie serait la peur d'un objet précis, tandis que la phobie serait la peur d'une situation sociale complexe",
+        "Le TAG correspondrait à une anxiété centrée sur un objet précis, semblable en cela à la phobie spécifique",
+        "Un trouble anxieux se caractériserait avant tout par sa brièveté et son caractère occasionnel, sans nécessité de persistance",
+        "Le TAG correspondrait plutôt à une intolérance à l'incertitude, une notion présentée dans le cours comme réservée au trouble panique"
+      ]
+    },
+    {
+      "id": 18,
+      "text": "Concernant le trouble panique, ses critères diagnostiques et son épidémiologie, selon le cours :",
+      "explanation": "Le trouble panique correspond au paroxysme de l'anxiété, souvent décrit comme une expérience terrifiante, la peur de mourir étant souvent au premier plan. Le diagnostic requiert une réaction intense atteignant son maximum en quelques minutes, incluant au moins quatre symptômes typiques. Sa prévalence est d'environ 3% sur la vie entière, touchant 2 à 3 fois plus les femmes, avec une apparition entre 20 et 30 ans.",
+      "correct": [
+        "Il correspond au paroxysme de l'anxiété, souvent décrit par les patients comme une expérience terrifiante, la peur de mourir étant souvent au premier plan",
+        "Le diagnostic requiert une réaction intense atteignant son maximum en quelques minutes, incluant au moins quatre symptômes typiques",
+        "Sa prévalence est d'environ 3% sur la vie entière, touchant 2 à 3 fois plus les femmes que les hommes, avec une apparition entre 20 et 30 ans"
+      ],
+      "wrong": [
+        "Il correspondrait à une anxiété diffuse et continue sur le long terme, sans pic d'intensité identifiable, contrairement au TAG",
+        "Le diagnostic requerrait une réaction progressive s'installant sur plusieurs jours, incluant au moins quatre symptômes typiques",
+        "Sa prévalence serait d'environ 15% sur la vie entière, touchant de façon comparable les hommes et les femmes",
+        "Il correspondrait avant tout à une peur diffuse de la foule, apparaissant généralement après 50 ans",
+        "Le diagnostic reposerait avant tout sur la présence de symptômes cognitifs, les manifestations physiques restant secondaires"
+      ]
+    },
+    {
+      "id": 19,
+      "text": "Concernant l'agoraphobie et ses composantes, selon le cours :",
+      "explanation": "L'agoraphobie correspond à la peur, et à l'évitement, des endroits ou situations jugés à risque en raison de la difficulté à s'en échapper ou du fait qu'un trouble panique pourrait y survenir. Le diagnostic peut être posé indépendamment de celui du trouble panique, ou les deux ensemble. Quatre composantes la caractérisent : physiologique, psychosensorielle, cognitive et comportementale.",
+      "correct": [
+        "Elle correspond à la peur, et à l'évitement, des endroits ou situations jugés à risque en raison de la difficulté à s'en échapper, ou dans lesquels un trouble panique pourrait survenir",
+        "Le diagnostic d'agoraphobie peut être posé indépendamment de celui du trouble panique, ou les deux peuvent être posés ensemble",
+        "Quatre composantes la caractérisent : physiologique, psychosensorielle, cognitive et comportementale"
+      ],
+      "wrong": [
+        "Elle correspondrait à la peur d'un objet ou d'un animal précis, en dehors de toute situation d'évitement associée",
+        "Le diagnostic d'agoraphobie serait rarement posé indépendamment de celui du trouble panique, les deux étant le plus souvent associés dans la pratique",
+        "Trois composantes la caractériseraient : physiologique, comportementale et sociale, sans dimension cognitive propre",
+        "Elle correspondrait avant tout à une peur des espaces clos, sans lien avec les foules ou les transports en commun",
+        "Elle serait présentée dans le cours comme un trouble peu lié à toute dimension physiologique associée"
+      ]
+    },
+    {
+      "id": 20,
+      "text": "Concernant le trouble d'anxiété généralisée (TAG), sa définition et son modèle explicatif, selon le cours :",
+      "explanation": "L'inquiétude y est définie comme un ensemble de pensées, d'images et de doutes s'enchaînant au sujet d'événements négatifs futurs. Le diagnostic requiert une présence excessive de soucis depuis au moins six mois, difficiles à contrôler. Le modèle de l'intolérance à l'incertitude de Dugas et Ladouceur identifie quatre facteurs d'entretien, dont l'intolérance à l'incertitude et les fausses croyances.",
+      "correct": [
+        "L'inquiétude y est définie comme un ensemble de pensées, d'images et de doutes qui s'enchaînent au sujet d'événements négatifs futurs",
+        "Le diagnostic requiert une présence excessive de soucis et d'inquiétudes depuis au moins six mois, difficiles à contrôler",
+        "Le modèle de l'intolérance à l'incertitude de Dugas et Ladouceur identifie quatre facteurs d'entretien du trouble, dont l'intolérance à l'incertitude elle-même et les fausses croyances"
+      ],
+      "wrong": [
+        "L'inquiétude y serait définie comme une réaction physiologique isolée, sans lien avec les pensées ou les images mentales du sujet",
+        "Le diagnostic requerrait une présence excessive de soucis depuis au moins six semaines, facilement contrôlables par le patient",
+        "Le modèle de l'intolérance à l'incertitude identifierait deux facteurs d'entretien, centrés surtout sur les croyances religieuses du patient",
+        "L'inquiétude y serait présentée comme un phénomène rare, concernant surtout des thèmes exceptionnels et peu probables",
+        "Le modèle explicatif du TAG reposerait avant tout sur un conditionnement pavlovien identique à celui décrit pour le trouble panique"
+      ]
+    },
+    {
+      "id": 21,
+      "text": "Concernant les critères diagnostiques du TSPT présentés dans le cours, lesquels sont exacts ?",
+      "explanation": "Une exposition à un événement grave est requise (exposition directe, témoin, ou apprentissage qu'un proche en a été victime). Un évitement constant des situations associées à l'événement traumatique est présent, ainsi que des changements négatifs de l'humeur et des idées.",
+      "correct": [
+        "Une exposition à un événement grave est requise, que ce soit par exposition directe, en tant que témoin, ou en apprenant qu'un proche en a été victime",
+        "Un évitement constant des situations associées à l'événement traumatique est présent, ainsi que des changements négatifs de l'humeur et des idées"
+      ],
+      "wrong": [
+        "Une exposition indirecte par les médias suffirait à elle seule à poser le diagnostic, sans nécessité d'un lien personnel avec l'événement",
+        "Un évitement occasionnel des situations associées à l'événement serait requis, sans changement notable de l'humeur ou des idées",
+        "Une exposition à un événement grave ne serait pas nécessaire au diagnostic, seule la présence de symptômes suffisant",
+        "Un rapprochement volontaire des situations associées au traumatisme serait recherché, plutôt qu'un évitement de celles-ci",
+        "Une amélioration rapide de l'humeur et des idées après l'événement traumatique serait généralement observée dans les critères",
+        "Une exposition à un événement grave ne serait requise que lorsqu'elle concerne un membre de la famille proche"
+      ]
+    },
+    {
+      "id": 22,
+      "text": "Quelles sont les quatre catégories de symptômes du TSPT présentées dans le cours ?",
+      "explanation": "Les quatre catégories sont : la reviviscence (flashbacks intrusifs, cauchemars répétitifs), l'évitement (efforts persistants pour éviter pensées, situations ou endroits évoquant le trauma), l'altération négative des cognitions et de l'humeur, et l'hyperactivation (hypervigilance, irritabilité, troubles du sommeil).",
+      "correct": [
+        "De reviviscence, avec la présence de flashbacks intrusifs ou de cauchemars répétitifs liés au trauma",
+        "D'évitement, avec des efforts persistants pour éviter les pensées, situations ou endroits évoquant le traumatisme",
+        "D'hyperactivation, avec la présence d'hypervigilance, d'irritabilité ou de troubles du sommeil"
+      ],
+      "wrong": [
+        "De régression, avec un retour à des comportements typiques d'un stade de développement antérieur",
+        "De dissimulation, avec la présence d'un déni marqué de l'existence même du traumatisme vécu",
+        "De sublimation, avec une transformation de la souffrance en une production artistique ou créative",
+        "De projection, avec l'attribution à autrui des émotions négatives ressenties par la personne",
+        "De rationalisation, avec la construction d'explications logiques visant à minimiser l'impact du traumatisme"
+      ]
+    },
+    {
+      "id": 23,
+      "text": "Concernant l'épidémiologie et les facteurs de risque du TSPT présentés dans le cours, lesquels sont exacts ?",
+      "explanation": "Les probabilités de développer un TSPT varient selon le sexe et le type de trauma, avec deux fois plus de femmes touchées. Les victimes d'agression physique ou sexuelle sont plus susceptibles de développer un TSPT que celles ayant vécu des événements accidentels. Parmi les facteurs de risque figurent les abus dans l'enfance, les antécédents de maladie psychiatrique et un faible statut socioéconomique.",
+      "correct": [
+        "Les probabilités de développer un TSPT varient selon le sexe et le type de trauma vécu, avec deux fois plus de femmes que d'hommes touchées",
+        "Les personnes victimes d'agression physique ou sexuelle seraient plus susceptibles de développer un TSPT que celles ayant vécu des événements de nature accidentelle",
+        "Parmi les facteurs de risque figurent les abus et difficultés dans l'enfance, les antécédents personnels et familiaux de maladie psychiatrique, ainsi qu'un faible statut socioéconomique"
+      ],
+      "wrong": [
+        "Les probabilités de développer un TSPT seraient identiques pour tous les types de trauma, indépendamment du sexe de la personne",
+        "Les personnes ayant vécu des événements de nature accidentelle seraient plus susceptibles de développer un TSPT que les victimes d'agression physique ou sexuelle",
+        "Parmi les facteurs de risque figureraient surtout un niveau d'éducation élevé et un statut socioéconomique favorisé",
+        "Les probabilités de développer un TSPT seraient plus élevées chez les hommes que chez les femmes, quel que soit le type de trauma",
+        "Parmi les facteurs de risque figureraient principalement des traits de personnalité extravertis et une forte sociabilité"
+      ]
+    },
+    {
+      "id": 24,
+      "text": "Concernant les comorbidités du TSPT évoquées dans le cours, lesquelles sont exactes ?",
+      "explanation": "Environ 75% des personnes souffrant de TSPT présentent au moins un autre trouble psychiatrique (trouble dépressif, anxieux, ou de l'usage de substances). Ces personnes ont également un risque accru de problèmes de santé physique, notamment une association marquée avec la douleur chronique.",
+      "correct": [
+        "Environ 75% des personnes souffrant de TSPT présenteraient au moins un autre trouble psychiatrique, notamment un trouble dépressif, anxieux ou de l'usage de substances",
+        "Les personnes souffrant de TSPT auraient également un risque accru de problèmes de santé physique, notamment une association marquée avec la douleur chronique"
+      ],
+      "wrong": [
+        "Environ 10% des personnes souffrant de TSPT présenteraient un autre trouble psychiatrique associé, principalement des troubles du sommeil isolés",
+        "Les personnes souffrant de TSPT présenteraient un risque diminué de développer un trouble anxieux, en comparaison avec la population générale",
+        "Les comorbidités du TSPT concerneraient avant tout des troubles neurologiques dégénératifs, plutôt que des troubles psychiatriques",
+        "Les personnes souffrant de TSPT n'auraient pas de risque accru de problèmes de santé physique, ce trouble restant avant tout psychologique",
+        "Environ 75% des personnes souffrant de TSPT présenteraient surtout un trouble de la personnalité associé, plus rarement d'autres troubles",
+        "Les comorbidités du TSPT seraient principalement des troubles du comportement alimentaire, plus que des troubles dépressifs ou anxieux"
+      ]
+    },
+    {
+      "id": 25,
+      "text": "Concernant les recommandations de traitement du TSPT présentées dans le cours, lesquelles sont exactes ?",
+      "explanation": "La TCC est recommandée par la HAS, associant psychoéducation, techniques de gestion du stress, séances d'exposition aux souvenirs du trauma et stratégies cognitives. L'EMDR est également recommandée pour les traumas simples, à condition d'être pratiquée par un psychologue formé.",
+      "correct": [
+        "La TCC est recommandée par la HAS, associant psychoéducation, techniques de gestion du stress, séances d'exposition aux souvenirs du trauma et stratégies cognitives",
+        "L'EMDR est également recommandée pour les traumas simples, à condition d'être pratiquée par un psychologue formé à cette approche"
+      ],
+      "wrong": [
+        "La TCC serait déconseillée par la HAS pour le TSPT, au profit d'une prise en charge avant tout médicamenteuse",
+        "L'EMDR serait recommandée surtout pour les traumas complexes et anciens, plus rarement pour les traumas récents ou simples",
+        "La TCC recommandée reposerait avant tout sur l'évitement des souvenirs du trauma, plutôt que sur leur exposition progressive",
+        "L'EMDR pourrait être pratiquée sans formation spécifique, tout professionnel de santé étant habilité à la proposer",
+        "La psychoéducation ne ferait pas partie des éléments recommandés dans la prise en charge TCC du TSPT",
+        "Les centres spécialisés comme les CRP ou les CUMP seraient présentés comme peu pertinents dans la compréhension du trauma"
+      ]
+    },
+    {
+      "id": 26,
+      "text": "Concernant l'histoire de la description clinique du TOC présentée dans le cours, quelles affirmations sont exactes ?",
+      "explanation": "Esquirol décrit le trouble sous le terme de «monomanie résonnante», illustré notamment par le cas de Mademoiselle F. Freud, au début du XXe siècle, parle de «névrose obsessionnelle», illustrée par le cas de l'homme aux rats, avec une régression au stade anal.",
+      "correct": [
+        "Esquirol décrit le trouble sous le terme de «monomanie résonnante», illustré notamment par le cas de Mademoiselle F",
+        "Freud, au début du XXe siècle, parle de «névrose obsessionnelle», illustrée par le cas de l'homme aux rats"
+      ],
+      "wrong": [
+        "Esquirol décrirait le trouble sous le terme de «névrose obsessionnelle», illustré par le cas de l'homme aux rats",
+        "Freud, au début du XXe siècle, parlerait de «monomanie résonnante», illustrée par le cas de Mademoiselle F",
+        "Kraepelin décrirait le premier le trouble sous le terme de «maladie du doute», dans le cadre de ses travaux sur les classifications",
+        "Bergeret décrirait le trouble sous le terme de «névrose actuelle», en lien avec des perturbations récentes de la vie pulsionnelle",
+        "Esquirol associerait le trouble à un dysfonctionnement du circuit orbito-fronto-striato-thalamo-cortical, décrit dès le XIXe siècle",
+        "Freud attribuerait l'origine du trouble à une régression au stade oral, pour lutter contre les tendances libidinales du complexe d'Œdipe"
+      ]
+    },
+    {
+      "id": 27,
+      "text": "Concernant le trouble obsessionnel compulsif (TOC), son épidémiologie et ses comorbidités, selon le cours :",
+      "explanation": "Il s'agit de la quatrième maladie psychiatrique la plus fréquente, touchant environ 2% de la population générale, avec un début se situant à la fin de l'adolescence ou au début de l'âge adulte. Les comorbidités les plus citées sont les troubles de l'humeur, les troubles anxieux et les troubles du comportement alimentaire.",
+      "correct": [
+        "Il s'agit de la quatrième maladie psychiatrique la plus fréquente, touchant environ 2% de la population générale, avec un début se situant à la fin de l'adolescence ou au début de l'âge adulte",
+        "Les comorbidités les plus citées sont les troubles de l'humeur, les troubles anxieux et les troubles du comportement alimentaire"
+      ],
+      "wrong": [
+        "Il s'agirait de la première maladie psychiatrique la plus fréquente, touchant environ 15% de la population générale, avec un début se situant généralement après 50 ans",
+        "Les comorbidités les plus citées seraient les troubles neurocognitifs et les troubles du spectre autistique",
+        "Il s'agirait d'un trouble rare, touchant moins de 0,1% de la population générale, sans lien avec l'âge d'apparition",
+        "Les comorbidités les plus citées seraient surtout les troubles du sommeil, avec peu de lien avec l'humeur ou l'anxiété",
+        "Il s'agirait de la quatrième maladie psychiatrique la plus fréquente, mais toucherait plutôt 20% de la population générale",
+        "Les comorbidités les plus citées seraient les troubles de la personnalité et les troubles psychotiques"
+      ]
+    },
+    {
+      "id": 28,
+      "text": "Concernant les obsessions et leurs trois types présentés dans le cours, lesquelles de ces affirmations sont exactes ?",
+      "explanation": "Les obsessions idéatives, ou «folie du doute», sont les plus fréquentes et concernent des mots, des chiffres, des objets ou des préoccupations. Les obsessions phobiques sont des craintes spécifiques en dehors de toute situation phobogène (microbes, contamination). Les obsessions impulsives assaillent le patient par la crainte de commettre un acte absurde, le passage à l'acte restant exceptionnel.",
+      "correct": [
+        "Les obsessions idéatives, ou «folie du doute», sont les plus fréquentes et concernent des mots, des chiffres, des objets ou des préoccupations",
+        "Les obsessions phobiques sont des craintes spécifiques assaillant l'esprit du patient en dehors de toute situation phobogène, comme la peur des microbes ou de la contamination",
+        "Les obsessions impulsives assaillent le patient par la crainte de commettre un acte absurde ou agressif, bien que le passage à l'acte reste exceptionnel"
+      ],
+      "wrong": [
+        "Les obsessions idéatives seraient les moins fréquentes du trouble, concernant surtout des situations sociales très spécifiques",
+        "Les obsessions phobiques surviendraient surtout en présence de la situation phobogène redoutée, contrairement aux phobies classiques",
+        "Les obsessions impulsives se traduiraient généralement par un passage à l'acte fréquent, contrairement à ce qui est observé pour les autres types",
+        "Les obsessions idéatives seraient caractérisées avant tout par leur caractère volontaire et contrôlé par le sujet",
+        "Les obsessions phobiques concerneraient surtout la peur de situations sociales de performance, comme dans l'anxiété sociale"
+      ]
+    },
+    {
+      "id": 29,
+      "text": "Concernant les compulsions et les critères diagnostiques du TOC présentés dans le cours, lesquelles de ces affirmations sont exactes ?",
+      "explanation": "La compulsion est un acte auquel le sujet se sent contraint, dont il reconnaît le caractère absurde, mais qu'il ne peut s'empêcher d'effectuer de façon itérative. Le diagnostic requiert que les obsessions ou compulsions durent longtemps quotidiennement (au moins une heure) et génèrent une détresse importante ou une altération du fonctionnement.",
+      "correct": [
+        "La compulsion est un acte auquel le sujet se sent contraint, dont il reconnaît le caractère absurde, mais qu'il ne peut s'empêcher d'effectuer de façon itérative",
+        "Le diagnostic requiert que les obsessions ou compulsions durent longtemps quotidiennement, au moins une heure, et génèrent une détresse importante ou une altération du fonctionnement"
+      ],
+      "wrong": [
+        "La compulsion serait un acte accompli librement et sans contrainte ressentie, le sujet n'en percevant généralement pas le caractère absurde",
+        "Le diagnostic requerrait que les obsessions ou compulsions durent au moins une semaine complète, sans nécessité d'altération du fonctionnement",
+        "La compulsion aurait pour fonction principale de renforcer durablement l'obsession associée, plutôt que de réduire l'angoisse qu'elle engendre",
+        "Le diagnostic ne nécessiterait pas la présence de détresse ou d'altération du fonctionnement, la seule présence d'obsessions suffisant",
+        "La compulsion serait un acte largement automatique, échappant en grande partie à la conscience du sujet qui l'accomplit",
+        "Le diagnostic requerrait la présence simultanée d'obsessions et de compulsions, l'une des deux seules ne suffisant pas au diagnostic"
+      ]
+    },
+    {
+      "id": 30,
+      "text": "Concernant le traitement et les modèles explicatifs du TOC présentés dans le cours, lesquelles de ces affirmations sont exactes ?",
+      "explanation": "Une psychothérapie TCC avec exposition et prévention de la réponse est recommandée. L'hypothèse neurobiologique évoque une diminution de la taille des noyaux caudés et un dysfonctionnement du circuit orbito-fronto-striato-thalamo-cortical. Le modèle de Salkovskis relie une pensée intrusive à un système de croyances, générant de l'anxiété et des comportements ritualisés.",
+      "correct": [
+        "Une psychothérapie TCC avec exposition et prévention de la réponse est recommandée, consistant à exposer le sujet à des situations problématiques tout en différant la compulsion associée",
+        "L'hypothèse neurobiologique évoque une diminution de la taille des noyaux caudés et un dysfonctionnement du circuit orbito-fronto-striato-thalamo-cortical",
+        "Le modèle de Salkovskis relie une pensée intrusive à un système de croyances (schémas de danger et de responsabilité), générant de l'anxiété et des comportements ritualisés"
+      ],
+      "wrong": [
+        "Une psychothérapie TCC serait recommandée, consistant à renforcer la compulsion, dans l'idée d'en réduire progressivement la fréquence",
+        "L'hypothèse neurobiologique évoquerait plutôt une augmentation de la taille des noyaux caudés, associée à un excès d'activité sérotoninergique",
+        "Le modèle de Salkovskis relierait la pensée intrusive à un déficit sensoriel primaire, sans intervention de croyances ou de schémas cognitifs",
+        "Une psychothérapie TCC serait déconseillée pour le TOC, au profit d'une prise en charge avant tout pharmacologique",
+        "Le modèle de Beck expliquerait le TOC par un conditionnement pavlovien identique à celui décrit pour le trouble panique"
+      ]
+    }
+  ]
+}

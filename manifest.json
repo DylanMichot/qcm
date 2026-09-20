@@ -29,6 +29,12 @@
       "subject": "Géronto 2 - Syndrome Confusionnel",
       "tag": "Gérontopsychomotricité",
       "description": "Cours sur le syndrome confusionnel"
+    },
+    {
+      "file": "ch1-ch2-psycho-combine.json",
+      "subject": "Psychiatrie 1 & 2 - Psychose & BDA",
+      "tag": "Psychiatrie",
+      "description": "Cours sur les psychoses et les bouffées délirantes aigues"
     }
   ]
 }
