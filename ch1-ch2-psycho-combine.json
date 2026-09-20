@@ -1,516 +1,516 @@
 {
-  "subject": "Psychologie",
-  "tag": "Ch1 & Ch2 – Révision combinée (Introduction / Troubles anxieux, traumatismes, TOC)",
-  "description": "30 questions de révision combinant le chapitre d'introduction (santé mentale, normal/pathologique, personnalité, classifications diagnostiques) et le chapitre 2 (troubles anxieux, traumatismes/TSPT, TOC). Sélection représentative des deux chapitres, avec des distracteurs plausibles et de longueur homogène.",
+  "subject": "Psychiatrie",
+  "tag": "Ch1 & Ch2 – Introduction aux psychoses / Bouffées délirantes aiguës",
+  "description": "30 questions de niveau expert combinant le chapitre d'introduction aux psychoses (le délire : organisation, mécanismes, thèmes ; étiologie ; classifications) et le chapitre sur les bouffées délirantes aiguës (clinique, diagnostic, facteurs étiologiques, évolution, traitement). Distracteurs conçus pour être crédibles, plausibles et de longueur comparable aux bonnes réponses.",
   "questions": [
     {
       "id": 1,
-      "text": "Selon les rappels sur l'approche TCC présentés en introduction, quels sont les trois pôles sur lesquels on envisage le fonctionnement psychique ?",
-      "explanation": "Les 3 pôles sur lesquels on envisage le fonctionnement psychique sont l'interaction permanente entre l'émotion, la pensée, et le comportement (ce qui est observable de nos pensées).",
+      "text": "Concernant le terme «psychose» et son usage, selon le cours :",
+      "explanation": "C'est un terme ambigu, davantage utilisé par les psychologues et psychanalystes que par les psychiatres (bien qu'il figure dans leur vocabulaire). Au sens populaire, il désigne plutôt une obsession collective concernant une crainte (attentats, guerres…).",
       "correct": [
-        "L'émotion",
-        "La pensée",
-        "Le comportement, ce qui est observable de nos pensées"
+        "C'est un terme ambigu, davantage utilisé par les psychologues et les psychanalystes que par les psychiatres, bien qu'il figure dans le vocabulaire de ces derniers",
+        "Au sens populaire, le terme «psychose» désigne plutôt une obsession collective concernant une crainte (par exemple à propos d'attentats ou de guerres)"
       ],
       "wrong": [
-        "La motivation, qui oriente l'ensemble du fonctionnement psychique",
-        "La perception, qui filtre les informations sensorielles avant leur traitement cognitif",
-        "La mémoire, qui conserve les expériences passées de l'individu",
-        "L'attention, qui sélectionne les informations pertinentes de l'environnement",
-        "La sensation, qui correspond à l'activation des récepteurs sensoriels"
+        "C'est un terme univoque et simple, employé de façon identique par tous les professionnels de la santé mentale, sans ambiguïté",
+        "C'est un terme davantage utilisé par les psychiatres au quotidien que par les psychologues ou les psychanalystes",
+        "Au sens populaire, le terme «psychose» désignerait surtout un trouble individuel rare, sans lien avec une dimension collective",
+        "C'est un terme relativement récent, introduit dans le vocabulaire médical au cours des dernières décennies seulement",
+        "Au sens populaire, le terme «psychose» renverrait surtout à une pathologie de nature neurologique bien identifiée",
+        "C'est un terme dont l'adjectif dérivé serait rarement utilisé dans le vocabulaire courant des professionnels de santé"
       ]
     },
     {
       "id": 2,
-      "text": "Selon la définition de l'OMS présentée dans le cours, la santé mentale correspond à :",
-      "explanation": "D'après l'OMS, la santé mentale correspond à un état de bien-être mental qui permet de faire face aux sources de stress de la vie, de réaliser son potentiel, de bien apprendre et de bien travailler, et de contribuer à la vie de la communauté.",
+      "text": "Concernant l'origine historique du terme «psychose», selon le cours :",
+      "explanation": "Ce terme a été créé par le psychiatre autrichien Feuchtersleben, utilisé pour la première fois en 1844 dans son cours de pathologie mentale à Vienne. Selon lui, pour qu'il y ait psychose, il fallait qu'il y ait névrose, mais toute névrose n'est pas une psychose.",
       "correct": [
-        "Un état de bien-être mental qui permet de faire face aux sources de stress de la vie, de réaliser son potentiel, de bien apprendre et de bien travailler, et de contribuer à la vie de la communauté"
+        "Ce terme a été créé par le psychiatre autrichien Feuchtersleben, utilisé pour la première fois en 1844 dans son cours de pathologie mentale à Vienne",
+        "Selon lui, pour qu'il y ait psychose, il fallait qu'il y ait névrose, mais toute névrose n'est pas une psychose"
       ],
       "wrong": [
-        "Un état durable d'absence de toute souffrance psychique, quelles que soient les circonstances de vie",
-        "Une capacité à maintenir un fonctionnement social irréprochable en toutes circonstances",
-        "Un état biologique mesurable par des marqueurs neurophysiologiques objectifs",
-        "Une aptitude à réussir professionnellement et à atteindre les objectifs que l'on s'est fixés",
-        "Un état psychique stable, indépendant du contexte social, familial ou économique de la personne",
-        "Une capacité à résoudre seul l'ensemble des difficultés rencontrées au cours de la vie",
-        "Un équilibre affectif obtenu par la maîtrise complète de ses émotions"
+        "Ce terme a été créé par le psychiatre Magnan, utilisé pour la première fois en 1844 dans son cours de pathologie mentale à Vienne",
+        "Selon Feuchtersleben, pour qu'il y ait névrose, il fallait qu'il y ait psychose, la psychose étant la condition première de toute névrose",
+        "Ce terme aurait été créé par un psychiatre français, utilisé pour la première fois dans un cours de pathologie mentale à Paris",
+        "Selon lui, névrose et psychose seraient des termes globalement synonymes, désignant une même réalité clinique",
+        "Ce terme aurait été introduit à l'origine pour désigner avant tout les troubles anxieux, avant d'être élargi aux psychoses",
+        "Selon lui, la psychose serait largement indépendante de la notion de névrose, les deux concepts ayant peu de lien"
       ]
     },
     {
       "id": 3,
-      "text": "Quel paradoxe est souligné dans le cours à propos de la santé mentale ?",
-      "explanation": "Ce qui est paradoxal, c'est que nous pouvons avoir un trouble psychiatrique mais être en bonne santé mentale : nous pouvons souffrir d'une pathologie psychiatrique, mais pour autant nous sentir bien, être en bonne santé mentale.",
+      "text": "Quelle est la caractéristique principale des psychoses présentée dans le cours ?",
+      "explanation": "À quelque degré que ce soit, la caractéristique principale est la perte du contact avec le réel et l'altération foncière du lien interhumain (incapacité d'adaptation sociale).",
       "correct": [
-        "Il est possible de souffrir d'un trouble psychiatrique tout en étant, par ailleurs, en bonne santé mentale"
+        "À quelque degré que ce soit, la perte du contact avec le réel et l'altération foncière du lien interhumain (incapacité d'adaptation sociale)"
       ],
       "wrong": [
-        "Il serait difficile de se sentir bien tant qu'un trouble psychiatrique n'est pas résolu",
-        "La bonne santé mentale supposerait l'absence de tout trouble psychiatrique diagnostiqué",
-        "Un trouble psychiatrique entraînerait le plus souvent une dégradation globale et durable du bien-être ressenti",
-        "La santé mentale et les troubles psychiatriques relèveraient de deux échelles largement indépendantes, avec peu de points de recoupement",
-        "Le paradoxe soulevé porterait sur la possibilité d'être en bonne santé physique tout en souffrant d'un trouble psychiatrique",
-        "Le paradoxe porterait sur la difficulté à distinguer un trouble psychiatrique d'un trouble somatique",
-        "Il serait paradoxal qu'une personne en bonne santé mentale puisse malgré tout consulter un psychologue"
+        "Une altération isolée de la mémoire de travail, sans retentissement sur le contact avec le réel ou le lien social",
+        "Une perte de contact avec le réel, mais un lien interhumain qui resterait globalement préservé et adapté",
+        "Une altération du lien interhumain, mais un contact avec le réel qui resterait globalement intact",
+        "Une perturbation avant tout motrice, avec peu d'atteinte du contact avec le réel ou du lien interhumain",
+        "Une altération isolée du langage, sans retentissement sur le contact avec le réel ou l'adaptation sociale",
+        "Une perturbation de l'humeur avant tout, avec peu d'atteinte du contact avec le réel ou du lien social",
+        "Une altération de la perception sensorielle isolée, sans incapacité d'adaptation sociale associée"
       ]
     },
     {
       "id": 4,
-      "text": "Selon le cours, de quoi dépend la distinction entre le normal et le pathologique ?",
-      "explanation": "Le normal et le pathologique dépendent de l'endroit où l'on vit, de la culture, et du regard de la société. La différence entre le normal et le pathologique serait la manière dont l'individu va vivre les choses.",
+      "text": "Comment le cours définit-il le délire, et que signifie la notion d'«adhésion» au délire ?",
+      "explanation": "Le délire est une reconstruction intellectuelle morbide se développant en dehors de la réalité, s'accompagnant d'une conviction inébranlable. On dit que le patient est en «adhésion» (et non «adhérant») avec son délire.",
       "correct": [
-        "Elle dépend de l'endroit où l'on vit, de la culture, et du regard porté par la société",
-        "La différence entre le normal et le pathologique tiendrait avant tout à la manière dont l'individu vit les choses"
+        "Le délire est une reconstruction intellectuelle morbide se développant en dehors de la réalité, s'accompagnant d'une conviction inébranlable",
+        "On dit que le patient est en «adhésion» (et non «adhérant») avec son délire"
       ],
       "wrong": [
-        "Elle dépendrait avant tout de critères biologiques mesurables, indépendamment du contexte culturel",
-        "Elle reposerait sur un seuil statistique fixe, valable de la même manière dans toutes les cultures",
-        "Elle serait définie surtout par la présence ou l'absence de symptômes objectivables",
-        "La différence entre normal et pathologique tiendrait avant tout à la gravité des symptômes observés, indépendamment du vécu subjectif",
-        "Elle dépendrait principalement de l'âge de la personne concernée, plus que de son environnement culturel",
-        "Elle reposerait sur des critères identiques à ceux utilisés pour les maladies somatiques"
+        "Le délire serait une reconstruction rationnelle fondée sur des faits vérifiables, sans conviction particulière du patient",
+        "On dirait que le patient est «adhérant» (et non en «adhésion») avec son délire, selon la terminologie retenue dans le cours",
+        "Le délire serait une croyance passagère et facilement modifiable, sans réelle conviction stable chez le patient",
+        "On dirait que le patient est en «opposition» avec son délire, refusant le plus souvent d'y adhérer",
+        "Le délire serait défini comme une simple erreur de jugement ponctuelle, sans reconstruction plus globale de la réalité",
+        "On dirait que le patient est en «tolérance» avec son délire, l'acceptant sans y croire réellement"
       ]
     },
     {
       "id": 5,
-      "text": "Concernant la normalité statistique, l'une des trois définitions de la normalité présentées dans le cours :",
-      "explanation": "La normalité statistique est envisagée par rapport aux autres, en s'appuyant sur la courbe de Gauss, et sert de référence pour valider des recherches.",
+      "text": "Concernant les paramètres à analyser dans un délire, et la différence entre patients anxieux et psychotiques, selon le cours :",
+      "explanation": "Il est important d'analyser l'organisation (ou structure), les mécanismes et les thèmes prévalents du délire. Les anxieux souffrent de leur réalité et consultent, tandis que les psychotiques ne se demandent pas «pourquoi ?» et ne consultent pas forcément, du fait d'un déni de la pathologie.",
       "correct": [
-        "Elle est envisagée par rapport aux autres, en s'appuyant notamment sur la courbe de Gauss, et sert de référence pour valider des recherches"
+        "Il est important d'analyser l'organisation (ou structure), les mécanismes et les thèmes prévalents du délire",
+        "Les anxieux souffrent de leur réalité et consultent, tandis que les psychotiques ne se demandent pas «pourquoi ?» et ne consultent pas forcément, du fait d'un déni de la pathologie"
       ],
       "wrong": [
-        "Elle serait envisagée par rapport à ce qui est attendu et accepté par la société à un moment donné",
-        "Elle correspondrait à un idéal par définition inatteignable, servant de référence pour le perfectionnisme",
-        "Elle reposerait sur l'évaluation clinique individuelle du patient par le thérapeute, indépendamment de toute comparaison statistique",
-        "Elle s'appuierait sur des critères qualitatifs, sans référence à une distribution statistique",
-        "Elle correspondrait à la fréquence d'un comportement au sein d'une seule famille, plutôt qu'au sein de la population générale",
-        "Elle serait fondée sur le jugement subjectif du clinicien plutôt que sur une distribution de référence",
-        "Elle reposerait sur une évaluation de l'intensité et de la fréquence des symptômes plutôt que sur une comparaison à un groupe de référence"
+        "Il serait important d'analyser surtout l'intensité, la durée et la fréquence du délire, l'organisation n'étant pas un critère retenu",
+        "Les anxieux ne consulteraient pas forcément, du fait d'un déni de la pathologie, tandis que les psychotiques consulteraient volontiers pour savoir ce qu'ils ont",
+        "Il serait important d'analyser avant tout le contenu verbal exact du délire, sans tenir compte de son organisation ou de ses mécanismes",
+        "Les anxieux et les psychotiques auraient, selon le cours, un rapport similaire à leur trouble, consultant tous deux spontanément",
+        "Il serait important d'analyser surtout l'âge de survenue du délire, plutôt que son organisation ou ses mécanismes",
+        "Les psychotiques souffriraient de leur réalité et consulteraient un généraliste, contrairement aux anxieux qui resteraient dans le déni"
       ]
     },
     {
       "id": 6,
-      "text": "Concernant la normalité normative, l'une des trois définitions de la normalité présentées dans le cours :",
-      "explanation": "La normalité normative correspond à ce qui est attendu, autorisé et accepté par la société, et évolue avec le temps. L'exemple de l'homosexualité est cité : autrefois considérée comme une pathologie dans les anciens DSM, elle est aujourd'hui acceptée.",
+      "text": "Concernant les notions de consentement et d'assentiment, et l'importance du contexte culturel dans l'analyse d'un délire, selon le cours :",
+      "explanation": "Le consentement correspond à un «oui confirmé», tandis que l'assentiment correspond à un «puisque vous le dites, je ne dis pas non». Il faut tenir compte de la culture et de l'histoire du patient : croire en Dieu n'est pas un délire.",
       "correct": [
-        "Elle correspond à ce qui est attendu, autorisé et accepté par la société à un moment donné, et évolue avec le temps",
-        "L'exemple de l'homosexualité est cité : autrefois considérée comme une pathologie dans les classifications, elle est aujourd'hui acceptée"
+        "Le consentement correspond à un «oui confirmé», tandis que l'assentiment correspond à un «puisque vous le dites, je ne dis pas non»",
+        "Il faut tenir compte de la culture et de l'histoire du patient dans l'analyse d'un délire : par exemple, croire en Dieu n'est pas un délire"
       ],
       "wrong": [
-        "Elle correspondrait à ce qui est statistiquement le plus fréquent au sein d'une population donnée, indépendamment du jugement social",
-        "Elle constituerait un idéal par définition inatteignable, qui évoluerait peu dans le temps",
-        "L'exemple de la colère est cité comme un comportement toujours bien accepté socialement, quelle que soit sa forme",
-        "Elle reposerait sur des critères fixes et immuables, définis une fois pour toutes par les classifications diagnostiques",
-        "Elle serait déterminée avant tout par la loi, avec peu de lien avec les mœurs ou les usages sociaux",
-        "L'exemple de l'homosexualité serait cité comme un trouble encore considéré comme pathologique dans les classifications actuelles"
+        "Le consentement correspondrait à un «puisque vous le dites, je ne dis pas non», tandis que l'assentiment correspondrait à un «oui confirmé»",
+        "Il ne faudrait pas tenir compte de la culture ou de l'histoire du patient dans l'analyse d'un délire, ce critère étant jugé peu pertinent",
+        "Le consentement et l'assentiment seraient présentés comme des termes globalement équivalents, sans nuance particulière entre eux",
+        "Croire en Dieu serait présenté dans le cours comme un exemple typique de délire mystique à surveiller",
+        "Le consentement correspondrait à une absence de réponse du patient, contrairement à l'assentiment qui impliquerait une réponse verbale",
+        "Il faudrait tenir compte surtout de l'âge du patient dans l'analyse d'un délire, plutôt que de sa culture ou de son histoire"
       ]
     },
     {
       "id": 7,
-      "text": "Concernant le débat autour de la notion de normalité évoqué dans le cours :",
-      "explanation": "La notion de normalité reste débattue : Freud refuse l'idée même de normalité, tandis que Bergeret considère que tout le monde est normal.",
+      "text": "Concernant l'organisation du délire (systématisé versus non systématisé), selon le cours :",
+      "explanation": "Les délires systématisés sont logiques et cohérents, portant en général sur un seul thème. Les délires non systématisés sont plus «flous», avec un manque de cohérence et un relâchement des associations d'idées, touchant souvent plusieurs thèmes (ex : délires paranoïdes des schizophrènes).",
       "correct": [
-        "Freud refuserait l'idée même de normalité",
-        "Bergeret considérerait que tout le monde est normal"
+        "Les délires systématisés sont logiques et cohérents, portant en général sur un seul thème, ce qui peut rendre le discours du patient presque crédible à l'écoute",
+        "Les délires non systématisés sont plus «flous», avec un manque de cohérence, un relâchement des associations d'idées, et touchent souvent plusieurs thèmes, comme dans les délires paranoïdes des schizophrènes"
       ],
       "wrong": [
-        "Freud considérerait que tout le monde est normal, la normalité étant une construction sociale",
-        "Bergeret refuserait l'idée même de normalité, la jugeant inutilisable en clinique",
-        "Freud et Bergeret partageraient une position largement identique sur la question de la normalité",
-        "Kraepelin serait cité comme l'auteur qui refuse l'idée même de normalité",
-        "Ce débat opposerait principalement des auteurs behavioristes sur la définition de la normalité statistique",
-        "Freud proposerait une définition statistique de la normalité, fondée sur la courbe de Gauss"
+        "Les délires systématisés seraient plutôt flous et incohérents, touchant en général plusieurs thèmes différents mêlés les uns aux autres",
+        "Les délires non systématisés seraient très logiques et cohérents, portant en général sur un seul thème bien précis et circonscrit",
+        "Les délires systématisés se caractériseraient surtout par un relâchement marqué des associations d'idées du patient",
+        "Les délires non systématisés seraient typiquement observés dans la paranoïa, plutôt que dans la schizophrénie décrite dans le cours",
+        "Il n'existerait guère de nuance possible entre ces deux types d'organisation, chaque délire étant nécessairement l'un ou l'autre",
+        "Les délires systématisés concerneraient surtout les patients les plus jeunes, indépendamment du type de pathologie en cause"
       ]
     },
     {
       "id": 8,
-      "text": "Comment le cours définit-il la personnalité ?",
-      "explanation": "La personnalité correspond à ce qu'il y a de stable et d'unique dans le fonctionnement psychique d'un individu ; elle résulte de facteurs cognitifs et émotionnels.",
+      "text": "Comment le cours définit-il l'hallucination, et quels sont ses deux grands types ?",
+      "explanation": "L'hallucination est une perception sans objet. On distingue les hallucinations sensorielles (psychosensorielles) et les hallucinations psychiques (avec ou sans automatisme mental).",
       "correct": [
-        "Ce qu'il y a de stable et d'unique dans le fonctionnement psychique d'un individu, résultant de facteurs cognitifs et émotionnels"
+        "L'hallucination est une perception sans objet",
+        "On distingue les hallucinations sensorielles (psychosensorielles) et les hallucinations psychiques (avec ou sans automatisme mental)"
       ],
       "wrong": [
-        "Ce qu'il y a de plus changeant et de plus variable dans le fonctionnement psychique d'un individu",
-        "Un ensemble de comportements observables, avec peu de lien avec une dimension cognitive ou émotionnelle propre",
-        "Un trait unique et isolé qui suffirait à caractériser le fonctionnement global d'un individu",
-        "Le résultat de facteurs environnementaux, indépendamment de processus cognitifs ou émotionnels propres à l'individu",
-        "Un ensemble de symptômes cliniques permettant de poser un diagnostic psychiatrique",
-        "Ce qu'il y a de commun entre tous les individus d'une même culture, indépendamment de leurs particularités propres",
-        "Un ensemble de mécanismes de défense mis en place face à une angoisse typique"
+        "L'hallucination serait une perception déformée d'un objet réellement présent, plus grand, plus petit ou plus coloré",
+        "On distinguerait les hallucinations conscientes et les hallucinations inconscientes, selon le degré de vigilance du patient",
+        "L'hallucination serait définie comme un raisonnement faux partant d'un fait réel, prenant une signification personnelle",
+        "On distinguerait les hallucinations transitoires et les hallucinations permanentes, selon leur durée d'apparition",
+        "L'hallucination serait une donnée immédiate apparaissant à la conscience sans médiation ni raisonnement",
+        "On distinguerait les hallucinations organiques et les hallucinations fonctionnelles, selon leur origine cérébrale"
       ]
     },
     {
       "id": 9,
-      "text": "Quel apport est attribué à Emile Kraepelin dans le cours, concernant les classifications diagnostiques ?",
-      "explanation": "Kraepelin a établi le tableau clinique du patient : un ensemble de signes et de symptômes, une évolution typique (aiguë ou chronique), une étiologie précise (souvent multifactorielle), et un traitement spécifique.",
+      "text": "Concernant les sous-types d'hallucinations sensorielles décrits dans le cours, quelles affirmations sont exactes ?",
+      "explanation": "Les hallucinations auditives (acoustico-verbales) font entendre des voix ou des bruits, souvent menaçants ou insultants. Les hallucinations olfactives et gustatives sont souvent associées à une idée de nuisance (empoisonnement). Les hallucinations tactiles concernent la sensibilité de l'épiderme, pouvant aller jusqu'à des hallucinations cénesthésiques profondes.",
       "correct": [
-        "Il a établi le tableau clinique du patient, regroupant un ensemble de signes et de symptômes, une évolution typique, une étiologie et un traitement spécifique"
+        "Les hallucinations auditives (acoustico-verbales) font entendre des voix ou des bruits, souvent menaçants ou insultants",
+        "Les hallucinations olfactives et gustatives sont souvent associées à une idée de nuisance, comme un empoisonnement",
+        "Les hallucinations tactiles concernent la sensibilité de l'épiderme, avec des sensations de bestioles ou de brûlures, pouvant aller jusqu'à des hallucinations cénesthésiques profondes"
       ],
       "wrong": [
-        "Il aurait établi la notion de structure psychique, associant un désir, une angoisse typique et des mécanismes de défense",
-        "Il serait à l'origine de la première classification internationale des maladies (CIM), reprise ensuite par l'OMS",
-        "Il aurait introduit la distinction entre classification catégorielle et classification dimensionnelle",
-        "Il aurait proposé les trois définitions de la normalité (statistique, normative, idéale) présentées dans le cours",
-        "Il serait à l'origine du DSM, destiné à faciliter la rapidité et la fiabilité du diagnostic",
-        "Il aurait développé le modèle bio-psycho-social de la santé mentale évoqué par l'OMS",
-        "Il aurait proposé la distinction entre santé mentale positive et négative"
+        "Les hallucinations auditives seraient le plus souvent rassurantes et bienveillantes pour le patient qui les perçoit",
+        "Les hallucinations olfactives et gustatives seraient généralement agréables, sans lien avec une idée de nuisance",
+        "Les hallucinations tactiles concerneraient surtout la vision périphérique, plutôt que la sensibilité de la peau",
+        "Les hallucinations auditives se limiteraient surtout à des mélodies ou des musiques, avec peu de voix humaines impliquées",
+        "Les hallucinations olfactives et gustatives seraient les hallucinations les plus fréquentes, devant les hallucinations auditives"
       ]
     },
     {
       "id": 10,
-      "text": "Concernant le DSM tel que décrit dans le cours, quelles affirmations sont exactes ?",
-      "explanation": "Le DSM est apparu après la CIM, destiné à faciliter le diagnostic et sa rapidité en cherchant la fiabilité la plus forte. Il est aujourd'hui organisé selon une approche dimensionnelle, axée sur l'intensité et la fréquence des troubles, avec une vision de continuum ; les troubles anxieux, les TOC et le trauma y ont désormais leur propre catégorie à part entière.",
+      "text": "Concernant les hallucinations psychiques décrites dans le cours, quelles affirmations sont exactes ?",
+      "explanation": "Elles se passent «dans la tête» du patient, sous forme de voix donnant des injonctions. Le patient est sous l'influence d'un automatisme mental et a perdu la maîtrise de lui-même, ce qui peut le rendre irresponsable au sens fort en cas de transgression.",
       "correct": [
-        "Le DSM est apparu après la CIM, avec pour objectif de faciliter le diagnostic et sa rapidité, en cherchant la fiabilité la plus forte",
-        "Il est aujourd'hui organisé selon une approche dimensionnelle axée sur l'intensité et la fréquence des troubles, avec une vision de continuum"
+        "Elles se passent «dans la tête» du patient, souvent sous forme de voix donnant des injonctions ou des ordres",
+        "Le patient est sous l'influence d'un automatisme mental et a perdu la maîtrise de lui-même, ce qui peut le rendre irresponsable au sens fort en cas de transgression"
       ],
       "wrong": [
-        "Le DSM serait apparu avant la CIM, cette dernière s'en étant ensuite largement inspirée",
-        "Le DSM reposerait aujourd'hui avant tout sur une approche catégorielle binaire, sans dimension d'intensité ni de fréquence",
-        "Le DSM aurait été conçu à l'origine par l'Organisation Mondiale de la Santé, avant d'être repris par des associations nationales",
-        "Les troubles anxieux, les TOC et le trauma resteraient regroupés dans une seule et même catégorie diagnostique dans les versions actuelles",
-        "Le DSM s'organiserait en fonction de trois grands aspects, contre un nombre bien plus élevé pour la CIM",
-        "Le DSM chercherait avant tout à s'éloigner de toute référence aux normes et valeurs culturelles dans la définition des troubles mentaux"
+        "Elles se manifesteraient surtout à l'extérieur du patient, plutôt que «dans sa tête», à la différence des hallucinations sensorielles",
+        "Le patient garderait une large maîtrise de lui-même face à ces voix, ce qui le rendrait généralement responsable en cas de transgression",
+        "Elles seraient le plus souvent bienveillantes, le patient y résistant rarement et n'en souffrant guère",
+        "Elles concerneraient surtout la sensibilité de la peau, plutôt qu'un vécu avant tout intérieur au patient",
+        "Le patient resterait le plus souvent conscient de fabriquer lui-même ces voix, avec peu de sentiment d'influence extérieure",
+        "Elles seraient présentées comme globalement moins graves que les hallucinations sensorielles, sur le plan de la responsabilité pénale"
       ]
     },
     {
       "id": 11,
-      "text": "Selon la définition retenue dans le cours, un trouble mental est :",
-      "explanation": "Un trouble mental est un syndrome caractérisé par une perturbation cliniquement significative de la cognition d'un individu, de sa régulation émotionnelle et de son comportement, le plus souvent associé à une détresse, une souffrance ou une altération importante des activités sociales, professionnelles ou d'autres domaines de la vie quotidienne.",
+      "text": "Concernant le mécanisme des interprétations décrit dans le cours, quelles affirmations sont exactes ?",
+      "explanation": "Ce sont des raisonnements faux partant d'une sensation réelle ou d'un fait exact, prenant une signification personnelle pour le patient. On distingue les interprétations exogènes (extérieures), endogènes (internes) et rétroactives (donnant du sens à des éléments passés).",
       "correct": [
-        "Un syndrome caractérisé par une perturbation cliniquement significative de la cognition, de la régulation émotionnelle et du comportement d'un individu, le plus souvent associé à une détresse ou une altération importante des activités sociales, professionnelles ou d'autres domaines"
+        "Ce sont des raisonnements faux partant d'une sensation réelle ou d'un fait exact, prenant une signification personnelle pour le patient qui rapporte tout à lui",
+        "On distingue les interprétations exogènes (venant de l'extérieur), endogènes (internes, touchant aux organes) et rétroactives (donnant du sens à des éléments passés)"
       ],
       "wrong": [
-        "Un ensemble de comportements observables et durables, jugés inadaptés par l'entourage social ou familial de la personne, indépendamment de tout vécu subjectif de détresse ressenti par elle-même au fil du quotidien",
-        "Une perturbation essentiellement biologique et héréditaire du fonctionnement cérébral de l'individu, sans répercussion nécessaire sur sa cognition, ses émotions ou son comportement observable au quotidien",
-        "Un syndrome défini avant tout par la présence de symptômes physiques inexpliqués par la médecine somatique, sans réelle altération de la cognition ou de la régulation émotionnelle qui lui serait associée",
-        "Une réaction ponctuelle et normale à un événement de vie stressant ou difficile traversé par la personne, sans caractère cliniquement significatif ni persistance dans le temps au-delà de quelques semaines",
-        "Un trouble se manifestant surtout dans la sphère professionnelle et académique de la personne concernée, avec assez peu de retentissement observable sur les autres domaines de sa vie quotidienne",
-        "Une perturbation du comportement social et relationnel de l'individu, qui ne s'accompagnerait généralement pas d'une réelle souffrance ressentie par la personne elle-même dans son quotidien",
-        "Un déséquilibre passager et réversible de l'humeur de la personne, sans lien direct avec sa cognition, sa régulation émotionnelle ou son fonctionnement social habituel au quotidien"
+        "Ce sont des perceptions sans objet réel, indépendantes de toute sensation ou de tout fait exact préalable chez le patient",
+        "On distinguerait les interprétations aiguës, chroniques et intermittentes, selon leur durée d'apparition chez le patient concerné",
+        "Ce sont des données immédiates apparaissant à la conscience du patient, sans médiation ni point de départ réel identifiable",
+        "On distinguerait les interprétations conscientes et inconscientes, selon que le patient en ait ou non pleinement connaissance",
+        "Ce sont des perceptions déformées d'objets réellement présents, apparaissant plus grands, plus petits ou plus colorés",
+        "On distinguerait les interprétations verbales et motrices, selon le mode d'expression privilégié par le patient concerné"
       ]
     },
     {
       "id": 12,
-      "text": "Concernant le diagnostic des troubles anxieux fondé sur la présence d'une triade, selon le cours :",
-      "explanation": "Le diagnostic repose sur la présence d'une triade associant crises d'angoisse aiguë, fond permanent d'anxiété et terrain anxieux. On distingue deux formes d'anxiété : un terrain anxieux permanent chez certaines personnes, et une anxiété présente seulement à certains moments chez d'autres.",
+      "text": "Comment le cours distingue-t-il les intuitions, les fabulations (ou imaginations) et les illusions ?",
+      "explanation": "Les intuitions apparaissent à la conscience comme une donnée immédiate, sans médiation. Les fabulations sont des profusions imaginatives accompagnant les délires, se distinguant des interprétations par l'absence de «pourquoi». Les illusions sont des perceptions déformées d'objets réels, et ne sont pas des hallucinations.",
       "correct": [
-        "Cette triade associe des crises d'angoisse aiguë, un fond permanent d'anxiété et un terrain anxieux",
-        "On distingue deux formes d'anxiété : un terrain anxieux permanent chez certaines personnes, et une anxiété présente seulement à certains moments chez d'autres"
+        "Les intuitions apparaissent à la conscience comme une donnée immédiate, sans médiation ni raisonnement",
+        "Les fabulations sont des profusions imaginatives accompagnant les délires, se distinguant des interprétations par l'absence de «pourquoi»",
+        "Les illusions sont des perceptions déformées d'objets réels (plus gros, plus petits, plus colorés), et ne sont pas des hallucinations"
       ],
       "wrong": [
-        "Cette triade associe des crises d'angoisse aiguë, une altération de la mémoire et une désorientation temporo-spatiale",
-        "Cette triade associe un terrain anxieux, une phobie spécifique et une obsession envahissante",
-        "On distingue deux formes d'anxiété : une forme surtout biologique et une forme surtout psychologique, sans lien entre elles",
-        "Cette triade associe un fond permanent d'anxiété, une dépression secondaire et une addiction associée",
-        "On distingue deux formes d'anxiété selon qu'elle touche les hommes ou les femmes, les mécanismes sous-jacents étant différents",
-        "Cette triade associe des crises d'angoisse aiguë, un terrain anxieux et une dissociation péritraumatique"
+        "Les intuitions seraient des raisonnements faux partant d'un fait réel, prenant une signification personnelle pour le patient",
+        "Les fabulations seraient des perceptions sans objet, comparables en tout point aux hallucinations psychiques",
+        "Les illusions seraient des perceptions sans objet réel préalable, au même titre que les hallucinations",
+        "Les intuitions nécessiteraient un raisonnement préalable explicite pour apparaître à la conscience du patient",
+        "Les fabulations se distingueraient des interprétations par la présence marquée d'un «pourquoi» structurant le discours"
       ]
     },
     {
       "id": 13,
-      "text": "Selon le DSM-5-TR et la CIM-11, quelles catégories cliniques de troubles anxieux sont citées dans le cours ?",
-      "explanation": "Le DSM-5-TR et la CIM-11 distinguent notamment l'anxiété de séparation (plutôt chez les enfants), le trouble panique (plusieurs attaques de panique répétées), l'anxiété généralisée, l'agoraphobie, la phobie spécifique et la phobie sociale.",
+      "text": "Parmi les thèmes du délire décrits dans le cours, lesquels sont exacts ?",
+      "explanation": "La persécution, thème le plus fréquent (et non un mécanisme), concerne souvent le paranoïaque ou le schizophrène. Les idées de grandeur (mégalomanie) se retrouvent chez les schizophrènes, paranoïaques, maniaques ou narcissiques. Les idées de négation consistent en une négation des personnes ou du monde.",
       "correct": [
-        "L'anxiété de séparation, plutôt observée chez les enfants",
-        "Le trouble panique, caractérisé par plusieurs attaques de panique répétées",
-        "L'agoraphobie et la phobie sociale"
+        "La persécution, thème le plus fréquent (qui est un thème et non un mécanisme), concerne souvent le paranoïaque ou le schizophrène",
+        "Les idées de grandeur (mégalomanie) se retrouvent chez les schizophrènes, paranoïaques, maniaques ou narcissiques",
+        "Les idées de négation consistent en une négation des personnes ou du monde (par exemple : «la mort n'est pas si grave»)"
       ],
       "wrong": [
-        "Le trouble de la personnalité borderline, plutôt diagnostiqué à l'âge adulte",
-        "Le trouble dissociatif de l'identité, plus rare dans la population",
-        "La dépression majeure, associée à une tristesse persistante",
-        "Le trouble bipolaire de type II, avec des épisodes hypomaniaques",
-        "Le trouble obsessionnel compulsif, une catégorie à part entière"
+        "La persécution serait présentée comme un mécanisme du délire, plutôt que comme l'un de ses thèmes",
+        "Les idées de grandeur seraient un thème rare, peu associé aux pathologies psychotiques ou maniaques",
+        "Les idées de négation consisteraient surtout en une affirmation exagérée de l'existence des personnes ou du monde",
+        "Les idées hypocondriaques seraient présentées comme un mécanisme du délire, au même titre que les hallucinations",
+        "Les idées d'influence concerneraient surtout la conviction d'être atteint d'une maladie, plutôt que d'être commandé par une force extérieure"
       ]
     },
     {
       "id": 14,
-      "text": "Concernant les conceptions de Freud et de D. Klein évoquées à propos du trouble panique, selon le cours :",
-      "explanation": "Pour Freud, la névrose d'angoisse est une «névrose actuelle» liée à des perturbations récentes de la vie pulsionnelle. Pour Klein et son approche bio-comportementale, la répétition des attaques de panique provoque la crainte anticipatoire de leur réapparition, et les lieux de survenue deviennent phobogènes.",
+      "text": "Concernant l'étiologie des délires et les phénomènes à en différencier, selon le cours :",
+      "explanation": "Il faut éliminer les pathologies organiques et toxiques avant d'évoquer une cause psychiatrique du délire. Les hallucinoses se distinguent du délire car le patient critique ce qu'il vit et n'y adhère pas (par exemple chez des patients ayant des acouphènes).",
       "correct": [
-        "Pour Freud, la névrose d'angoisse est une «névrose actuelle» liée à des perturbations récentes de la vie pulsionnelle",
-        "Pour Klein et son approche bio-comportementale, la répétition des attaques de panique provoque la crainte anticipatoire de leur réapparition"
+        "Il faut éliminer les pathologies organiques et toxiques avant d'évoquer une cause psychiatrique du délire",
+        "Les hallucinoses se distinguent du délire car le patient critique ce qu'il vit et n'y adhère pas (par exemple, chez des patients ayant des acouphènes)"
       ],
       "wrong": [
-        "Pour Freud, la névrose d'angoisse serait une «névrose actuelle» liée à un dysfonctionnement du système GABAergique",
-        "Pour Klein et son approche bio-comportementale, la crainte anticipatoire résulterait avant tout d'un conflit œdipien non résolu",
-        "Pour Freud, le trouble panique serait avant tout expliqué par un déficit d'apprentissage social durant l'enfance",
-        "Pour Klein, la répétition des attaques de panique serait sans lien avec les lieux de leur survenue, contrairement à l'approche psychanalytique",
-        "Pour Freud, la névrose d'angoisse serait directement héritée génétiquement, indépendamment de la vie pulsionnelle du sujet",
-        "Pour Klein, l'approche bio-comportementale écarterait l'idée même d'une crainte anticipatoire chez les patients"
+        "Il faudrait évoquer une cause psychiatrique en priorité, avant même d'envisager une cause organique ou toxique",
+        "Les hallucinoses se distingueraient du délire par une adhésion encore plus forte du patient à ce qu'il perçoit",
+        "Les causes organiques et toxiques seraient jugées anecdotiques face aux délires, la cause psychiatrique étant presque toujours en jeu",
+        "Les mythomanies impliqueraient une adhésion au moins aussi forte que dans le délire véritable, selon le cours",
+        "Les hallucinoses seraient un sous-type d'hallucinations psychiques, se manifestant surtout chez les schizophrènes",
+        "Les états seconds crépusculaires décrits chez l'histrionique impliqueraient des hallucinations particulièrement durables et stables"
       ]
     },
     {
       "id": 15,
-      "text": "Concernant la neurobiologie de l'anxiété présentée dans le cours, quelles affirmations sont exactes ?",
-      "explanation": "Le cortex insulaire et l'amygdale sont suractivés chez les patients anxieux. Le GABA est la cible de médicaments anxiolytiques, la sérotonine régule son activité, et la production d'endocannabinoïdes (notamment au niveau du noyau accumbens) est également suspectée d'avoir un rôle.",
+      "text": "Concernant la classification des psychoses présentée dans le cours, quelles affirmations sont exactes ?",
+      "explanation": "Selon l'évolution : psychoses aiguës (<6 mois, ex. bouffée délirante aiguë, confusion mentale) versus chroniques (>6 mois, ex. schizophrénies). Selon l'étiologie : organiques (lésion cérébrale) versus fonctionnelles (sans lésion, ex. schizophrénies, bouffées délirantes aiguës). Selon le DSM-5 : spectre de la schizophrénie (incluant la catatonie) et autres troubles psychotiques.",
       "correct": [
-        "Le cortex insulaire et l'amygdale sont suractivés chez les patients anxieux",
-        "Le GABA est la cible de médicaments anxiolytiques, et la sérotonine, qui régule son activité, est également impliquée",
-        "La production d'endocannabinoïdes, notamment au niveau du noyau accumbens, est également suspectée d'avoir un rôle"
+        "Selon l'évolution, on distingue les psychoses aiguës (moins de 6 mois, comme la bouffée délirante aiguë ou la confusion mentale) des psychoses chroniques (plus de 6 mois, comme les schizophrénies)",
+        "Selon l'étiologie, on distingue les psychoses organiques (atteinte cérébrale lésionnelle) des psychoses fonctionnelles (sans lésion cérébrale, comme les schizophrénies ou les bouffées délirantes aiguës)",
+        "Selon le DSM-5, deux grands champs sont décrits : le spectre de la schizophrénie (incluant la catatonie) et les autres troubles psychotiques"
       ],
       "wrong": [
-        "Le cortex préfrontal dorsolatéral et l'hippocampe seraient surtout suractivés chez les patients anxieux, indépendamment de l'amygdale",
-        "La dopamine serait la cible principale des médicaments anxiolytiques, la sérotonine n'ayant qu'un rôle marginal dans l'anxiété",
-        "La production de mélatonine, notamment au niveau du noyau caudé, serait le principal mécanisme impliqué dans l'anxiété",
-        "Les mécanismes neurobiologiques de l'anxiété seraient aujourd'hui bien établis, laissant peu de place à l'incertitude scientifique actuelle",
-        "L'acétylcholine, davantage que le GABA, serait la cible privilégiée des traitements anxiolytiques actuels"
+        "Selon l'évolution, les psychoses aiguës dureraient plus de 6 mois, contrairement aux psychoses chroniques qui dureraient moins de 6 mois",
+        "Selon l'étiologie, les psychoses fonctionnelles correspondraient à une atteinte cérébrale lésionnelle identifiable",
+        "Selon le DSM-5, un seul grand champ engloberait l'ensemble des psychoses, sans distinction entre schizophrénie et autres troubles",
+        "Selon l'évolution, la psychose puerpérale serait classée parmi les psychoses chroniques plutôt qu'aiguës",
+        "Selon l'étiologie, les psychoses organiques regrouperaient notamment les schizophrénies et les paranoïas, en l'absence de lésion identifiée"
       ]
     },
     {
       "id": 16,
-      "text": "Comment le cours distingue-t-il la peur et l'angoisse ?",
-      "explanation": "La peur est une émotion forte ressentie en présence d'une situation dangereuse imminente, qui constitue une menace à l'intégrité psycho-corporelle. L'angoisse est un malaise diffus, qui n'est pas une émotion primaire, caractérisé par une détresse ou une anticipation de quelque chose de désagréable ou catastrophique.",
+      "text": "Concernant la terminologie de la bouffée délirante aiguë et son origine historique, selon le cours :",
+      "explanation": "Selon le DSM-5, on parle d'épisode psychotique bref (<1 mois) et de trouble schizophréniforme (1 à 6 mois). Le terme «bouffée délirante aiguë» a été introduit par Magnan et reste utilisé en France.",
       "correct": [
-        "La peur est une émotion forte ressentie en présence d'une situation dangereuse imminente, qui constitue une menace à l'intégrité psycho-corporelle",
-        "L'angoisse est un malaise diffus, qui n'est pas une émotion primaire, caractérisé par une détresse ou une anticipation de quelque chose de désagréable ou catastrophique"
+        "Selon le DSM-5, on parle d'épisode psychotique bref lorsque le trouble dure moins d'un mois, et de trouble schizophréniforme lorsqu'il dure de 1 à 6 mois",
+        "Le terme «bouffée délirante aiguë» a été introduit par Magnan, et reste encore utilisé en France en psychiatrie"
       ],
       "wrong": [
-        "La peur serait un malaise diffus qui n'est pas une émotion primaire, tandis que l'angoisse constituerait une réponse à une menace imminente et concrète",
-        "La peur et l'angoisse seraient globalement synonymes, sans nuance particulière selon le cours",
-        "L'angoisse serait une émotion primaire, tout comme la peur, mais associée à une menace plus diffuse dans le temps",
-        "La peur serait une construction essentiellement culturelle, tandis que l'angoisse relèverait d'un mécanisme biologique universel",
-        "L'angoisse serait presque toujours plus intense que la peur, quelle que soit la situation rencontrée",
-        "La peur concernerait surtout les situations sociales, tandis que l'angoisse concernerait plutôt les situations physiques"
+        "Selon le DSM-5, on parlerait d'épisode psychotique bref lorsque le trouble dure plus de 6 mois, et de trouble schizophréniforme en dessous d'un mois",
+        "Le terme «bouffée délirante aiguë» aurait été introduit par Feuchtersleben, et resterait encore utilisé en France en psychiatrie",
+        "Selon le DSM-5, ces deux durées seraient interchangeables, sans distinction terminologique particulière entre elles",
+        "Le terme «bouffée délirante aiguë» ne serait presque plus utilisé en France, ayant été largement remplacé par la terminologie du DSM-5",
+        "Selon le DSM-5, le trouble schizophréniforme durerait généralement plus de 6 mois, au même titre que les psychoses chroniques",
+        "Le terme «bouffée délirante aiguë» aurait été introduit récemment, à l'occasion de la publication du DSM-5"
       ]
     },
     {
       "id": 17,
-      "text": "Concernant le trouble anxieux au sens de la psychopathologie et la distinction entre phobie, agoraphobie et TAG, selon le cours :",
-      "explanation": "Un trouble anxieux se caractérise par un problème sévère et persistant, provoquant une détresse émotionnelle importante et une modification du comportement social, personnel ou professionnel. L'agoraphobie est la peur d'une situation, la phobie est la peur d'un objet, et le TAG correspond à une anxiété plus diffuse, liée à une intolérance à l'incertitude.",
+      "text": "Concernant les évolutions possibles d'une bouffée délirante aiguë évoquées dans le cours, quelles affirmations sont exactes ?",
+      "explanation": "Elle peut être un facteur d'entrée dans la schizophrénie, évoluer vers une maniaco-dépression (bipolaire, évolution plutôt favorable), ou rester un épisode unique sans autre récidive.",
       "correct": [
-        "Un trouble anxieux se caractérise par un problème sévère et persistant, provoquant une détresse émotionnelle importante et une modification du comportement social, personnel ou professionnel",
-        "L'agoraphobie est la peur d'une situation, tandis que la phobie est la peur d'un objet",
-        "Le TAG correspond à une anxiété plus diffuse, non liée à un objet ou une situation particulière, plutôt associée à une intolérance à l'incertitude"
+        "Elle peut constituer un facteur déclenchant ou d'entrée dans la schizophrénie",
+        "Elle peut évoluer vers une maniaco-dépression (trouble bipolaire), évolution jugée plutôt favorable car mieux traitée aujourd'hui",
+        "Certains patients n'auront qu'une seule bouffée délirante aiguë, sans autre épisode par la suite"
       ],
       "wrong": [
-        "Un trouble anxieux se définirait avant tout par la présence d'une anxiété, même en l'absence de toute gêne dans le quotidien ou les relations sociales",
-        "L'agoraphobie serait la peur d'un objet précis, tandis que la phobie serait la peur d'une situation sociale complexe",
-        "Le TAG correspondrait à une anxiété centrée sur un objet précis, semblable en cela à la phobie spécifique",
-        "Un trouble anxieux se caractériserait avant tout par sa brièveté et son caractère occasionnel, sans nécessité de persistance",
-        "Le TAG correspondrait plutôt à une intolérance à l'incertitude, une notion présentée dans le cours comme réservée au trouble panique"
+        "Elle évoluerait le plus souvent vers une schizophrénie, les autres évolutions étant présentées comme exceptionnelles",
+        "Elle ne pourrait guère évoluer vers un trouble bipolaire, cette évolution étant plutôt réservée à d'autres pathologies",
+        "Elle évoluerait le plus souvent vers une répétition d'épisodes identiques, avec peu de possibilité de guérison durable",
+        "Elle serait présentée comme un trouble ne comportant qu'une seule évolution possible, contrairement à ce que suggère le cours",
+        "Elle évoluerait le plus souvent vers un trouble anxieux généralisé, plutôt que vers une schizophrénie ou un trouble bipolaire"
       ]
     },
     {
       "id": 18,
-      "text": "Concernant le trouble panique, ses critères diagnostiques et son épidémiologie, selon le cours :",
-      "explanation": "Le trouble panique correspond au paroxysme de l'anxiété, souvent décrit comme une expérience terrifiante, la peur de mourir étant souvent au premier plan. Le diagnostic requiert une réaction intense atteignant son maximum en quelques minutes, incluant au moins quatre symptômes typiques. Sa prévalence est d'environ 3% sur la vie entière, touchant 2 à 3 fois plus les femmes, avec une apparition entre 20 et 30 ans.",
+      "text": "Concernant la forme clinique typique de la bouffée délirante aiguë, selon le cours :",
+      "explanation": "Il s'agit d'un délire polymorphe, d'apparition brutale, en moins de 4 semaines (parfois en quelques heures). On parlait classiquement d'un «coup de tonnerre dans un ciel serein», et aujourd'hui plutôt d'un «coup de tonnerre dans un ciel couvert» (des prémices étant parfois possibles).",
       "correct": [
-        "Il correspond au paroxysme de l'anxiété, souvent décrit par les patients comme une expérience terrifiante, la peur de mourir étant souvent au premier plan",
-        "Le diagnostic requiert une réaction intense atteignant son maximum en quelques minutes, incluant au moins quatre symptômes typiques",
-        "Sa prévalence est d'environ 3% sur la vie entière, touchant 2 à 3 fois plus les femmes que les hommes, avec une apparition entre 20 et 30 ans"
+        "Il s'agit d'un délire polymorphe, d'apparition brutale, apparaissant en moins de 4 semaines (parfois en quelques heures)",
+        "On parlait classiquement d'un «coup de tonnerre dans un ciel serein», et aujourd'hui plutôt d'un «coup de tonnerre dans un ciel couvert» (des prémices étant parfois possibles)"
       ],
       "wrong": [
-        "Il correspondrait à une anxiété diffuse et continue sur le long terme, sans pic d'intensité identifiable, contrairement au TAG",
-        "Le diagnostic requerrait une réaction progressive s'installant sur plusieurs jours, incluant au moins quatre symptômes typiques",
-        "Sa prévalence serait d'environ 15% sur la vie entière, touchant de façon comparable les hommes et les femmes",
-        "Il correspondrait avant tout à une peur diffuse de la foule, apparaissant généralement après 50 ans",
-        "Le diagnostic reposerait avant tout sur la présence de symptômes cognitifs, les manifestations physiques restant secondaires"
+        "Il s'agit d'un délire monomorphe, d'installation lente et progressive, s'étalant en général sur plusieurs mois",
+        "On parlait classiquement d'un «coup de tonnerre dans un ciel couvert», et aujourd'hui plutôt d'un «coup de tonnerre dans un ciel serein», sans prémice possible",
+        "Il s'agit d'un délire polymorphe, mais qui apparaîtrait rarement en seulement quelques heures",
+        "On considérerait aujourd'hui qu'il existe rarement des prémices avant l'apparition brutale du trouble",
+        "Il s'agit d'un délire polymorphe apparaissant généralement en plus de 6 mois, la brutalité n'étant pas caractéristique",
+        "On parlait classiquement d'un phénomène progressif et prévisible, sans référence à une image météorologique"
       ]
     },
     {
       "id": 19,
-      "text": "Concernant l'agoraphobie et ses composantes, selon le cours :",
-      "explanation": "L'agoraphobie correspond à la peur, et à l'évitement, des endroits ou situations jugés à risque en raison de la difficulté à s'en échapper ou du fait qu'un trouble panique pourrait y survenir. Le diagnostic peut être posé indépendamment de celui du trouble panique, ou les deux ensemble. Quatre composantes la caractérisent : physiologique, psychosensorielle, cognitive et comportementale.",
+      "text": "Concernant les caractéristiques du délire polymorphe de la bouffée délirante aiguë, selon le cours :",
+      "explanation": "Le discours est relâché, avec des thèmes peu associés et plusieurs mécanismes intriqués (dont des hallucinations psychiques avec voix intérieures). Les thèmes les plus fréquents sont souvent la persécution ou la toute-puissance.",
       "correct": [
-        "Elle correspond à la peur, et à l'évitement, des endroits ou situations jugés à risque en raison de la difficulté à s'en échapper, ou dans lesquels un trouble panique pourrait survenir",
-        "Le diagnostic d'agoraphobie peut être posé indépendamment de celui du trouble panique, ou les deux peuvent être posés ensemble",
-        "Quatre composantes la caractérisent : physiologique, psychosensorielle, cognitive et comportementale"
+        "Le discours est relâché, avec des thèmes peu associés et plusieurs mécanismes intriqués (dont des hallucinations psychiques avec des voix intérieures)",
+        "Les thèmes les plus fréquents sont souvent la persécution ou la toute-puissance"
       ],
       "wrong": [
-        "Elle correspondrait à la peur d'un objet ou d'un animal précis, en dehors de toute situation d'évitement associée",
-        "Le diagnostic d'agoraphobie serait rarement posé indépendamment de celui du trouble panique, les deux étant le plus souvent associés dans la pratique",
-        "Trois composantes la caractériseraient : physiologique, comportementale et sociale, sans dimension cognitive propre",
-        "Elle correspondrait avant tout à une peur des espaces clos, sans lien avec les foules ou les transports en commun",
-        "Elle serait présentée dans le cours comme un trouble peu lié à toute dimension physiologique associée"
+        "Le discours est très structuré et cohérent, avec un thème unique bien défini et un seul mécanisme dominant",
+        "Les mécanismes du délire seraient le plus souvent uniques et isolés dans cette forme clinique, contrairement aux psychoses chroniques",
+        "Les thèmes les plus fréquents seraient plutôt d'ordre hypocondriaque ou lié à la négation, selon le cours",
+        "Le discours serait très clair et logique, à la différence des délires non systématisés décrits dans le premier chapitre",
+        "Les hallucinations présentes seraient avant tout sensorielles, avec peu d'hallucination psychique associée",
+        "Les mécanismes seraient peu nombreux et bien séparés les uns des autres, sans réelle intrication"
       ]
     },
     {
       "id": 20,
-      "text": "Concernant le trouble d'anxiété généralisée (TAG), sa définition et son modèle explicatif, selon le cours :",
-      "explanation": "L'inquiétude y est définie comme un ensemble de pensées, d'images et de doutes s'enchaînant au sujet d'événements négatifs futurs. Le diagnostic requiert une présence excessive de soucis depuis au moins six mois, difficiles à contrôler. Le modèle de l'intolérance à l'incertitude de Dugas et Ladouceur identifie quatre facteurs d'entretien, dont l'intolérance à l'incertitude et les fausses croyances.",
+      "text": "Concernant le contact avec la réalité chez le patient en bouffée délirante aiguë, selon le cours :",
+      "explanation": "Le contact avec la réalité extérieure reste globalement correct, sauf sur ce qui anime le patient (pas de confusion mentale, bien que des dérapages soient possibles). Ce qui est perturbé, c'est le sentiment d'être soi (dépersonnalisation, souvent accompagnée de déréalisation).",
       "correct": [
-        "L'inquiétude y est définie comme un ensemble de pensées, d'images et de doutes qui s'enchaînent au sujet d'événements négatifs futurs",
-        "Le diagnostic requiert une présence excessive de soucis et d'inquiétudes depuis au moins six mois, difficiles à contrôler",
-        "Le modèle de l'intolérance à l'incertitude de Dugas et Ladouceur identifie quatre facteurs d'entretien du trouble, dont l'intolérance à l'incertitude elle-même et les fausses croyances"
+        "Le contact avec la réalité extérieure reste globalement correct, sauf sur ce qui anime le patient (le patient n'est pas dans une confusion mentale, même si des dérapages sont possibles)",
+        "Ce qui est perturbé chez ces patients, c'est le sentiment d'être soi, avec un phénomène de dépersonnalisation souvent accompagné de déréalisation"
       ],
       "wrong": [
-        "L'inquiétude y serait définie comme une réaction physiologique isolée, sans lien avec les pensées ou les images mentales du sujet",
-        "Le diagnostic requerrait une présence excessive de soucis depuis au moins six semaines, facilement contrôlables par le patient",
-        "Le modèle de l'intolérance à l'incertitude identifierait deux facteurs d'entretien, centrés surtout sur les croyances religieuses du patient",
-        "L'inquiétude y serait présentée comme un phénomène rare, concernant surtout des thèmes exceptionnels et peu probables",
-        "Le modèle explicatif du TAG reposerait avant tout sur un conditionnement pavlovien identique à celui décrit pour le trouble panique"
+        "Le contact avec la réalité extérieure serait largement rompu sur tous les plans, la confusion mentale étant au premier plan du tableau clinique",
+        "Ce qui serait perturbé chez ces patients concernerait avant tout l'orientation temporo-spatiale, plutôt que le sentiment d'être soi",
+        "Le contact avec la réalité resterait très largement intact sur tous les plans, y compris sur ce qui anime le patient",
+        "La déréalisation décrite correspondrait à une sensation que son propre corps ou soi-même serait étrange, plutôt que le monde extérieur",
+        "Ce qui serait perturbé chez ces patients concernerait avant tout la mémoire, avec une amnésie marquée de l'épisode",
+        "Le contact avec la réalité serait comparable à celui observé dans la confusion mentale, selon le cours"
       ]
     },
     {
       "id": 21,
-      "text": "Concernant les critères diagnostiques du TSPT présentés dans le cours, lesquels sont exacts ?",
-      "explanation": "Une exposition à un événement grave est requise (exposition directe, témoin, ou apprentissage qu'un proche en a été victime). Un évitement constant des situations associées à l'événement traumatique est présent, ainsi que des changements négatifs de l'humeur et des idées.",
+      "text": "Concernant les facteurs de mauvais pronostic clinique et l'humeur dans la forme typique de la bouffée délirante aiguë, selon le cours :",
+      "explanation": "Des troubles cognitifs (difficultés à s'exprimer, à comprendre, à associer, un certain retrait) sont un facteur de mauvais pronostic. L'humeur est souvent altérée, plutôt dépressive, avec de l'agitation et une perte de confiance en soi.",
       "correct": [
-        "Une exposition à un événement grave est requise, que ce soit par exposition directe, en tant que témoin, ou en apprenant qu'un proche en a été victime",
-        "Un évitement constant des situations associées à l'événement traumatique est présent, ainsi que des changements négatifs de l'humeur et des idées"
+        "Des troubles cognitifs (difficultés à s'exprimer, à comprendre, à associer, un certain retrait) constituent un facteur de mauvais pronostic",
+        "L'humeur est souvent altérée, avec des humeurs plutôt dépressives, de l'agitation, et une perte de confiance en soi"
       ],
       "wrong": [
-        "Une exposition indirecte par les médias suffirait à elle seule à poser le diagnostic, sans nécessité d'un lien personnel avec l'événement",
-        "Un évitement occasionnel des situations associées à l'événement serait requis, sans changement notable de l'humeur ou des idées",
-        "Une exposition à un événement grave ne serait pas nécessaire au diagnostic, seule la présence de symptômes suffisant",
-        "Un rapprochement volontaire des situations associées au traumatisme serait recherché, plutôt qu'un évitement de celles-ci",
-        "Une amélioration rapide de l'humeur et des idées après l'événement traumatique serait généralement observée dans les critères",
-        "Une exposition à un événement grave ne serait requise que lorsqu'elle concerne un membre de la famille proche"
+        "Des troubles cognitifs constitueraient plutôt un facteur de bon pronostic, signe d'une réaction adaptative du patient",
+        "L'humeur serait le plus souvent euphorique et expansive, avec un excès de confiance en soi",
+        "L'absence de trouble cognitif serait présentée comme un facteur de mauvais pronostic, contrairement à ce que l'on pourrait penser",
+        "L'humeur resterait généralement stable et neutre, sans altération particulière dans cette forme clinique",
+        "Des troubles cognitifs concerneraient surtout la mémoire à long terme, plutôt que l'expression ou la compréhension",
+        "L'humeur serait surtout marquée par une indifférence affective assez marquée, avec peu d'agitation ou de tristesse"
       ]
     },
     {
       "id": 22,
-      "text": "Quelles sont les quatre catégories de symptômes du TSPT présentées dans le cours ?",
-      "explanation": "Les quatre catégories sont : la reviviscence (flashbacks intrusifs, cauchemars répétitifs), l'évitement (efforts persistants pour éviter pensées, situations ou endroits évoquant le trauma), l'altération négative des cognitions et de l'humeur, et l'hyperactivation (hypervigilance, irritabilité, troubles du sommeil).",
+      "text": "Comment le cours distingue-t-il les signes positifs et les signes négatifs dans les psychoses, et lequel constitue le meilleur signe pronostique ?",
+      "explanation": "Les signes positifs correspondent à tout ce qui s'extériorise, les signes négatifs au retrait (troubles de la pensée, patient en retrait, troubles autistiques). Il vaut mieux avoir des signes positifs, les signes négatifs étant de moins bon pronostic.",
       "correct": [
-        "De reviviscence, avec la présence de flashbacks intrusifs ou de cauchemars répétitifs liés au trauma",
-        "D'évitement, avec des efforts persistants pour éviter les pensées, situations ou endroits évoquant le traumatisme",
-        "D'hyperactivation, avec la présence d'hypervigilance, d'irritabilité ou de troubles du sommeil"
+        "Les signes positifs correspondent à tout ce qui s'extériorise, tandis que les signes négatifs correspondent au retrait (troubles de la pensée, patient en retrait, troubles autistiques)",
+        "Dans les psychoses, il vaut mieux avoir des signes positifs que des signes négatifs, ces derniers étant plutôt de moins bon pronostic"
       ],
       "wrong": [
-        "De régression, avec un retour à des comportements typiques d'un stade de développement antérieur",
-        "De dissimulation, avec la présence d'un déni marqué de l'existence même du traumatisme vécu",
-        "De sublimation, avec une transformation de la souffrance en une production artistique ou créative",
-        "De projection, avec l'attribution à autrui des émotions négatives ressenties par la personne",
-        "De rationalisation, avec la construction d'explications logiques visant à minimiser l'impact du traumatisme"
+        "Les signes négatifs correspondraient à tout ce qui s'extériorise, tandis que les signes positifs correspondraient au retrait",
+        "Dans les psychoses, il vaudrait mieux avoir des signes négatifs que des signes positifs, ces derniers étant de moins bon pronostic",
+        "Les signes positifs et négatifs seraient présentés comme équivalents sur le plan pronostique, sans différence notable entre eux",
+        "Les signes positifs concerneraient surtout le retrait social et les troubles autistiques du patient",
+        "Les signes négatifs concerneraient surtout l'agitation et les hallucinations, à la différence des signes positifs",
+        "Dans les psychoses, la présence de signes positifs serait le plus souvent annonciatrice d'une évolution vers la chronicité"
       ]
     },
     {
       "id": 23,
-      "text": "Concernant l'épidémiologie et les facteurs de risque du TSPT présentés dans le cours, lesquels sont exacts ?",
-      "explanation": "Les probabilités de développer un TSPT varient selon le sexe et le type de trauma, avec deux fois plus de femmes touchées. Les victimes d'agression physique ou sexuelle sont plus susceptibles de développer un TSPT que celles ayant vécu des événements accidentels. Parmi les facteurs de risque figurent les abus dans l'enfance, les antécédents de maladie psychiatrique et un faible statut socioéconomique.",
+      "text": "Parmi les troubles du comportement possibles chez un patient en bouffée délirante aiguë, décrits dans le cours, lesquels sont exacts ?",
+      "explanation": "Le patient peut être mutique ou en retrait, présenter une agitation psychomotrice ou de l'auto-agressivité (risque suicidaire), et se montrer violent envers autrui (parfois lié à des voix intérieures), pouvant nécessiter une expertise médico-légale en cas de passage à l'acte grave.",
       "correct": [
-        "Les probabilités de développer un TSPT varient selon le sexe et le type de trauma vécu, avec deux fois plus de femmes que d'hommes touchées",
-        "Les personnes victimes d'agression physique ou sexuelle seraient plus susceptibles de développer un TSPT que celles ayant vécu des événements de nature accidentelle",
-        "Parmi les facteurs de risque figurent les abus et difficultés dans l'enfance, les antécédents personnels et familiaux de maladie psychiatrique, ainsi qu'un faible statut socioéconomique"
+        "Un patient mutique ou en retrait",
+        "Une agitation psychomotrice, ou de l'auto-agressivité avec un risque de passage à l'acte suicidaire",
+        "Une possible violence envers autrui, parfois liée à des voix intérieures, pouvant nécessiter une expertise médico-légale en cas de passage à l'acte grave"
       ],
       "wrong": [
-        "Les probabilités de développer un TSPT seraient identiques pour tous les types de trauma, indépendamment du sexe de la personne",
-        "Les personnes ayant vécu des événements de nature accidentelle seraient plus susceptibles de développer un TSPT que les victimes d'agression physique ou sexuelle",
-        "Parmi les facteurs de risque figureraient surtout un niveau d'éducation élevé et un statut socioéconomique favorisé",
-        "Les probabilités de développer un TSPT seraient plus élevées chez les hommes que chez les femmes, quel que soit le type de trauma",
-        "Parmi les facteurs de risque figureraient principalement des traits de personnalité extravertis et une forte sociabilité"
+        "Une amélioration spontanée et rapide du comportement social, sans nécessité de surveillance particulière",
+        "Un comportement généralement calme et coopératif, peu compatible avec une agitation marquée",
+        "Un risque suicidaire jugé très faible, ce trouble étant rarement associé à un passage à l'acte auto-agressif",
+        "Un comportement assez similaire d'un patient à l'autre, avec peu de variation individuelle notable",
+        "Une amélioration immédiate du contact social dès les premiers jours de la bouffée délirante"
       ]
     },
     {
       "id": 24,
-      "text": "Concernant les comorbidités du TSPT évoquées dans le cours, lesquelles sont exactes ?",
-      "explanation": "Environ 75% des personnes souffrant de TSPT présentent au moins un autre trouble psychiatrique (trouble dépressif, anxieux, ou de l'usage de substances). Ces personnes ont également un risque accru de problèmes de santé physique, notamment une association marquée avec la douleur chronique.",
+      "text": "Concernant les formes cliniques particulières de la bouffée délirante aiguë décrites dans le cours, quelles affirmations sont exactes ?",
+      "explanation": "Les délires systématisés (paranoïaques aigus) portent en général sur un seul thème, concernant souvent des patients dangereux nécessitant l'intervention des forces de l'ordre. Les formes catatoniques aiguës se manifestent en quelques heures/jours, avec des patients «momifiés», imposant d'éliminer une origine organique.",
       "correct": [
-        "Environ 75% des personnes souffrant de TSPT présenteraient au moins un autre trouble psychiatrique, notamment un trouble dépressif, anxieux ou de l'usage de substances",
-        "Les personnes souffrant de TSPT auraient également un risque accru de problèmes de santé physique, notamment une association marquée avec la douleur chronique"
+        "Les délires systématisés (délires paranoïaques aigus) portent en général sur un seul thème, et concernent souvent des patients dangereux nécessitant l'intervention des forces de l'ordre",
+        "Les formes catatoniques aiguës se manifestent en quelques heures ou jours, avec des patients qui deviennent comme «momifiés», ce qui impose d'éliminer une origine organique"
       ],
       "wrong": [
-        "Environ 10% des personnes souffrant de TSPT présenteraient un autre trouble psychiatrique associé, principalement des troubles du sommeil isolés",
-        "Les personnes souffrant de TSPT présenteraient un risque diminué de développer un trouble anxieux, en comparaison avec la population générale",
-        "Les comorbidités du TSPT concerneraient avant tout des troubles neurologiques dégénératifs, plutôt que des troubles psychiatriques",
-        "Les personnes souffrant de TSPT n'auraient pas de risque accru de problèmes de santé physique, ce trouble restant avant tout psychologique",
-        "Environ 75% des personnes souffrant de TSPT présenteraient surtout un trouble de la personnalité associé, plus rarement d'autres troubles",
-        "Les comorbidités du TSPT seraient principalement des troubles du comportement alimentaire, plus que des troubles dépressifs ou anxieux"
+        "Les délires systématisés porteraient en général sur plusieurs thèmes intriqués, à la différence des formes catatoniques",
+        "Les formes catatoniques aiguës s'installeraient sur plusieurs mois, laissant le temps d'organiser une prise en charge progressive",
+        "Les délires systématisés concerneraient surtout des patients calmes, rarement en lien avec l'intervention des forces de l'ordre",
+        "Les formes catatoniques aiguës nécessiteraient rarement d'éliminer une origine organique avant la prise en charge psychiatrique",
+        "Les délires systématisés seraient surtout l'apanage des formes chroniques, et se retrouveraient peu dans les bouffées délirantes aiguës",
+        "Les formes catatoniques aiguës se caractériseraient surtout par une agitation motrice intense et prolongée"
       ]
     },
     {
       "id": 25,
-      "text": "Concernant les recommandations de traitement du TSPT présentées dans le cours, lesquelles sont exactes ?",
-      "explanation": "La TCC est recommandée par la HAS, associant psychoéducation, techniques de gestion du stress, séances d'exposition aux souvenirs du trauma et stratégies cognitives. L'EMDR est également recommandée pour les traumas simples, à condition d'être pratiquée par un psychologue formé.",
+      "text": "Concernant la démarche diagnostique de la bouffée délirante aiguë décrite dans le cours, quelles affirmations sont exactes ?",
+      "explanation": "Un bilan sanguin est toujours réalisé pour éliminer une cause organique, même à la dixième crise, avec un focus sur le cannabis. Le diagnostic différentiel inclut les maniaques (humeur «up»), les schizophrènes ayant arrêté leur traitement, et les troubles de la personnalité histrionique.",
       "correct": [
-        "La TCC est recommandée par la HAS, associant psychoéducation, techniques de gestion du stress, séances d'exposition aux souvenirs du trauma et stratégies cognitives",
-        "L'EMDR est également recommandée pour les traumas simples, à condition d'être pratiquée par un psychologue formé à cette approche"
+        "Un bilan sanguin est toujours réalisé pour éliminer une cause organique, même s'il s'agit de la dixième crise du patient, avec un focus particulier sur le cannabis",
+        "Le diagnostic différentiel inclut les patients maniaques (plutôt dans une humeur «up», contrairement à l'humeur souvent dépressive de la bouffée délirante), les schizophrènes ayant arrêté leur traitement, et les troubles de la personnalité histrionique"
       ],
       "wrong": [
-        "La TCC serait déconseillée par la HAS pour le TSPT, au profit d'une prise en charge avant tout médicamenteuse",
-        "L'EMDR serait recommandée surtout pour les traumas complexes et anciens, plus rarement pour les traumas récents ou simples",
-        "La TCC recommandée reposerait avant tout sur l'évitement des souvenirs du trauma, plutôt que sur leur exposition progressive",
-        "L'EMDR pourrait être pratiquée sans formation spécifique, tout professionnel de santé étant habilité à la proposer",
-        "La psychoéducation ne ferait pas partie des éléments recommandés dans la prise en charge TCC du TSPT",
-        "Les centres spécialisés comme les CRP ou les CUMP seraient présentés comme peu pertinents dans la compréhension du trauma"
+        "Un bilan sanguin ne serait réalisé qu'au premier épisode du patient, les épisodes suivants ne nécessitant plus cette vérification systématique",
+        "Le diagnostic différentiel inclurait surtout les patients dépressifs sévères, plutôt que les patients maniaques ou schizophrènes décrits dans le cours",
+        "Un bilan sanguin serait jugé inutile dans ce contexte clinique, la cause étant presque toujours psychiatrique d'emblée selon cette conception",
+        "Le diagnostic différentiel exclurait largement les troubles de la personnalité, ceux-ci étant rarement confondus avec une bouffée délirante aiguë",
+        "Un focus particulier serait porté sur l'alcool plutôt que sur le cannabis, contrairement à ce qui est indiqué dans le cours",
+        "Le diagnostic différentiel inclurait surtout les patients anxieux généralisés, plutôt que les patients maniaques ou histrioniques évoqués"
       ]
     },
     {
       "id": 26,
-      "text": "Concernant l'histoire de la description clinique du TOC présentée dans le cours, quelles affirmations sont exactes ?",
-      "explanation": "Esquirol décrit le trouble sous le terme de «monomanie résonnante», illustré notamment par le cas de Mademoiselle F. Freud, au début du XXe siècle, parle de «névrose obsessionnelle», illustrée par le cas de l'homme aux rats, avec une régression au stade anal.",
+      "text": "Concernant les facteurs étiologiques et de risque de la bouffée délirante aiguë évoqués dans le cours, quelles affirmations sont exactes ?",
+      "explanation": "La présence d'un facteur déclenchant est plutôt de bon pronostic, son absence inquiétant davantage. Parmi les facteurs de risque : traumatismes, harcèlement scolaire, agression sexuelle, déficiences mentales, personnalités borderline, histrioniques, psychopathiques ou schizoïdes.",
       "correct": [
-        "Esquirol décrit le trouble sous le terme de «monomanie résonnante», illustré notamment par le cas de Mademoiselle F",
-        "Freud, au début du XXe siècle, parle de «névrose obsessionnelle», illustrée par le cas de l'homme aux rats"
+        "La présence d'un facteur déclenchant est plutôt de bon pronostic, tandis que son absence inquiète davantage (crainte d'une évolution vers la schizophrénie)",
+        "Parmi les facteurs de risque figurent les traumatismes, le harcèlement scolaire, l'agression sexuelle, et les déficiences mentales",
+        "Les personnalités borderline, histrioniques, psychopathiques ou schizoïdes constituent aussi un terrain prédisposé"
       ],
       "wrong": [
-        "Esquirol décrirait le trouble sous le terme de «névrose obsessionnelle», illustré par le cas de l'homme aux rats",
-        "Freud, au début du XXe siècle, parlerait de «monomanie résonnante», illustrée par le cas de Mademoiselle F",
-        "Kraepelin décrirait le premier le trouble sous le terme de «maladie du doute», dans le cadre de ses travaux sur les classifications",
-        "Bergeret décrirait le trouble sous le terme de «névrose actuelle», en lien avec des perturbations récentes de la vie pulsionnelle",
-        "Esquirol associerait le trouble à un dysfonctionnement du circuit orbito-fronto-striato-thalamo-cortical, décrit dès le XIXe siècle",
-        "Freud attribuerait l'origine du trouble à une régression au stade oral, pour lutter contre les tendances libidinales du complexe d'Œdipe"
+        "L'absence de facteur déclenchant serait plutôt rassurante, tandis que sa présence inquiéterait davantage sur le plan pronostique",
+        "Les facteurs de risque cités ne concerneraient que des éléments biologiques, à l'exclusion de tout facteur psychosocial comme le harcèlement",
+        "Les personnalités schizoïdes seraient présentées comme peu concernées par le risque de bouffée délirante aiguë",
+        "Un facteur déclenchant identifié serait présenté comme un facteur de mauvais pronostic, annonçant une évolution chronique",
+        "Les facteurs de risque cités concerneraient surtout un terrain génétique isolé, indépendamment de tout événement de vie"
       ]
     },
     {
       "id": 27,
-      "text": "Concernant le trouble obsessionnel compulsif (TOC), son épidémiologie et ses comorbidités, selon le cours :",
-      "explanation": "Il s'agit de la quatrième maladie psychiatrique la plus fréquente, touchant environ 2% de la population générale, avec un début se situant à la fin de l'adolescence ou au début de l'âge adulte. Les comorbidités les plus citées sont les troubles de l'humeur, les troubles anxieux et les troubles du comportement alimentaire.",
+      "text": "Concernant l'évolution à court terme de la bouffée délirante aiguë, selon le cours :",
+      "explanation": "Elle dure en général quelques semaines, avec le plus souvent une guérison symptomatique, mais qui peut laisser des traces. Le patient garde une mémoire claire de l'épisode (pas d'amnésie), ce qui peut mener à des épisodes dépressifs sévères ou nécessite de surveiller un état de stress post-traumatique.",
       "correct": [
-        "Il s'agit de la quatrième maladie psychiatrique la plus fréquente, touchant environ 2% de la population générale, avec un début se situant à la fin de l'adolescence ou au début de l'âge adulte",
-        "Les comorbidités les plus citées sont les troubles de l'humeur, les troubles anxieux et les troubles du comportement alimentaire"
+        "La bouffée délirante dure en général quelques semaines, avec le plus souvent une guérison symptomatique, mais qui peut laisser des traces",
+        "Le patient garde une mémoire assez claire de l'épisode (pas d'amnésie), ce qui peut mener à des épisodes dépressifs sévères ou nécessite de surveiller un état de stress post-traumatique"
       ],
       "wrong": [
-        "Il s'agirait de la première maladie psychiatrique la plus fréquente, touchant environ 15% de la population générale, avec un début se situant généralement après 50 ans",
-        "Les comorbidités les plus citées seraient les troubles neurocognitifs et les troubles du spectre autistique",
-        "Il s'agirait d'un trouble rare, touchant moins de 0,1% de la population générale, sans lien avec l'âge d'apparition",
-        "Les comorbidités les plus citées seraient surtout les troubles du sommeil, avec peu de lien avec l'humeur ou l'anxiété",
-        "Il s'agirait de la quatrième maladie psychiatrique la plus fréquente, mais toucherait plutôt 20% de la population générale",
-        "Les comorbidités les plus citées seraient les troubles de la personnalité et les troubles psychotiques"
+        "La bouffée délirante durerait en général plusieurs années, avec une guérison rarement observée à court terme",
+        "Le patient présenterait généralement une amnésie complète de l'épisode, sans souvenir clair des évènements vécus",
+        "La bouffée délirante ne laisserait que rarement des traces une fois la guérison symptomatique obtenue",
+        "Le fait de garder un souvenir clair de l'épisode serait présenté comme un facteur plutôt rassurant, avec peu de risque associé",
+        "La bouffée délirante durerait généralement quelques heures seulement, avant une résolution rapide et complète",
+        "Le patient n'aurait, selon le cours, qu'un risque très limité de développer un état de stress post-traumatique après l'épisode"
       ]
     },
     {
       "id": 28,
-      "text": "Concernant les obsessions et leurs trois types présentés dans le cours, lesquelles de ces affirmations sont exactes ?",
-      "explanation": "Les obsessions idéatives, ou «folie du doute», sont les plus fréquentes et concernent des mots, des chiffres, des objets ou des préoccupations. Les obsessions phobiques sont des craintes spécifiques en dehors de toute situation phobogène (microbes, contamination). Les obsessions impulsives assaillent le patient par la crainte de commettre un acte absurde, le passage à l'acte restant exceptionnel.",
+      "text": "Concernant l'évolution à long terme et les éléments de pronostic de la bouffée délirante aiguë, selon le cours :",
+      "explanation": "Dans environ 50% des cas, il n'y aura pas d'autre épisode. Une évolution vers un trouble bipolaire reste plutôt favorable (thymorégulateurs), une évolution vers la schizophrénie correspondant à un épisode qui ne guérit pas bien ou se répète. Troubles cognitifs, retrait, personnalité schizoïde et antécédents familiaux de schizophrénie sont des éléments défavorables.",
       "correct": [
-        "Les obsessions idéatives, ou «folie du doute», sont les plus fréquentes et concernent des mots, des chiffres, des objets ou des préoccupations",
-        "Les obsessions phobiques sont des craintes spécifiques assaillant l'esprit du patient en dehors de toute situation phobogène, comme la peur des microbes ou de la contamination",
-        "Les obsessions impulsives assaillent le patient par la crainte de commettre un acte absurde ou agressif, bien que le passage à l'acte reste exceptionnel"
+        "Dans environ 50% des cas, il n'y aura pas d'autre épisode",
+        "Une évolution vers un trouble bipolaire reste plutôt favorable (traitement par thymorégulateurs), tandis qu'une évolution vers la schizophrénie correspond à un épisode qui ne guérit pas bien ou se répète",
+        "Des troubles cognitifs, un patient en retrait, une personnalité schizoïde ou des antécédents familiaux de schizophrénie sont des éléments de pronostic défavorable"
       ],
       "wrong": [
-        "Les obsessions idéatives seraient les moins fréquentes du trouble, concernant surtout des situations sociales très spécifiques",
-        "Les obsessions phobiques surviendraient surtout en présence de la situation phobogène redoutée, contrairement aux phobies classiques",
-        "Les obsessions impulsives se traduiraient généralement par un passage à l'acte fréquent, contrairement à ce qui est observé pour les autres types",
-        "Les obsessions idéatives seraient caractérisées avant tout par leur caractère volontaire et contrôlé par le sujet",
-        "Les obsessions phobiques concerneraient surtout la peur de situations sociales de performance, comme dans l'anxiété sociale"
+        "Dans environ 50% des cas, le patient développerait nécessairement une schizophrénie avérée dans les mois suivants",
+        "Une évolution vers un trouble bipolaire serait présentée comme plus défavorable qu'une évolution vers la schizophrénie",
+        "Un début brutal du trouble serait présenté comme un élément de pronostic défavorable plutôt que favorable",
+        "Des antécédents familiaux de schizophrénie seraient présentés comme un élément de bon pronostic dans ce contexte",
+        "L'absence de troubles de l'humeur serait présentée comme un facteur de bon pronostic, contrairement aux troubles cognitifs"
       ]
     },
     {
       "id": 29,
-      "text": "Concernant les compulsions et les critères diagnostiques du TOC présentés dans le cours, lesquelles de ces affirmations sont exactes ?",
-      "explanation": "La compulsion est un acte auquel le sujet se sent contraint, dont il reconnaît le caractère absurde, mais qu'il ne peut s'empêcher d'effectuer de façon itérative. Le diagnostic requiert que les obsessions ou compulsions durent longtemps quotidiennement (au moins une heure) et génèrent une détresse importante ou une altération du fonctionnement.",
+      "text": "Concernant le traitement de la phase aiguë de la bouffée délirante aiguë, selon le cours :",
+      "explanation": "Lors d'un premier épisode, une hospitalisation est souvent nécessaire (parfois à la demande d'un tiers), avec un traitement antipsychotique, souvent de seconde génération. Ces derniers, en bloquant sérotonine et dopamine, agissent sur les symptômes positifs et négatifs, avec moins d'effets secondaires.",
       "correct": [
-        "La compulsion est un acte auquel le sujet se sent contraint, dont il reconnaît le caractère absurde, mais qu'il ne peut s'empêcher d'effectuer de façon itérative",
-        "Le diagnostic requiert que les obsessions ou compulsions durent longtemps quotidiennement, au moins une heure, et génèrent une détresse importante ou une altération du fonctionnement"
+        "Lors d'un premier épisode en phase aiguë, une hospitalisation est souvent nécessaire (parfois à la demande d'un tiers), avec un traitement antipsychotique, souvent de seconde génération",
+        "Les antipsychotiques de seconde génération, en bloquant sérotonine et dopamine, agissent à la fois sur les symptômes positifs et négatifs, avec moins d'effets secondaires"
       ],
       "wrong": [
-        "La compulsion serait un acte accompli librement et sans contrainte ressentie, le sujet n'en percevant généralement pas le caractère absurde",
-        "Le diagnostic requerrait que les obsessions ou compulsions durent au moins une semaine complète, sans nécessité d'altération du fonctionnement",
-        "La compulsion aurait pour fonction principale de renforcer durablement l'obsession associée, plutôt que de réduire l'angoisse qu'elle engendre",
-        "Le diagnostic ne nécessiterait pas la présence de détresse ou d'altération du fonctionnement, la seule présence d'obsessions suffisant",
-        "La compulsion serait un acte largement automatique, échappant en grande partie à la conscience du sujet qui l'accomplit",
-        "Le diagnostic requerrait la présence simultanée d'obsessions et de compulsions, l'une des deux seules ne suffisant pas au diagnostic"
+        "Lors d'un premier épisode, l'hospitalisation serait généralement déconseillée, un suivi ambulatoire étant privilégié d'emblée",
+        "Les antipsychotiques de seconde génération n'agiraient que sur les symptômes positifs, sans effet sur les symptômes négatifs",
+        "Un traitement antipsychotique ne serait proposé qu'en dernier recours, après échec de plusieurs autres approches non médicamenteuses",
+        "Les antipsychotiques de seconde génération entraîneraient généralement davantage d'effets secondaires que ceux de première génération",
+        "L'hospitalisation à la demande d'un tiers serait présentée comme une procédure rare et exceptionnelle dans ce contexte",
+        "Les antipsychotiques bloqueraient surtout l'acétylcholine et l'histamine, plutôt que la sérotonine et la dopamine"
       ]
     },
     {
       "id": 30,
-      "text": "Concernant le traitement et les modèles explicatifs du TOC présentés dans le cours, lesquelles de ces affirmations sont exactes ?",
-      "explanation": "Une psychothérapie TCC avec exposition et prévention de la réponse est recommandée. L'hypothèse neurobiologique évoque une diminution de la taille des noyaux caudés et un dysfonctionnement du circuit orbito-fronto-striato-thalamo-cortical. Le modèle de Salkovskis relie une pensée intrusive à un système de croyances, générant de l'anxiété et des comportements ritualisés.",
+      "text": "Concernant la chronologie d'évolution sous traitement et la prise en charge globale de la bouffée délirante aiguë, selon le cours :",
+      "explanation": "On observe une amélioration de l'agitation en une dizaine de jours, une diminution du délire en environ un mois, et un meilleur contact au-delà d'un mois. Des entretiens réguliers et courts sont plus efficaces qu'un entretien mensuel. La psychomotricité travaille sur les limites corporelles et la contenance, notamment via la voix.",
       "correct": [
-        "Une psychothérapie TCC avec exposition et prévention de la réponse est recommandée, consistant à exposer le sujet à des situations problématiques tout en différant la compulsion associée",
-        "L'hypothèse neurobiologique évoque une diminution de la taille des noyaux caudés et un dysfonctionnement du circuit orbito-fronto-striato-thalamo-cortical",
-        "Le modèle de Salkovskis relie une pensée intrusive à un système de croyances (schémas de danger et de responsabilité), générant de l'anxiété et des comportements ritualisés"
+        "On observe généralement une amélioration de l'agitation en une dizaine de jours, une diminution du délire en environ un mois, et un meilleur contact au-delà d'un mois",
+        "Des entretiens réguliers et courts sont plus efficaces qu'un entretien mensuel avec le psychiatre",
+        "La psychomotricité peut travailler sur les limites corporelles et la contenance, notamment via la médiation de la voix, à travers des séances courtes mais régulières"
       ],
       "wrong": [
-        "Une psychothérapie TCC serait recommandée, consistant à renforcer la compulsion, dans l'idée d'en réduire progressivement la fréquence",
-        "L'hypothèse neurobiologique évoquerait plutôt une augmentation de la taille des noyaux caudés, associée à un excès d'activité sérotoninergique",
-        "Le modèle de Salkovskis relierait la pensée intrusive à un déficit sensoriel primaire, sans intervention de croyances ou de schémas cognitifs",
-        "Une psychothérapie TCC serait déconseillée pour le TOC, au profit d'une prise en charge avant tout pharmacologique",
-        "Le modèle de Beck expliquerait le TOC par un conditionnement pavlovien identique à celui décrit pour le trouble panique"
+        "L'agitation ne s'améliorerait généralement qu'après plusieurs mois de traitement, bien après la diminution du délire",
+        "Des entretiens mensuels avec le psychiatre seraient présentés comme plus efficaces que des entretiens réguliers et courts",
+        "La psychomotricité interviendrait surtout par des séances longues et espacées, plutôt que courtes et régulières",
+        "Le délire diminuerait généralement avant même que l'agitation ne s'améliore, selon la chronologie décrite dans le cours",
+        "La médiation la plus utilisée en psychomotricité serait le dessin, plutôt que la voix, selon le cours"
       ]
     }
   ]
