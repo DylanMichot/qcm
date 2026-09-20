@@ -1,0 +1,517 @@
+{
+  "subject": "Gérontopsychomotricité",
+  "tag": "TD1 – Tests complémentaires à l'EGP, attentes du prescripteur",
+  "description": "30 questions de niveau expert sur les tests complémentaires à l'EGP en gérontopsychomotricité : cadre de passation, Timed Up and Go (équilibre et prévention de chute), test des 5 mots de Dubois (encodage), physiopathologie du traitement de l'information, test de l'horloge (cotations sur 10 et sur 7), et test des fluences verbales de Cardebat. Distracteurs conçus pour être crédibles, plausibles et de longueur comparable aux bonnes réponses.",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Concernant le cadre général de passation évoqué en introduction du TD, quelles affirmations sont exactes ?",
+      "explanation": "Le MoCA nécessite une licence particulière pour être fait passer. Être en situation de test suppose de s'attacher à avoir un environnement adapté : un endroit calme, en cachant les éléments pouvant servir de repère concernant le temps ou l'espace.",
+      "correct": [
+        "Le MoCA nécessite une licence particulière pour être fait passer",
+        "Il faut s'installer dans un endroit calme et cacher les éléments pouvant servir de repère concernant le temps ou l'espace"
+      ],
+      "wrong": [
+        "Le MMSE nécessiterait une licence particulière pour être fait passer, contrairement au MoCA qui resterait libre d'accès",
+        "Il serait recommandé de laisser visibles les horloges et calendriers de la pièce, pour rassurer le patient pendant la passation",
+        "Le MMS évoqué dans le cours serait un test générique utilisé pour tous les types de troubles neurodégénératifs, sans spécificité particulière",
+        "Il serait conseillé de faire passer les tests dans un environnement animé, afin d'évaluer les capacités attentionnelles du patient",
+        "Le MoCA et le MMSE seraient interchangeables sans grande restriction, ni l'un ni l'autre ne nécessitant de formation spécifique",
+        "Le MMS évoqué dans le cours serait un outil réservé avant tout à l'évaluation des troubles de l'humeur"
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Concernant les tests d'équilibre évoqués en introduction, quelles affirmations sont exactes ?",
+      "explanation": "Certains tests, comme le test de Tinetti, sont trans-professionnels et concernent plusieurs professions (kinés, ergothérapeutes, médecins). Une personne qui ne tient pas plus de 10 secondes en appui unipodal aurait environ 4 fois plus de chance de chuter.",
+      "correct": [
+        "Certains tests, comme le test de Tinetti, sont trans-professionnels et concernent plusieurs professions (kinés, ergothérapeutes, médecins)",
+        "Une personne qui ne tient pas plus de 10 secondes en appui unipodal aurait environ 4 fois plus de chance de chuter"
+      ],
+      "wrong": [
+        "Le test de Tinetti serait réservé avant tout aux psychomotriciens, à la différence des autres tests d'équilibre présentés",
+        "Une personne qui ne tient pas plus de 10 secondes en appui unipodal aurait environ 2 fois moins de chance de chuter que la moyenne",
+        "Le test de Tinetti concernerait avant tout l'évaluation de la marche, avec peu de lien avec l'équilibre statique du patient",
+        "Une personne tenant plus de 30 secondes en appui unipodal serait considérée comme présentant un risque de chute accru",
+        "Le test de Tinetti serait un test propre à la gérontopsychomotricité, peu partagé avec d'autres professions de santé",
+        "L'appui unipodal évoqué dans le cours concernerait surtout l'évaluation des capacités cognitives, plutôt que motrices"
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Concernant l'origine et l'évolution du Timed Up & Go, selon le cours :",
+      "explanation": "Le Get-up & Go test, sans chronomètre, a été décrit par Mathias et al. en 1986. Le Timed Up and Go est la version chronométrée de ce test, mais sans demander au patient de faire le tour de la chaise au retour.",
+      "correct": [
+        "Le Get-up & Go test, sans chronomètre, a été décrit par Mathias et al. en 1986",
+        "Le Timed Up and Go est la version chronométrée du Get-up & Go test, mais sans demander au patient de faire le tour de la chaise au retour"
+      ],
+      "wrong": [
+        "Le Get-up & Go test, sans chronomètre, aurait été décrit par Cardebat et al. en 1986, avant d'être repris pour le Timed Up and Go",
+        "Le Timed Up and Go serait la version antérieure et non chronométrée du Get-up & Go test, ce dernier étant une évolution plus récente",
+        "Le Get-up & Go test, sans chronomètre, aurait été décrit par Tinetti en 1986, dans le cadre de ses travaux sur l'équilibre",
+        "Le Timed Up and Go conserverait l'étape du tour de la chaise au retour, contrairement à la version initiale du Get-up & Go test",
+        "Le Get-up & Go test aurait été développé conjointement avec le test des 5 mots, dans une logique d'évaluation cognitivo-motrice globale",
+        "Le Timed Up and Go serait une version simplifiée du test de Tinetti, partageant la même procédure de passation"
+      ]
+    },
+    {
+      "id": 4,
+      "text": "Concernant la passation du Timed Up and Go décrite dans le cours, quelles affirmations sont exactes ?",
+      "explanation": "Le patient est assis sur une chaise avec accoudoirs et dossier, doit se lever, marcher sur 3 mètres, faire un demi-tour, revenir et se rasseoir. Le test est chronométré (norme autour de 10 secondes), comporte 3 essais, et le patient peut utiliser son aide à la marche habituelle.",
+      "correct": [
+        "Le patient est assis sur une chaise avec accoudoirs et dossier, et doit se lever, marcher sur une distance de 3 mètres, faire un demi-tour, revenir et se rasseoir",
+        "Le test est chronométré, la norme se situant autour de 10 secondes, et il comporte 3 essais",
+        "Le patient peut utiliser son aide à la marche habituelle pendant la passation"
+      ],
+      "wrong": [
+        "Le patient est assis sur une chaise sans accoudoirs ni dossier, afin de solliciter davantage son équilibre de base",
+        "Le test n'est pas chronométré, seule la qualité du mouvement observé par le thérapeute étant prise en compte",
+        "Le patient doit marcher sur une distance de 10 mètres avant de faire demi-tour et de revenir s'asseoir",
+        "Le patient doit réaliser un seul essai, jugé suffisamment représentatif de sa capacité d'équilibre",
+        "L'utilisation de l'aide à la marche habituelle du patient serait déconseillée pendant la passation du test"
+      ]
+    },
+    {
+      "id": 5,
+      "text": "Concernant la nature du Timed Up and Go et les précautions de passation évoquées dans le cours :",
+      "explanation": "Il ne s'agit pas d'un test cognitif, mais d'un test d'équilibre : il faut donc s'assurer que le patient a bien compris la consigne. Une démonstration est réalisée par le thérapeute avant la passation.",
+      "correct": [
+        "Il ne s'agit pas d'un test cognitif, mais d'un test d'équilibre : il faut donc s'assurer que le patient a bien compris la consigne",
+        "Une démonstration du test est réalisée par le thérapeute avant la passation"
+      ],
+      "wrong": [
+        "Il s'agirait avant tout d'un test cognitif, l'équilibre n'étant qu'un aspect secondaire évalué au passage",
+        "La compréhension de la consigne par le patient serait secondaire, l'essentiel reposant sur le chronométrage précis",
+        "Une démonstration du test par le thérapeute serait déconseillée, pour ne pas influencer la performance du patient",
+        "Il s'agirait d'un test mixte, évaluant à parts égales les fonctions cognitives et les capacités d'équilibre du patient",
+        "La consigne devrait être donnée avant tout par écrit, sans démonstration ni explication orale de la part du thérapeute",
+        "Il s'agirait avant tout d'un test de mémoire de travail, appliqué au contexte du déplacement physique"
+      ]
+    },
+    {
+      "id": 6,
+      "text": "Concernant la cotation du Timed Up and Go selon la version initiale du Get-up (score sur 5), présentée dans le cours :",
+      "explanation": "Ce score peut être donné sans utiliser le chronomètre, sur la base de l'observation clinique. Un score de 1 correspond à un score normal (absence de risque de chute), et un score de 5 à un score sévèrement anormal (risque de chute important).",
+      "correct": [
+        "Ce score peut être donné sans utiliser le chronomètre, sur la base de l'observation clinique du mouvement",
+        "Un score de 1 correspond à un score normal (absence de risque de chute), et un score de 5 à un score sévèrement anormal (risque de chute important)"
+      ],
+      "wrong": [
+        "Ce score ne pourrait être donné qu'en complément du chronomètre, l'observation clinique seule étant jugée insuffisante",
+        "Un score de 1 correspondrait à un score sévèrement anormal, et un score de 5 à un score normal, dans une échelle inversée",
+        "Ce score serait réservé aux kinésithérapeutes, les psychomotriciens n'étant pas formés à cette cotation clinique",
+        "Un score de 3 correspondrait déjà à un risque de chute très élevé et quasi inévitable pendant l'épreuve",
+        "Ce score se coterait avant tout sur la base du temps mis par le patient à réaliser le parcours, en secondes",
+        "Un score de 2 correspondrait à des hésitations et des oscillations latérales et antéro-postérieures marquées"
+      ]
+    },
+    {
+      "id": 7,
+      "text": "Concernant l'interprétation du Timed Up and Go selon la littérature évoquée dans le cours :",
+      "explanation": "Un temps d'environ 10 secondes pour réaliser la tâche est considéré comme à peu près normal dans la littérature. Au-delà de 20 secondes, le risque de chute est considéré comme très augmenté selon la littérature la plus courante.",
+      "correct": [
+        "Un temps d'environ 10 secondes pour réaliser la tâche est considéré comme à peu près normal dans la littérature",
+        "Au-delà de 20 secondes, le risque de chute serait considéré comme très augmenté selon la littérature la plus courante"
+      ],
+      "wrong": [
+        "Un temps d'environ 30 secondes pour réaliser la tâche serait considéré comme à peu près normal dans la littérature",
+        "Au-delà de 5 secondes, le risque de chute serait déjà considéré comme très augmenté selon la littérature",
+        "Le temps de référence pour ce test varierait considérablement d'une étude à l'autre, sans grand consensus rapporté dans le cours",
+        "Un temps supérieur à 15 secondes serait souvent interprété comme le signe d'un trouble cognitif plutôt que moteur",
+        "Le seuil de 20 secondes évoqué dans la littérature concernerait surtout le risque de trouble de la déglutition, plutôt que de chute",
+        "La littérature s'accorderait surtout sur un seuil de 45 secondes au-delà duquel le risque de chute deviendrait significatif"
+      ]
+    },
+    {
+      "id": 8,
+      "text": "Concernant la relation entre le Timed Up and Go et le test de Tinetti, selon le cours :",
+      "explanation": "Ces deux tests sont complémentaires et ne se remplacent pas : on peut faire passer l'un sans l'autre, mais ils restent tout de même distincts.",
+      "correct": [
+        "Ces deux tests sont complémentaires et ne se remplacent pas : on peut faire passer l'un sans l'autre, mais ils restent tout de même distincts"
+      ],
+      "wrong": [
+        "Ces deux tests seraient largement redondants, l'un rendant peu utile la passation de l'autre",
+        "Le test de Tinetti aurait été conçu comme une simple version allongée du Timed Up and Go, sans réel apport supplémentaire",
+        "Le Timed Up and Go remplacerait le plus souvent le test de Tinetti dans la pratique clinique actuelle",
+        "Ces deux tests évalueraient des dimensions assez différentes, l'un portant surtout sur la cognition et l'autre sur l'équilibre",
+        "Le test de Tinetti serait aujourd'hui considéré comme peu utilisé, au profit surtout du Timed Up and Go",
+        "Le Timed Up and Go aurait été développé pour remplacer le test de Tinetti, jugé trop long à faire passer",
+        "Ces deux tests seraient utilisés dans des populations assez différentes, avec peu de recoupement clinique possible"
+      ]
+    },
+    {
+      "id": 9,
+      "text": "Concernant la dimension de sécurité associée au Timed Up and Go, évoquée dans le cours :",
+      "explanation": "Le test donne aussi une idée du temps que le patient mettrait pour évacuer une salle en cas de besoin.",
+      "correct": [
+        "Le test donne aussi une idée du temps que le patient mettrait pour évacuer une salle en cas de besoin"
+      ],
+      "wrong": [
+        "Le test donnerait surtout une idée du temps que le patient mettrait à comprendre une consigne écrite complexe",
+        "Le test permettrait d'estimer le temps nécessaire au patient pour s'habiller seul le matin",
+        "Le test renseignerait avant tout sur la capacité du patient à se repérer dans un environnement inconnu",
+        "Le test donnerait une indication sur le temps de réaction du patient face à un bruit soudain",
+        "Le test permettrait d'estimer la vitesse de lecture du patient dans une situation de stress",
+        "Le test renseignerait surtout sur la capacité du patient à mémoriser un trajet complexe",
+        "Le test donnerait une indication sur le temps nécessaire au patient pour préparer un repas simple"
+      ]
+    },
+    {
+      "id": 10,
+      "text": "Concernant la spécificité des psychomotriciens dans la cotation clinique (sur 5, sans chronomètre) du Timed Up and Go, selon le cours :",
+      "explanation": "Là où les psychomotriciens sont particulièrement compétents, c'est qu'ils ont une bonne compréhension de la motricité et de la marche, ce qui les aide à coter finement ce test sans utiliser le chronomètre.",
+      "correct": [
+        "Les psychomotriciens disposeraient d'une bonne compréhension de la motricité et de la marche, un atout pour coter finement ce test sans chronomètre"
+      ],
+      "wrong": [
+        "Les psychomotriciens seraient les seuls professionnels autorisés à faire passer ce test, à l'exclusion de toute autre profession",
+        "Les psychomotriciens disposeraient surtout d'une expertise en électrophysiologie, utile pour interpréter ce test",
+        "Les psychomotriciens seraient moins bien formés que les kinésithérapeutes pour coter finement ce test sans chronomètre",
+        "Les psychomotriciens disposeraient avant tout d'une expertise en imagerie cérébrale, utile pour ce type de cotation",
+        "Les psychomotriciens seraient dispensés de formation spécifique pour coter ce test, contrairement aux autres professionnels",
+        "Les psychomotriciens disposeraient surtout d'une expertise en pharmacologie, utile pour interpréter les résultats moteurs",
+        "Les psychomotriciens seraient présentés dans le cours comme peu concernés par l'utilisation de ce test au quotidien"
+      ]
+    },
+    {
+      "id": 11,
+      "text": "Quel est l'intérêt spécifique du test des 5 mots de Dubois, par rapport au MMSE ou au MoCA, selon le cours ?",
+      "explanation": "Ce test permet de détecter spécifiquement des troubles de l'encodage, alors que le MMSE ou le MoCA n'évaluent que la mémoire de rappel.",
+      "correct": [
+        "Il permet de détecter spécifiquement des troubles de l'encodage, alors que le MMSE ou le MoCA n'évaluent que la mémoire de rappel"
+      ],
+      "wrong": [
+        "Il permettrait de détecter spécifiquement des troubles du langage, alors que le MMSE ou le MoCA n'évalueraient que la mémoire de rappel",
+        "Il permettrait de détecter spécifiquement des troubles visuo-spatiaux, contrairement au MMSE ou au MoCA qui n'évalueraient que le langage",
+        "Il permettrait surtout d'évaluer les fonctions exécutives, à la différence du MMSE ou du MoCA centrés sur la mémoire",
+        "Il permettrait de détecter spécifiquement des troubles de l'équilibre, contrairement au MMSE ou au MoCA centrés sur la cognition",
+        "Il permettrait surtout d'évaluer l'orientation temporo-spatiale du patient, à la différence du MMSE ou du MoCA",
+        "Il permettrait surtout d'évaluer la fluence verbale du patient, contrairement au MMSE ou au MoCA centrés sur la mémoire",
+        "Il permettrait surtout d'évaluer les capacités de calcul mental du patient, à la différence du MMSE ou du MoCA"
+      ]
+    },
+    {
+      "id": 12,
+      "text": "Concernant la phase d'apprentissage du test des 5 mots de Dubois, selon le cours :",
+      "explanation": "La liste comprend les mots musée, limonade, sauterelle, passoire et camion. Un effort de catégorisation est attendu dès cette phase, car il pourra être utilisé plus tard pour créer de l'indiçage.",
+      "correct": [
+        "La liste comprend les mots musée, limonade, sauterelle, passoire et camion",
+        "Un effort de catégorisation est attendu dès cette phase, car il pourra être utilisé plus tard pour créer de l'indiçage"
+      ],
+      "wrong": [
+        "La liste comprendrait les mots musée, orange, sauterelle, marteau et camion, dans une version présentée comme équivalente",
+        "Un effort de mémorisation surtout auditive serait attendu, avec peu de lien possible avec une catégorisation ultérieure",
+        "La liste comprendrait cinq mots choisis aléatoirement à chaque passation, sans catégorie sémantique sous-jacente commune",
+        "Un effort de répétition mécanique serait attendu, la catégorisation n'intervenant qu'à la toute fin du test",
+        "La liste comprendrait les mots musée, limonade, sauterelle, brosse et camion, selon la version présentée dans le cours",
+        "Un effort de visualisation mentale des objets serait attendu, la catégorisation sémantique n'étant pas recherchée à ce stade"
+      ]
+    },
+    {
+      "id": 13,
+      "text": "Concernant la phase de catégorisation et d'indiçage du test des 5 mots, selon le cours :",
+      "explanation": "On demande au patient de nommer, en regardant la feuille, la catégorie de chaque mot (boisson, ustensile de cuisine, bâtiment, animal, moyen de transport). Si le patient n'est pas capable de catégoriser, il n'est pas utile de continuer le test, mais on peut lui proposer de regarder une dernière fois la liste.",
+      "correct": [
+        "On demande au patient de nommer, en regardant la feuille, la catégorie de chaque mot (boisson, ustensile de cuisine, bâtiment, animal, moyen de transport)",
+        "Si le patient n'est pas capable de catégoriser, il n'est pas utile de continuer le test, mais on peut lui proposer de regarder une dernière fois la liste"
+      ],
+      "wrong": [
+        "On demanderait au patient de nommer, sans regarder la feuille, la catégorie de chaque mot, la feuille étant retournée dès le début de cette phase",
+        "Si le patient n'est pas capable de catégoriser, on continuerait tout de même le test normalement, cette étape n'étant pas déterminante",
+        "On demanderait au patient de nommer les catégories dans un ordre précis et chronométré, sans possibilité de revenir sur un mot",
+        "Si le patient n'est pas capable de catégoriser, on interromprait définitivement la passation sans lui reproposer la liste",
+        "On demanderait au patient d'épeler chaque mot de la liste, plutôt que d'en nommer la catégorie correspondante",
+        "Si le patient n'est pas capable de catégoriser, on lui proposerait immédiatement l'activité interférente du test de l'horloge"
+      ]
+    },
+    {
+      "id": 14,
+      "text": "Concernant le rappel immédiat du test des 5 mots, selon le cours :",
+      "explanation": "Le rappel immédiat commence au moment où l'on retourne la feuille, en demandant d'abord un rappel libre puis, pour les mots non rappelés, un rappel indicé. Le score total, en additionnant rappel libre et rappel indicé, est de 5 points maximum.",
+      "correct": [
+        "Le rappel immédiat commence au moment où l'on retourne la feuille, en demandant d'abord un rappel libre puis, pour les mots non rappelés, un rappel indicé",
+        "Le score total de rappel immédiat, en additionnant rappel libre et rappel indicé, est de 5 points maximum"
+      ],
+      "wrong": [
+        "Le rappel immédiat commencerait avant même de retourner la feuille, en demandant surtout un rappel indicé d'emblée",
+        "Le score total de rappel immédiat, en additionnant rappel libre et rappel indicé, serait de 10 points maximum",
+        "Le rappel indicé serait proposé pour tous les mots, y compris ceux déjà correctement rappelés lors du rappel libre",
+        "Le score total de rappel immédiat reposerait surtout sur le rappel libre, le rappel indicé n'étant pas comptabilisé",
+        "Le rappel immédiat commencerait par le rappel indicé, suivi ensuite d'un rappel libre pour les mots restants",
+        "Le rappel immédiat ne prendrait en compte que la vitesse de réponse du patient, indépendamment de l'exactitude des mots"
+      ]
+    },
+    {
+      "id": 15,
+      "text": "Concernant l'activité interférente et le rappel différé du test des 5 mots, selon le cours :",
+      "explanation": "L'activité interférente idéale est le test de l'horloge. Le rappel différé, avec indiçage si besoin, est également noté sur 5 points.",
+      "correct": [
+        "L'activité interférente idéale est le test de l'horloge, effectué entre l'encodage et le rappel",
+        "Le rappel différé, réalisé avec indiçage si besoin après l'activité interférente, est également noté sur 5 points"
+      ],
+      "wrong": [
+        "L'activité interférente idéale serait le test des fluences verbales, jugé plus pertinent que le test de l'horloge à ce stade",
+        "Le rappel différé, avec indiçage si besoin, serait noté sur 10 points, à la différence du rappel immédiat noté sur 5",
+        "L'activité interférente ne serait pas nécessaire dans la procédure standard de ce test, contrairement à ce qui est indiqué",
+        "Le rappel différé se ferait sans réelle possibilité d'indiçage, à la différence du rappel immédiat qui l'autorise",
+        "L'activité interférente idéale serait le Timed Up and Go, permettant de solliciter la mémoire procédurale du patient",
+        "Le rappel différé serait réalisé immédiatement après le rappel immédiat, sans activité interférente entre les deux temps"
+      ]
+    },
+    {
+      "id": 16,
+      "text": "Concernant l'interprétation des scores du test des 5 mots présentée dans le cours, quelles affirmations sont exactes ?",
+      "explanation": "Un score inférieur à 10/10 (rappel immédiat et différé cumulés) évoque un trouble de l'encodage. Après 80 ans, un score inférieur à 8/10 évoque un trouble de l'encodage.",
+      "correct": [
+        "Un score inférieur à 10/10 (rappel immédiat et différé cumulés) évoque un trouble de l'encodage",
+        "Après 80 ans, un score inférieur à 8/10 évoque un trouble de l'encodage"
+      ],
+      "wrong": [
+        "Un score inférieur à 5/10 (rappel immédiat et différé cumulés) évoquerait un trouble de l'encodage, quel que soit l'âge du patient",
+        "Après 80 ans, un score inférieur à 10/10 resterait interprété exactement de la même façon qu'avant 80 ans",
+        "Un score inférieur à 10/10 évoquerait surtout un trouble de l'attention, plutôt qu'un trouble de l'encodage",
+        "Après 80 ans, un score inférieur à 3/10 serait nécessaire pour évoquer un trouble de l'encodage",
+        "Un score inférieur à 10/10 évoquerait un trouble praxique, plutôt qu'un trouble mnésique de l'encodage",
+        "Après 80 ans, le seuil pathologique serait relevé à 9/10, plus strict qu'avant 80 ans"
+      ]
+    },
+    {
+      "id": 17,
+      "text": "Concernant le schéma du traitement de l'information présenté dans le cours, quelles étapes et structures associées sont exactes ?",
+      "explanation": "Le traitement de l'information suit les étapes acquisition, transfert, encodage, stockage, décryptage, transfert, expression. L'acquisition passe par les organes des sens et les nerfs, l'expression finale passe par les nerfs puis les organes moteurs. Le début du travail hippocampique est associé à l'étape d'encodage.",
+      "correct": [
+        "Le traitement de l'information suit les étapes acquisition, transfert, encodage, stockage, décryptage, transfert, expression",
+        "L'acquisition passe par les organes des sens et les nerfs, tandis que l'expression finale passe par les nerfs puis les organes moteurs",
+        "Le début du travail hippocampique est associé à l'étape d'encodage"
+      ],
+      "wrong": [
+        "Le traitement de l'information suivrait les étapes acquisition, stockage, transfert, expression, encodage, décryptage",
+        "L'acquisition passerait par le cortex et les aires spécialisées, tandis que l'expression passerait par les organes des sens",
+        "Le début du travail hippocampique serait associé à l'étape d'expression, plutôt qu'à celle de l'encodage",
+        "L'acquisition et l'expression reposeraient toutes deux avant tout sur le cortex, avec peu d'intervention des nerfs périphériques",
+        "Le traitement de l'information ne comporterait que trois étapes principales : acquisition, stockage et expression"
+      ]
+    },
+    {
+      "id": 18,
+      "text": "Concernant l'objectif du test de l'horloge présenté dans le cours, quelles affirmations sont exactes ?",
+      "explanation": "Le test permet de mettre en évidence des atteintes visuo-spatiales. Il existe de multiples versions de ce test, avec une nécessité absolue de respecter les consignes de passation.",
+      "correct": [
+        "Il permet de mettre en évidence des atteintes visuo-spatiales",
+        "Il existe de multiples versions de ce test, avec une nécessité absolue de respecter les consignes de passation"
+      ],
+      "wrong": [
+        "Il permettrait surtout de mettre en évidence des atteintes du langage, plutôt que des atteintes visuo-spatiales",
+        "Il n'existerait qu'une seule version standardisée de ce test, les consignes pouvant être adaptées librement",
+        "Il permettrait surtout de mettre en évidence des troubles de l'équilibre postural du patient",
+        "Il existerait de multiples versions de ce test, les consignes de passation important assez peu au résultat final",
+        "Il permettrait surtout d'évaluer la mémoire de travail auditive du patient, indépendamment de sa dimension visuelle",
+        "Il permettrait surtout de détecter des troubles praxiques bucco-faciaux chez le patient âgé"
+      ]
+    },
+    {
+      "id": 19,
+      "text": "Concernant les consignes de passation du test de l'horloge, selon le cours :",
+      "explanation": "On demande au patient de dessiner les chiffres représentant les heures dans un cercle donné. Une fois les chiffres inscrits, on met un point au centre et on demande de dessiner les aiguilles pour indiquer une heure précise. Il n'y a pas de temps limite, et le patient ne doit pas regarder de montre ou d'horloge.",
+      "correct": [
+        "On demande au patient de dessiner les chiffres représentant les heures dans un cercle donné, comme sur un cadran d'horloge",
+        "Une fois les chiffres inscrits, on met un point au centre et on demande de dessiner les aiguilles pour indiquer une heure précise (par exemple 11h10)",
+        "Il n'y a pas de temps limite, et le patient ne doit pas regarder de montre ou d'horloge pendant la passation"
+      ],
+      "wrong": [
+        "On demanderait au patient de dessiner les aiguilles avant même d'avoir inscrit les chiffres des heures dans le cercle",
+        "Une fois les chiffres inscrits, on demanderait directement au patient de lire l'heure sur une horloge réelle placée devant lui",
+        "Il existerait un temps limite strict de deux minutes pour réaliser l'ensemble du dessin de l'horloge",
+        "Le patient pourrait consulter sa montre pendant la passation, à condition de ne pas la regarder trop longtemps",
+        "On demanderait au patient de dessiner surtout les aiguilles, le cercle et les chiffres étant déjà préimprimés sur la feuille"
+      ]
+    },
+    {
+      "id": 20,
+      "text": "Concernant l'interprétation complète de la cotation sur 10 et une option pour augmenter la sensibilité du test de l'horloge, selon le cours :",
+      "explanation": "Un score de 7 à 10 est considéré comme normal, un score de 6 comme limite. Pour plus de sensibilité, on peut demander au patient de dessiner lui-même le cercle du cadran.",
+      "correct": [
+        "Un score de 7 à 10 est considéré comme normal, un score de 6 comme limite",
+        "Pour plus de sensibilité, on peut demander au patient de dessiner lui-même le cercle du cadran"
+      ],
+      "wrong": [
+        "Un score de 7 à 10 serait considéré comme pathologique, contrairement à un score de 6 jugé normal",
+        "Pour plus de sensibilité, on demanderait au patient de dessiner l'horloge en un temps limité de trente secondes",
+        "Un score de 6 serait considéré comme normal, au même titre qu'un score de 10",
+        "Pour plus de sensibilité, on demanderait au patient de recopier une horloge déjà dessinée par l'examinateur",
+        "Un score de 7 à 10 ne serait interprété comme normal que chez les patients de moins de 65 ans",
+        "Pour plus de sensibilité, on interdirait au patient d'utiliser une gomme pendant la réalisation du dessin"
+      ]
+    },
+    {
+      "id": 21,
+      "text": "Concernant la cotation sur 10 du test de l'horloge, présentée comme la plus sensible et spécifique dans le cours :",
+      "explanation": "Un score de 10 correspond à un dessin normal, avec chiffres et aiguilles en position approximativement correcte. Un score inférieur à 5 évoque une détérioration cognitive avérée, associée dans environ 83% des cas à une maladie d'Alzheimer ou apparentée.",
+      "correct": [
+        "Un score de 10 correspond à un dessin normal, avec chiffres et aiguilles en position approximativement correcte",
+        "Un score inférieur à 5 évoque une détérioration cognitive avérée, associée dans environ 83% des cas à une maladie d'Alzheimer ou apparentée"
+      ],
+      "wrong": [
+        "Un score de 10 correspondrait à un dessin absent, le patient n'ayant pas réalisé d'essai",
+        "Un score inférieur à 5 évoquerait plutôt un trouble de l'humeur, sans lien particulier avec une pathologie neurocognitive",
+        "Un score de 1 correspondrait à un dessin normal, l'échelle étant inversée par rapport à celle présentée",
+        "Un score inférieur à 8 évoquerait déjà une détérioration cognitive avérée, associée à la maladie d'Alzheimer dans la plupart des cas",
+        "Un score de 10 correspondrait à un dessin dont l'organisation spatiale des chiffres serait inappropriée mais reconnaissable",
+        "Un score inférieur à 5 serait associé dans environ 30% des cas seulement à une maladie d'Alzheimer ou apparentée"
+      ]
+    },
+    {
+      "id": 22,
+      "text": "Concernant la cotation sur 7 du test de l'horloge, présentée dans le cours comme la plus répandue :",
+      "explanation": "Elle vérifie notamment la présence des chiffres de 1 à 12, leur bon ordre et leur bon positionnement (chacun valant 1 point), ainsi que la présence des deux aiguilles, leur bon positionnement selon l'heure demandée, et le respect de leurs tailles différentes.",
+      "correct": [
+        "Elle vérifie notamment la présence des chiffres de 1 à 12, leur bon ordre et leur bon positionnement, chacun valant 1 point",
+        "Elle vérifie aussi la présence des deux aiguilles, leur bon positionnement selon l'heure demandée, et le respect de leurs tailles différentes"
+      ],
+      "wrong": [
+        "Elle vérifierait surtout la rapidité d'exécution du dessin, plus que la position des chiffres ou des aiguilles",
+        "Elle ne vérifierait que la présence des chiffres de 1 à 12, sans tenir compte du positionnement des aiguilles",
+        "Elle attribuerait 2 points par item vérifié, pour un total de 14 points au lieu de 7",
+        "Elle vérifierait la qualité du trait du cercle dessiné par le patient, plutôt que les chiffres ou les aiguilles",
+        "Elle ne prendrait en compte que le positionnement des aiguilles, sans évaluer la présence des chiffres eux-mêmes",
+        "Elle attribuerait des points en fonction du temps mis par le patient pour réaliser l'ensemble du dessin"
+      ]
+    },
+    {
+      "id": 23,
+      "text": "Concernant l'interprétation des mauvaises réalisations du test de l'horloge, selon le cours :",
+      "explanation": "Une mauvaise réalisation fait suspecter la présence d'atteintes visuomotrices. Ce test ne suffit pas, à lui seul, à poser un diagnostic de maladie d'Alzheimer.",
+      "correct": [
+        "Une mauvaise réalisation fait suspecter la présence d'atteintes visuomotrices",
+        "Ce test ne suffit pas, à lui seul, à poser un diagnostic de maladie d'Alzheimer"
+      ],
+      "wrong": [
+        "Une mauvaise réalisation ferait surtout suspecter un trouble de l'audition, plutôt qu'une atteinte visuomotrice",
+        "Ce test suffirait, à lui seul, à poser un diagnostic de maladie d'Alzheimer chez la plupart des patients",
+        "Une mauvaise réalisation serait surtout le signe d'un manque de motivation du patient à réaliser l'épreuve",
+        "Ce test permettrait de distinguer avec certitude une maladie d'Alzheimer d'une démence vasculaire",
+        "Une mauvaise réalisation ferait surtout suspecter un trouble du langage expressif chez le patient",
+        "Ce test suffirait à exclure toute autre pathologie neurocognitive en cas de résultat normal"
+      ]
+    },
+    {
+      "id": 24,
+      "text": "Dans la version simplifiée de la cotation du test de l'horloge, quels sont les points vérifiés selon le cours ?",
+      "explanation": "Il faut vérifier notamment l'emplacement des nombres correspondant à chaque heure, la bonne représentation des deux aiguilles (petite et grande), et l'emplacement des deux aiguilles correspondant à l'heure demandée.",
+      "correct": [
+        "L'emplacement des nombres correspondant à chaque heure",
+        "La bonne représentation des deux aiguilles (petite et grande)",
+        "L'emplacement des deux aiguilles correspondant à l'heure demandée"
+      ],
+      "wrong": [
+        "La rapidité avec laquelle le patient réalise l'ensemble du dessin de l'horloge",
+        "La qualité esthétique générale du dessin réalisé par le patient",
+        "Le respect précis de la taille du cercle par rapport au modèle proposé",
+        "La capacité du patient à nommer verbalement l'heure demandée avant de la dessiner",
+        "Le nombre de fois où le patient efface ou corrige son dessin pendant l'épreuve"
+      ]
+    },
+    {
+      "id": 25,
+      "text": "Concernant le test des fluences verbales, son origine et les fonctions qu'il évalue, selon le cours :",
+      "explanation": "Il a été créé par Cardebat et son équipe en 1990. Il évalue les fonctions exécutives d'initiation verbale, de flexibilité mentale, de stratégie de recherche, ainsi que la mémoire sémantique.",
+      "correct": [
+        "Il a été créé par Cardebat et son équipe en 1990",
+        "Il évalue les fonctions exécutives d'initiation verbale, de flexibilité mentale, de stratégie de recherche, ainsi que la mémoire sémantique"
+      ],
+      "wrong": [
+        "Il aurait été créé par Mathias et son équipe en 1990, dans la continuité de ses travaux sur l'équilibre",
+        "Il évaluerait surtout la mémoire de travail visuo-spatiale, plutôt que les fonctions exécutives verbales",
+        "Il aurait été créé par Dubois et son équipe en 1990, en complément de son test des 5 mots",
+        "Il évaluerait surtout la coordination motrice fine, davantage que les fonctions exécutives d'initiation verbale",
+        "Il aurait été créé par Tinetti et son équipe en 1990, initialement destiné à l'évaluation de l'équilibre",
+        "Il évaluerait principalement l'orientation temporo-spatiale du patient, plutôt que ses fonctions exécutives verbales"
+      ]
+    },
+    {
+      "id": 26,
+      "text": "Concernant la durée de passation du test des fluences verbales, selon le cours :",
+      "explanation": "Chaque fluence (lexicale ou sémantique) est chronométrée sur une durée de deux minutes.",
+      "correct": [
+        "Chaque fluence (lexicale ou sémantique) est chronométrée sur une durée de deux minutes"
+      ],
+      "wrong": [
+        "Chaque fluence serait chronométrée sur une durée de cinq minutes, identique pour les deux types de fluence",
+        "Seule la fluence sémantique serait chronométrée dans le cours, la fluence lexicale n'ayant pas de limite de temps",
+        "Chaque fluence serait chronométrée sur une durée d'une minute, la fluence sémantique étant plus courte que la lexicale",
+        "La durée de passation varierait selon l'âge du patient, sans durée fixe indiquée dans le cours",
+        "Chaque fluence serait chronométrée sur une durée de trois minutes trente, pour laisser davantage de temps au patient",
+        "Seule la fluence lexicale serait chronométrée dans le cours, la fluence sémantique se faisant sans limite de temps",
+        "La durée de passation dépendrait du nombre de mots déjà trouvés par le patient au bout de trente secondes"
+      ]
+    },
+    {
+      "id": 27,
+      "text": "Concernant la consigne de la fluence lexicale (littérale) et les lettres utilisées, selon le cours :",
+      "explanation": "Le patient doit dire le plus de mots possibles commençant par une lettre donnée en deux minutes, sans mots de la même famille, noms propres ni répétitions. Le test n'a en réalité été coté que pour trois lettres : P, R et V.",
+      "correct": [
+        "Le patient doit dire le plus de mots possibles commençant par une lettre donnée en deux minutes, sans mots de la même famille, noms propres ni répétitions",
+        "Le test n'a en réalité été coté que pour trois lettres : P, R et V"
+      ],
+      "wrong": [
+        "Le patient devrait dire le plus de mots possibles commençant par une lettre donnée en cinq minutes, mots de la même famille autorisés",
+        "Le test n'aurait en réalité été coté que pour les lettres A, E et I, jugées plus simples pour le patient",
+        "Le patient devrait donner des noms propres en priorité, la consigne encourageant explicitement ce type de réponse",
+        "Le test n'aurait en réalité été coté que pour une seule lettre, la lettre L, utilisée dans tous les cas",
+        "Le patient pourrait répéter plusieurs fois un même mot, à condition de changer légèrement sa prononciation",
+        "Le test n'aurait en réalité été coté que pour les lettres F, A et S, comme dans d'autres versions de fluence"
+      ]
+    },
+    {
+      "id": 28,
+      "text": "Concernant la notion de «mot de la même famille» et le choix stratégique d'une lettre lors de la fluence lexicale, selon le cours :",
+      "explanation": "Un mot de la même famille est un mot identique à un autre lorsqu'on lui retire le préfixe, le suffixe et la terminaison (même radical). Si l'on n'écrit pas très vite, il est conseillé de choisir la lettre «V», car moins de mots sont attendus avec cette lettre.",
+      "correct": [
+        "Un mot de la même famille est un mot identique à un autre lorsqu'on lui retire le préfixe, le suffixe et la terminaison (même radical)",
+        "Si l'on n'écrit pas très vite, il est conseillé de choisir la lettre «V», car moins de mots sont attendus avec cette lettre"
+      ],
+      "wrong": [
+        "Un mot de la même famille serait un mot ayant simplement une sonorité proche d'un autre mot, sans lien de radical nécessaire",
+        "Si l'on n'écrit pas très vite, il serait conseillé de choisir la lettre «P», car davantage de mots seraient attendus avec cette lettre",
+        "Un mot de la même famille désignerait deux mots appartenant à la même catégorie sémantique, comme «chat» et «chien»",
+        "Si l'on n'écrit pas très vite, il serait conseillé de choisir la lettre «R», réputée être la plus simple à coter",
+        "Un mot de la même famille désignerait un mot traduit dans une autre langue, conservant un sens identique",
+        "Si l'on n'écrit pas très vite, le choix de la lettre n'aurait que peu d'importance sur le nombre de mots attendus"
+      ]
+    },
+    {
+      "id": 29,
+      "text": "Concernant la fluence sémantique (catégorielle) et ses règles particulières, selon le cours :",
+      "explanation": "Le patient doit citer le plus de noms possibles appartenant à une catégorie donnée, sans mots de la même famille, répétitions ni hyperonymes. Un hyperonyme est un mot de catégorie supérieure (ex : «fleur» est l'hyperonyme de «rose»). Il est déconseillé de demander une catégorie liée aux antécédents du patient.",
+      "correct": [
+        "Le patient doit citer le plus de noms possibles appartenant à une catégorie donnée, sans mots de la même famille, répétitions ni hyperonymes",
+        "Un hyperonyme est un mot de catégorie supérieure, comme «fleur» qui est l'hyperonyme de «rose»",
+        "Il est déconseillé de demander une catégorie en lien avec les antécédents du patient, par exemple «animaux» à un ancien vétérinaire"
+      ],
+      "wrong": [
+        "Le patient devrait citer le plus de noms possibles, les hyperonymes étant au contraire encouragés pour enrichir sa production",
+        "Un hyperonyme serait un mot de catégorie inférieure, comme «rose» qui serait l'hyperonyme de «fleur»",
+        "Il serait recommandé de choisir une catégorie en lien avec les antécédents professionnels du patient, pour faciliter sa production",
+        "Le patient devrait citer des noms propres appartenant à la catégorie donnée, contrairement à la consigne de la fluence lexicale",
+        "Un hyperonyme désignerait un mot de la même famille qu'un autre, comme «fleuriste» par rapport à «fleur»"
+      ]
+    },
+    {
+      "id": 30,
+      "text": "Concernant l'étalonnage du test des fluences verbales de Cardebat et al. (1990) évoqué dans le cours, quelles affirmations sont exactes ?",
+      "explanation": "Les scores de référence varient notamment selon le sexe, l'âge et le niveau d'études du sujet. Le niveau socioculturel et les expériences socioprofessionnelles du patient sont à prendre en compte, en se référant au tableau d'étalonnage.",
+      "correct": [
+        "Les scores de référence varient notamment selon le sexe, l'âge et le niveau d'études du sujet",
+        "Le niveau socioculturel et les expériences socioprofessionnelles du patient sont à prendre en compte, en se référant au tableau d'étalonnage"
+      ],
+      "wrong": [
+        "Les scores de référence seraient identiques quel que soit le sexe, l'âge ou le niveau d'études du sujet",
+        "Le niveau socioculturel du patient ne serait pas un facteur pertinent à prendre en compte selon l'étalonnage proposé",
+        "Les scores de référence varieraient surtout selon le lieu de résidence du patient, urbain ou rural",
+        "Le tableau d'étalonnage évoqué dans le cours ne distinguerait pas les résultats selon le niveau d'études du sujet",
+        "Les scores de référence seraient établis surtout pour la catégorie sémantique des animaux, les autres catégories restant sans norme",
+        "Le niveau socioprofessionnel du patient serait jugé sans grande pertinence, seul l'âge étant retenu dans l'étalonnage de Cardebat"
+      ]
+    }
+  ]
+}
